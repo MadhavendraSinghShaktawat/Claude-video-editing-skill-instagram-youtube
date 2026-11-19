@@ -1,0 +1,10 @@
+# All free and local. Python 3.10+. Also needs ffmpeg and ffprobe on PATH.
+numpy
+pillow
+opencv-python-headless
+faster-whisper        # word-timed transcripts
+rapidocr-onnxruntime  # on-screen text
+demucs                # voice / music separation for the audio measurements
+soundfile
+yt-dlp                # only for fetching reference videos by URL
+-e vendor/earshot[mcp]  # ears for the agent: judge, rank and review sound (MIT, vendored; downloads ~1.1 GB of models on first use)

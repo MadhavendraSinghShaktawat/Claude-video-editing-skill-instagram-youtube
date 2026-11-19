@@ -1,0 +1,581 @@
+{
+ "video": "clean-icons.mp4",
+ "sampling": "5.0 fps",
+ "samples": 47,
+ "tracks": [
+  {
+   "text": "teamble",
+   "t0": 0.0,
+   "t1": 1.6,
+   "last_seen": 1.4,
+   "dur": 1.6,
+   "samples": 8,
+   "box": [
+    0.385,
+    0.38,
+    0.613,
+    0.478
+   ],
+   "h": 0.098,
+   "conf": 0.87,
+   "text_colour": "#f2dbfb",
+   "bg_colour": "#d090ee",
+   "grew": false
+  },
+  {
+   "text": "The People Success Platform",
+   "t0": 0.6,
+   "t1": 0.8,
+   "last_seen": 0.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.279,
+    0.628,
+    0.721,
+    0.696
+   ],
+   "h": 0.069,
+   "conf": 0.88,
+   "text_colour": "#fde5ff",
+   "bg_colour": "#c078e5",
+   "grew": false
+  },
+  {
+   "text": "The People Success Platform",
+   "t0": 0.8,
+   "t1": 1.6,
+   "last_seen": 1.4,
+   "dur": 0.8,
+   "samples": 4,
+   "box": [
+    0.284,
+    0.511,
+    0.718,
+    0.572
+   ],
+   "h": 0.061,
+   "conf": 0.89,
+   "text_colour": "#ffe5ff",
+   "bg_colour": "#bd74e4",
+   "grew": false
+  },
+  {
+   "text": "teamble",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.388,
+    0.224,
+    0.609,
+    0.317
+   ],
+   "h": 0.093,
+   "conf": 0.87,
+   "text_colour": "#fcfbff",
+   "bg_colour": "#d1acf3",
+   "grew": false
+  },
+  {
+   "text": "The People Success Platform",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.284,
+    0.37,
+    0.718,
+    0.435
+   ],
+   "h": 0.065,
+   "conf": 0.87,
+   "text_colour": "#fbe6ff",
+   "bg_colour": "#c38de9",
+   "grew": false
+  },
+  {
+   "text": "teamble",
+   "t0": 1.8,
+   "t1": 4.4,
+   "last_seen": 4.2,
+   "dur": 2.6,
+   "samples": 13,
+   "box": [
+    0.396,
+    0.181,
+    0.602,
+    0.263
+   ],
+   "h": 0.081,
+   "conf": 0.86,
+   "text_colour": "#fcfbff",
+   "bg_colour": "#d6b7f5",
+   "grew": false
+  },
+  {
+   "text": "The People Success Platform",
+   "t0": 1.8,
+   "t1": 4.6,
+   "last_seen": 4.4,
+   "dur": 2.8,
+   "samples": 14,
+   "box": [
+    0.294,
+    0.307,
+    0.708,
+    0.37
+   ],
+   "h": 0.063,
+   "conf": 0.93,
+   "text_colour": "#fce8ff",
+   "bg_colour": "#c899ed",
+   "grew": false
+  },
+  {
+   "text": "Objectives",
+   "t0": 2.0,
+   "t1": 6.4,
+   "last_seen": 6.2,
+   "dur": 4.4,
+   "samples": 22,
+   "box": [
+    0.277,
+    0.63,
+    0.35,
+    0.663
+   ],
+   "h": 0.033,
+   "conf": 0.91,
+   "text_colour": "#f9b0ff",
+   "bg_colour": "#cd69d9",
+   "grew": false
+  },
+  {
+   "text": "Feedback",
+   "t0": 2.2,
+   "t1": 6.4,
+   "last_seen": 6.2,
+   "dur": 4.2,
+   "samples": 21,
+   "box": [
+    0.374,
+    0.631,
+    0.441,
+    0.661
+   ],
+   "h": 0.03,
+   "conf": 0.88,
+   "text_colour": "#efafff",
+   "bg_colour": "#c971e0",
+   "grew": false
+  },
+  {
+   "text": "Engagement Performance",
+   "t0": 2.4,
+   "t1": 4.6,
+   "last_seen": 4.4,
+   "dur": 2.2,
+   "samples": 11,
+   "box": [
+    0.448,
+    0.656,
+    0.664,
+    0.693
+   ],
+   "h": 0.037,
+   "conf": 0.92,
+   "text_colour": "#ebbdff",
+   "bg_colour": "#ca8deb",
+   "grew": true,
+   "first_text": "Engagement"
+  },
+  {
+   "text": "Performitancu",
+   "t0": 2.6,
+   "t1": 2.8,
+   "last_seen": 2.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.561,
+    0.674,
+    0.668,
+    0.715
+   ],
+   "h": 0.041,
+   "conf": 0.77,
+   "text_colour": "#e4c4ff",
+   "bg_colour": "#d0abf5",
+   "grew": false
+  },
+  {
+   "text": "uathig",
+   "t0": 2.8,
+   "t1": 3.0,
+   "last_seen": 2.8,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.694,
+    0.685,
+    0.758,
+    0.719
+   ],
+   "h": 0.033,
+   "conf": 0.62,
+   "text_colour": "#e8d6ff",
+   "bg_colour": "#dbc9fa",
+   "grew": false
+  },
+  {
+   "text": "Learning",
+   "t0": 3.0,
+   "t1": 6.4,
+   "last_seen": 6.2,
+   "dur": 3.4,
+   "samples": 17,
+   "box": [
+    0.651,
+    0.628,
+    0.713,
+    0.667
+   ],
+   "h": 0.039,
+   "conf": 0.88,
+   "text_colour": "#e6d2ff",
+   "bg_colour": "#d0b9f9",
+   "grew": false
+  },
+  {
+   "text": "Performance",
+   "t0": 4.6,
+   "t1": 5.2,
+   "last_seen": 5.0,
+   "dur": 0.6,
+   "samples": 3,
+   "box": [
+    0.556,
+    0.657,
+    0.66,
+    0.685
+   ],
+   "h": 0.028,
+   "conf": 0.88,
+   "text_colour": "#cdc4de",
+   "bg_colour": "#2d1948",
+   "grew": false
+  },
+  {
+   "text": "Engagement Performance",
+   "t0": 4.6,
+   "t1": 6.2,
+   "last_seen": 6.0,
+   "dur": 1.6,
+   "samples": 8,
+   "box": [
+    0.45,
+    0.644,
+    0.653,
+    0.681
+   ],
+   "h": 0.037,
+   "conf": 0.94,
+   "text_colour": "#d7c4e2",
+   "bg_colour": "#3b1854",
+   "grew": true,
+   "first_text": "Engagement"
+  },
+  {
+   "text": "Now supercharged with Al",
+   "t0": 4.6,
+   "t1": 6.4,
+   "last_seen": 6.2,
+   "dur": 1.8,
+   "samples": 9,
+   "box": [
+    0.32,
+    0.246,
+    0.68,
+    0.307
+   ],
+   "h": 0.061,
+   "conf": 0.91,
+   "text_colour": "#d3adee",
+   "bg_colour": "#35144d",
+   "grew": false
+  },
+  {
+   "text": "Performance",
+   "t0": 6.2,
+   "t1": 6.4,
+   "last_seen": 6.2,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.55,
+    0.633,
+    0.637,
+    0.661
+   ],
+   "h": 0.028,
+   "conf": 0.88,
+   "text_colour": "#c5b5d4",
+   "bg_colour": "#2c1643",
+   "grew": false
+  },
+  {
+   "text": "Engagement",
+   "t0": 6.2,
+   "t1": 6.4,
+   "last_seen": 6.2,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.457,
+    0.635,
+    0.556,
+    0.661
+   ],
+   "h": 0.026,
+   "conf": 0.85,
+   "text_colour": "#caafd6",
+   "bg_colour": "#37174f",
+   "grew": false
+  },
+  {
+   "text": "teamble ai",
+   "t0": 6.4,
+   "t1": 9.3,
+   "last_seen": 9.2,
+   "dur": 2.9,
+   "samples": 15,
+   "box": [
+    0.365,
+    0.409,
+    0.636,
+    0.509
+   ],
+   "h": 0.1,
+   "conf": 0.9,
+   "text_colour": "#9610b3",
+   "bg_colour": "#450c5d",
+   "grew": true,
+   "first_text": "te"
+  },
+  {
+   "text": "Unlockhighperformancewith smarterfeedback",
+   "t0": 7.4,
+   "t1": 9.3,
+   "last_seen": 9.2,
+   "dur": 1.9,
+   "samples": 10,
+   "box": [
+    0.273,
+    0.617,
+    0.726,
+    0.661
+   ],
+   "h": 0.044,
+   "conf": 0.95,
+   "text_colour": "#caa7e0",
+   "bg_colour": "#220b36",
+   "grew": true,
+   "first_text": "Unlockhighperformance"
+  }
+ ],
+ "density": [
+  [
+   0.0,
+   1
+  ],
+  [
+   0.2,
+   1
+  ],
+  [
+   0.4,
+   1
+  ],
+  [
+   0.6,
+   2
+  ],
+  [
+   0.8,
+   2
+  ],
+  [
+   1.0,
+   2
+  ],
+  [
+   1.2,
+   2
+  ],
+  [
+   1.4,
+   2
+  ],
+  [
+   1.6,
+   2
+  ],
+  [
+   1.8,
+   2
+  ],
+  [
+   2.0,
+   3
+  ],
+  [
+   2.2,
+   4
+  ],
+  [
+   2.4,
+   5
+  ],
+  [
+   2.6,
+   6
+  ],
+  [
+   2.8,
+   6
+  ],
+  [
+   3.0,
+   6
+  ],
+  [
+   3.2,
+   6
+  ],
+  [
+   3.4,
+   6
+  ],
+  [
+   3.6,
+   6
+  ],
+  [
+   3.8,
+   6
+  ],
+  [
+   4.0,
+   6
+  ],
+  [
+   4.2,
+   6
+  ],
+  [
+   4.4,
+   5
+  ],
+  [
+   4.6,
+   6
+  ],
+  [
+   4.8,
+   6
+  ],
+  [
+   5.0,
+   6
+  ],
+  [
+   5.2,
+   5
+  ],
+  [
+   5.4,
+   5
+  ],
+  [
+   5.6,
+   5
+  ],
+  [
+   5.8,
+   5
+  ],
+  [
+   6.0,
+   5
+  ],
+  [
+   6.2,
+   6
+  ],
+  [
+   6.4,
+   1
+  ],
+  [
+   6.6,
+   1
+  ],
+  [
+   6.8,
+   1
+  ],
+  [
+   7.0,
+   1
+  ],
+  [
+   7.2,
+   1
+  ],
+  [
+   7.4,
+   2
+  ],
+  [
+   7.6,
+   2
+  ],
+  [
+   7.8,
+   2
+  ],
+  [
+   8.0,
+   2
+  ],
+  [
+   8.2,
+   2
+  ],
+  [
+   8.4,
+   2
+  ],
+  [
+   8.6,
+   2
+  ],
+  [
+   8.8,
+   2
+  ],
+  [
+   9.0,
+   2
+  ],
+  [
+   9.2,
+   2
+  ]
+ ]
+}

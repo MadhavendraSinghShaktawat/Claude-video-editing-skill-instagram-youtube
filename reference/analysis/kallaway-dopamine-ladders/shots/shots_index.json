@@ -1,0 +1,176 @@
+{
+ "how_to_read": "tiles left-to-right, top-to-bottom; label = #shot index and time in seconds",
+ "sheets": [
+  {
+   "file": "shots_001.jpg",
+   "shots": [
+    0,
+    10
+   ],
+   "t_start": 0.08,
+   "t_end": 53.97
+  },
+  {
+   "file": "shots_002.jpg",
+   "shots": [
+    10,
+    21
+   ],
+   "t_start": 57.47,
+   "t_end": 114.2
+  },
+  {
+   "file": "shots_003.jpg",
+   "shots": [
+    22,
+    30
+   ],
+   "t_start": 114.41,
+   "t_end": 182.39
+  },
+  {
+   "file": "shots_004.jpg",
+   "shots": [
+    30,
+    37
+   ],
+   "t_start": 185.89,
+   "t_end": 280.07
+  },
+  {
+   "file": "shots_005.jpg",
+   "shots": [
+    38,
+    44
+   ],
+   "t_start": 280.28,
+   "t_end": 378.17
+  },
+  {
+   "file": "shots_006.jpg",
+   "shots": [
+    44,
+    51
+   ],
+   "t_start": 381.8,
+   "t_end": 472.47
+  },
+  {
+   "file": "shots_007.jpg",
+   "shots": [
+    51,
+    56
+   ],
+   "t_start": 476.02,
+   "t_end": 573.32
+  },
+  {
+   "file": "shots_008.jpg",
+   "shots": [
+    56,
+    68
+   ],
+   "t_start": 577.16,
+   "t_end": 602.6
+  },
+  {
+   "file": "shots_009.jpg",
+   "shots": [
+    68,
+    81
+   ],
+   "t_start": 603.19,
+   "t_end": 635.76
+  },
+  {
+   "file": "shots_010.jpg",
+   "shots": [
+    82,
+    90
+   ],
+   "t_start": 635.97,
+   "t_end": 721.6
+  },
+  {
+   "file": "shots_011.jpg",
+   "shots": [
+    91,
+    101
+   ],
+   "t_start": 721.8,
+   "t_end": 796.96
+  },
+  {
+   "file": "shots_012.jpg",
+   "shots": [
+    101,
+    112
+   ],
+   "t_start": 798.17,
+   "t_end": 853.85
+  },
+  {
+   "file": "shots_013.jpg",
+   "shots": [
+    112,
+    118
+   ],
+   "t_start": 857.02,
+   "t_end": 951.2
+  },
+  {
+   "file": "shots_014.jpg",
+   "shots": [
+    118,
+    127
+   ],
+   "t_start": 951.41,
+   "t_end": 1037.54
+  },
+  {
+   "file": "shots_015.jpg",
+   "shots": [
+    127,
+    133
+   ],
+   "t_start": 1040.0,
+   "t_end": 1140.93
+  },
+  {
+   "file": "shots_016.jpg",
+   "shots": [
+    133,
+    142
+   ],
+   "t_start": 1144.81,
+   "t_end": 1228.02
+  },
+  {
+   "file": "shots_017.jpg",
+   "shots": [
+    142,
+    152
+   ],
+   "t_start": 1231.23,
+   "t_end": 1299.21
+  },
+  {
+   "file": "shots_018.jpg",
+   "shots": [
+    152,
+    164
+   ],
+   "t_start": 1302.38,
+   "t_end": 1331.79
+  },
+  {
+   "file": "shots_019.jpg",
+   "shots": [
+    164,
+    170
+   ],
+   "t_start": 1332.5,
+   "t_end": 1344.84
+  }
+ ]
+}

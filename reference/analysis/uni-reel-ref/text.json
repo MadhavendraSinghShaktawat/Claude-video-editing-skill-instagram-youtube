@@ -1,0 +1,3383 @@
+{
+ "video": "ref.mp4",
+ "sampling": "picture events + 1/s",
+ "samples": 169,
+ "tracks": [
+  {
+   "text": "lately everyone's been",
+   "t0": 0.1,
+   "t1": 2.0,
+   "last_seen": 1.0,
+   "dur": 1.9,
+   "samples": 2,
+   "box": [
+    0.261,
+    0.189,
+    0.728,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.88,
+   "text_colour": "#daedfe",
+   "bg_colour": "#73a1db",
+   "grew": false
+  },
+  {
+   "text": "obsessed with writing",
+   "t0": 2.0,
+   "t1": 2.8,
+   "last_seen": 2.0,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.263,
+    0.186,
+    0.728,
+    0.224
+   ],
+   "h": 0.038,
+   "conf": 0.9,
+   "text_colour": "#daefff",
+   "bg_colour": "#76a6de",
+   "grew": false
+  },
+  {
+   "text": "the perfect hook",
+   "t0": 2.8,
+   "t1": 3.0,
+   "last_seen": 2.8,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.324,
+    0.188,
+    0.676,
+    0.223
+   ],
+   "h": 0.035,
+   "conf": 0.92,
+   "text_colour": "#dbefff",
+   "bg_colour": "#77a7df",
+   "grew": false
+  },
+  {
+   "text": "but they're forgetting",
+   "t0": 3.0,
+   "t1": 4.1,
+   "last_seen": 3.9,
+   "dur": 1.1,
+   "samples": 2,
+   "box": [
+    0.27,
+    0.186,
+    0.731,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.95,
+   "text_colour": "#d9efff",
+   "bg_colour": "#74a2dd",
+   "grew": false
+  },
+  {
+   "text": "that each hook has two parts",
+   "t0": 4.1,
+   "t1": 5.6,
+   "last_seen": 5.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.202,
+    0.189,
+    0.809,
+    0.222
+   ],
+   "h": 0.033,
+   "conf": 0.91,
+   "text_colour": "#d9efff",
+   "bg_colour": "#74a2dd",
+   "grew": false
+  },
+  {
+   "text": "verbal hook",
+   "t0": 4.1,
+   "t1": 5.6,
+   "last_seen": 5.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.194,
+    0.375,
+    0.43,
+    0.419
+   ],
+   "h": 0.044,
+   "conf": 0.83,
+   "text_colour": "#767569",
+   "bg_colour": "#faf4e9",
+   "grew": false
+  },
+  {
+   "text": "visual hook",
+   "t0": 4.1,
+   "t1": 5.6,
+   "last_seen": 5.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.635,
+    0.433,
+    0.865,
+    0.481
+   ],
+   "h": 0.048,
+   "conf": 0.9,
+   "text_colour": "#76766b",
+   "bg_colour": "#faf4e9",
+   "grew": false
+  },
+  {
+   "text": "and your content is",
+   "t0": 5.6,
+   "t1": 6.4,
+   "last_seen": 5.6,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.291,
+    0.19,
+    0.702,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.82,
+   "text_colour": "#ddf0ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "probably forgetting one of them",
+   "t0": 6.4,
+   "t1": 8.0,
+   "last_seen": 7.8,
+   "dur": 1.6,
+   "samples": 4,
+   "box": [
+    0.159,
+    0.186,
+    0.841,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.95,
+   "text_colour": "#ddf2ff",
+   "bg_colour": "#78a8df",
+   "grew": false
+  },
+  {
+   "text": "welcome to",
+   "t0": 8.0,
+   "t1": 8.3,
+   "last_seen": 8.0,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.374,
+    0.189,
+    0.615,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.87,
+   "text_colour": "#dbeeff",
+   "bg_colour": "#74a2da",
+   "grew": false
+  },
+  {
+   "text": "Content Camp",
+   "t0": 8.3,
+   "t1": 9.3,
+   "last_seen": 8.5,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.352,
+    0.184,
+    0.663,
+    0.227
+   ],
+   "h": 0.043,
+   "conf": 0.9,
+   "text_colour": "#d8f0ff",
+   "bg_colour": "#74a2dd",
+   "grew": false
+  },
+  {
+   "text": "your 8-week",
+   "t0": 9.3,
+   "t1": 10.3,
+   "last_seen": 9.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.354,
+    0.188,
+    0.633,
+    0.224
+   ],
+   "h": 0.036,
+   "conf": 0.83,
+   "text_colour": "#d6edff",
+   "bg_colour": "#74a4dd",
+   "grew": false
+  },
+  {
+   "text": "crash course in",
+   "t0": 10.3,
+   "t1": 11.3,
+   "last_seen": 10.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.339,
+    0.189,
+    0.661,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.89,
+   "text_colour": "#def0ff",
+   "bg_colour": "#74a2dd",
+   "grew": false
+  },
+  {
+   "text": "storytelling,",
+   "t0": 11.3,
+   "t1": 12.3,
+   "last_seen": 11.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.37,
+    0.184,
+    0.631,
+    0.228
+   ],
+   "h": 0.044,
+   "conf": 0.89,
+   "text_colour": "#daefff",
+   "bg_colour": "#74a4de",
+   "grew": false
+  },
+  {
+   "text": "and editing",
+   "t0": 12.3,
+   "t1": 13.3,
+   "last_seen": 12.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.372,
+    0.184,
+    0.628,
+    0.226
+   ],
+   "h": 0.042,
+   "conf": 0.85,
+   "text_colour": "#daf1ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "so that by the",
+   "t0": 13.3,
+   "t1": 14.3,
+   "last_seen": 13.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.35,
+    0.189,
+    0.639,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.87,
+   "text_colour": "#def2ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "you'll be creating content",
+   "t0": 14.3,
+   "t1": 15.7,
+   "last_seen": 15.5,
+   "dur": 1.4,
+   "samples": 3,
+   "box": [
+    0.226,
+    0.19,
+    0.763,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.93,
+   "text_colour": "#d9f0ff",
+   "bg_colour": "#74a4de",
+   "grew": false
+  },
+  {
+   "text": "that actually performs",
+   "t0": 15.7,
+   "t1": 16.9,
+   "last_seen": 16.6,
+   "dur": 1.2,
+   "samples": 2,
+   "box": [
+    0.261,
+    0.189,
+    0.737,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.9,
+   "text_colour": "#def4ff",
+   "bg_colour": "#77a8df",
+   "grew": false
+  },
+  {
+   "text": "if we break down",
+   "t0": 16.9,
+   "t1": 17.7,
+   "last_seen": 16.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.311,
+    0.186,
+    0.676,
+    0.222
+   ],
+   "h": 0.035,
+   "conf": 0.84,
+   "text_colour": "#d9efff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "the anatomy of",
+   "t0": 17.7,
+   "t1": 18.7,
+   "last_seen": 17.7,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.331,
+    0.188,
+    0.661,
+    0.223
+   ],
+   "h": 0.035,
+   "conf": 0.74,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "a great video",
+   "t0": 18.7,
+   "t1": 19.7,
+   "last_seen": 18.7,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.359,
+    0.188,
+    0.637,
+    0.225
+   ],
+   "h": 0.038,
+   "conf": 0.89,
+   "text_colour": "#dbf2ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "you'll see that",
+   "t0": 19.7,
+   "t1": 20.7,
+   "last_seen": 19.7,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.346,
+    0.189,
+    0.646,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.85,
+   "text_colour": "#d9efff",
+   "bg_colour": "#73a2da",
+   "grew": false
+  },
+  {
+   "text": "there are almost always",
+   "t0": 20.7,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 0.6,
+   "samples": 2,
+   "box": [
+    0.25,
+    0.186,
+    0.75,
+    0.224
+   ],
+   "h": 0.038,
+   "conf": 0.88,
+   "text_colour": "#def0ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "two parts",
+   "t0": 21.3,
+   "t1": 21.7,
+   "last_seen": 21.3,
+   "dur": 0.4,
+   "samples": 1,
+   "box": [
+    0.402,
+    0.19,
+    0.609,
+    0.224
+   ],
+   "h": 0.034,
+   "conf": 0.81,
+   "text_colour": "#d9edff",
+   "bg_colour": "#77a7df",
+   "grew": false
+  },
+  {
+   "text": "the visual hook",
+   "t0": 21.7,
+   "t1": 22.7,
+   "last_seen": 21.9,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.333,
+    0.189,
+    0.656,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.88,
+   "text_colour": "#d9efff",
+   "bg_colour": "#73a1db",
+   "grew": false
+  },
+  {
+   "text": "visual hook",
+   "t0": 21.7,
+   "t1": 23.9,
+   "last_seen": 23.7,
+   "dur": 2.2,
+   "samples": 4,
+   "box": [
+    0.42,
+    0.291,
+    0.58,
+    0.315
+   ],
+   "h": 0.024,
+   "conf": 0.9,
+   "text_colour": "#7c7d6f",
+   "bg_colour": "#faf5e8",
+   "grew": false
+  },
+  {
+   "text": "whatpeople hear",
+   "t0": 21.7,
+   "t1": 25.9,
+   "last_seen": 24.9,
+   "dur": 4.2,
+   "samples": 7,
+   "box": [
+    0.402,
+    0.318,
+    0.598,
+    0.333
+   ],
+   "h": 0.016,
+   "conf": 0.9,
+   "text_colour": "#989689",
+   "bg_colour": "#f7f5e8",
+   "grew": false
+  },
+  {
+   "text": "which is what people see",
+   "t0": 22.7,
+   "t1": 23.9,
+   "last_seen": 23.7,
+   "dur": 1.2,
+   "samples": 2,
+   "box": [
+    0.241,
+    0.189,
+    0.759,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.9,
+   "text_colour": "#d8edff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "and the verbal hook",
+   "t0": 23.9,
+   "t1": 24.9,
+   "last_seen": 24.1,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.283,
+    0.191,
+    0.706,
+    0.219
+   ],
+   "h": 0.028,
+   "conf": 0.89,
+   "text_colour": "#d4ecff",
+   "bg_colour": "#75a2da",
+   "grew": false
+  },
+  {
+   "text": "verbal hook",
+   "t0": 23.9,
+   "t1": 25.9,
+   "last_seen": 24.9,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.42,
+    0.293,
+    0.581,
+    0.314
+   ],
+   "h": 0.021,
+   "conf": 0.86,
+   "text_colour": "#818274",
+   "bg_colour": "#faf5e8",
+   "grew": false
+  },
+  {
+   "text": "which is what people hear",
+   "t0": 24.9,
+   "t1": 25.9,
+   "last_seen": 24.9,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.226,
+    0.189,
+    0.774,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.88,
+   "text_colour": "#daf0ff",
+   "bg_colour": "#75a4de",
+   "grew": false
+  },
+  {
+   "text": "it's estimated that",
+   "t0": 25.9,
+   "t1": 27.9,
+   "last_seen": 26.9,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.306,
+    0.19,
+    0.685,
+    0.218
+   ],
+   "h": 0.028,
+   "conf": 0.9,
+   "text_colour": "#daf2ff",
+   "bg_colour": "#75a2db",
+   "grew": false
+  },
+  {
+   "text": "80 to 85% of social media",
+   "t0": 27.9,
+   "t1": 29.9,
+   "last_seen": 28.9,
+   "dur": 2.0,
+   "samples": 2,
+   "box": [
+    0.231,
+    0.189,
+    0.765,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.95,
+   "text_colour": "#d7edff",
+   "bg_colour": "#75a4dd",
+   "grew": false
+  },
+  {
+   "text": "is consumed without sound",
+   "t0": 29.9,
+   "t1": 31.6,
+   "last_seen": 31.4,
+   "dur": 1.7,
+   "samples": 3,
+   "box": [
+    0.207,
+    0.19,
+    0.791,
+    0.22
+   ],
+   "h": 0.03,
+   "conf": 0.92,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#76a5de",
+   "grew": false
+  },
+  {
+   "text": "and even when",
+   "t0": 31.6,
+   "t1": 32.5,
+   "last_seen": 31.6,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.333,
+    0.189,
+    0.657,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.89,
+   "text_colour": "#d8edff",
+   "bg_colour": "#74a2db",
+   "grew": false
+  },
+  {
+   "text": "the sound is on",
+   "t0": 32.5,
+   "t1": 33.4,
+   "last_seen": 33.2,
+   "dur": 0.9,
+   "samples": 2,
+   "box": [
+    0.339,
+    0.186,
+    0.661,
+    0.221
+   ],
+   "h": 0.034,
+   "conf": 0.93,
+   "text_colour": "#ddf3ff",
+   "bg_colour": "#71a2da",
+   "grew": false
+  },
+  {
+   "text": "people are usually",
+   "t0": 33.4,
+   "t1": 34.1,
+   "last_seen": 33.4,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.3,
+    0.186,
+    0.683,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.91,
+   "text_colour": "#daf0ff",
+   "bg_colour": "#73a1db",
+   "grew": false
+  },
+  {
+   "text": "only half listening",
+   "t0": 34.1,
+   "t1": 35.1,
+   "last_seen": 34.9,
+   "dur": 1.0,
+   "samples": 3,
+   "box": [
+    0.304,
+    0.186,
+    0.698,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.91,
+   "text_colour": "#d7eeff",
+   "bg_colour": "#76a6df",
+   "grew": false
+  },
+  {
+   "text": "what this means",
+   "t0": 35.1,
+   "t1": 36.0,
+   "last_seen": 35.1,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.322,
+    0.189,
+    0.672,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.87,
+   "text_colour": "#daedfe",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "is that your visual hook",
+   "t0": 36.0,
+   "t1": 37.2,
+   "last_seen": 37.0,
+   "dur": 1.2,
+   "samples": 2,
+   "box": [
+    0.25,
+    0.189,
+    0.748,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.88,
+   "text_colour": "#daefff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "has to land with no visual",
+   "t0": 37.2,
+   "t1": 41.0,
+   "last_seen": 40.8,
+   "dur": 3.8,
+   "samples": 7,
+   "box": [
+    0.231,
+    0.189,
+    0.77,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.88,
+   "text_colour": "#dbefff",
+   "bg_colour": "#78a8e0",
+   "grew": false
+  },
+  {
+   "text": "and your verbal hook",
+   "t0": 38.6,
+   "t1": 39.5,
+   "last_seen": 38.6,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.267,
+    0.189,
+    0.724,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.93,
+   "text_colour": "#dff3ff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "if either of those",
+   "t0": 41.0,
+   "t1": 41.9,
+   "last_seen": 41.0,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.322,
+    0.189,
+    0.667,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.89,
+   "text_colour": "#d8ebff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "depend on the other",
+   "t0": 41.9,
+   "t1": 42.9,
+   "last_seen": 41.9,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.28,
+    0.188,
+    0.711,
+    0.223
+   ],
+   "h": 0.035,
+   "conf": 0.87,
+   "text_colour": "#d9f0ff",
+   "bg_colour": "#74a4dd",
+   "grew": false
+  },
+  {
+   "text": "to make sense",
+   "t0": 42.9,
+   "t1": 43.6,
+   "last_seen": 42.9,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.35,
+    0.189,
+    0.65,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.89,
+   "text_colour": "#dbefff",
+   "bg_colour": "#75a4de",
+   "grew": false
+  },
+  {
+   "text": "then you've already lost",
+   "t0": 43.6,
+   "t1": 44.6,
+   "last_seen": 43.8,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.243,
+    0.189,
+    0.75,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.93,
+   "text_colour": "#daefff",
+   "bg_colour": "#74a2dd",
+   "grew": false
+  },
+  {
+   "text": "the great majority",
+   "t0": 44.6,
+   "t1": 45.6,
+   "last_seen": 44.6,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.302,
+    0.189,
+    0.683,
+    0.225
+   ],
+   "h": 0.036,
+   "conf": 0.91,
+   "text_colour": "#d9efff",
+   "bg_colour": "#74a2db",
+   "grew": false
+  },
+  {
+   "text": "of your audience",
+   "t0": 45.6,
+   "t1": 46.2,
+   "last_seen": 46.0,
+   "dur": 0.6,
+   "samples": 2,
+   "box": [
+    0.322,
+    0.189,
+    0.68,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.92,
+   "text_colour": "#d9edff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "the biggest mistake I see",
+   "t0": 46.2,
+   "t1": 48.1,
+   "last_seen": 47.1,
+   "dur": 1.9,
+   "samples": 2,
+   "box": [
+    0.239,
+    0.189,
+    0.752,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.9,
+   "text_colour": "#d9f0ff",
+   "bg_colour": "#74a2db",
+   "grew": false
+  },
+  {
+   "text": "when it comes to hooks",
+   "t0": 48.1,
+   "t1": 49.1,
+   "last_seen": 48.1,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.257,
+    0.191,
+    0.743,
+    0.219
+   ],
+   "h": 0.028,
+   "conf": 0.89,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#73a1da",
+   "grew": false
+  },
+  {
+   "text": "are when both hooks",
+   "t0": 49.1,
+   "t1": 50.1,
+   "last_seen": 49.1,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.272,
+    0.189,
+    0.717,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.89,
+   "text_colour": "#def0ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "say the same thing",
+   "t0": 50.1,
+   "t1": 50.5,
+   "last_seen": 50.3,
+   "dur": 0.4,
+   "samples": 2,
+   "box": [
+    0.298,
+    0.186,
+    0.7,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.91,
+   "text_colour": "#e1f2ff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "so for example",
+   "t0": 50.5,
+   "t1": 51.4,
+   "last_seen": 50.5,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.341,
+    0.186,
+    0.656,
+    0.224
+   ],
+   "h": 0.038,
+   "conf": 0.92,
+   "text_colour": "#def0ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "let's say you're filming",
+   "t0": 51.4,
+   "t1": 52.4,
+   "last_seen": 52.2,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.252,
+    0.186,
+    0.737,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.94,
+   "text_colour": "#dbf0ff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "a work day in my life vlog",
+   "t0": 52.4,
+   "t1": 53.9,
+   "last_seen": 53.1,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.222,
+    0.186,
+    0.774,
+    0.224
+   ],
+   "h": 0.038,
+   "conf": 0.93,
+   "text_colour": "#b4b5b3",
+   "bg_colour": "#7d7c7b",
+   "grew": false
+  },
+  {
+   "text": "and you do your morning routine",
+   "t0": 53.9,
+   "t1": 55.4,
+   "last_seen": 55.2,
+   "dur": 1.5,
+   "samples": 5,
+   "box": [
+    0.146,
+    0.192,
+    0.854,
+    0.22
+   ],
+   "h": 0.028,
+   "conf": 0.92,
+   "text_colour": "#e4e6e6",
+   "bg_colour": "#999d9d",
+   "grew": false
+  },
+  {
+   "text": "ithen you commute to the office",
+   "t0": 55.4,
+   "t1": 57.7,
+   "last_seen": 57.5,
+   "dur": 2.3,
+   "samples": 5,
+   "box": [
+    0.17,
+    0.189,
+    0.83,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.91,
+   "text_colour": "#dff3fd",
+   "bg_colour": "#97c9e5",
+   "grew": false
+  },
+  {
+   "text": "Use glowing reviews for",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.67,
+    0.0,
+    0.887,
+    0.016
+   ],
+   "h": 0.016,
+   "conf": 0.88,
+   "text_colour": "#908d91",
+   "bg_colour": "#cac8cb",
+   "grew": false
+  },
+  {
+   "text": "Segment: god engaged",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.667,
+    0.024,
+    0.883,
+    0.042
+   ],
+   "h": 0.018,
+   "conf": 0.83,
+   "text_colour": "#7c7a7e",
+   "bg_colour": "#cbc8cc",
+   "grew": false
+  },
+  {
+   "text": "Exctusions: Usual 3",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.665,
+    0.037,
+    0.844,
+    0.055
+   ],
+   "h": 0.018,
+   "conf": 0.83,
+   "text_colour": "#7d7b7f",
+   "bg_colour": "#cbc9cf",
+   "grew": false
+  },
+  {
+   "text": "Strategy.",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.663,
+    0.053,
+    0.754,
+    0.071
+   ],
+   "h": 0.018,
+   "conf": 0.81,
+   "text_colour": "#6f6e71",
+   "bg_colour": "#cbcacf",
+   "grew": false
+  },
+  {
+   "text": "Emall 4,Earring Jacket DropITBD]",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.659,
+    0.078,
+    0.976,
+    0.097
+   ],
+   "h": 0.019,
+   "conf": 0.85,
+   "text_colour": "#737075",
+   "bg_colour": "#d0cdd2",
+   "grew": false
+  },
+  {
+   "text": "Send:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.659,
+    0.095,
+    0.72,
+    0.111
+   ],
+   "h": 0.017,
+   "conf": 0.82,
+   "text_colour": "#6a696d",
+   "bg_colour": "#cfccd1",
+   "grew": false
+  },
+  {
+   "text": "and you start your work",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.244,
+    0.192,
+    0.754,
+    0.22
+   ],
+   "h": 0.028,
+   "conf": 0.94,
+   "text_colour": "#f0f2f5",
+   "bg_colour": "#d0d2d6",
+   "grew": false
+  },
+  {
+   "text": "Reference Campaigr:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.641,
+    0.254,
+    0.844,
+    0.272
+   ],
+   "h": 0.018,
+   "conf": 0.89,
+   "text_colour": "#696c6e",
+   "bg_colour": "#d7d9da",
+   "grew": false
+  },
+  {
+   "text": "Brief:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.641,
+    0.271,
+    0.696,
+    0.285
+   ],
+   "h": 0.015,
+   "conf": 0.8,
+   "text_colour": "#63666b",
+   "bg_colour": "#d4d7d8",
+   "grew": false
+  },
+  {
+   "text": "Segment: 18od engaged",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.637,
+    0.282,
+    0.867,
+    0.302
+   ],
+   "h": 0.02,
+   "conf": 0.87,
+   "text_colour": "#7c7e7e",
+   "bg_colour": "#d8dada",
+   "grew": false
+  },
+  {
+   "text": "Exclusions: Usual 3",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.635,
+    0.297,
+    0.817,
+    0.315
+   ],
+   "h": 0.018,
+   "conf": 0.92,
+   "text_colour": "#6d6f6f",
+   "bg_colour": "#d8dada",
+   "grew": false
+  },
+  {
+   "text": "Strategy.",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.633,
+    0.31,
+    0.728,
+    0.33
+   ],
+   "h": 0.02,
+   "conf": 0.85,
+   "text_colour": "#676969",
+   "bg_colour": "#d8dadb",
+   "grew": false
+  },
+  {
+   "text": "Emall s.Flatbacks Feature",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.63,
+    0.34,
+    0.881,
+    0.357
+   ],
+   "h": 0.018,
+   "conf": 0.86,
+   "text_colour": "#6b6d6c",
+   "bg_colour": "#dadddb",
+   "grew": false
+  },
+  {
+   "text": "Send:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.631,
+    0.356,
+    0.691,
+    0.37
+   ],
+   "h": 0.014,
+   "conf": 0.8,
+   "text_colour": "#666868",
+   "bg_colour": "#d8dada",
+   "grew": false
+  },
+  {
+   "text": "Reference Campaigr: Studs",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.628,
+    0.369,
+    0.894,
+    0.389
+   ],
+   "h": 0.02,
+   "conf": 0.9,
+   "text_colour": "#656e75",
+   "bg_colour": "#dddfde",
+   "grew": false
+  },
+  {
+   "text": "Brief:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.628,
+    0.384,
+    0.685,
+    0.398
+   ],
+   "h": 0.014,
+   "conf": 0.83,
+   "text_colour": "#696868",
+   "bg_colour": "#d8dbda",
+   "grew": false
+  },
+  {
+   "text": "Educational campaign about flatbacks. A",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.624,
+    0.397,
+    0.998,
+    0.417
+   ],
+   "h": 0.02,
+   "conf": 0.88,
+   "text_colour": "#939492",
+   "bg_colour": "#e0e1e0",
+   "grew": false
+  },
+  {
+   "text": "Chicago, Illinois. Feature the best-sellers.",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.624,
+    0.411,
+    0.998,
+    0.433
+   ],
+   "h": 0.022,
+   "conf": 0.87,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#e0e0df",
+   "grew": false
+  },
+  {
+   "text": "Segment: god engaged",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.622,
+    0.426,
+    0.844,
+    0.445
+   ],
+   "h": 0.019,
+   "conf": 0.86,
+   "text_colour": "#7d7d7c",
+   "bg_colour": "#dfdfde",
+   "grew": false
+  },
+  {
+   "text": "Exclusions: Usual 3",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.62,
+    0.441,
+    0.804,
+    0.459
+   ],
+   "h": 0.019,
+   "conf": 0.88,
+   "text_colour": "#717373",
+   "bg_colour": "#dfdfdf",
+   "grew": false
+  },
+  {
+   "text": "Strategy.",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.617,
+    0.454,
+    0.715,
+    0.475
+   ],
+   "h": 0.021,
+   "conf": 0.84,
+   "text_colour": "#696969",
+   "bg_colour": "#dedfde",
+   "grew": false
+  },
+  {
+   "text": "Email6.SeePermanentJewelry&New",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.615,
+    0.483,
+    0.998,
+    0.506
+   ],
+   "h": 0.023,
+   "conf": 0.92,
+   "text_colour": "#6f6f6f",
+   "bg_colour": "#e4e4e4",
+   "grew": false
+  },
+  {
+   "text": "Send:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.615,
+    0.5,
+    0.674,
+    0.514
+   ],
+   "h": 0.014,
+   "conf": 0.75,
+   "text_colour": "#686b6d",
+   "bg_colour": "#dee0df",
+   "grew": false
+  },
+  {
+   "text": "Reference Campaigr: None here: let me",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.611,
+    0.512,
+    0.998,
+    0.536
+   ],
+   "h": 0.024,
+   "conf": 0.91,
+   "text_colour": "#767676",
+   "bg_colour": "#e5e5e4",
+   "grew": false
+  },
+  {
+   "text": "together!",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.611,
+    0.528,
+    0.702,
+    0.545
+   ],
+   "h": 0.017,
+   "conf": 0.87,
+   "text_colour": "#949793",
+   "bg_colour": "#dfe1df",
+   "grew": false
+  },
+  {
+   "text": "Brief:",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.609,
+    0.544,
+    0.67,
+    0.559
+   ],
+   "h": 0.016,
+   "conf": 0.85,
+   "text_colour": "#666868",
+   "bg_colour": "#e1e4e1",
+   "grew": false
+  },
+  {
+   "text": "We LOVE meeting you, and being part of y",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.607,
+    0.557,
+    0.998,
+    0.581
+   ],
+   "h": 0.024,
+   "conf": 0.91,
+   "text_colour": "#9a9a99",
+   "bg_colour": "#e5e7e5",
+   "grew": false
+  },
+  {
+   "text": "permanent jewelry. hearing your stories is",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.606,
+    0.572,
+    0.998,
+    0.597
+   ],
+   "h": 0.025,
+   "conf": 0.91,
+   "text_colour": "#8c8f8d",
+   "bg_colour": "#e5e7e5",
+   "grew": false
+  },
+  {
+   "text": "Segment: Local Ilinois.",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.606,
+    0.588,
+    0.822,
+    0.607
+   ],
+   "h": 0.02,
+   "conf": 0.86,
+   "text_colour": "#7e7f7d",
+   "bg_colour": "#e5e7e5",
+   "grew": false
+  },
+  {
+   "text": "Exctusions: Usual 3",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.602,
+    0.601,
+    0.789,
+    0.622
+   ],
+   "h": 0.021,
+   "conf": 0.86,
+   "text_colour": "#757775",
+   "bg_colour": "#e6e7e6",
+   "grew": false
+  },
+  {
+   "text": "Strategy.",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.6,
+    0.616,
+    0.696,
+    0.636
+   ],
+   "h": 0.021,
+   "conf": 0.77,
+   "text_colour": "#686968",
+   "bg_colour": "#e5e7e5",
+   "grew": false
+  },
+  {
+   "text": "Unmute",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.219,
+    0.668,
+    0.33,
+    0.691
+   ],
+   "h": 0.023,
+   "conf": 0.85,
+   "text_colour": "#bababc",
+   "bg_colour": "#5e5d60",
+   "grew": false
+  },
+  {
+   "text": "Stop Video",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.406,
+    0.673,
+    0.561,
+    0.698
+   ],
+   "h": 0.025,
+   "conf": 0.87,
+   "text_colour": "#b6b9bc",
+   "bg_colour": "#595b5f",
+   "grew": false
+  },
+  {
+   "text": "Share Screen",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.633,
+    0.679,
+    0.828,
+    0.707
+   ],
+   "h": 0.028,
+   "conf": 0.83,
+   "text_colour": "#6dc169",
+   "bg_colour": "#4f5852",
+   "grew": false
+  },
+  {
+   "text": "Summar",
+   "t0": 57.7,
+   "t1": 58.4,
+   "last_seen": 57.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.876,
+    0.689,
+    0.998,
+    0.714
+   ],
+   "h": 0.025,
+   "conf": 0.82,
+   "text_colour": "#b9bbbc",
+   "bg_colour": "#5d5e60",
+   "grew": false
+  },
+  {
+   "text": "if your voice over just",
+   "t0": 58.4,
+   "t1": 60.4,
+   "last_seen": 59.4,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.267,
+    0.188,
+    0.722,
+    0.224
+   ],
+   "h": 0.036,
+   "conf": 0.88,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#76a7de",
+   "grew": false
+  },
+  {
+   "text": "X same job twice",
+   "t0": 58.4,
+   "t1": 63.2,
+   "last_seen": 63.0,
+   "dur": 4.8,
+   "samples": 7,
+   "box": [
+    0.304,
+    0.261,
+    0.537,
+    0.286
+   ],
+   "h": 0.025,
+   "conf": 0.84,
+   "text_colour": "#89887a",
+   "bg_colour": "#f9f4e7",
+   "grew": false
+  },
+  {
+   "text": "visual: you commuting",
+   "t0": 58.4,
+   "t1": 63.2,
+   "last_seen": 63.0,
+   "dur": 4.8,
+   "samples": 7,
+   "box": [
+    0.304,
+    0.289,
+    0.559,
+    0.308
+   ],
+   "h": 0.02,
+   "conf": 0.92,
+   "text_colour": "#a19e91",
+   "bg_colour": "#f9f5e8",
+   "grew": false
+  },
+  {
+   "text": "verbal: reciting what's in the video",
+   "t0": 58.4,
+   "t1": 63.2,
+   "last_seen": 63.0,
+   "dur": 4.8,
+   "samples": 7,
+   "box": [
+    0.306,
+    0.311,
+    0.689,
+    0.326
+   ],
+   "h": 0.015,
+   "conf": 0.92,
+   "text_colour": "#a19e91",
+   "bg_colour": "#f7f4e7",
+   "grew": false
+  },
+  {
+   "text": "narrates what you're",
+   "t0": 60.4,
+   "t1": 61.4,
+   "last_seen": 60.4,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.272,
+    0.191,
+    0.717,
+    0.221
+   ],
+   "h": 0.03,
+   "conf": 0.88,
+   "text_colour": "#def2ff",
+   "bg_colour": "#77a7de",
+   "grew": false
+  },
+  {
+   "text": "then it's not as",
+   "t0": 61.4,
+   "t1": 62.4,
+   "last_seen": 61.4,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.339,
+    0.189,
+    0.652,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.85,
+   "text_colour": "#d9f0ff",
+   "bg_colour": "#77a7df",
+   "grew": false
+  },
+  {
+   "text": "engaging for the viewer",
+   "t0": 62.4,
+   "t1": 63.2,
+   "last_seen": 63.0,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.25,
+    0.186,
+    0.754,
+    0.225
+   ],
+   "h": 0.039,
+   "conf": 0.92,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#77a8df",
+   "grew": false
+  },
+  {
+   "text": "and instead you want",
+   "t0": 63.2,
+   "t1": 65.1,
+   "last_seen": 64.1,
+   "dur": 1.9,
+   "samples": 2,
+   "box": [
+    0.269,
+    0.19,
+    0.724,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.9,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "them to do different jobs",
+   "t0": 65.1,
+   "t1": 66.1,
+   "last_seen": 65.1,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.237,
+    0.189,
+    0.763,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.91,
+   "text_colour": "#def0ff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "so for example",
+   "t0": 66.1,
+   "t1": 67.1,
+   "last_seen": 66.1,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.335,
+    0.185,
+    0.652,
+    0.224
+   ],
+   "h": 0.039,
+   "conf": 0.91,
+   "text_colour": "#ddf2ff",
+   "bg_colour": "#71a1db",
+   "grew": false
+  },
+  {
+   "text": "you could say something like",
+   "t0": 67.1,
+   "t1": 67.9,
+   "last_seen": 67.1,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.191,
+    0.188,
+    0.806,
+    0.224
+   ],
+   "h": 0.036,
+   "conf": 0.9,
+   "text_colour": "#d8efff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "I deleted my first 100 videos",
+   "t0": 67.9,
+   "t1": 69.9,
+   "last_seen": 68.9,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.206,
+    0.189,
+    0.793,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.93,
+   "text_colour": "#d8f2ff",
+   "bg_colour": "#77a6de",
+   "grew": false
+  },
+  {
+   "text": "Vdifferent jobs",
+   "t0": 67.9,
+   "t1": 74.9,
+   "last_seen": 74.7,
+   "dur": 7.0,
+   "samples": 10,
+   "box": [
+    0.304,
+    0.261,
+    0.52,
+    0.285
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#787768",
+   "bg_colour": "#f9f4e6",
+   "grew": false
+  },
+  {
+   "text": "visual: you commuting",
+   "t0": 67.9,
+   "t1": 74.9,
+   "last_seen": 74.7,
+   "dur": 7.0,
+   "samples": 10,
+   "box": [
+    0.304,
+    0.289,
+    0.559,
+    0.308
+   ],
+   "h": 0.02,
+   "conf": 0.92,
+   "text_colour": "#9b9889",
+   "bg_colour": "#faf5e6",
+   "grew": false
+  },
+  {
+   "text": "verbal: expanding and storytelling",
+   "t0": 67.9,
+   "t1": 74.9,
+   "last_seen": 74.7,
+   "dur": 7.0,
+   "samples": 10,
+   "box": [
+    0.304,
+    0.308,
+    0.689,
+    0.328
+   ],
+   "h": 0.02,
+   "conf": 0.95,
+   "text_colour": "#969388",
+   "bg_colour": "#f9f5e8",
+   "grew": false
+  },
+  {
+   "text": "before Iever",
+   "t0": 69.9,
+   "t1": 70.9,
+   "last_seen": 69.9,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.365,
+    0.186,
+    0.633,
+    0.223
+   ],
+   "h": 0.036,
+   "conf": 0.8,
+   "text_colour": "#d7eeff",
+   "bg_colour": "#76a6df",
+   "grew": false
+  },
+  {
+   "text": "posted my first",
+   "t0": 70.9,
+   "t1": 71.8,
+   "last_seen": 71.6,
+   "dur": 0.9,
+   "samples": 2,
+   "box": [
+    0.337,
+    0.186,
+    0.663,
+    0.226
+   ],
+   "h": 0.04,
+   "conf": 0.9,
+   "text_colour": "#daf2ff",
+   "bg_colour": "#77a7df",
+   "grew": false
+  },
+  {
+   "text": "or",
+   "t0": 71.8,
+   "t1": 72.7,
+   "last_seen": 71.8,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.467,
+    0.194,
+    0.526,
+    0.221
+   ],
+   "h": 0.027,
+   "conf": 0.66,
+   "text_colour": "#d8eeff",
+   "bg_colour": "#77a6df",
+   "grew": false
+  },
+  {
+   "text": "this is how blank",
+   "t0": 72.7,
+   "t1": 73.7,
+   "last_seen": 72.7,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.32,
+    0.189,
+    0.678,
+    0.219
+   ],
+   "h": 0.03,
+   "conf": 0.89,
+   "text_colour": "#d9ebfe",
+   "bg_colour": "#76a6de",
+   "grew": false
+  },
+  {
+   "text": "got me my dream job",
+   "t0": 73.7,
+   "t1": 74.9,
+   "last_seen": 74.7,
+   "dur": 1.2,
+   "samples": 2,
+   "box": [
+    0.276,
+    0.188,
+    0.73,
+    0.226
+   ],
+   "h": 0.039,
+   "conf": 0.87,
+   "text_colour": "#ddf2ff",
+   "bg_colour": "#77a7df",
+   "grew": false
+  },
+  {
+   "text": "and you can insert",
+   "t0": 74.9,
+   "t1": 75.9,
+   "last_seen": 75.1,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.298,
+    0.19,
+    0.694,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.85,
+   "text_colour": "#dbeefe",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "something crazy or captivating",
+   "t0": 75.9,
+   "t1": 77.4,
+   "last_seen": 77.2,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.17,
+    0.19,
+    0.826,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.94,
+   "text_colour": "#daf2ff",
+   "bg_colour": "#74a2db",
+   "grew": false
+  },
+  {
+   "text": "that way your visuals give context",
+   "t0": 77.4,
+   "t1": 79.3,
+   "last_seen": 78.3,
+   "dur": 1.9,
+   "samples": 2,
+   "box": [
+    0.146,
+    0.19,
+    0.857,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.93,
+   "text_colour": "#d8eeff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "but the main focus",
+   "t0": 79.3,
+   "t1": 80.3,
+   "last_seen": 79.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.304,
+    0.189,
+    0.696,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.94,
+   "text_colour": "#ddf0ff",
+   "bg_colour": "#73a1da",
+   "grew": false
+  },
+  {
+   "text": "is the story that",
+   "t0": 80.3,
+   "t1": 81.3,
+   "last_seen": 80.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.335,
+    0.189,
+    0.667,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.9,
+   "text_colour": "#dbeeff",
+   "bg_colour": "#73a1db",
+   "grew": false
+  },
+  {
+   "text": "you're trying to tell",
+   "t0": 81.3,
+   "t1": 81.7,
+   "last_seen": 81.5,
+   "dur": 0.4,
+   "samples": 2,
+   "box": [
+    0.294,
+    0.189,
+    0.704,
+    0.225
+   ],
+   "h": 0.036,
+   "conf": 0.91,
+   "text_colour": "#def4ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "a few hook formulas",
+   "t0": 81.7,
+   "t1": 83.6,
+   "last_seen": 82.6,
+   "dur": 1.9,
+   "samples": 2,
+   "box": [
+    0.278,
+    0.189,
+    0.713,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.89,
+   "text_colour": "#d8f2ff",
+   "bg_colour": "#73a2da",
+   "grew": false
+  },
+  {
+   "text": "we found the most",
+   "t0": 83.6,
+   "t1": 84.6,
+   "last_seen": 83.6,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.3,
+    0.189,
+    0.694,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.87,
+   "text_colour": "#ddf2ff",
+   "bg_colour": "#73a2da",
+   "grew": false
+  },
+  {
+   "text": "the bold claim,",
+   "t0": 84.6,
+   "t1": 85.6,
+   "last_seen": 84.8,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.339,
+    0.188,
+    0.654,
+    0.222
+   ],
+   "h": 0.034,
+   "conf": 0.93,
+   "text_colour": "#d4e9ff",
+   "bg_colour": "#71a1da",
+   "grew": false
+  },
+  {
+   "text": "\"mostofyourreelsarefloppingforonereason",
+   "t0": 84.6,
+   "t1": 85.6,
+   "last_seen": 84.8,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.237,
+    0.257,
+    0.763,
+    0.272
+   ],
+   "h": 0.015,
+   "conf": 0.9,
+   "text_colour": "#9b988c",
+   "bg_colour": "#f9f5e8",
+   "grew": false
+  },
+  {
+   "text": "the result,",
+   "t0": 85.6,
+   "t1": 86.6,
+   "last_seen": 85.6,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.389,
+    0.186,
+    0.606,
+    0.224
+   ],
+   "h": 0.038,
+   "conf": 0.89,
+   "text_colour": "#dbf0ff",
+   "bg_colour": "#71a1da",
+   "grew": false
+  },
+  {
+   "text": "\"thisonechangedoubledmyengagement\"",
+   "t0": 85.6,
+   "t1": 86.6,
+   "last_seen": 85.6,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.265,
+    0.257,
+    0.741,
+    0.273
+   ],
+   "h": 0.016,
+   "conf": 0.92,
+   "text_colour": "#99978a",
+   "bg_colour": "#faf5e8",
+   "grew": false
+  },
+  {
+   "text": "and the call out",
+   "t0": 86.6,
+   "t1": 87.5,
+   "last_seen": 86.6,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.343,
+    0.19,
+    0.67,
+    0.22
+   ],
+   "h": 0.03,
+   "conf": 0.9,
+   "text_colour": "#daefff",
+   "bg_colour": "#73a1db",
+   "grew": false
+  },
+  {
+   "text": "\"you'rewritingyourhookscompletelywrong",
+   "t0": 86.6,
+   "t1": 87.5,
+   "last_seen": 86.6,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.252,
+    0.257,
+    0.748,
+    0.273
+   ],
+   "h": 0.016,
+   "conf": 0.92,
+   "text_colour": "#969488",
+   "bg_colour": "#faf5e8",
+   "grew": false
+  },
+  {
+   "text": "but if you want",
+   "t0": 87.5,
+   "t1": 88.5,
+   "last_seen": 87.7,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.33,
+    0.186,
+    0.661,
+    0.224
+   ],
+   "h": 0.038,
+   "conf": 0.89,
+   "text_colour": "#d4e9ff",
+   "bg_colour": "#71a2db",
+   "grew": false
+  },
+  {
+   "text": "our full hook breakdown",
+   "t0": 88.5,
+   "t1": 89.6,
+   "last_seen": 88.8,
+   "dur": 1.1,
+   "samples": 2,
+   "box": [
+    0.237,
+    0.19,
+    0.763,
+    0.22
+   ],
+   "h": 0.03,
+   "conf": 0.9,
+   "text_colour": "#d8edff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "with specific examples",
+   "t0": 89.6,
+   "t1": 90.7,
+   "last_seen": 89.9,
+   "dur": 1.1,
+   "samples": 2,
+   "box": [
+    0.257,
+    0.188,
+    0.733,
+    0.224
+   ],
+   "h": 0.036,
+   "conf": 0.93,
+   "text_colour": "#d8efff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "you can implement",
+   "t0": 90.7,
+   "t1": 91.8,
+   "last_seen": 91.0,
+   "dur": 1.1,
+   "samples": 2,
+   "box": [
+    0.291,
+    0.188,
+    0.707,
+    0.225
+   ],
+   "h": 0.038,
+   "conf": 0.92,
+   "text_colour": "#daefff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "into your own content",
+   "t0": 91.8,
+   "t1": 93.0,
+   "last_seen": 92.8,
+   "dur": 1.2,
+   "samples": 3,
+   "box": [
+    0.27,
+    0.192,
+    0.743,
+    0.222
+   ],
+   "h": 0.03,
+   "conf": 0.93,
+   "text_colour": "#d9eeff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "then you can comment",
+   "t0": 93.0,
+   "t1": 94.9,
+   "last_seen": 93.9,
+   "dur": 1.9,
+   "samples": 2,
+   "box": [
+    0.257,
+    0.19,
+    0.746,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.93,
+   "text_colour": "#d8ecff",
+   "bg_colour": "#73a2dd",
+   "grew": false
+  },
+  {
+   "text": "\"cal",
+   "t0": 93.9,
+   "t1": 94.9,
+   "last_seen": 93.9,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.339,
+    0.234,
+    0.478,
+    0.292
+   ],
+   "h": 0.057,
+   "conf": 0.79,
+   "text_colour": "#e7fbff",
+   "bg_colour": "#7dace1",
+   "grew": false
+  },
+  {
+   "text": "and I'll send it straight",
+   "t0": 94.9,
+   "t1": 95.9,
+   "last_seen": 94.9,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.257,
+    0.188,
+    0.739,
+    0.223
+   ],
+   "h": 0.035,
+   "conf": 0.91,
+   "text_colour": "#def0ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "to your email inbox",
+   "t0": 95.9,
+   "t1": 96.2,
+   "last_seen": 95.9,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.298,
+    0.189,
+    0.713,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.91,
+   "text_colour": "#def0ff",
+   "bg_colour": "#73a2db",
+   "grew": false
+  },
+  {
+   "text": "next week we're",
+   "t0": 96.2,
+   "t1": 97.0,
+   "last_seen": 96.2,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.324,
+    0.189,
+    0.667,
+    0.22
+   ],
+   "h": 0.031,
+   "conf": 0.91,
+   "text_colour": "#d8eeff",
+   "bg_colour": "#73a1da",
+   "grew": false
+  },
+  {
+   "text": "going to get behind the camera",
+   "t0": 97.0,
+   "t1": 98.0,
+   "last_seen": 97.0,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.17,
+    0.185,
+    0.83,
+    0.226
+   ],
+   "h": 0.041,
+   "conf": 0.91,
+   "text_colour": "#dbf0ff",
+   "bg_colour": "#74a2dd",
+   "grew": false
+  },
+  {
+   "text": "to talk about equipment essentials",
+   "t0": 98.0,
+   "t1": 99.6,
+   "last_seen": 99.4,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.141,
+    0.19,
+    0.859,
+    0.223
+   ],
+   "h": 0.033,
+   "conf": 0.92,
+   "text_colour": "#dbf0ff",
+   "bg_colour": "#75a4de",
+   "grew": false
+  },
+  {
+   "text": "you need to create the",
+   "t0": 99.6,
+   "t1": 100.6,
+   "last_seen": 100.4,
+   "dur": 1.0,
+   "samples": 4,
+   "box": [
+    0.267,
+    0.189,
+    0.73,
+    0.223
+   ],
+   "h": 0.034,
+   "conf": 0.91,
+   "text_colour": "#2c2a23",
+   "bg_colour": "#c8cdca",
+   "grew": false
+  },
+  {
+   "text": "SET",
+   "t0": 100.6,
+   "t1": 101.1,
+   "last_seen": 100.9,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.789,
+    0.684,
+    0.889,
+    0.727
+   ],
+   "h": 0.043,
+   "conf": 0.74,
+   "text_colour": "#e1deed",
+   "bg_colour": "#363145",
+   "grew": false
+  },
+  {
+   "text": "absolute best quality of content",
+   "t0": 100.6,
+   "t1": 102.3,
+   "last_seen": 102.2,
+   "dur": 1.7,
+   "samples": 7,
+   "box": [
+    0.176,
+    0.19,
+    0.833,
+    0.22
+   ],
+   "h": 0.03,
+   "conf": 0.92,
+   "text_colour": "#2e2734",
+   "bg_colour": "#dfe4eb",
+   "grew": false
+  },
+  {
+   "text": "MAXI-COSI",
+   "t0": 101.6,
+   "t1": 102.0,
+   "last_seen": 101.6,
+   "dur": 0.4,
+   "samples": 1,
+   "box": [
+    0.048,
+    0.756,
+    0.231,
+    0.816
+   ],
+   "h": 0.059,
+   "conf": 0.79,
+   "text_colour": "#706e6e",
+   "bg_colour": "#a4a7a4",
+   "grew": false
+  }
+ ],
+ "density": [
+  [
+   0.1,
+   1
+  ],
+  [
+   1.0,
+   1
+  ],
+  [
+   2.0,
+   1
+  ],
+  [
+   2.8,
+   1
+  ],
+  [
+   3.0,
+   1
+  ],
+  [
+   3.9,
+   1
+  ],
+  [
+   4.1,
+   3
+  ],
+  [
+   5.0,
+   3
+  ],
+  [
+   5.4,
+   3
+  ],
+  [
+   5.6,
+   1
+  ],
+  [
+   6.4,
+   1
+  ],
+  [
+   6.6,
+   1
+  ],
+  [
+   7.4,
+   1
+  ],
+  [
+   7.8,
+   1
+  ],
+  [
+   8.0,
+   1
+  ],
+  [
+   8.3,
+   1
+  ],
+  [
+   8.5,
+   1
+  ],
+  [
+   9.3,
+   1
+  ],
+  [
+   10.3,
+   1
+  ],
+  [
+   11.3,
+   1
+  ],
+  [
+   12.3,
+   1
+  ],
+  [
+   13.3,
+   1
+  ],
+  [
+   14.3,
+   1
+  ],
+  [
+   15.3,
+   1
+  ],
+  [
+   15.5,
+   1
+  ],
+  [
+   15.7,
+   1
+  ],
+  [
+   16.6,
+   1
+  ],
+  [
+   16.9,
+   1
+  ],
+  [
+   17.7,
+   1
+  ],
+  [
+   18.7,
+   1
+  ],
+  [
+   19.7,
+   1
+  ],
+  [
+   20.7,
+   1
+  ],
+  [
+   21.1,
+   1
+  ],
+  [
+   21.3,
+   1
+  ],
+  [
+   21.7,
+   3
+  ],
+  [
+   21.9,
+   3
+  ],
+  [
+   22.7,
+   3
+  ],
+  [
+   23.7,
+   3
+  ],
+  [
+   23.9,
+   3
+  ],
+  [
+   24.1,
+   3
+  ],
+  [
+   24.9,
+   3
+  ],
+  [
+   25.9,
+   1
+  ],
+  [
+   26.1,
+   1
+  ],
+  [
+   26.9,
+   1
+  ],
+  [
+   27.9,
+   1
+  ],
+  [
+   28.9,
+   1
+  ],
+  [
+   29.9,
+   1
+  ],
+  [
+   30.9,
+   1
+  ],
+  [
+   31.4,
+   1
+  ],
+  [
+   31.6,
+   1
+  ],
+  [
+   32.5,
+   1
+  ],
+  [
+   33.2,
+   1
+  ],
+  [
+   33.4,
+   1
+  ],
+  [
+   34.1,
+   1
+  ],
+  [
+   34.3,
+   1
+  ],
+  [
+   34.9,
+   1
+  ],
+  [
+   35.1,
+   1
+  ],
+  [
+   36.0,
+   1
+  ],
+  [
+   37.0,
+   1
+  ],
+  [
+   37.2,
+   1
+  ],
+  [
+   38.1,
+   1
+  ],
+  [
+   38.4,
+   1
+  ],
+  [
+   38.6,
+   1
+  ],
+  [
+   39.5,
+   1
+  ],
+  [
+   39.7,
+   1
+  ],
+  [
+   40.5,
+   1
+  ],
+  [
+   40.8,
+   1
+  ],
+  [
+   41.0,
+   1
+  ],
+  [
+   41.9,
+   1
+  ],
+  [
+   42.9,
+   1
+  ],
+  [
+   43.6,
+   1
+  ],
+  [
+   43.8,
+   1
+  ],
+  [
+   44.6,
+   1
+  ],
+  [
+   45.6,
+   1
+  ],
+  [
+   46.0,
+   1
+  ],
+  [
+   46.2,
+   1
+  ],
+  [
+   47.1,
+   1
+  ],
+  [
+   48.1,
+   1
+  ],
+  [
+   49.1,
+   1
+  ],
+  [
+   50.1,
+   1
+  ],
+  [
+   50.3,
+   1
+  ],
+  [
+   50.5,
+   1
+  ],
+  [
+   51.4,
+   1
+  ],
+  [
+   52.2,
+   1
+  ],
+  [
+   52.4,
+   1
+  ],
+  [
+   52.9,
+   1
+  ],
+  [
+   53.1,
+   1
+  ],
+  [
+   53.9,
+   1
+  ],
+  [
+   54.1,
+   1
+  ],
+  [
+   54.7,
+   1
+  ],
+  [
+   54.9,
+   1
+  ],
+  [
+   55.2,
+   1
+  ],
+  [
+   55.4,
+   1
+  ],
+  [
+   56.3,
+   1
+  ],
+  [
+   56.5,
+   1
+  ],
+  [
+   56.7,
+   1
+  ],
+  [
+   57.5,
+   1
+  ],
+  [
+   57.7,
+   35
+  ],
+  [
+   58.4,
+   4
+  ],
+  [
+   58.6,
+   4
+  ],
+  [
+   59.4,
+   4
+  ],
+  [
+   60.4,
+   4
+  ],
+  [
+   61.4,
+   4
+  ],
+  [
+   62.4,
+   4
+  ],
+  [
+   63.0,
+   4
+  ],
+  [
+   63.2,
+   1
+  ],
+  [
+   64.1,
+   1
+  ],
+  [
+   65.1,
+   1
+  ],
+  [
+   66.1,
+   1
+  ],
+  [
+   67.1,
+   1
+  ],
+  [
+   67.9,
+   4
+  ],
+  [
+   68.1,
+   4
+  ],
+  [
+   68.9,
+   4
+  ],
+  [
+   69.9,
+   4
+  ],
+  [
+   70.9,
+   4
+  ],
+  [
+   71.6,
+   4
+  ],
+  [
+   71.8,
+   4
+  ],
+  [
+   72.7,
+   4
+  ],
+  [
+   73.7,
+   4
+  ],
+  [
+   74.7,
+   4
+  ],
+  [
+   74.9,
+   1
+  ],
+  [
+   75.1,
+   1
+  ],
+  [
+   75.9,
+   1
+  ],
+  [
+   76.9,
+   1
+  ],
+  [
+   77.2,
+   1
+  ],
+  [
+   77.4,
+   1
+  ],
+  [
+   78.3,
+   1
+  ],
+  [
+   79.3,
+   1
+  ],
+  [
+   80.3,
+   1
+  ],
+  [
+   81.3,
+   1
+  ],
+  [
+   81.5,
+   1
+  ],
+  [
+   81.7,
+   1
+  ],
+  [
+   82.6,
+   1
+  ],
+  [
+   83.6,
+   1
+  ],
+  [
+   84.6,
+   2
+  ],
+  [
+   84.8,
+   2
+  ],
+  [
+   85.6,
+   2
+  ],
+  [
+   86.6,
+   2
+  ],
+  [
+   87.5,
+   1
+  ],
+  [
+   87.7,
+   1
+  ],
+  [
+   88.5,
+   1
+  ],
+  [
+   88.8,
+   1
+  ],
+  [
+   89.6,
+   1
+  ],
+  [
+   89.9,
+   1
+  ],
+  [
+   90.7,
+   1
+  ],
+  [
+   91.0,
+   1
+  ],
+  [
+   91.8,
+   1
+  ],
+  [
+   92.1,
+   1
+  ],
+  [
+   92.8,
+   1
+  ],
+  [
+   93.0,
+   1
+  ],
+  [
+   93.9,
+   2
+  ],
+  [
+   94.9,
+   1
+  ],
+  [
+   95.9,
+   1
+  ],
+  [
+   96.2,
+   1
+  ],
+  [
+   97.0,
+   1
+  ],
+  [
+   98.0,
+   1
+  ],
+  [
+   99.0,
+   1
+  ],
+  [
+   99.4,
+   1
+  ],
+  [
+   99.6,
+   1
+  ],
+  [
+   99.9,
+   1
+  ],
+  [
+   100.1,
+   1
+  ],
+  [
+   100.4,
+   1
+  ],
+  [
+   100.6,
+   2
+  ],
+  [
+   100.9,
+   2
+  ],
+  [
+   101.1,
+   1
+  ],
+  [
+   101.4,
+   1
+  ],
+  [
+   101.6,
+   2
+  ],
+  [
+   102.0,
+   1
+  ],
+  [
+   102.2,
+   1
+  ]
+ ]
+}

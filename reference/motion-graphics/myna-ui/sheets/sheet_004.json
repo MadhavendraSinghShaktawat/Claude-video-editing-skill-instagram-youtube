@@ -1,0 +1,74 @@
+{
+ "file": "sheet_004.jpg",
+ "video": "myna-ui.mp4",
+ "sheet_index": 4,
+ "sheet_count": 4,
+ "t_start": 7.5,
+ "t_end": 8.2,
+ "sample_fps": 10.0,
+ "source_fps": 30.0,
+ "source_size": [
+  736,
+  414
+ ],
+ "grid": {
+  "cols": 5,
+  "rows": 5,
+  "order": "left-to-right, top-to-bottom"
+ },
+ "tile_size": [
+  300,
+  168
+ ],
+ "tiles": [
+  {
+   "tile": 0,
+   "row": 0,
+   "col": 0,
+   "t": 7.5,
+   "src_frame": 225
+  },
+  {
+   "tile": 1,
+   "row": 0,
+   "col": 1,
+   "t": 7.6,
+   "src_frame": 228
+  },
+  {
+   "tile": 2,
+   "row": 0,
+   "col": 2,
+   "t": 7.7,
+   "src_frame": 231
+  },
+  {
+   "tile": 3,
+   "row": 0,
+   "col": 3,
+   "t": 7.8,
+   "src_frame": 234
+  },
+  {
+   "tile": 4,
+   "row": 0,
+   "col": 4,
+   "t": 7.9,
+   "src_frame": 237
+  },
+  {
+   "tile": 5,
+   "row": 1,
+   "col": 0,
+   "t": 8.0,
+   "src_frame": 240
+  },
+  {
+   "tile": 6,
+   "row": 1,
+   "col": 1,
+   "t": 8.1,
+   "src_frame": 243
+  }
+ ]
+}

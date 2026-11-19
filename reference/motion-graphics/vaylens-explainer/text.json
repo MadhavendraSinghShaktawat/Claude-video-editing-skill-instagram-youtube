@@ -1,0 +1,3859 @@
+{
+ "video": "vaylens-explainer.mp4",
+ "sample_fps": 5.0,
+ "samples": 360,
+ "tracks": [
+  {
+   "text": "Managing electric car charging stations",
+   "t0": 0.2,
+   "t1": 2.6,
+   "dur": 2.4,
+   "box": [
+    0.228,
+    0.461,
+    0.774,
+    0.522
+   ],
+   "h": 0.098,
+   "conf": 0.93,
+   "text_colour": "#d1e0ff",
+   "bg_colour": "#344afc",
+   "grew": true,
+   "first_text": "Managing"
+  },
+  {
+   "text": "stations",
+   "t0": 2.2,
+   "t1": 2.6,
+   "dur": 0.4,
+   "box": [
+    0.723,
+    0.461,
+    0.836,
+    0.522
+   ],
+   "h": 0.061,
+   "conf": 0.87,
+   "text_colour": "#ccdaff",
+   "bg_colour": "#364afb",
+   "grew": false
+  },
+  {
+   "text": "shouldn't",
+   "t0": 2.6,
+   "t1": 2.8,
+   "dur": 0.2,
+   "box": [
+    0.16,
+    0.461,
+    0.296,
+    0.519
+   ],
+   "h": 0.057,
+   "conf": 0.88,
+   "text_colour": "#e6e6e8",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "shouldn't be vqcket uekgpdg",
+   "t0": 2.8,
+   "t1": 3.4,
+   "dur": 0.6,
+   "box": [
+    0.287,
+    0.457,
+    0.728,
+    0.524
+   ],
+   "h": 0.067,
+   "conf": 0.92,
+   "text_colour": "#dbdbde",
+   "bg_colour": "#141417",
+   "grew": true,
+   "first_text": "shouldn't"
+  },
+  {
+   "text": "be",
+   "t0": 3.0,
+   "t1": 3.2,
+   "dur": 0.2,
+   "box": [
+    0.45,
+    0.465,
+    0.494,
+    0.517
+   ],
+   "h": 0.052,
+   "conf": 0.67,
+   "text_colour": "#dadadd",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "xuiqiz",
+   "t0": 3.0,
+   "t1": 3.2,
+   "dur": 0.2,
+   "box": [
+    0.522,
+    0.463,
+    0.613,
+    0.52
+   ],
+   "h": 0.057,
+   "conf": 0.83,
+   "text_colour": "#626265",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "shouldn't be rocket science.",
+   "t0": 3.4,
+   "t1": 4.6,
+   "dur": 1.2,
+   "box": [
+    0.298,
+    0.465,
+    0.699,
+    0.513
+   ],
+   "h": 0.069,
+   "conf": 0.94,
+   "text_colour": "#dadadd",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "shouldn't",
+   "t0": 4.6,
+   "t1": 4.8,
+   "dur": 0.2,
+   "box": [
+    0.282,
+    0.465,
+    0.422,
+    0.515
+   ],
+   "h": 0.05,
+   "conf": 0.85,
+   "text_colour": "#dadadd",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "science.",
+   "t0": 4.6,
+   "t1": 4.8,
+   "dur": 0.2,
+   "box": [
+    0.595,
+    0.467,
+    0.718,
+    0.517
+   ],
+   "h": 0.05,
+   "conf": 0.87,
+   "text_colour": "#dbdbde",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "be rocket",
+   "t0": 4.6,
+   "t1": 5.2,
+   "dur": 0.6,
+   "box": [
+    0.438,
+    0.481,
+    0.573,
+    0.541
+   ],
+   "h": 0.059,
+   "conf": 0.89,
+   "text_colour": "#dadadd",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "shouldn't",
+   "t0": 4.8,
+   "t1": 5.2,
+   "dur": 0.4,
+   "box": [
+    0.118,
+    0.443,
+    0.246,
+    0.5
+   ],
+   "h": 0.057,
+   "conf": 0.83,
+   "text_colour": "#d7d7d9",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "science.",
+   "t0": 4.8,
+   "t1": 5.2,
+   "dur": 0.4,
+   "box": [
+    0.782,
+    0.485,
+    0.9,
+    0.539
+   ],
+   "h": 0.054,
+   "conf": 0.89,
+   "text_colour": "#dddddf",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "ate d",
+   "t0": 8.0,
+   "t1": 8.4,
+   "dur": 0.4,
+   "box": [
+    0.528,
+    0.441,
+    0.681,
+    0.569
+   ],
+   "h": 0.128,
+   "conf": 0.79,
+   "text_colour": "#fbfbfd",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "compli",
+   "t0": 8.0,
+   "t1": 8.4,
+   "dur": 0.4,
+   "box": [
+    0.346,
+    0.448,
+    0.537,
+    0.554
+   ],
+   "h": 0.106,
+   "conf": 0.84,
+   "text_colour": "#fafafc",
+   "bg_colour": "#141417",
+   "grew": true,
+   "first_text": "com"
+  },
+  {
+   "text": "complicated",
+   "t0": 8.4,
+   "t1": 9.0,
+   "dur": 0.6,
+   "box": [
+    0.356,
+    0.48,
+    0.643,
+    0.574
+   ],
+   "h": 0.094,
+   "conf": 0.83,
+   "text_colour": "#f6f6f9",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "intimidating",
+   "t0": 9.6,
+   "t1": 10.6,
+   "dur": 1.0,
+   "box": [
+    0.261,
+    0.426,
+    0.609,
+    0.563
+   ],
+   "h": 0.18,
+   "conf": 0.9,
+   "text_colour": "#fdfdff",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "That's why",
+   "t0": 10.6,
+   "t1": 11.2,
+   "dur": 0.6,
+   "box": [
+    0.182,
+    0.339,
+    0.819,
+    0.657
+   ],
+   "h": 0.365,
+   "conf": 0.89,
+   "text_colour": "#3649fc",
+   "bg_colour": "#edecf7",
+   "grew": true,
+   "first_text": "That's"
+  },
+  {
+   "text": "built",
+   "t0": 11.2,
+   "t1": 11.8,
+   "dur": 0.6,
+   "box": [
+    0.474,
+    0.43,
+    0.642,
+    0.561
+   ],
+   "h": 0.189,
+   "conf": 0.83,
+   "text_colour": "#374af7",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "we built",
+   "t0": 11.2,
+   "t1": 12.0,
+   "dur": 0.8,
+   "box": [
+    0.418,
+    0.459,
+    0.576,
+    0.541
+   ],
+   "h": 0.181,
+   "conf": 0.85,
+   "text_colour": "#3b4af5",
+   "bg_colour": "#edecf7",
+   "grew": true,
+   "first_text": "we"
+  },
+  {
+   "text": "vaylens",
+   "t0": 13.2,
+   "t1": 14.4,
+   "dur": 1.2,
+   "box": [
+    0.434,
+    0.459,
+    0.573,
+    0.53
+   ],
+   "h": 0.109,
+   "conf": 0.85,
+   "text_colour": "#3a4af2",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 14.4,
+   "t1": 15.6,
+   "dur": 1.2,
+   "box": [
+    0.439,
+    0.359,
+    0.568,
+    0.428
+   ],
+   "h": 0.078,
+   "conf": 0.87,
+   "text_colour": "#424ae9",
+   "bg_colour": "#edecf9",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 14.6,
+   "t1": 14.8,
+   "dur": 0.2,
+   "box": [
+    0.302,
+    0.726,
+    0.438,
+    0.8
+   ],
+   "h": 0.074,
+   "conf": 0.73,
+   "text_colour": "#e9e9ef",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 14.6,
+   "t1": 14.8,
+   "dur": 0.2,
+   "box": [
+    0.564,
+    0.728,
+    0.698,
+    0.796
+   ],
+   "h": 0.069,
+   "conf": 0.82,
+   "text_colour": "#271806",
+   "bg_colour": "#f4c464",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 14.8,
+   "t1": 15.6,
+   "dur": 0.8,
+   "box": [
+    0.319,
+    0.646,
+    0.442,
+    0.707
+   ],
+   "h": 0.069,
+   "conf": 0.83,
+   "text_colour": "#e9e9ee",
+   "bg_colour": "#161617",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 14.8,
+   "t1": 15.6,
+   "dur": 0.8,
+   "box": [
+    0.557,
+    0.643,
+    0.683,
+    0.711
+   ],
+   "h": 0.07,
+   "conf": 0.85,
+   "text_colour": "#2a1709",
+   "bg_colour": "#f4c465",
+   "grew": false
+  },
+  {
+   "text": "Neue Haas Grotesk",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.051,
+    0.078,
+    0.377,
+    0.139
+   ],
+   "h": 0.061,
+   "conf": 0.9,
+   "text_colour": "#e0ecff",
+   "bg_colour": "#344afb",
+   "grew": false
+  },
+  {
+   "text": "DisplayPro",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.051,
+    0.143,
+    0.241,
+    0.215
+   ],
+   "h": 0.072,
+   "conf": 0.84,
+   "text_colour": "#e0edff",
+   "bg_colour": "#3449fc",
+   "grew": false
+  },
+  {
+   "text": "Roman&Medium",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.05,
+    0.626,
+    0.177,
+    0.656
+   ],
+   "h": 0.03,
+   "conf": 0.86,
+   "text_colour": "#bac9ff",
+   "bg_colour": "#374bf2",
+   "grew": false
+  },
+  {
+   "text": "AaBbCcDdEeFfGgHhliJjKk",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.05,
+    0.715,
+    0.275,
+    0.746
+   ],
+   "h": 0.031,
+   "conf": 0.92,
+   "text_colour": "#a9bbff",
+   "bg_colour": "#364af4",
+   "grew": false
+  },
+  {
+   "text": "LI MmNnOoPpQgRrSsTtUu",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.049,
+    0.752,
+    0.272,
+    0.789
+   ],
+   "h": 0.037,
+   "conf": 0.87,
+   "text_colour": "#a4b7ff",
+   "bg_colour": "#364af9",
+   "grew": false
+  },
+  {
+   "text": "VvWwXxYyZz",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.05,
+    0.798,
+    0.165,
+    0.83
+   ],
+   "h": 0.043,
+   "conf": 0.84,
+   "text_colour": "#abbdff",
+   "bg_colour": "#354afb",
+   "grew": false
+  },
+  {
+   "text": "123456789!?",
+   "t0": 15.6,
+   "t1": 16.6,
+   "dur": 1.0,
+   "box": [
+    0.05,
+    0.88,
+    0.149,
+    0.915
+   ],
+   "h": 0.035,
+   "conf": 0.87,
+   "text_colour": "#a6b9ff",
+   "bg_colour": "#3549f5",
+   "grew": false
+  },
+  {
+   "text": "#475EFF",
+   "t0": 16.6,
+   "t1": 17.0,
+   "dur": 0.4,
+   "box": [
+    0.05,
+    0.391,
+    0.104,
+    0.419
+   ],
+   "h": 0.031,
+   "conf": 0.85,
+   "text_colour": "#90a6ff",
+   "bg_colour": "#354afa",
+   "grew": false
+  },
+  {
+   "text": "White",
+   "t0": 16.6,
+   "t1": 17.0,
+   "dur": 0.4,
+   "box": [
+    0.05,
+    0.502,
+    0.086,
+    0.533
+   ],
+   "h": 0.031,
+   "conf": 0.77,
+   "text_colour": "#7c7b86",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "Indigo",
+   "t0": 16.6,
+   "t1": 17.8,
+   "dur": 1.2,
+   "box": [
+    0.048,
+    0.043,
+    0.089,
+    0.081
+   ],
+   "h": 0.041,
+   "conf": 0.84,
+   "text_colour": "#91a1ff",
+   "bg_colour": "#354afb",
+   "grew": false
+  },
+  {
+   "text": "#F2F1FA",
+   "t0": 16.6,
+   "t1": 17.8,
+   "dur": 1.2,
+   "box": [
+    0.051,
+    0.926,
+    0.103,
+    0.954
+   ],
+   "h": 0.033,
+   "conf": 0.87,
+   "text_colour": "#6f6e78",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "Me",
+   "t0": 16.8,
+   "t1": 17.0,
+   "dur": 0.2,
+   "box": [
+    0.98,
+    0.041,
+    0.999,
+    0.074
+   ],
+   "h": 0.033,
+   "conf": 0.62,
+   "text_colour": "#8c6727",
+   "bg_colour": "#f2c561",
+   "grew": false
+  },
+  {
+   "text": "Bla",
+   "t0": 16.8,
+   "t1": 17.0,
+   "dur": 0.2,
+   "box": [
+    0.98,
+    0.502,
+    0.999,
+    0.531
+   ],
+   "h": 0.03,
+   "conf": 0.71,
+   "text_colour": "#838385",
+   "bg_colour": "#171719",
+   "grew": false
+  },
+  {
+   "text": "#23",
+   "t0": 16.8,
+   "t1": 17.0,
+   "dur": 0.2,
+   "box": [
+    0.977,
+    0.928,
+    0.999,
+    0.954
+   ],
+   "h": 0.026,
+   "conf": 0.73,
+   "text_colour": "#8f8f91",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "Melow",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.731,
+    0.041,
+    0.776,
+    0.074
+   ],
+   "h": 0.033,
+   "conf": 0.76,
+   "text_colour": "#8c6c2d",
+   "bg_colour": "#f3c464",
+   "grew": false
+  },
+  {
+   "text": "#475EFF",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.049,
+    0.293,
+    0.105,
+    0.328
+   ],
+   "h": 0.035,
+   "conf": 0.87,
+   "text_colour": "#91a6ff",
+   "bg_colour": "#354af9",
+   "grew": false
+  },
+  {
+   "text": "#F8CF77",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.734,
+    0.298,
+    0.79,
+    0.326
+   ],
+   "h": 0.028,
+   "conf": 0.85,
+   "text_colour": "#946b23",
+   "bg_colour": "#efc466",
+   "grew": false
+  },
+  {
+   "text": "White",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.049,
+    0.406,
+    0.086,
+    0.441
+   ],
+   "h": 0.035,
+   "conf": 0.78,
+   "text_colour": "#817f8b",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "Black",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.73,
+    0.404,
+    0.768,
+    0.439
+   ],
+   "h": 0.035,
+   "conf": 0.76,
+   "text_colour": "#818183",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "#232325",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.73,
+    0.928,
+    0.78,
+    0.952
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#949497",
+   "bg_colour": "#1c1c1f",
+   "grew": false
+  },
+  {
+   "text": "#475EFF",
+   "t0": 17.2,
+   "t1": 17.6,
+   "dur": 0.4,
+   "box": [
+    0.05,
+    0.189,
+    0.103,
+    0.217
+   ],
+   "h": 0.033,
+   "conf": 0.87,
+   "text_colour": "#8d9fff",
+   "bg_colour": "#364afa",
+   "grew": false
+  },
+  {
+   "text": "Black",
+   "t0": 17.2,
+   "t1": 17.6,
+   "dur": 0.4,
+   "box": [
+    0.578,
+    0.3,
+    0.615,
+    0.333
+   ],
+   "h": 0.033,
+   "conf": 0.82,
+   "text_colour": "#7f7f82",
+   "bg_colour": "#171719",
+   "grew": false
+  },
+  {
+   "text": "Mellow",
+   "t0": 17.2,
+   "t1": 17.8,
+   "dur": 0.6,
+   "box": [
+    0.551,
+    0.037,
+    0.596,
+    0.074
+   ],
+   "h": 0.039,
+   "conf": 0.83,
+   "text_colour": "#8a6627",
+   "bg_colour": "#f0c462",
+   "grew": false
+  },
+  {
+   "text": "#F8CF77",
+   "t0": 17.2,
+   "t1": 17.8,
+   "dur": 0.6,
+   "box": [
+    0.555,
+    0.241,
+    0.609,
+    0.269
+   ],
+   "h": 0.031,
+   "conf": 0.83,
+   "text_colour": "#976e27",
+   "bg_colour": "#f2c468",
+   "grew": false
+  },
+  {
+   "text": "White",
+   "t0": 17.2,
+   "t1": 17.8,
+   "dur": 0.6,
+   "box": [
+    0.05,
+    0.354,
+    0.086,
+    0.383
+   ],
+   "h": 0.033,
+   "conf": 0.82,
+   "text_colour": "#7b7a85",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "#232325",
+   "t0": 17.2,
+   "t1": 17.8,
+   "dur": 0.6,
+   "box": [
+    0.55,
+    0.928,
+    0.601,
+    0.952
+   ],
+   "h": 0.026,
+   "conf": 0.87,
+   "text_colour": "#8a8a8c",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "#475EFF",
+   "t0": 17.6,
+   "t1": 17.8,
+   "dur": 0.2,
+   "box": [
+    0.049,
+    0.235,
+    0.104,
+    0.272
+   ],
+   "h": 0.037,
+   "conf": 0.86,
+   "text_colour": "#92a2ff",
+   "bg_colour": "#3649f9",
+   "grew": false
+  },
+  {
+   "text": "Black",
+   "t0": 17.6,
+   "t1": 17.8,
+   "dur": 0.2,
+   "box": [
+    0.552,
+    0.352,
+    0.586,
+    0.381
+   ],
+   "h": 0.03,
+   "conf": 0.79,
+   "text_colour": "#8c8c8f",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "gmanagementsoftware,soyoud",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.0,
+    0.0,
+    0.202,
+    0.211
+   ],
+   "h": 0.211,
+   "conf": 0.82,
+   "text_colour": "#1b1716",
+   "bg_colour": "#caa04c",
+   "grew": false
+  },
+  {
+   "text": "Manage",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.407,
+    0.378,
+    0.61,
+    0.619
+   ],
+   "h": 0.241,
+   "conf": 0.69,
+   "text_colour": "#beb6b9",
+   "bg_colour": "#342d30",
+   "grew": false
+  },
+  {
+   "text": "yourcharging",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.45,
+    0.333,
+    0.757,
+    0.7
+   ],
+   "h": 0.367,
+   "conf": 0.82,
+   "text_colour": "#bbb3c1",
+   "bg_colour": "#37363e",
+   "grew": false
+  },
+  {
+   "text": "infrastructure",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.459,
+    0.424,
+    0.782,
+    0.813
+   ],
+   "h": 0.389,
+   "conf": 0.83,
+   "text_colour": "#bbbacb",
+   "bg_colour": "#303654",
+   "grew": false
+  },
+  {
+   "text": "Adaptabity",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.091,
+    0.746,
+    0.165,
+    0.843
+   ],
+   "h": 0.096,
+   "conf": 0.79,
+   "text_colour": "#847ee5",
+   "bg_colour": "#483eca",
+   "grew": false
+  },
+  {
+   "text": "withvaylens.",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.492,
+    0.522,
+    0.807,
+    0.9
+   ],
+   "h": 0.378,
+   "conf": 0.85,
+   "text_colour": "#c0c1cd",
+   "bg_colour": "#2e3670",
+   "grew": false
+  },
+  {
+   "text": "givingyo",
+   "t0": 17.8,
+   "t1": 18.0,
+   "dur": 0.2,
+   "box": [
+    0.691,
+    0.898,
+    0.742,
+    0.998
+   ],
+   "h": 0.1,
+   "conf": 0.76,
+   "text_colour": "#696670",
+   "bg_colour": "#c5c3cc",
+   "grew": false
+  },
+  {
+   "text": "get onwiththerestofyourjob.",
+   "t0": 17.8,
+   "t1": 18.6,
+   "dur": 0.8,
+   "box": [
+    0.0,
+    0.193,
+    0.153,
+    0.359
+   ],
+   "h": 0.167,
+   "conf": 0.83,
+   "text_colour": "#583114",
+   "bg_colour": "#c9a04c",
+   "grew": true,
+   "first_text": "stofyourjob."
+  },
+  {
+   "text": "intoyour",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.633,
+    0.006,
+    0.757,
+    0.15
+   ],
+   "h": 0.144,
+   "conf": 0.87,
+   "text_colour": "#c2a1ae",
+   "bg_colour": "#815162",
+   "grew": false
+  },
+  {
+   "text": "long-termsu",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.65,
+    0.0,
+    0.836,
+    0.22
+   ],
+   "h": 0.22,
+   "conf": 0.9,
+   "text_colour": "#c9a5b3",
+   "bg_colour": "#824b5e",
+   "grew": false
+  },
+  {
+   "text": "Manage",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.361,
+    0.511,
+    0.554,
+    0.735
+   ],
+   "h": 0.239,
+   "conf": 0.84,
+   "text_colour": "#bdb4b7",
+   "bg_colour": "#352d30",
+   "grew": false
+  },
+  {
+   "text": "lourcharging",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.404,
+    0.472,
+    0.691,
+    0.809
+   ],
+   "h": 0.363,
+   "conf": 0.87,
+   "text_colour": "#baafc0",
+   "bg_colour": "#38363f",
+   "grew": false
+  },
+  {
+   "text": "Success",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.219,
+    0.717,
+    0.273,
+    0.785
+   ],
+   "h": 0.07,
+   "conf": 0.86,
+   "text_colour": "#6c76ec",
+   "bg_colour": "#363cd0",
+   "grew": false
+  },
+  {
+   "text": "infrastructure",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.41,
+    0.552,
+    0.717,
+    0.922
+   ],
+   "h": 0.381,
+   "conf": 0.92,
+   "text_colour": "#bbb9cd",
+   "bg_colour": "#313754",
+   "grew": false
+  },
+  {
+   "text": "Adaptability",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.098,
+    0.824,
+    0.166,
+    0.909
+   ],
+   "h": 0.096,
+   "conf": 0.85,
+   "text_colour": "#857eeb",
+   "bg_colour": "#483ecb",
+   "grew": false
+  },
+  {
+   "text": "withvaylens",
+   "t0": 18.0,
+   "t1": 18.6,
+   "dur": 0.6,
+   "box": [
+    0.442,
+    0.648,
+    0.739,
+    0.998
+   ],
+   "h": 0.378,
+   "conf": 0.9,
+   "text_colour": "#c5c4cf",
+   "bg_colour": "#2f3674",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 18.2,
+   "t1": 18.6,
+   "dur": 0.4,
+   "box": [
+    0.456,
+    0.0,
+    0.524,
+    0.089
+   ],
+   "h": 0.089,
+   "conf": 0.84,
+   "text_colour": "#605945",
+   "bg_colour": "#c8b5ac",
+   "grew": false
+  },
+  {
+   "text": "techno",
+   "t0": 18.2,
+   "t1": 18.6,
+   "dur": 0.4,
+   "box": [
+    0.683,
+    0.917,
+    0.724,
+    0.998
+   ],
+   "h": 0.081,
+   "conf": 0.83,
+   "text_colour": "#66626d",
+   "bg_colour": "#c8c4cd",
+   "grew": false
+  },
+  {
+   "text": "elec",
+   "t0": 18.4,
+   "t1": 18.6,
+   "dur": 0.2,
+   "box": [
+    0.616,
+    0.006,
+    0.678,
+    0.093
+   ],
+   "h": 0.087,
+   "conf": 0.77,
+   "text_colour": "#c49ea0",
+   "bg_colour": "#8c5759",
+   "grew": false
+  },
+  {
+   "text": "gmanagementsoftware,soyoucan",
+   "t0": 18.4,
+   "t1": 18.6,
+   "dur": 0.2,
+   "box": [
+    0.066,
+    0.044,
+    0.277,
+    0.263
+   ],
+   "h": 0.219,
+   "conf": 0.82,
+   "text_colour": "#412116",
+   "bg_colour": "#cca14c",
+   "grew": false
+  },
+  {
+   "text": "Thecharging",
+   "t0": 19.0,
+   "t1": 19.2,
+   "dur": 0.2,
+   "box": [
+    0.195,
+    0.226,
+    0.515,
+    0.331
+   ],
+   "h": 0.106,
+   "conf": 0.89,
+   "text_colour": "#e0d9fa",
+   "bg_colour": "#6860c8",
+   "grew": false
+  },
+  {
+   "text": "managementsoftware",
+   "t0": 19.0,
+   "t1": 19.2,
+   "dur": 0.2,
+   "box": [
+    0.19,
+    0.341,
+    0.745,
+    0.437
+   ],
+   "h": 0.096,
+   "conf": 0.86,
+   "text_colour": "#e6dbf9",
+   "bg_colour": "#8458b6",
+   "grew": false
+  },
+  {
+   "text": "thatmakeselectric",
+   "t0": 19.0,
+   "t1": 19.2,
+   "dur": 0.2,
+   "box": [
+    0.195,
+    0.452,
+    0.657,
+    0.533
+   ],
+   "h": 0.081,
+   "conf": 0.92,
+   "text_colour": "#e0e0ff",
+   "bg_colour": "#5d4cd2",
+   "grew": false
+  },
+  {
+   "text": "mobilityaccessible",
+   "t0": 19.0,
+   "t1": 19.2,
+   "dur": 0.2,
+   "box": [
+    0.192,
+    0.554,
+    0.655,
+    0.65
+   ],
+   "h": 0.096,
+   "conf": 0.93,
+   "text_colour": "#e4ddff",
+   "bg_colour": "#5849d9",
+   "grew": false
+  },
+  {
+   "text": "to all.",
+   "t0": 19.0,
+   "t1": 19.2,
+   "dur": 0.2,
+   "box": [
+    0.19,
+    0.656,
+    0.316,
+    0.754
+   ],
+   "h": 0.098,
+   "conf": 0.82,
+   "text_colour": "#d7e6ff",
+   "bg_colour": "#2530fb",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 19.0,
+   "t1": 19.2,
+   "dur": 0.2,
+   "box": [
+    0.683,
+    0.741,
+    0.754,
+    0.778
+   ],
+   "h": 0.037,
+   "conf": 0.86,
+   "text_colour": "#ffccbd",
+   "bg_colour": "#ed603d",
+   "grew": false
+  },
+  {
+   "text": "Adaptability",
+   "t0": 19.2,
+   "t1": 19.6,
+   "dur": 0.4,
+   "box": [
+    0.23,
+    0.459,
+    0.577,
+    0.583
+   ],
+   "h": 0.146,
+   "conf": 0.9,
+   "text_colour": "#f6f2e9",
+   "bg_colour": "#422f1f",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 19.2,
+   "t1": 19.8,
+   "dur": 0.6,
+   "box": [
+    0.67,
+    0.272,
+    0.713,
+    0.294
+   ],
+   "h": 0.022,
+   "conf": 0.86,
+   "text_colour": "#818c8d",
+   "bg_colour": "#b9c6c9",
+   "grew": false
+  },
+  {
+   "text": "Success",
+   "t0": 19.6,
+   "t1": 19.8,
+   "dur": 0.2,
+   "box": [
+    0.252,
+    0.607,
+    0.491,
+    0.7
+   ],
+   "h": 0.093,
+   "conf": 0.8,
+   "text_colour": "#251208",
+   "bg_colour": "#f4be5a",
+   "grew": false
+  },
+  {
+   "text": "vayiens",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.254,
+    0.311,
+    0.295,
+    0.337
+   ],
+   "h": 0.026,
+   "conf": 0.82,
+   "text_colour": "#8f90d9",
+   "bg_colour": "#f9fbff",
+   "grew": false
+  },
+  {
+   "text": "Manage",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.274,
+    0.398,
+    0.344,
+    0.435
+   ],
+   "h": 0.037,
+   "conf": 0.84,
+   "text_colour": "#565656",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "andmonetise",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.278,
+    0.422,
+    0.391,
+    0.469
+   ],
+   "h": 0.046,
+   "conf": 0.91,
+   "text_colour": "#545454",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "yourEVchargers",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.281,
+    0.45,
+    0.426,
+    0.506
+   ],
+   "h": 0.056,
+   "conf": 0.89,
+   "text_colour": "#505050",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "200",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.465,
+    0.513,
+    0.501,
+    0.556
+   ],
+   "h": 0.043,
+   "conf": 0.75,
+   "text_colour": "#383836",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Ourpartners",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.306,
+    0.641,
+    0.384,
+    0.678
+   ],
+   "h": 0.039,
+   "conf": 0.88,
+   "text_colour": "#767576",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "()SCAPO",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.605,
+    0.654,
+    0.661,
+    0.693
+   ],
+   "h": 0.039,
+   "conf": 0.73,
+   "text_colour": "#6b6b6b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "AUTEL",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.312,
+    0.685,
+    0.37,
+    0.724
+   ],
+   "h": 0.041,
+   "conf": 0.82,
+   "text_colour": "#3a3a3a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "EVBOX",
+   "t0": 19.8,
+   "t1": 20.2,
+   "dur": 0.4,
+   "box": [
+    0.46,
+    0.669,
+    0.519,
+    0.709
+   ],
+   "h": 0.041,
+   "conf": 0.83,
+   "text_colour": "#434343",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "It's",
+   "t0": 20.2,
+   "t1": 20.4,
+   "dur": 0.2,
+   "box": [
+    0.24,
+    0.552,
+    0.289,
+    0.624
+   ],
+   "h": 0.072,
+   "conf": 0.69,
+   "text_colour": "#d6cbff",
+   "bg_colour": "#543edd",
+   "grew": false
+  },
+  {
+   "text": "It's a charging management software",
+   "t0": 20.4,
+   "t1": 22.4,
+   "dur": 2.0,
+   "box": [
+    0.199,
+    0.456,
+    0.799,
+    0.528
+   ],
+   "h": 0.104,
+   "conf": 0.95,
+   "text_colour": "#ded6ff",
+   "bg_colour": "#7060f4",
+   "grew": true,
+   "first_text": "It'sa"
+  },
+  {
+   "text": "It's a chargin",
+   "t0": 22.4,
+   "t1": 22.6,
+   "dur": 0.2,
+   "box": [
+    0.119,
+    0.441,
+    0.365,
+    0.535
+   ],
+   "h": 0.094,
+   "conf": 0.89,
+   "text_colour": "#e6cffb",
+   "bg_colour": "#8a6dcb",
+   "grew": false
+  },
+  {
+   "text": "ftware",
+   "t0": 22.4,
+   "t1": 22.6,
+   "dur": 0.2,
+   "box": [
+    0.756,
+    0.444,
+    0.909,
+    0.535
+   ],
+   "h": 0.091,
+   "conf": 0.85,
+   "text_colour": "#e6e0ff",
+   "bg_colour": "#7a6cef",
+   "grew": false
+  },
+  {
+   "text": "ianagement",
+   "t0": 22.4,
+   "t1": 22.6,
+   "dur": 0.2,
+   "box": [
+    0.522,
+    0.459,
+    0.703,
+    0.526
+   ],
+   "h": 0.067,
+   "conf": 0.86,
+   "text_colour": "#ecccd0",
+   "bg_colour": "#866678",
+   "grew": false
+  },
+  {
+   "text": "245",
+   "t0": 23.0,
+   "t1": 23.2,
+   "dur": 0.2,
+   "box": [
+    0.357,
+    0.365,
+    0.389,
+    0.4
+   ],
+   "h": 0.035,
+   "conf": 0.71,
+   "text_colour": "#7d5a48",
+   "bg_colour": "#caa591",
+   "grew": false
+  },
+  {
+   "text": "224",
+   "t0": 23.0,
+   "t1": 23.2,
+   "dur": 0.2,
+   "box": [
+    0.467,
+    0.369,
+    0.498,
+    0.404
+   ],
+   "h": 0.035,
+   "conf": 0.63,
+   "text_colour": "#8b6754",
+   "bg_colour": "#c39e8d",
+   "grew": false
+  },
+  {
+   "text": "Dashboard",
+   "t0": 23.0,
+   "t1": 24.0,
+   "dur": 1.0,
+   "box": [
+    0.336,
+    0.272,
+    0.408,
+    0.298
+   ],
+   "h": 0.03,
+   "conf": 0.89,
+   "text_colour": "#765e51",
+   "bg_colour": "#b79688",
+   "grew": false
+  },
+  {
+   "text": "vayliens",
+   "t0": 23.0,
+   "t1": 25.2,
+   "dur": 2.2,
+   "box": [
+    0.212,
+    0.231,
+    0.252,
+    0.256
+   ],
+   "h": 0.024,
+   "conf": 0.85,
+   "text_colour": "#bcadae",
+   "bg_colour": "#7b6866",
+   "grew": false
+  },
+  {
+   "text": "254",
+   "t0": 23.2,
+   "t1": 23.4,
+   "dur": 0.2,
+   "box": [
+    0.351,
+    0.348,
+    0.384,
+    0.383
+   ],
+   "h": 0.035,
+   "conf": 0.69,
+   "text_colour": "#735343",
+   "bg_colour": "#cca897",
+   "grew": false
+  },
+  {
+   "text": "234",
+   "t0": 23.2,
+   "t1": 23.4,
+   "dur": 0.2,
+   "box": [
+    0.465,
+    0.346,
+    0.499,
+    0.387
+   ],
+   "h": 0.041,
+   "conf": 0.69,
+   "text_colour": "#6c5348",
+   "bg_colour": "#c5a89b",
+   "grew": false
+  },
+  {
+   "text": "144",
+   "t0": 23.2,
+   "t1": 23.4,
+   "dur": 0.2,
+   "box": [
+    0.691,
+    0.352,
+    0.72,
+    0.383
+   ],
+   "h": 0.031,
+   "conf": 0.75,
+   "text_colour": "#5a5257",
+   "bg_colour": "#c2b5b4",
+   "grew": false
+  },
+  {
+   "text": "27",
+   "t0": 23.2,
+   "t1": 23.4,
+   "dur": 0.2,
+   "box": [
+    0.69,
+    0.433,
+    0.715,
+    0.472
+   ],
+   "h": 0.039,
+   "conf": 0.66,
+   "text_colour": "#6e5345",
+   "bg_colour": "#bea496",
+   "grew": false
+  },
+  {
+   "text": "172",
+   "t0": 23.4,
+   "t1": 23.6,
+   "dur": 0.2,
+   "box": [
+    0.698,
+    0.344,
+    0.724,
+    0.374
+   ],
+   "h": 0.03,
+   "conf": 0.61,
+   "text_colour": "#5e5a62",
+   "bg_colour": "#c5c2c6",
+   "grew": false
+  },
+  {
+   "text": "255",
+   "t0": 23.4,
+   "t1": 24.2,
+   "dur": 0.8,
+   "box": [
+    0.34,
+    0.333,
+    0.373,
+    0.37
+   ],
+   "h": 0.041,
+   "conf": 0.75,
+   "text_colour": "#755344",
+   "bg_colour": "#cca998",
+   "grew": false
+  },
+  {
+   "text": "237",
+   "t0": 23.6,
+   "t1": 24.0,
+   "dur": 0.4,
+   "box": [
+    0.464,
+    0.335,
+    0.496,
+    0.372
+   ],
+   "h": 0.037,
+   "conf": 0.7,
+   "text_colour": "#67574c",
+   "bg_colour": "#c4aea4",
+   "grew": false
+  },
+  {
+   "text": "175",
+   "t0": 23.6,
+   "t1": 24.2,
+   "dur": 0.6,
+   "box": [
+    0.708,
+    0.333,
+    0.739,
+    0.37
+   ],
+   "h": 0.037,
+   "conf": 0.75,
+   "text_colour": "#5e5e66",
+   "bg_colour": "#c5c3c9",
+   "grew": false
+  },
+  {
+   "text": "Mondor",
+   "t0": 23.8,
+   "t1": 24.0,
+   "dur": 0.2,
+   "box": [
+    0.211,
+    0.269,
+    0.237,
+    0.289
+   ],
+   "h": 0.02,
+   "conf": 0.68,
+   "text_colour": "#6b5a53",
+   "bg_colour": "#9b8a83",
+   "grew": false
+  },
+  {
+   "text": "Dunboord",
+   "t0": 23.8,
+   "t1": 24.0,
+   "dur": 0.2,
+   "box": [
+    0.206,
+    0.309,
+    0.257,
+    0.328
+   ],
+   "h": 0.019,
+   "conf": 0.72,
+   "text_colour": "#938aa2",
+   "bg_colour": "#c9c1cc",
+   "grew": false
+  },
+  {
+   "text": "32",
+   "t0": 24.0,
+   "t1": 24.2,
+   "dur": 0.2,
+   "box": [
+    0.708,
+    0.428,
+    0.733,
+    0.461
+   ],
+   "h": 0.033,
+   "conf": 0.67,
+   "text_colour": "#61483b",
+   "bg_colour": "#c2a69b",
+   "grew": false
+  },
+  {
+   "text": "Charging Records",
+   "t0": 24.2,
+   "t1": 25.2,
+   "dur": 1.0,
+   "box": [
+    0.325,
+    0.207,
+    0.449,
+    0.248
+   ],
+   "h": 0.041,
+   "conf": 0.92,
+   "text_colour": "#525e6b",
+   "bg_colour": "#a2b0bd",
+   "grew": false
+  },
+  {
+   "text": "Rocords",
+   "t0": 24.2,
+   "t1": 25.2,
+   "dur": 1.0,
+   "box": [
+    0.341,
+    0.315,
+    0.383,
+    0.339
+   ],
+   "h": 0.028,
+   "conf": 0.86,
+   "text_colour": "#60707c",
+   "bg_colour": "#9eaebb",
+   "grew": false
+  },
+  {
+   "text": "Montx",
+   "t0": 24.4,
+   "t1": 24.6,
+   "dur": 0.2,
+   "box": [
+    0.182,
+    0.254,
+    0.228,
+    0.281
+   ],
+   "h": 0.028,
+   "conf": 0.73,
+   "text_colour": "#946d5e",
+   "bg_colour": "#c9a194",
+   "grew": false
+  },
+  {
+   "text": "l Monitor",
+   "t0": 24.6,
+   "t1": 25.2,
+   "dur": 0.6,
+   "box": [
+    0.183,
+    0.257,
+    0.224,
+    0.276
+   ],
+   "h": 0.019,
+   "conf": 0.71,
+   "text_colour": "#926a5b",
+   "bg_colour": "#bd9b93",
+   "grew": false
+  },
+  {
+   "text": "Cargrgrecords",
+   "t0": 25.0,
+   "t1": 25.2,
+   "dur": 0.2,
+   "box": [
+    0.186,
+    0.339,
+    0.261,
+    0.359
+   ],
+   "h": 0.02,
+   "conf": 0.79,
+   "text_colour": "#9e9eb7",
+   "bg_colour": "#dddeed",
+   "grew": false
+  },
+  {
+   "text": "Chengng Recunds",
+   "t0": 25.2,
+   "t1": 25.4,
+   "dur": 0.2,
+   "box": [
+    0.324,
+    0.007,
+    0.448,
+    0.039
+   ],
+   "h": 0.031,
+   "conf": 0.71,
+   "text_colour": "#353b41",
+   "bg_colour": "#5d6268",
+   "grew": false
+  },
+  {
+   "text": "with every business",
+   "t0": 25.4,
+   "t1": 26.6,
+   "dur": 1.2,
+   "box": [
+    0.278,
+    0.441,
+    0.721,
+    0.528
+   ],
+   "h": 0.111,
+   "conf": 0.92,
+   "text_colour": "#ebebee",
+   "bg_colour": "#141417",
+   "grew": true,
+   "first_text": "with every"
+  },
+  {
+   "text": "with every",
+   "t0": 26.6,
+   "t1": 26.8,
+   "dur": 0.2,
+   "box": [
+    0.283,
+    0.437,
+    0.516,
+    0.526
+   ],
+   "h": 0.089,
+   "conf": 0.87,
+   "text_colour": "#dedee2",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "business",
+   "t0": 26.6,
+   "t1": 26.8,
+   "dur": 0.2,
+   "box": [
+    0.53,
+    0.448,
+    0.714,
+    0.517
+   ],
+   "h": 0.069,
+   "conf": 0.89,
+   "text_colour": "#dfdfe5",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "don't have",
+   "t0": 27.8,
+   "t1": 28.6,
+   "dur": 0.8,
+   "box": [
+    0.412,
+    0.465,
+    0.583,
+    0.548
+   ],
+   "h": 0.083,
+   "conf": 0.83,
+   "text_colour": "#cbd1d1",
+   "bg_colour": "#606564",
+   "grew": true,
+   "first_text": "don't"
+  },
+  {
+   "text": "don't have resources",
+   "t0": 28.6,
+   "t1": 29.6,
+   "dur": 1.0,
+   "box": [
+    0.328,
+    0.437,
+    0.662,
+    0.498
+   ],
+   "h": 0.089,
+   "conf": 0.93,
+   "text_colour": "#d4d8da",
+   "bg_colour": "#3e4141",
+   "grew": false
+  },
+  {
+   "text": "invest in",
+   "t0": 29.6,
+   "t1": 31.4,
+   "dur": 1.8,
+   "box": [
+    0.052,
+    0.104,
+    0.226,
+    0.178
+   ],
+   "h": 0.091,
+   "conf": 0.89,
+   "text_colour": "#e8e8ed",
+   "bg_colour": "#141418",
+   "grew": true,
+   "first_text": "invest"
+  },
+  {
+   "text": "electric mobility",
+   "t0": 30.2,
+   "t1": 31.4,
+   "dur": 1.2,
+   "box": [
+    0.052,
+    0.183,
+    0.399,
+    0.28
+   ],
+   "h": 0.104,
+   "conf": 0.91,
+   "text_colour": "#e5ddde",
+   "bg_colour": "#14141a",
+   "grew": true,
+   "first_text": "electric"
+  },
+  {
+   "text": "electric mobility",
+   "t0": 31.4,
+   "t1": 31.8,
+   "dur": 0.4,
+   "box": [
+    0.051,
+    0.496,
+    0.398,
+    0.589
+   ],
+   "h": 0.094,
+   "conf": 0.87,
+   "text_colour": "#e8e8ee",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "invest in",
+   "t0": 31.4,
+   "t1": 32.0,
+   "dur": 0.6,
+   "box": [
+    0.052,
+    0.404,
+    0.226,
+    0.481
+   ],
+   "h": 0.078,
+   "conf": 0.8,
+   "text_colour": "#e8e8ed",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "in",
+   "t0": 31.6,
+   "t1": 31.8,
+   "dur": 0.2,
+   "box": [
+    0.165,
+    0.419,
+    0.216,
+    0.483
+   ],
+   "h": 0.065,
+   "conf": 0.66,
+   "text_colour": "#dedee2",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "electric",
+   "t0": 31.8,
+   "t1": 32.0,
+   "dur": 0.2,
+   "box": [
+    0.001,
+    0.504,
+    0.151,
+    0.58
+   ],
+   "h": 0.076,
+   "conf": 0.88,
+   "text_colour": "#e8e8ed",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "mobility",
+   "t0": 31.8,
+   "t1": 32.0,
+   "dur": 0.2,
+   "box": [
+    0.178,
+    0.496,
+    0.359,
+    0.591
+   ],
+   "h": 0.094,
+   "conf": 0.79,
+   "text_colour": "#e7e7ec",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "product",
+   "t0": 34.6,
+   "t1": 35.0,
+   "dur": 0.4,
+   "box": [
+    0.253,
+    0.802,
+    0.376,
+    0.87
+   ],
+   "h": 0.069,
+   "conf": 0.81,
+   "text_colour": "#dfdfe2",
+   "bg_colour": "#3f3f43",
+   "grew": true,
+   "first_text": "pror"
+  },
+  {
+   "text": "product",
+   "t0": 35.0,
+   "t1": 35.2,
+   "dur": 0.2,
+   "box": [
+    0.252,
+    0.698,
+    0.402,
+    0.781
+   ],
+   "h": 0.083,
+   "conf": 0.83,
+   "text_colour": "#ededf0",
+   "bg_colour": "#3f3f43",
+   "grew": false
+  },
+  {
+   "text": "product",
+   "t0": 35.2,
+   "t1": 36.4,
+   "dur": 1.2,
+   "box": [
+    0.265,
+    0.591,
+    0.398,
+    0.659
+   ],
+   "h": 0.078,
+   "conf": 0.84,
+   "text_colour": "#e8e8ec",
+   "bg_colour": "#3f3f43",
+   "grew": false
+  },
+  {
+   "text": "partner",
+   "t0": 35.4,
+   "t1": 36.4,
+   "dur": 1.0,
+   "box": [
+    0.652,
+    0.38,
+    0.777,
+    0.448
+   ],
+   "h": 0.074,
+   "conf": 0.86,
+   "text_colour": "#cacdd7",
+   "bg_colour": "#656870",
+   "grew": true,
+   "first_text": "part"
+  },
+  {
+   "text": "partner",
+   "t0": 36.4,
+   "t1": 36.8,
+   "dur": 0.4,
+   "box": [
+    0.662,
+    0.187,
+    0.717,
+    0.224
+   ],
+   "h": 0.044,
+   "conf": 0.8,
+   "text_colour": "#c6c8cd",
+   "bg_colour": "#595b60",
+   "grew": false
+  },
+  {
+   "text": "product",
+   "t0": 36.4,
+   "t1": 36.8,
+   "dur": 0.4,
+   "box": [
+    0.254,
+    0.356,
+    0.416,
+    0.443
+   ],
+   "h": 0.087,
+   "conf": 0.86,
+   "text_colour": "#ececef",
+   "bg_colour": "#3f3f43",
+   "grew": false
+  },
+  {
+   "text": "partner",
+   "t0": 36.8,
+   "t1": 37.0,
+   "dur": 0.2,
+   "box": [
+    0.671,
+    0.27,
+    0.72,
+    0.302
+   ],
+   "h": 0.031,
+   "conf": 0.86,
+   "text_colour": "#adb3b9",
+   "bg_colour": "#646873",
+   "grew": false
+  },
+  {
+   "text": "product",
+   "t0": 36.8,
+   "t1": 37.0,
+   "dur": 0.2,
+   "box": [
+    0.239,
+    0.415,
+    0.401,
+    0.5
+   ],
+   "h": 0.085,
+   "conf": 0.83,
+   "text_colour": "#f0f0f4",
+   "bg_colour": "#3f3f43",
+   "grew": false
+  },
+  {
+   "text": "as",
+   "t0": 37.2,
+   "t1": 37.6,
+   "dur": 0.4,
+   "box": [
+    0.154,
+    0.539,
+    0.195,
+    0.591
+   ],
+   "h": 0.052,
+   "conf": 0.67,
+   "text_colour": "#c2d3ff",
+   "bg_colour": "#364afb",
+   "grew": false
+  },
+  {
+   "text": "astheneedtouseelectriccarsbecomesthenorm",
+   "t0": 37.6,
+   "t1": 40.4,
+   "dur": 2.8,
+   "box": [
+    0.233,
+    0.47,
+    0.767,
+    0.509
+   ],
+   "h": 0.104,
+   "conf": 0.92,
+   "text_colour": "#bccaff",
+   "bg_colour": "#334afd",
+   "grew": true,
+   "first_text": "as theneed to"
+  },
+  {
+   "text": "the way we",
+   "t0": 40.4,
+   "t1": 42.0,
+   "dur": 1.6,
+   "box": [
+    0.15,
+    0.461,
+    0.311,
+    0.522
+   ],
+   "h": 0.061,
+   "conf": 0.89,
+   "text_colour": "#676ccd",
+   "bg_colour": "#ececf9",
+   "grew": false
+  },
+  {
+   "text": "recharge them",
+   "t0": 40.4,
+   "t1": 42.0,
+   "dur": 1.6,
+   "box": [
+    0.667,
+    0.461,
+    0.874,
+    0.52
+   ],
+   "h": 0.059,
+   "conf": 0.92,
+   "text_colour": "#7a7cd6",
+   "bg_colour": "#ebecfd",
+   "grew": false
+  },
+  {
+   "text": "shouldn't",
+   "t0": 42.0,
+   "t1": 42.2,
+   "dur": 0.2,
+   "box": [
+    0.249,
+    0.396,
+    0.757,
+    0.563
+   ],
+   "h": 0.167,
+   "conf": 0.82,
+   "text_colour": "#384af2",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "be",
+   "t0": 42.2,
+   "t1": 42.4,
+   "dur": 0.2,
+   "box": [
+    0.435,
+    0.389,
+    0.57,
+    0.567
+   ],
+   "h": 0.178,
+   "conf": 0.66,
+   "text_colour": "#3a49f5",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "readache",
+   "t0": 42.6,
+   "t1": 42.8,
+   "dur": 0.2,
+   "box": [
+    0.201,
+    0.372,
+    0.782,
+    0.569
+   ],
+   "h": 0.196,
+   "conf": 0.71,
+   "text_colour": "#ededf3",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "sdaca",
+   "t0": 42.8,
+   "t1": 43.0,
+   "dur": 0.2,
+   "box": [
+    0.353,
+    0.365,
+    0.895,
+    0.589
+   ],
+   "h": 0.224,
+   "conf": 0.62,
+   "text_colour": "#ededf4",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "nea",
+   "t0": 42.8,
+   "t1": 43.0,
+   "dur": 0.2,
+   "box": [
+    0.141,
+    0.411,
+    0.392,
+    0.574
+   ],
+   "h": 0.163,
+   "conf": 0.71,
+   "text_colour": "#ededf4",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "heaoadu",
+   "t0": 43.0,
+   "t1": 43.8,
+   "dur": 0.8,
+   "box": [
+    0.124,
+    0.363,
+    0.783,
+    0.585
+   ],
+   "h": 0.222,
+   "conf": 0.79,
+   "text_colour": "#eeedf4",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "heaq",
+   "t0": 43.8,
+   "t1": 44.0,
+   "dur": 0.2,
+   "box": [
+    0.125,
+    0.394,
+    0.471,
+    0.587
+   ],
+   "h": 0.193,
+   "conf": 0.67,
+   "text_colour": "#ededf5",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "hc",
+   "t0": 43.8,
+   "t1": 44.0,
+   "dur": 0.2,
+   "box": [
+    0.622,
+    0.441,
+    0.8,
+    0.567
+   ],
+   "h": 0.126,
+   "conf": 0.65,
+   "text_colour": "#edecf5",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "At v aylen",
+   "t0": 44.0,
+   "t1": 45.0,
+   "dur": 1.0,
+   "box": [
+    0.13,
+    0.352,
+    0.999,
+    0.741
+   ],
+   "h": 0.389,
+   "conf": 0.9,
+   "text_colour": "#d7e0ff",
+   "bg_colour": "#334afd",
+   "grew": false
+  },
+  {
+   "text": "tools",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.652,
+    0.606,
+    0.765,
+    0.691
+   ],
+   "h": 0.085,
+   "conf": 0.83,
+   "text_colour": "#e6e6ea",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "tools",
+   "t0": 45.6,
+   "t1": 46.2,
+   "dur": 0.6,
+   "box": [
+    0.526,
+    0.365,
+    0.633,
+    0.441
+   ],
+   "h": 0.081,
+   "conf": 0.82,
+   "text_colour": "#e5e5e9",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "tools",
+   "t0": 46.2,
+   "t1": 46.4,
+   "dur": 0.2,
+   "box": [
+    0.302,
+    0.261,
+    0.379,
+    0.322
+   ],
+   "h": 0.061,
+   "conf": 0.79,
+   "text_colour": "#cdcdd3",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "services",
+   "t0": 46.4,
+   "t1": 46.6,
+   "dur": 0.2,
+   "box": [
+    0.558,
+    0.733,
+    0.674,
+    0.787
+   ],
+   "h": 0.054,
+   "conf": 0.8,
+   "text_colour": "#cccccf",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "tools",
+   "t0": 46.4,
+   "t1": 47.6,
+   "dur": 1.2,
+   "box": [
+    0.135,
+    0.372,
+    0.202,
+    0.42
+   ],
+   "h": 0.057,
+   "conf": 0.83,
+   "text_colour": "#cacad0",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "services",
+   "t0": 46.6,
+   "t1": 47.6,
+   "dur": 1.0,
+   "box": [
+    0.605,
+    0.656,
+    0.713,
+    0.696
+   ],
+   "h": 0.05,
+   "conf": 0.87,
+   "text_colour": "#c8c8ca",
+   "bg_colour": "#141418",
+   "grew": false
+  },
+  {
+   "text": "easy",
+   "t0": 47.6,
+   "t1": 48.0,
+   "dur": 0.4,
+   "box": [
+    0.34,
+    0.22,
+    0.688,
+    0.48
+   ],
+   "h": 0.263,
+   "conf": 0.75,
+   "text_colour": "#ececfa",
+   "bg_colour": "#334afd",
+   "grew": false
+  },
+  {
+   "text": "as",
+   "t0": 47.6,
+   "t1": 48.0,
+   "dur": 0.4,
+   "box": [
+    0.16,
+    0.543,
+    0.327,
+    0.728
+   ],
+   "h": 0.185,
+   "conf": 0.66,
+   "text_colour": "#ececfb",
+   "bg_colour": "#334afd",
+   "grew": false
+  },
+  {
+   "text": "easy",
+   "t0": 48.0,
+   "t1": 48.2,
+   "dur": 0.2,
+   "box": [
+    0.31,
+    0.404,
+    0.694,
+    0.663
+   ],
+   "h": 0.259,
+   "conf": 0.74,
+   "text_colour": "#edecfa",
+   "bg_colour": "#334afd",
+   "grew": false
+  },
+  {
+   "text": "as easy",
+   "t0": 48.0,
+   "t1": 48.8,
+   "dur": 0.8,
+   "box": [
+    0.169,
+    0.391,
+    0.674,
+    0.633
+   ],
+   "h": 0.248,
+   "conf": 0.82,
+   "text_colour": "#edecfa",
+   "bg_colour": "#334afd",
+   "grew": true,
+   "first_text": "as"
+  },
+  {
+   "text": "aseasy<",
+   "t0": 48.8,
+   "t1": 49.2,
+   "dur": 0.4,
+   "box": [
+    0.172,
+    0.393,
+    0.857,
+    0.657
+   ],
+   "h": 0.265,
+   "conf": 0.82,
+   "text_colour": "#ecedfb",
+   "bg_colour": "#334afd",
+   "grew": false
+  },
+  {
+   "text": "as",
+   "t0": 49.2,
+   "t1": 49.4,
+   "dur": 0.2,
+   "box": [
+    0.242,
+    0.431,
+    0.371,
+    0.576
+   ],
+   "h": 0.144,
+   "conf": 0.66,
+   "text_colour": "#e9ecff",
+   "bg_colour": "#354afd",
+   "grew": false
+  },
+  {
+   "text": "easy",
+   "t0": 49.2,
+   "t1": 49.4,
+   "dur": 0.2,
+   "box": [
+    0.378,
+    0.678,
+    0.64,
+    0.87
+   ],
+   "h": 0.193,
+   "conf": 0.72,
+   "text_colour": "#e9edff",
+   "bg_colour": "#334afd",
+   "grew": false
+  },
+  {
+   "text": "buy",
+   "t0": 49.4,
+   "t1": 51.6,
+   "dur": 2.2,
+   "box": [
+    0.251,
+    0.452,
+    0.312,
+    0.52
+   ],
+   "h": 0.074,
+   "conf": 0.75,
+   "text_colour": "#d7d7db",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "use",
+   "t0": 49.4,
+   "t1": 51.6,
+   "dur": 2.2,
+   "box": [
+    0.254,
+    0.533,
+    0.31,
+    0.583
+   ],
+   "h": 0.05,
+   "conf": 0.75,
+   "text_colour": "#48484a",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "monetise",
+   "t0": 49.4,
+   "t1": 51.6,
+   "dur": 2.2,
+   "box": [
+    0.174,
+    0.598,
+    0.31,
+    0.654
+   ],
+   "h": 0.056,
+   "conf": 0.87,
+   "text_colour": "#464649",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "charging",
+   "t0": 51.6,
+   "t1": 52.8,
+   "dur": 1.2,
+   "box": [
+    0.003,
+    0.709,
+    0.178,
+    0.794
+   ],
+   "h": 0.096,
+   "conf": 0.86,
+   "text_colour": "#bababd",
+   "bg_colour": "#161618",
+   "grew": false
+  },
+  {
+   "text": "infrastructure",
+   "t0": 51.8,
+   "t1": 52.8,
+   "dur": 1.0,
+   "box": [
+    0.006,
+    0.802,
+    0.272,
+    0.865
+   ],
+   "h": 0.07,
+   "conf": 0.89,
+   "text_colour": "#e2e2e5",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "helping",
+   "t0": 53.2,
+   "t1": 53.4,
+   "dur": 0.2,
+   "box": [
+    0.774,
+    0.185,
+    0.853,
+    0.239
+   ],
+   "h": 0.054,
+   "conf": 0.78,
+   "text_colour": "#c0bcbb",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "helping thousands",
+   "t0": 53.4,
+   "t1": 54.8,
+   "dur": 1.4,
+   "box": [
+    0.771,
+    0.091,
+    0.968,
+    0.135
+   ],
+   "h": 0.054,
+   "conf": 0.91,
+   "text_colour": "#bcbcbf",
+   "bg_colour": "#141417",
+   "grew": true,
+   "first_text": "helping"
+  },
+  {
+   "text": "of companies",
+   "t0": 54.0,
+   "t1": 54.8,
+   "dur": 0.8,
+   "box": [
+    0.771,
+    0.146,
+    0.918,
+    0.191
+   ],
+   "h": 0.052,
+   "conf": 0.87,
+   "text_colour": "#bebec1",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "feel > confident",
+   "t0": 55.0,
+   "t1": 55.4,
+   "dur": 0.4,
+   "box": [
+    0.348,
+    0.446,
+    0.699,
+    0.528
+   ],
+   "h": 0.085,
+   "conf": 0.91,
+   "text_colour": "#d2deff",
+   "bg_colour": "#334afd",
+   "grew": true,
+   "first_text": "feel > confid"
+  },
+  {
+   "text": "feel →",
+   "t0": 55.4,
+   "t1": 55.6,
+   "dur": 0.2,
+   "box": [
+    0.353,
+    0.45,
+    0.481,
+    0.526
+   ],
+   "h": 0.076,
+   "conf": 0.75,
+   "text_colour": "#cad8ff",
+   "bg_colour": "#354afd",
+   "grew": false
+  },
+  {
+   "text": "confident",
+   "t0": 55.4,
+   "t1": 55.6,
+   "dur": 0.2,
+   "box": [
+    0.512,
+    0.45,
+    0.703,
+    0.526
+   ],
+   "h": 0.076,
+   "conf": 0.82,
+   "text_colour": "#d7e2ff",
+   "bg_colour": "#354afd",
+   "grew": false
+  },
+  {
+   "text": "managing",
+   "t0": 55.6,
+   "t1": 56.2,
+   "dur": 0.6,
+   "box": [
+    0.369,
+    0.465,
+    0.517,
+    0.537
+   ],
+   "h": 0.072,
+   "conf": 0.87,
+   "text_colour": "#5d61c8",
+   "bg_colour": "#edecfa",
+   "grew": false
+  },
+  {
+   "text": "charging stations",
+   "t0": 56.2,
+   "t1": 57.4,
+   "dur": 1.2,
+   "box": [
+    0.731,
+    0.472,
+    0.958,
+    0.528
+   ],
+   "h": 0.061,
+   "conf": 0.92,
+   "text_colour": "#bbcaff",
+   "bg_colour": "#354afc",
+   "grew": false
+  },
+  {
+   "text": "charging",
+   "t0": 57.4,
+   "t1": 57.6,
+   "dur": 0.2,
+   "box": [
+    0.662,
+    0.469,
+    0.796,
+    0.533
+   ],
+   "h": 0.065,
+   "conf": 0.88,
+   "text_colour": "#bed0ff",
+   "bg_colour": "#364afd",
+   "grew": false
+  },
+  {
+   "text": "stations",
+   "t0": 57.4,
+   "t1": 57.6,
+   "dur": 0.2,
+   "box": [
+    0.825,
+    0.472,
+    0.946,
+    0.528
+   ],
+   "h": 0.056,
+   "conf": 0.89,
+   "text_colour": "#c5d4ff",
+   "bg_colour": "#374afa",
+   "grew": false
+  },
+  {
+   "text": "andfreeing",
+   "t0": 57.6,
+   "t1": 58.0,
+   "dur": 0.4,
+   "box": [
+    0.304,
+    0.422,
+    0.547,
+    0.552
+   ],
+   "h": 0.13,
+   "conf": 0.89,
+   "text_colour": "#e5e5e7",
+   "bg_colour": "#141417",
+   "grew": true,
+   "first_text": "and"
+  },
+  {
+   "text": "dn",
+   "t0": 58.0,
+   "t1": 58.2,
+   "dur": 0.2,
+   "box": [
+    0.53,
+    0.454,
+    0.611,
+    0.554
+   ],
+   "h": 0.1,
+   "conf": 0.66,
+   "text_colour": "#e6e6eb",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "ang fre",
+   "t0": 58.0,
+   "t1": 58.2,
+   "dur": 0.2,
+   "box": [
+    0.291,
+    0.387,
+    0.471,
+    0.57
+   ],
+   "h": 0.183,
+   "conf": 0.8,
+   "text_colour": "#e2e2e7",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "eing",
+   "t0": 58.0,
+   "t1": 58.6,
+   "dur": 0.6,
+   "box": [
+    0.434,
+    0.365,
+    0.549,
+    0.502
+   ],
+   "h": 0.152,
+   "conf": 0.75,
+   "text_colour": "#e4e4e6",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "up time",
+   "t0": 58.2,
+   "t1": 58.8,
+   "dur": 0.6,
+   "box": [
+    0.543,
+    0.457,
+    0.703,
+    0.544
+   ],
+   "h": 0.102,
+   "conf": 0.85,
+   "text_colour": "#e4e4e7",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "and",
+   "t0": 58.4,
+   "t1": 58.8,
+   "dur": 0.4,
+   "box": [
+    0.292,
+    0.441,
+    0.396,
+    0.556
+   ],
+   "h": 0.122,
+   "conf": 0.75,
+   "text_colour": "#ebebef",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "for what",
+   "t0": 59.0,
+   "t1": 59.2,
+   "dur": 0.2,
+   "box": [
+    0.052,
+    0.294,
+    0.243,
+    0.431
+   ],
+   "h": 0.137,
+   "conf": 0.82,
+   "text_colour": "#615157",
+   "bg_colour": "#adaba6",
+   "grew": false
+  },
+  {
+   "text": "for what they do best",
+   "t0": 59.2,
+   "t1": 60.8,
+   "dur": 1.6,
+   "box": [
+    0.069,
+    0.454,
+    0.507,
+    0.53
+   ],
+   "h": 0.098,
+   "conf": 0.91,
+   "text_colour": "#65575a",
+   "bg_colour": "#b0aca7",
+   "grew": true,
+   "first_text": "for what"
+  },
+  {
+   "text": "we make",
+   "t0": 60.8,
+   "t1": 61.6,
+   "dur": 0.8,
+   "box": [
+    0.43,
+    0.456,
+    0.564,
+    0.509
+   ],
+   "h": 0.054,
+   "conf": 0.67,
+   "text_colour": "#34333c",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "everyone's",
+   "t0": 61.6,
+   "t1": 62.0,
+   "dur": 0.4,
+   "box": [
+    0.414,
+    0.452,
+    0.575,
+    0.519
+   ],
+   "h": 0.069,
+   "conf": 0.87,
+   "text_colour": "#2d2c37",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "everyone's",
+   "t0": 62.0,
+   "t1": 62.2,
+   "dur": 0.2,
+   "box": [
+    0.327,
+    0.454,
+    0.492,
+    0.519
+   ],
+   "h": 0.065,
+   "conf": 0.83,
+   "text_colour": "#2a2935",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "ment",
+   "t0": 62.0,
+   "t1": 62.2,
+   "dur": 0.2,
+   "box": [
+    0.582,
+    0.454,
+    0.673,
+    0.519
+   ],
+   "h": 0.065,
+   "conf": 0.79,
+   "text_colour": "#292834",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "everyone's investment 7",
+   "t0": 62.4,
+   "t1": 62.6,
+   "dur": 0.2,
+   "box": [
+    0.215,
+    0.454,
+    0.68,
+    0.533
+   ],
+   "h": 0.08,
+   "conf": 0.88,
+   "text_colour": "#2d2c37",
+   "bg_colour": "#edecf7",
+   "grew": false
+  },
+  {
+   "text": "worthwhile",
+   "t0": 62.6,
+   "t1": 63.8,
+   "dur": 1.2,
+   "box": [
+    0.0,
+    0.109,
+    0.999,
+    0.472
+   ],
+   "h": 0.389,
+   "conf": 0.9,
+   "text_colour": "#edecf6",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "worthwhile",
+   "t0": 63.8,
+   "t1": 64.0,
+   "dur": 0.2,
+   "box": [
+    0.024,
+    0.396,
+    0.965,
+    0.72
+   ],
+   "h": 0.324,
+   "conf": 0.86,
+   "text_colour": "#edecf7",
+   "bg_colour": "#141417",
+   "grew": false
+  },
+  {
+   "text": "electric mobility",
+   "t0": 64.0,
+   "t1": 65.0,
+   "dur": 1.0,
+   "box": [
+    0.039,
+    0.428,
+    0.495,
+    0.556
+   ],
+   "h": 0.165,
+   "conf": 0.89,
+   "text_colour": "#e7edff",
+   "bg_colour": "#334afd",
+   "grew": true,
+   "first_text": "electric"
+  },
+  {
+   "text": "electric",
+   "t0": 65.0,
+   "t1": 65.2,
+   "dur": 0.2,
+   "box": [
+    0.002,
+    0.437,
+    0.202,
+    0.541
+   ],
+   "h": 0.104,
+   "conf": 0.84,
+   "text_colour": "#e0ebff",
+   "bg_colour": "#354afd",
+   "grew": false
+  },
+  {
+   "text": "mobilit",
+   "t0": 65.0,
+   "t1": 65.2,
+   "dur": 0.2,
+   "box": [
+    0.239,
+    0.439,
+    0.431,
+    0.539
+   ],
+   "h": 0.1,
+   "conf": 0.85,
+   "text_colour": "#e2edff",
+   "bg_colour": "#354afd",
+   "grew": false
+  },
+  {
+   "text": "mo",
+   "t0": 65.2,
+   "t1": 65.4,
+   "dur": 0.2,
+   "box": [
+    0.047,
+    0.456,
+    0.144,
+    0.544
+   ],
+   "h": 0.089,
+   "conf": 0.65,
+   "text_colour": "#dee9ff",
+   "bg_colour": "#3549fc",
+   "grew": false
+  },
+  {
+   "text": "becomes",
+   "t0": 65.2,
+   "t1": 65.8,
+   "dur": 0.6,
+   "box": [
+    0.358,
+    0.47,
+    0.501,
+    0.535
+   ],
+   "h": 0.067,
+   "conf": 0.84,
+   "text_colour": "#c4d0ff",
+   "bg_colour": "#354afc",
+   "grew": false
+  },
+  {
+   "text": "becomes accessible",
+   "t0": 65.6,
+   "t1": 66.2,
+   "dur": 0.6,
+   "box": [
+    0.356,
+    0.47,
+    0.662,
+    0.531
+   ],
+   "h": 0.061,
+   "conf": 0.9,
+   "text_colour": "#c9d6ff",
+   "bg_colour": "#354afd",
+   "grew": true,
+   "first_text": "s =ccessible"
+  },
+  {
+   "text": "bec",
+   "t0": 66.2,
+   "t1": 66.4,
+   "dur": 0.2,
+   "box": [
+    0.256,
+    0.456,
+    0.34,
+    0.544
+   ],
+   "h": 0.089,
+   "conf": 0.75,
+   "text_colour": "#cae0ff",
+   "bg_colour": "#364afd",
+   "grew": false
+  },
+  {
+   "text": "ible",
+   "t0": 66.2,
+   "t1": 66.4,
+   "dur": 0.2,
+   "box": [
+    0.705,
+    0.457,
+    0.78,
+    0.539
+   ],
+   "h": 0.081,
+   "conf": 0.8,
+   "text_colour": "#c8deff",
+   "bg_colour": "#354bf9",
+   "grew": false
+  },
+  {
+   "text": "to",
+   "t0": 66.4,
+   "t1": 68.0,
+   "dur": 1.6,
+   "box": [
+    0.064,
+    0.422,
+    0.146,
+    0.557
+   ],
+   "h": 0.135,
+   "conf": 0.67,
+   "text_colour": "#dee8ff",
+   "bg_colour": "#344afd",
+   "grew": false
+  },
+  {
+   "text": "all",
+   "t0": 66.4,
+   "t1": 68.0,
+   "dur": 1.6,
+   "box": [
+    0.855,
+    0.42,
+    0.94,
+    0.554
+   ],
+   "h": 0.133,
+   "conf": 0.74,
+   "text_colour": "#dfecff",
+   "bg_colour": "#344afd",
+   "grew": false
+  },
+  {
+   "text": "vaylens",
+   "t0": 69.4,
+   "t1": 72.0,
+   "dur": 2.6,
+   "box": [
+    0.394,
+    0.446,
+    0.609,
+    0.554
+   ],
+   "h": 0.109,
+   "conf": 0.87,
+   "text_colour": "#edecf3",
+   "bg_colour": "#141417",
+   "grew": true,
+   "first_text": "vay ("
+  }
+ ],
+ "density": [
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  1,
+  1,
+  3,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  3,
+  3,
+  3,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  1,
+  1,
+  1,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  1,
+  1,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  3,
+  3,
+  3,
+  3,
+  3,
+  7,
+  7,
+  7,
+  7,
+  7,
+  4,
+  7,
+  8,
+  8,
+  8,
+  8,
+  8,
+  9,
+  11,
+  13,
+  0,
+  0,
+  6,
+  2,
+  2,
+  2,
+  9,
+  9,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  3,
+  0,
+  0,
+  4,
+  6,
+  4,
+  4,
+  7,
+  4,
+  3,
+  4,
+  4,
+  4,
+  5,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  3,
+  3,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  1,
+  1,
+  0,
+  1,
+  2,
+  1,
+  1,
+  0,
+  1,
+  2,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  1,
+  2,
+  2,
+  2,
+  2,
+  2,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  2,
+  2,
+  0,
+  1,
+  1,
+  2,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  1,
+  1,
+  3,
+  2,
+  3,
+  2,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  1,
+  2,
+  1,
+  1,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1
+ ]
+}

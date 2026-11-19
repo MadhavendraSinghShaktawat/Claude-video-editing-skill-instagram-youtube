@@ -1,0 +1,93 @@
+# ---------------------------------------------------------------------------
+# What stays on your machine and never goes to GitHub.
+# Everything else in the repo (skills/, tools/, assets/sfx/, vendor/earshot/,
+# the example styles and the reference analyses) is meant to be shared.
+# ---------------------------------------------------------------------------
+
+# ---- Your own memory -------------------------------------------------------
+# Brand answers, notes and styles learned from your own videos.
+# memory/README.md and memory/intake.json (the empty question list) are shared.
+memory/*
+!memory/README.md
+!memory/intake.json
+!memory/styles/
+memory/styles/*
+# Example styles that ship with the repo (learned from public reference videos)
+!memory/styles/reference-explainers/
+!memory/styles/joseph-clean-canvas/
+!memory/styles/kallaway-dark-studio/
+!memory/styles/ritesh-white-diagram/
+!memory/styles/nafay-screen-tutorial/
+!memory/styles/orange-canvas-reel/
+
+# ---- Your edits, renders and media ----------------------------------------
+# Working folders for each video: your footage, voice, renders, deliveries.
+work/
+out/
+renders/
+exports/
+*.mp4
+*.mov
+*.mkv
+*.m4a
+*.aac
+*.wav.pre.wav
+*.log.json
+# Resolve and editor project files
+*.drp
+*.drt
+*.prproj
+*.fcpbundle/
+
+# ---- Other people's videos -------------------------------------------------
+# The downloads themselves and anything rebuilt from them.
+reference/source/
+reference/analysis/*/_tmp/
+reference/analysis/*/frames.npz
+reference/motion-graphics/*/_tmp/
+reference/motion-graphics/*/frames.npz
+reference/motion-graphics/*/sheets30/
+# Working evidence that can be rebuilt from the source videos
+reference/analysis/*/dense/
+reference/analysis/*/overview/
+reference/analysis/*/*.log
+reference/analysis/*/findings.txt
+
+# ---- Paid or unlicensed sound packs ----------------------------------------
+# Only the free, licensed packs in assets/sfx/ are shared. Keep any pack you
+# downloaded elsewhere (for example "500+ Sound Effects") and music beds here.
+assets/sfx/private/
+music/
+
+# ---- Secrets and personal settings -----------------------------------------
+.env
+.env.*
+*.pem
+*.key
+secrets/
+*.local.json
+*.local.md
+CLAUDE.local.md
+.claude/settings.local.json
+
+# ---- Downloaded models and caches ------------------------------------------
+tools/models/
+vendor/earshot/.cache/
+vendor/earshot/*.egg-info/
+vendor/*.log
+
+# ---- Python, Node and OS clutter -------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+node_modules/
+*.bak
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,326 @@
+# Timeline: nafay-faceless-shorts.mp4
+
+One row per shot. `cut` = how the shot starts (hard = new picture, punch = same picture instant zoom with its scale, jump = same picture instant shift, pop = a graphic appears instantly in part of the frame, transition = multi-frame).
+`move` = camera movement measured inside the shot. `T:` on-screen text that first appears in this shot (height as % of frame; `=said` when it repeats spoken words, with seconds text leads(-)/lags(+) the word). `S:` sound-event candidates (★ = lands within 0.12 s of a cut or motion event).
+
+- **#0** 0:00.00 +0.43s | start | speaker 41%@0.53,0.39 | eased zoom out x0.854
+  - “If you want”
+- **#1** 0:00.43 +1.90s | transition | speaker 21%@0.89,0.45 | eased zoom out x0.893
+  - “to make shorts like these, but you don't have a cloud”
+  - T: “Shorts Like These” 5.0% @0.38,0.20 1.7s #b5b3b2 =said -0.29s
+  - T: “intoa..” 4.3% @0.48,0.77 0.8s #b6b6b9
+  - T: “2.2Mviews” 3.2% @0.14,0.75 0.9s #eee4de
+  - T: “3.1Mviews” 3.2% @0.42,0.75 1.1s #dfe8e3
+  - T: “1.7Mviews” 3.1% @0.24,0.74 1.1s #e6e8f6
+  - T: “0.8Mviews” 3.0% @0.67,0.75 0.9s #ebe8e9
+  - (+6 more/smaller text lines)
+- **#2** 0:02.33 +4.88s | transition | page with a face on it 21%@0.89,0.45 | eased zoom in x1.417 | 1 motion ev
+  - “subscription or if you use the free version of Claude where you hit your limit super fast, then today's video is going”
+  - T: “Claude Free Plan” 4.5% @0.38,0.20 4.6s #8d8b8b =said -2.13s
+  - T: “Free version” 4.5% @0.28,0.51 2.8s #121212 =said +0.38s
+  - T: “Limit reached” 3.9% @0.38,0.80 0.8s #e48588
+  - T: “Usage” 3.5% @0.17,0.58 2.8s #3d3d3d
+  - T: “100%” 3.4% @0.60,0.57 0.8s #c3767d
+  - T: “Subseription” 3.1% @0.29,0.38 0.8s #b38281
+  - (+1 more/smaller text lines)
+- **#3** 0:07.22 +5.55s | transition | speaker 41%@0.53,0.40 | eased zoom out x1.022 | 2 motion ev
+  - “to be perfect for you because in this video, I'll teach you how to make shorts like this without using Claude. We're going to use open code”
+  - T: “without Claude” 13.1% @0.50,0.86 1.1s #e2e5e8 built =said +0.45s
+  - T: “Make Shorts” 12.4% @0.50,0.70 2.3s #c9c8cf built =said +0.29s
+- **#4** 0:12.77 +8.32s | transition | page with a face on it 22%@0.90,0.45 | eased zoom out x0.897 | 5 motion ev
+  - “for this, which is a free alternative to Claude code. Plus, I'm going to give you an open code skill that lets you generate and automatically post videos like this every single day. So drop a like”
+  - T: “OpenCode” 5.8% @0.19,0.55 2.3s #12100f
+  - T: “Use OpenCode” 5.7% @0.38,0.20 3.2s #3c3a38
+  - T: “One OpenCode Skill” 5.7% @0.36,0.20 4.2s #100d0c
+  - T: “One OpenCode Skill” 5.4% @0.46,0.20 0.7s #c9c6c5
+  - T: “Claude Code” 4.8% @0.58,0.55 0.5s #8f8b89 =said +0.85s
+  - T: “X Automatically” 4.4% @0.38,0.80 1.2s #111721
+  - (+13 more/smaller text lines)
+  - S: LOW@14.27(-8dB), ★LOW@18.17(-12dB)
+- **#5** 0:21.08 +1.45s | transition | speaker 40%@0.53,0.39 | eased zoom in x1.237 | 1 motion ev
+  - “on this video and let's get started.”
+  - T: “opencode” 5.4% @0.50,0.58 2.0s #ececec
+  - T: “The open source AI coding agent” 3.1% @0.46,0.20 12.3s #dbd9da
+  - T: “opencode” 3.0% @0.35,0.09 27.8s #bab7b9 =said -8.11s
+  - (+21 more/smaller text lines)
+- **#6** 0:22.53 +12.20s | hard | flat graphic | static | 1 motion ev
+  - “All right, our very first step will be downloading an AI agent. For that, we're going to use open code, which is a free alternative to Claude code. So you just head over to this website, opencode .ai, and you can simply download it from here. Let's click this download button”
+  - (+30 more/smaller text lines)
+- **#7** 0:34.73 +15.48s | pop | flat graphic | static
+  - “right here. And then depending on whatever operating system you're running, go ahead and download the right one for you. I'm on Windows, so I'll go with the Windows version. After that, you just simply install open code. I already have it installed, so I can't reinstall it, but it's a super simple process. You just keep clicking next next and get it installed. Next,”
+  - (+29 more/smaller text lines)
+- **#8** 0:50.22 +4.83s | hard | flat graphic | pan/slide x0.999
+  - “you want to head over to naf3d .com, which is my own website. And this is where you can grab the free skill to”
+  - T: “Hey, I'm Nafay” 7.0% @0.60,0.23 4.9s #1a1f43
+  - T: “more reps.” 4.9% @0.64,0.79 4.9s #c3b246
+  - T: “The Style Library” 4.8% @0.35,0.64 4.9s #1c1f3f
+  - T: “YOU DON'T NEED” 3.7% @0.62,0.65 4.9s #13100c
+  - (+19 more/smaller text lines)
+- **#9** 0:55.05 +10.20s | jump x1.0 | page with a face on it 4%@0.47,0.63 | pan/slide x0.993 | 4 motion ev
+  - “make these shorts and stuff. To do that, just scroll down a bit and right here, you'll see the faceless short skill. You just simply download this, downloaded it right here, just like that. It's about a 10 megabyte download, so”
+  - T: “more reps.” 5.0% @0.64,0.35 0.6s #c0ae46
+  - T: “The Style Library” 5.0% @0.35,0.19 8.0s #222343
+  - T: “more reps.” 5.0% @0.64,0.35 8.0s #c2b049
+  - T: “more reps.” 4.8% @0.64,0.42 2.2s #c0af46
+  - T: “The Style Library” 4.8% @0.35,0.19 0.6s #222541
+  - T: “The Style Library” 4.6% @0.35,0.26 2.2s #202341
+  - (+50 more/smaller text lines)
+- **#10** 1:05.25 +5.10s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+  - “it shouldn't take that long. After that, open up open code. And basically the first thing we need to do here is select our model. Now inside open”
+  - (+7 more/smaller text lines)
+- **#11** 1:10.35 +13.37s | hard | flat graphic | slow push in x1.044 | 4 motion ev
+  - “code, you'll see quite a few model options, and most of them are paid options. But today I'm going to show you a free option, and that's GLM 5 .3 Flash. This model is provided completely free right by open code itself. All you”
+  - (+67 more/smaller text lines)
+- **#12** 1:23.72 +1.78s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+  - “have to do for this is select the”
+  - (+1 more/smaller text lines)
+- **#13** 1:25.50 +12.35s | hard | flat graphic | static
+  - “model right here, click on it, search for GLM, and then select GLM 5 .3 Flash, the free one. Now this won't work right out of the box. You'll need to do one more step. Click the”
+  - (+33 more/smaller text lines)
+- **#14** 1:37.85 +24.10s | pop | flat graphic | static | 2 motion ev
+  - “settings icon right here, click on connect and integrations, and then we want to click on the open code console option. And after that, simply select personal. Now I already have this connected, but when you click it, it'll take you to the open code website, where you just need to create an account. No need to enter any payment details or anything. You just enter your email, password, and stuff. Your account will be created, and after that you'll get access to it completely for free.”
+  - T: “Google” 3.0% @0.35,0.65 3.3s #979797
+  - (+33 more/smaller text lines)
+- **#15** 2:01.95 +6.23s | hard | flat graphic | slow push in x1.016 | 2 motion ev
+  - “Once that's done, your model is connected. Now what you need to do is take that zip file you got, the one you downloaded”
+  - (+13 more/smaller text lines)
+- **#16** 2:08.18 +3.02s | hard | page with a face on it 2%@0.41,0.62 | eased zoom in x1.041 | 1 motion ev
+  - “from my website. You can see my downloaded file right here.”
+  - (+7 more/smaller text lines)
+- **#17** 2:11.20 +39.05s | jump x1.002 | flat graphic | static | 1 motion ev
+  - “We just drag it right into open code like this. And also by the way, before doing that, make sure the effort level is set to high. If you want, you can set it to max too. You'll get better results that way. But at the same time, your usage limit will run out faster. So personally, I'm going to keep it on high. I think it should be good enough. But anyway, you just add the zip file here, like this, and tell it, install this skill. And it'll automatically install your skill. Now along with that, I'm going to tell it, and make a 20 -second short. Choose any topic that you like. That way it'll install the skill, and we can also test it out to see if it's actually working. And we told it to pick any topic on its own. So now I'm going to hit send, and it's”
+  - (+6 more/smaller text lines)
+- **#18** 2:50.25 +16.00s | jump x1.0 | flat graphic | slow pull out x0.939 | 3 motion ev
+  - “already started working. Right here, you can see it installed the skill, and then it came up with an idea. But then I scrolled down and told it again, make the short in the tall -tail style. Now, this is the exact style you saw in the intro of this video. So I want to make the video in that style. But again, you can pick any style you want from the entire library.”
+  - (+122 more/smaller text lines)
+- **#19** 3:06.25 +9.20s | hard | no face (b-roll / screen / graphic) | eased zoom in x1.187 | 1 motion ev
+  - “By the way, I thought I'd quickly show you what styles you actually get with this skill. So this is our first style, right? It's kind of an old -school style. If you want to make history videos, you can make them with this.”
+  - T: “London burned.” 3.2% @0.53,0.69 9.2s #764a3b
+  - T: “The king fled.” 3.2% @0.53,0.75 9.2s #71483b
+  - T: “1666” 3.2% @0.65,0.31 6.0s #744f08
+  - (+50 more/smaller text lines)
+- **#20** 3:15.45 +3.60s | hard | page with a face on it 4%@0.28,0.33 | eased zoom in x1.299 | 1 motion ev
+  - “Besides that, this one is a 2D sort of explainer style. Okay.”
+  - T: “HURTS” 3.7% @0.57,0.61 3.6s #f2f2f2
+  - T: “INSIDEOUTSHORTS:STYLESHEET” 3.6% @0.50,0.20 3.6s #eeeff3
+  - T: “PROBLEM” 3.6% @0.57,0.74 3.6s #e7d457
+  - T: “STAYS” 3.4% @0.47,0.64 3.6s #ecdd5a
+  - T: “LATER” 3.3% @0.57,0.64 3.6s #e6d759
+  - T: “IN YOUR” 3.3% @0.47,0.71 3.6s #edeff2
+  - (+31 more/smaller text lines)
+- **#21** 3:19.05 +4.85s | jump x1.0 | no face (b-roll / screen / graphic) | eased zoom in x1.231 | 1 motion ev
+  - “Then there's the one we saw in the intro. This is that style. It's inspired by Rick's Clips.”
+  - T: “everything” 3.2% @0.53,0.68 4.0s #3d3c3d built
+  - T: “asingle” 3.0% @0.53,0.74 4.8s #5d4225
+  - (+34 more/smaller text lines)
+- **#22** 3:23.90 +5.42s | hard | no face (b-roll / screen / graphic) | eased zoom in x1.231 | 1 motion ev
+  - “And besides that, there's this kind of style where you can make, you know, mystery videos or investigation videos and things like”
+  - (+50 more/smaller text lines)
+- **#23** 3:29.32 +4.88s | hard | small face (inset / wide shot) 4%@0.22,0.30 | eased zoom in x1.270 | 1 motion ev
+  - “that. Then we have this style, which is sort of inspired by Zack D films. So that's available to”
+  - T: “Your stomach” 3.7% @0.53,0.60 4.9s #513e26
+  - T: “can't digest it” 3.1% @0.53,0.68 4.9s #3a4141
+  - T: “In 3 days...” 3.0% @0.53,0.71 4.9s #e1ddcc
+  - (+30 more/smaller text lines)
+- **#24** 3:34.20 +7.18s | hard | no face (b-roll / screen / graphic) | eased zoom in x1.259 | 1 motion ev
+  - “you too. And finally, we have the Stickman style as well. So you have all these styles available. All you have to do is tell Claude the name, like make this video in Stick Story”
+  - T: “Opencode*” 7.6% @0.50,0.48 0.7s #fefdfd
+  - (+52 more/smaller text lines)
+- **#25** 3:41.38 +2.08s | jump x1.0 | page with a face on it 3%@0.28,0.34 | eased zoom in x1.278 | 1 motion ev
+  - “style, or in Deep Dive 3D. And”
+  - T: “Yourstomach” 3.5% @0.53,0.62 2.1s #514126
+  - T: “In 3 days...” 3.5% @0.53,0.73 2.1s #e6dbcd
+  - T: “can't digest it” 3.3% @0.53,0.67 2.1s #3c3f3f
+  - (+35 more/smaller text lines)
+- **#26** 3:43.47 +0.53s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+  - “it'll make your video”
+  - (+16 more/smaller text lines)
+- **#27** 3:44.00 +0.58s | hard | flat graphic | static
+  - “in that exact”
+  - (+4 more/smaller text lines)
+- **#28** 3:44.58 +0.97s | pop | page with a face on it 3%@0.35,0.38 | untracked (full-frame animation, still, or too short)
+  - “style. And then”
+  - T: “STAYS” 3.3% @0.48,0.59 1.0s #efdf5e
+  - (+17 more/smaller text lines)
+- **#29** 3:45.55 +30.93s | hard | flat graphic | slow pull out x0.961 | 4 motion ev
+  - “after that, it picked a topic and laid out the whole plan for me, showing what kind of video we're going to get. And after that, it asked me if everything looks good, let me know, and we'll build it. So I said build it. And right now our video is being generated. Also, by the way, speaking of voice, that reminds me, let me tell you how it's generating the voice. Basically, it's downloading a local model onto your computer, which will then handle the voice generation for you. So keep that in mind as well. You won't need an 11 Labs API or any kind of API or subscription for this. The entire process is completely free. So let's wait for it to finish, and I'll catch up with you then.”
+  - (+166 more/smaller text lines)
+- **#30** 4:16.48 +3.88s | hard | flat graphic | pan/slide x1.009 | 1 motion ev
+  - “And just like that, after a little bit, our video is ready. You can see it even gave us”
+  - (+88 more/smaller text lines)
+- **#31** 4:20.37 +6.58s | pop | no face (b-roll / screen / graphic) | untracked (full-frame animation, still, or too short)
+  - “a cover frame, which will basically be our thumbnail. The text seems to have a tiny issue, I think. You can just tell it to make the text a little smaller.”
+  - T: “EMUWAR” 6.1% @0.68,0.38 6.6s #1f192f
+  - T: “WESTERNFARMRECORD” 4.3% @0.67,0.30 6.6s #f3d7ca
+  - T: “GERM?NO-EMUSEATTHECROPS” 3.8% @0.68,0.43 6.6s #23434f
+- **#32** 4:26.95 +2.48s | pop | flat graphic | static
+  - “But if I show you the video, overall, it turned out really good.”
+  - T: “NEWSPAPER” 18.7% @0.70,0.41 3.0s #bda551
+  - T: “In 1932,” 5.9% @0.68,0.72 2.0s #4f3405
+  - (+4 more/smaller text lines)
+- **#33** 4:29.43 +4.22s | pop | no face (b-roll / screen / graphic) | slow push in x1.021 | 2 motion ev
+  - T: “EMUWAR” 6.3% @0.68,0.38 0.9s #110d25
+  - T: “GERM?NO-EMUSEATTHECROPS” 4.4% @0.68,0.43 0.9s #11384b
+  - T: “WESTERNFARMRECORD” 3.9% @0.67,0.30 0.9s #fddac8
+  - T: “on birds.” 3.7% @0.68,0.71 1.3s #f5f3f3
+  - (+3 more/smaller text lines)
+- **#34** 4:33.65 +3.30s | pop | no face (b-roll / screen / graphic) | static
+  - “So”
+  - T: “eating” 4.8% @0.68,0.72 1.0s #20160a
+  - T: “thecrops,” 4.5% @0.68,0.72 0.5s #261e12
+  - T: “thousand” 3.1% @0.68,0.72 1.0s #261e14
+  - (+1 more/smaller text lines)
+  - S: LOW@276.46(-12dB)
+- **#35** 4:36.95 +2.97s | pop | no face (b-roll / screen / graphic) | slow pull out x0.966 | 1 motion ev
+  - “as you”
+  - T: “thearmy” 4.3% @0.68,0.72 1.0s #223713
+  - T: “guns.” 4.1% @0.68,0.72 0.7s #252419
+  - T: “sothe” 3.1% @0.68,0.72 0.9s #1b3010
+  - (+1 more/smaller text lines)
+- **#36** 4:39.92 +2.47s | pop | no face (b-roll / screen / graphic) | static
+  - T: “and ran,” 4.5% @0.68,0.72 0.6s #272912
+  - T: “Butthe” 4.1% @0.68,0.71 0.9s #222f12
+  - T: “scattered” 3.5% @0.68,0.72 1.0s #20230b
+- **#37** 4:42.38 +1.27s | pop | no face (b-roll / screen / graphic) | static
+  - “can see,”
+  - T: “and they” 4.8% @0.68,0.72 1.3s #2a2318
+- **#38** 4:43.65 +0.90s | pop | no face (b-roll / screen / graphic) | untracked (full-frame animation, still, or too short)
+  - “it made a really interesting video.”
+  - T: “called” 3.5% @0.68,0.72 0.9s #2c3f16
+  - (+2 more/smaller text lines)
+- **#39** 4:44.55 +35.38s | pop | flat graphic | pan/slide x0.997 | 7 motion ev
+  - “And I don't think that's the way that it added the whole voiceover and everything. And we did it all on a free model, by the way. So I think it's pretty insane that not too long ago, you couldn't even do this on Labs. They used to have models, and now you can do it on a free model. Personally, I think it's awesome seeing how fast AI is progressing. But yeah, so it gave us the caption and everything, and now you'd basically post it on YouTube. Now I want to show you something really interesting. How you can automate this entire process from brainstorming the idea to making the video, generating the title, description, thumbnail, voiceover, everything. And finally, we'll look at automating posting the video to YouTube.”
+  - T: “NEWSPAPER” 6.9% @0.69,0.40 12.6s #be9d66
+  - T: “EMUWAR” 5.9% @0.68,0.38 1.1s #1f192e
+  - T: “-zapier” 4.5% @0.07,0.09 16.0s #181211 =said -1.10s
+  - T: “GERM?NO-EMUSEATTHECROPS” 4.4% @0.68,0.43 1.1s #224452
+  - T: “WESTERNFARMRECORD” 4.3% @0.67,0.30 1.1s #f2d8cb
+  - T: “In 1932,” 3.9% @0.68,0.72 11.9s #faf6f5
+  - (+156 more/smaller text lines)
+- **#40** 5:19.93 +16.10s | hard | no face (b-roll / screen / graphic) | static | 1 motion ev
+  - “Okay, first you need to go to Zapier. Link's in the description. And by the way, you don't have to pay for this either. You can just start out using their free plan. So head over to zapier .com. And first off, you'll need to create an account. You only need to put in your email and password. Nothing like no payment details are required. After that,”
+  - (+5 more/smaller text lines)
+- **#41** 5:36.03 +4.10s | jump x1.0 | no face (b-roll / screen / graphic) | static
+  - “click the sidebar right here. Scroll down to MCP servers. And this is basically”
+  - T: “BuildautomationswithyourAltool” 3.5% @0.37,0.25 4.1s #3f3a36
+  - T: “-zapier” 3.2% @0.06,0.09 50.7s #191411 =said -18.04s
+  - (+24 more/smaller text lines)
+- **#42** 5:40.13 +16.65s | jump x1.001 | flat graphic | static | 1 motion ev
+  - “the MCP server we'll need to get access to. Upload our video to YouTube. Because by default, OpenCode doesn't have a YouTube connection available. And neither does Claude Code or any other AI agent, you know, to let us upload directly to YouTube. But Zapier has connections to over 10 ,000 apps.”
+  - T: “品 App connections” 3.4% @0.05,0.31 1.8s #817e7d
+  - T: “Agentie” 3.4% @0.83,0.48 16.3s #fefcfb
+  - T: “Agentic” 3.3% @0.83,0.37 16.3s #f6f0ef
+  - T: “[Managed]” 3.3% @0.83,0.53 16.3s #aaa7a6
+  - T: “Zap history” 3.3% @0.05,0.52 14.8s #868483
+  - T: “MCP Server” 3.1% @0.22,0.42 16.6s #898685 =said -0.36s
+  - (+30 more/smaller text lines)
+- **#43** 5:56.78 +3.53s | jump x0.999 | no face (b-roll / screen / graphic) | slow pull out x0.986 | 5 motion ev
+  - “So if I show you right here, they have tons of apps available. And pretty”
+  - T: “The world's most connected Al platform” 5.6% @0.50,0.24 0.7s #181110
+  - T: “AppsandSoftwareIntegrations” 3.7% @0.42,0.89 0.7s #0c0a08
+  - T: “Pricing” 3.5% @0.41,0.10 7.8s #737070
+  - T: “Custom” 3.4% @0.50,0.76 0.7s #3c3a39
+  - T: “O search connections...” 3.3% @0.28,0.54 0.7s #918f8d
+  - T: “1-22 of 9,000+ by most popular” 3.2% @0.38,0.51 0.8s #6d6867
+  - (+93 more/smaller text lines)
+- **#44** 6:00.32 +4.27s | transition | no face (b-roll / screen / graphic) | pan/slide x0.994 | 1 motion ev
+  - “much any app you'd want to connect, you can connect to your AI using Zapier. So once”
+  - T: “The world's most connected Al platform” 5.8% @0.50,0.24 3.5s #161212
+  - T: “Appsand Software Integrations” 3.7% @0.42,0.89 3.5s #120e0c
+  - T: “Typeform” 3.5% @0.36,0.60 0.5s #494643
+  - T: “Custom” 3.4% @0.50,0.76 3.5s #423f3d
+  - T: “Calendly” 3.3% @0.68,0.47 0.5s #56524d
+  - T: “O search connections...” 3.3% @0.28,0.54 3.5s #8f8c8b
+  - (+59 more/smaller text lines)
+- **#45** 6:04.58 +2.75s | jump x1.011 | flat graphic | static
+  - “you're on this site, just simply click create server right here.”
+  - T: “Agentie” 3.4% @0.83,0.48 2.7s #1b1618
+  - T: “Agentic” 3.3% @0.83,0.37 2.7s #1a1614
+  - T: “品App connections” 3.2% @0.05,0.44 22.2s #8b8988
+  - T: “Automations” 3.0% @0.04,0.25 22.2s #8b8988
+  - (+27 more/smaller text lines)
+- **#46** 6:07.33 +7.10s | jump x1.0 | flat graphic | slow pull out x0.961 | 5 motion ev
+  - “Then scroll down and select your AI agent. Now again, like I said, you can use this inside any AI agent, but we're going to use”
+  - T: “ChatGPT” 3.3% @0.60,0.18 1.3s #595959
+  - T: “Antigravity” 3.2% @0.80,0.29 0.9s #575757
+  - T: “MCPServer4” 3.1% @0.25,0.23 1.2s #1a1817
+  - (+120 more/smaller text lines)
+- **#47** 6:14.43 +2.53s | transition | flat graphic | static | 1 motion ev
+  - “it inside OpenCode. So we'll click that.”
+  - T: “Superhuman Go” 3.0% @0.62,0.59 0.5s #565656
+  - T: “Warp” 3.0% @0.40,0.71 0.8s #5b5b5b
+  - T: “Kiro” 3.0% @0.21,0.46 1.0s #545454
+  - (+23 more/smaller text lines)
+- **#48** 6:16.97 +9.97s | pop | flat graphic | static | 1 motion ev
+  - “And then it'll basically show us the instructions on how to install OpenCode. So first you want to copy this config, head back over to OpenCode, and open up a new chat.”
+  - T: “MCPServer3” 3.5% @0.25,0.23 9.6s #1b1614
+  - T: “Copy coenfig” 3.3% @0.39,0.67 9.8s #fefcff
+  - T: “Clients” 3.2% @0.21,0.39 9.6s #342e2d
+  - T: “g clents O” 3.1% @0.23,0.32 9.6s #484241 built
+  - T: “openCode” 3.0% @0.23,0.53 9.6s #3b3534 =said +2.33s
+  - (+26 more/smaller text lines)
+- **#49** 6:26.93 +21.45s | hard | flat graphic | slow pull out x0.978 | 2 motion ev
+  - “Basically start a new session and tell it add this to OpenCode config. And then on the line below, paste that in, then hit send. After that, as you can see, it says it has added Zapier MCP. Now, there's one more thing we need to do here. We'll tell it add it to the global user config.”
+  - (+50 more/smaller text lines)
+- **#50** 6:48.38 +1.50s | pop | flat graphic | static
+  - “What that'll do is add”
+  - (+16 more/smaller text lines)
+- **#51** 6:49.88 +4.97s | jump x1.0 | flat graphic | pan/slide x0.999 | 1 motion ev
+  - “Zapier MCP across all your OpenCode sessions, not just this one. That way, even if you hop”
+  - (+5 more/smaller text lines)
+- **#52** 6:54.85 +0.37s | pop | flat graphic | static
+  - “into a fresh”
+  - (+16 more/smaller text lines)
+- **#53** 6:55.22 +0.25s | pop | flat graphic | untracked (full-frame animation, still, or too short)
+- **#54** 6:55.47 +18.37s | pop | flat graphic | pan/slide x1.002 | 1 motion ev
+  - “chat and tell it, hey, make my video and upload it, it'll automatically do it because every chat will have access to the Zapier MCP. And boom, done. Next, we'll go up here. You'll see this icon. Click that. Go into MCP. And you can see Zapier is connected. Now, if it doesn't show up here initially, just click manage”
+  - (+51 more/smaller text lines)
+- **#55** 7:13.83 +15.75s | hard | flat graphic | static
+  - “MCP server. And then all your MCPs will pop up. Early on, you might see a sign in or login button here. Just click that and authorize Zapier. A window will open in Chrome where you just have to click authorize. Super simple. And after that, your Zapier will be enabled. All right. Our OpenCode”
+- **#56** 7:29.58 +33.93s | hard | flat graphic | static | 8 motion ev
+  - “setup is done. Now, we need to connect the YouTube app to it. And for that, we'll go into our MCP server. And you'll see an apps button right here. Let's click that. Hit add apps here and search for YouTube. Okay. Search for YouTube. Let's click it. And then give it access to all tools. Because these are all the things, you know, our AI agent will be able to perform on our channel. Let's connect it. And you'll see a connect account option where you sign into your Google account and select your channel. I've already done that. So you can see my YouTube is connected. Then we'll click add six tools.”
+  - T: “s apps” 3.5% @0.29,0.32 8.9s #8a8886
+  - T: “MCPServer3” 3.3% @0.25,0.23 8.9s #1e1918
+  - T: “MCPServer3” 3.3% @0.25,0.23 25.0s #1b1612 built
+  - T: “Clients” 3.2% @0.21,0.39 6.9s #484544
+  - T: “_zapier” 3.2% @0.06,0.09 33.9s #1c1916 =said +2.56s
+  - T: “品 App connections” 3.2% @0.05,0.44 33.9s #8a8886
+  - (+108 more/smaller text lines)
+- **#57** 8:03.52 +8.00s | hard | flat graphic | static
+  - “And our entire setup is complete. Now, simply head back to OpenCode and tell it using the faceless short skill, upload the video to YouTube. Now, anytime you tell”
+  - (+31 more/smaller text lines)
+- **#58** 8:11.52 +14.73s | pop | flat graphic | static
+  - “it to upload a video to YouTube, it already has all the instructions baked into the skill on how to use Zapier MCP and how to upload the video to YouTube. All the instructions are already in the skill. So you don't have to explain anything. You just tell it, you know, assuming Zapier is installed, you just tell it, hey, upload the”
+  - (+18 more/smaller text lines)
+- **#59** 8:26.25 +81.87s | jump x1.0 | flat graphic | pan/slide x0.993 | 4 motion ev
+  - “video to YouTube and your video will get uploaded. Now, the automation works like this. Unfortunately, OpenCode doesn't have a scheduled task feature. Like I told you with Claude code, you could set up a scheduled task. So every morning at 8am or 9am, whenever you want, a video is automatically generated and automatically uploaded. Unfortunately, you can't do that inside OpenCode. By default, I think there are some plugins and stuff, but that gets a bit too advanced. So here's the workflow I'm going to show you. Every morning, you know, whenever you want at whatever time, you just open up OpenCode and you tell OpenCode, hey, using the faceless short skill, first come up with an idea for the video. Okay, make a video on that idea and then upload the video to YouTube. And it'll handle that entire process all by itself. You won't have to do anything manually. I would recommend generating the video once and giving it a look to make sure there are no issues and that the idea is actually interesting because your own creativity is that one crucial thing that'll actually get your channel monetized. Because if you don't inject any creativity and just upload generic content, monetization chances on YouTube, you know, TikTok and all are a bit lower. Make videos with this daily. The daily limit is enough to get you one short made for free. Obviously, if you want to make more shorts per day, you might have to buy their paid plan because when I was generating that first short, one short went through fine. But right after that, I hit my limit. So keep that in mind. You might not be able to generate more than one video in a single session.”
+  - (+79 more/smaller text lines)
+- **#60** 9:48.12 +8.78s | pop | flat graphic | static
+  - “And right here, you can see it's asking what the shorts visibility should be, public, unlisted or private. Let's tell it to set it to unlisted for now because I don't want to make the video public yet.”
+  - (+22 more/smaller text lines)
+- **#61** 9:56.90 +8.20s | jump x1.0 | flat graphic | pan/slide x1.000 | 1 motion ev
+  - “Next, which category should we set? Let's go with comedy and then hit submit. And now our video should actually get uploaded.”
+  - (+41 more/smaller text lines)
+- **#62** 10:05.10 +6.08s | hard | small face (inset / wide shot) 3%@0.91,0.31 | pan/slide x1.001 | 1 motion ev
+  - “And look, it uploaded the video and at the same time, it opened its internal browser to preview the video for us. I don't know”
+  - (+106 more/smaller text lines)
+- **#63** 10:11.18 +0.17s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+  - “why”
+  - (+3 more/smaller text lines)
+- **#64** 10:11.35 +0.97s | hard | flat graphic | static
+  - “the video isn't playing”
+  - T: “NEWSPAPER” 13.0% @0.58,0.35 2.8s #9d965b
+  - T: “In 1932,” 4.9% @0.56,0.69 2.8s #743d20
+  - (+2 more/smaller text lines)
+- **#65** 10:12.32 +0.07s | jump x0.992 | no face (b-roll / screen / graphic) | static
+  - “in”
+- **#66** 10:12.38 +14.80s | pop | small face (inset / wide shot) 4%@0.84,0.62 | slow push in x1.017 | 2 motion ev
+  - “this browser. Oh, now it is, I think. Okay, perfect. So our video has been uploaded to our channel and yeah, everything looks great. We got the video link right here. And that was pretty much the entire automation. I hope you guys learned something from this video. If you have any questions, suggestions or”
+  - T: “In 1932,” 5.0% @0.56,0.35 14.6s #cccacf
+  - (+53 more/smaller text lines)
+- **#67** 10:27.18 +2.28s | punch x0.977 | small face (inset / wide shot) 4%@0.84,0.66 | pan/slide x0.990 | 1 motion ev
+  - “run into any issues, definitely let me know down”
+  - (+32 more/smaller text lines)
+- **#68** 10:29.47 +43.17s | hard | flat graphic | pan/slide x1.009 | 3 motion ev
+  - “in the comments. Also, one more thing. Using this exact same setup, you can have it make long form videos too. You just tell the skill, when you tell it to make shorts and stuff, instead of shorts, tell it to make long videos and set it to a 16 by 9 aspect ratio, meaning horizontal videos. And it'll do that using the exact same skill. Obviously, it'll take longer. And if you're on the free plan, you might hit your limit sooner. So you might have to wait across multiple days to finish a video. But the method, the process is exactly the same. Go download that skill. That's the most important part. Aside from that, whatever you want it to do, you just tell your AI agent and it'll handle it automatically for you. So yeah, that's pretty much it. Thank you so much for watching. I hope you guys learned something. I hope you go check out Zapier too. And I will see you guys in the next one. Goodbye.”
+  - (+180 more/smaller text lines)

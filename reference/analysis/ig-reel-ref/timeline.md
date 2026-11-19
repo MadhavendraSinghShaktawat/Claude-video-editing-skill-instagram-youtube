@@ -1,0 +1,76 @@
+# Timeline: ig-reel-ref.mp4
+
+One row per shot. `cut` = how the shot starts (hard = new picture, punch = same picture instant zoom with its scale, jump = same picture instant shift, pop = a graphic appears instantly in part of the frame, transition = multi-frame).
+`move` = camera movement measured inside the shot. `T:` on-screen text that first appears in this shot (height as % of frame; `=said` when it repeats spoken words, with seconds text leads(-)/lags(+) the word). `S:` sound-event candidates (★ = lands within 0.12 s of a cut or motion event).
+
+- **#0** 0:00.00 +1.70s | start | speaker 41%@0.54,0.76 | static
+  - “Cloud Code can now control your iPhone for”
+  - T: “can now control” 5.1% @0.51,0.54 0.6s #fbfaf6 =said +0.40s
+  - T: “Claude Code Can Now” 3.6% @0.50,0.15 4.7s #e0a78f built =said -0.20s
+  - T: “Claude Code” 3.5% @0.50,0.54 0.9s #faf7f4
+  - T: “Control Your iPhone” 3.2% @0.50,0.21 3.8s #fbfaf5 =said +0.11s
+  - (+10 more/smaller text lines)
+- **#1** 0:01.70 +0.43s | jump x1.001 | no face (b-roll / screen / graphic) | static | 1 motion ev
+  - “you,”
+  - T: “for you” 4.7% @0.50,0.54 0.5s #bda096 built =said +0.06s
+  - (+13 more/smaller text lines)
+- **#2** 0:02.13 +2.70s | pop | speaker 41%@0.56,0.78 | static | 4 motion ev
+  - “opening apps and tapping through screens just like a real person.”
+  - T: “opening apps” 5.0% @0.50,0.54 0.6s #e6d9d6 built =said +0.05s
+  - T: “just like” 5.0% @0.38,0.54 0.5s #fcfbf9 =said +0.25s
+  - T: “through” 4.7% @0.33,0.54 0.8s #fbfaf7 =said +0.01s
+  - T: “mirroir-mcp” 4.4% @0.50,0.26 3.7s #8dad8f built
+  - T: “mirroir-mcp” 4.2% @0.50,0.36 1.6s #f7ede7
+  - (+50 more/smaller text lines)
+- **#3** 0:04.83 +3.53s | hard | flat graphic | eased zoom out x0.872 | 1 motion ev
+  - “This is Mirar MCP, and it works through Apple's iPhone mirroring on your Mac,”
+  - T: “this” 4.4% @0.32,0.73 0.8s #fafaf7 =said -0.09s
+  - T: “iphone Mirroring” 4.1% @0.50,0.74 0.6s #fcfcfa =said -0.00s
+  - T: “MCP” 3.9% @0.42,0.73 0.6s #e0e0de =said +0.17s
+  - (+14 more/smaller text lines)
+- **#4** 0:08.37 +3.03s | hard | flat graphic | eased zoom out x0.869 | 2 motion ev
+  - “so Cloud can read your phone screen and tap, swipe, and type for you.”
+  - T: “swipe” 5.1% @0.51,0.74 0.9s #fbf7fb =said +0.00s
+  - T: “your phone” 4.7% @0.50,0.74 1.0s #fdfbfd =said +0.21s
+  - T: “can” 3.4% @0.40,0.74 0.7s #a8a5a8 =said -0.22s
+  - (+10 more/smaller text lines)
+- **#5** 0:11.40 +3.33s | hard | speaker 39%@0.53,0.77 | eased zoom in x1.080 | 3 motion ev
+  - “To install it, you just run this one command and connect it to Cloud Code or Codex.”
+  - T: “or Codex” 4.2% @0.50,0.54 0.5s #fcfbf9 =said +0.28s
+  - T: “this” 4.1% @0.43,0.54 0.9s #e8d9d1 =said +0.02s
+  - T: “to Claude Code” 3.9% @0.50,0.54 0.5s #fbfbf9 =said +0.31s
+  - T: “to install it” 3.8% @0.50,0.54 0.5s #e6ded9 built =said -0.08s
+  - T: “and connect” 3.8% @0.47,0.54 0.6s #fcfbf7 =said +0.27s
+  - T: “Install mirroir-mcp” 3.0% @0.34,0.20 0.8s #dfd4cc
+  - (+18 more/smaller text lines)
+- **#6** 0:14.73 +1.73s | hard | speaker 42%@0.56,0.77 | eased zoom in x1.213
+  - “Then you can use it to automate whole workflows,”
+  - T: “then you” 5.2% @0.50,0.54 0.8s #e7e2e1 =said -0.07s
+  - T: “it to automate” 3.9% @0.50,0.54 0.7s #fefaf9 =said +0.31s
+  - T: “#mirror-message” 3.4% @0.36,0.26 0.7s #282828
+  - (+16 more/smaller text lines)
+- **#7** 0:16.47 +0.70s | hard | speaker 42%@0.56,0.78 | slow push in x1.024
+  - “test your own apps”
+  - T: “test your” 5.4% @0.50,0.54 0.5s #b9adad =said -0.03s
+  - (+9 more/smaller text lines)
+- **#8** 0:17.17 +1.10s | hard | speaker 40%@0.54,0.78 | pan/slide x1.010
+  - “or on a real device, or”
+  - T: “learn” 4.0% @0.47,0.54 0.9s #fefaf9
+  - (+2 more/smaller text lines)
+- **#9** 0:18.27 +2.93s | hard | speaker 41%@0.54,0.77 | static
+  - “just hand off all the boring stuff that you have to do on your phone every day.”
+  - T: “offall the boring” 5.8% @0.50,0.54 1.0s #fbfaf6 =said +0.21s
+  - T: “orjust” 5.0% @0.39,0.54 0.9s #fcfaf7
+  - T: “event next Tuesday at 2pm"” 3.0% @0.49,0.27 2.9s #2e2e31 built
+  - (+9 more/smaller text lines)
+- **#10** 0:21.20 +3.93s | hard | flat graphic | eased zoom out x0.866 | 1 motion ev
+  - “Plus you can block it from apps like Wallet or your banking apps, you always stay in control.”
+  - T: “you always” 4.6% @0.50,0.74 1.1s #b9a7a1 built =said -0.13s
+  - T: “it from” 4.3% @0.39,0.73 1.0s #e6e0df =said +0.13s
+  - T: “or your” 3.8% @0.50,0.74 0.8s #fbf5f2 =said -0.00s
+  - (+21 more/smaller text lines)
+- **#11** 0:25.13 +3.73s | hard | no face (b-roll / screen / graphic) | eased zoom in x1.048 | 3 motion ev
+  - “If you want the whole setup guide, just comment phone down below and I'll send you the links directly.”
+  - T: “"Phone"” 5.8% @0.50,0.79 1.8s #fcf9f6 =said +0.32s
+  - T: “if you” 5.3% @0.39,0.74 0.8s #190c0b =said -0.09s
+  - T: “comment” 4.1% @0.51,0.74 2.4s #e5d8d2 =said -0.07s

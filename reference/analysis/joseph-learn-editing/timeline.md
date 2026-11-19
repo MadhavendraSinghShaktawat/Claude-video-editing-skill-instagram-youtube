@@ -1,0 +1,1441 @@
+# Timeline: joseph-learn-editing.mp4
+
+One row per shot. `cut` = how the shot starts (hard = new picture, punch = same picture instant zoom with its scale, jump = same picture instant shift, pop = a graphic appears instantly in part of the frame, transition = multi-frame).
+`move` = camera movement measured inside the shot. `T:` on-screen text that first appears in this shot (height as % of frame; `=said` when it repeats spoken words, with seconds text leads(-)/lags(+) the word). `S:` sound-event candidates (★ = lands within 0.12 s of a cut or motion event).
+
+- **#0** 0:00.00 +1.77s | start | speaker 32%@0.50,0.36 | eased zoom out x0.905 | 1 motion ev
+  - “If you're trying to get into video editing right”
+- **#1** 0:01.77 +2.97s | punch x1.204 | speaker 41%@0.49,0.33 | slow push in x1.032 | 1 motion ev
+  - “now is the most confusing time to do that ever.”
+  - T: “Right now is the most confusing time” 5.8% @0.39,0.87 2.7s #eeeef0 built =said +0.21s
+- **#2** 0:04.73 +1.10s | transition | flat graphic | static | 1 motion ev
+  - “AI is becoming better”
+  - T: “Video Editing” 17.6% @0.57,0.48 2.1s #5170d7 =said -3.03s
+  - S: ★LOW@4.89(-4dB)
+- **#3** 0:05.83 +4.37s | transition | small face (inset / wide shot) 9%@0.62,0.45 | slow push in x1.014 | 4 motion ev
+  - “and better at editing by the day. Everyone is claiming that video editing is dead and it feels”
+  - T: “Video Editing” 16.3% @0.57,0.39 0.5s #3d5bcb =said -0.92s
+  - T: “DITING” 8.3% @0.58,0.35 1.0s #494450
+  - T: “Brain fog” 4.7% @0.16,0.18 1.0s #d9d3a6
+  - T: “STILL” 4.6% @0.20,0.29 1.0s #d3c4a8
+  - T: “GONEBY2026” 4.4% @0.42,0.66 1.0s #45444a
+  - T: “deoEditingls” 3.9% @0.13,0.74 1.0s #7f5746
+  - (+9 more/smaller text lines)
+  - S: ★LOW@8.03(-5dB), ★BB@9.71(-9dB), ★BB@9.97(-11dB)
+- **#4** 0:10.20 +0.60s | transition | speaker 12%@0.56,0.32 | pan/slide x1.002
+  - “like the whole world”
+  - T: “IsVideoEditing” 4.1% @0.89,0.18 2.3s #7c7a71
+  - S: BB@10.39(-13dB)
+- **#5** 0:10.80 +2.10s | hard | small face (inset / wide shot) 7%@0.79,0.21 | slow push in x1.022
+  - “is crumbling down. At the same time,”
+  - T: “tos a tvd oeditng.” 9.5% @0.61,0.48 1.0s #181619
+  - T: “"Al video editing is the next big thing” 8.7% @0.49,0.47 1.1s #100d11
+  - T: “'s too l” 7.0% @0.27,0.48 1.0s #181618
+  - T: “THEFUTURE” 3.7% @0.09,0.64 1.2s #7e7e7c
+  - (+3 more/smaller text lines)
+  - S: BB@11.98(-10dB)
+- **#6** 0:12.90 +1.27s | transition | speaker 37%@0.50,0.38 | eased zoom in x1.133
+  - “while all of this is happening,”
+  - S: BB+LOW@14.00(-4dB)
+- **#7** 0:14.17 +0.67s | hard | page with a face on it 32%@0.73,0.34 | eased zoom in x1.117
+  - “one of our students made”
+  - T: “RODE” 12.1% @0.49,0.89 8.1s #2f2f34
+- **#8** 0:14.83 +2.70s | transition | speaker 33%@0.73,0.37 | pan/slide x1.001 | 2 motion ev
+  - “$1 ,500 in a day with AI editing,”
+  - (+14 more/smaller text lines)
+- **#9** 0:17.53 +0.53s | pop | speaker 32%@0.73,0.37 | pan/slide x1.001
+  - “another one crushed”
+  - (+1 more/smaller text lines)
+- **#10** 0:18.07 +3.30s | transition | speaker 35%@0.73,0.38 | pan/slide x1.004 | 1 motion ev
+  - “the $2 ,000 per month mark editing videos with AI, and yet another one”
+  - T: “Ai video editing win!” 3.1% @0.12,0.32 2.4s #484849
+  - (+7 more/smaller text lines)
+  - S: BB+LOW@18.24(-4dB)
+- **#11** 0:21.37 +2.43s | transition | speaker 34%@0.73,0.40 | pan/slide x0.994
+  - “made $700 in a day with AI editing.”
+  - (+13 more/smaller text lines)
+  - S: BB+LOW@21.65(-4dB), BB@23.65(-7dB)
+- **#12** 0:23.80 +4.43s | hard | flat graphic | eased zoom in x1.024
+  - “The truth is, video editing is actually now more important than ever. The only problem is”
+  - T: “T e truth is, video editing is actually” 7.0% @0.50,0.46 3.4s #1b1b21 =said +0.80s
+  - T: “Thetruth” 6.5% @0.28,0.46 0.9s #828182
+  - T: “now more important than ever.” 6.4% @0.50,0.55 2.4s #212020 built =said +0.32s
+  - T: “tr th” 6.3% @0.31,0.46 0.6s #161619
+  - T: “now mr” 4.5% @0.30,0.55 0.6s #2249a0
+  - (+3 more/smaller text lines)
+- **#13** 0:28.23 +0.17s | pop | flat graphic | static
+- **#14** 0:28.40 +4.23s | pop | flat graphic | eased zoom in x1.323 | 3 motion ev
+  - “95 % of editors have spent the last year learning the wrong skills,”
+  - T: “Im about to make youaMaster” 4.3% @0.50,0.62 0.6s #a9a9ad
+  - T: “Reada” 3.3% @0.45,0.39 0.6s #4b4444
+  - T: “at design in under60 seconds” 3.2% @0.50,0.65 0.6s #bebec2
+  - T: “Reels” 3.0% @0.41,0.18 2.2s #dcdadb
+  - (+15 more/smaller text lines)
+  - S: BB@28.91(-12dB), ★BB+LOW@29.51(-4dB), BB+LOW@30.39(-2dB), BB@31.17(-4dB)
+- **#15** 0:32.63 +1.47s | hard | speaker 35%@0.50,0.38 | eased zoom in x1.110
+  - “and now AI can do their job.”
+  - T: “Now Al con do their job” 14.2% @0.50,0.14 1.4s #7b7b7b built =said -0.13s
+  - S: ★BB@32.60(-11dB)
+- **#16** 0:34.10 +5.97s | punch x1.111 | speaker 41%@0.51,0.29 | slow push in x1.034 | 2 motion ev
+  - “So in this video, I'm going to show you the exact roadmap that every editor needs to follow so that you don't get replaced by AI.”
+  - T: “every editor needs to follow so that you don't get replaced” 6.0% @0.47,0.88 2.9s #ebebee built =said +0.40s
+  - T: “$2,000/month” 6.0% @0.54,0.71 0.9s #a4d0fa
+  - T: “So in this video I'm going to show you the exact roadmap” 4.8% @0.50,0.88 2.0s #e6e5e9 built =said +0.84s
+  - T: “Video Engineering” 3.5% @0.42,0.65 1.0s #a1a1a6
+  - T: “Clients” 3.5% @0.72,0.65 1.0s #71747a
+  - T: “Clients” 3.3% @0.39,0.64 0.9s #9d9da1
+  - (+3 more/smaller text lines)
+  - S: BB@38.36(-12dB)
+- **#17** 0:40.07 +18.23s | transition | flat graphic | eased zoom in x1.234 | 5 motion ev
+  - “First, I'm going to show you why you get paid as a video editor and fundamentally why you're thinking of video editing wrong. Then I'm going to walk you through why AI is actually the best thing that's ever happened to editing and what you actually need to learn. And finally, I'll take you through a 30 -day plan that you can implement today to go from a complete beginner video editor to someone making $2 ,000 per month with AI video editing.”
+  - T: “$2,000/month” 11.3% @0.50,0.61 1.3s #214dc3
+  - T: “Why Al” 8.7% @0.36,0.25 1.0s #6c6c6d
+  - T: “A 30-day plan you can implement today” 8.4% @0.50,0.14 5.3s #224874 =said +1.02s
+  - T: “First, whyyouget” 8.3% @0.31,0.36 1.0s #929196
+  - T: “that's ever happened to editing” 8.1% @0.50,0.23 3.2s #201f21 built =said +0.07s
+  - T: “A 30-day plan” 8.1% @0.28,0.23 1.0s #3b5dc8
+  - (+11 more/smaller text lines)
+  - S: LOW@40.30(-3dB), LOW@40.84(-4dB), LOW@45.24(-5dB), BB@51.05(-6dB), BB@52.04(-13dB), BB@55.44(-5dB), BB@56.28(-9dB)
+- **#18** 0:58.30 +1.27s | hard | speaker 35%@0.50,0.38 | eased zoom in x1.117
+  - “But first, it all starts by understanding”
+  - S: ★BB@58.28(-6dB)
+- **#19** 0:59.57 +3.00s | transition | flat graphic | slow push in x1.057
+  - “why video editors get paid in the first place.”
+  - T: “Chapter One” 12.6% @0.50,0.44 3.0s #2a3036 built
+  - T: “Why editors get paid” 6.3% @0.50,0.57 2.1s #7a9ab5 built =said +0.41s
+  - S: BB@62.21(-5dB)
+- **#20** 1:02.57 +2.07s | hard | speaker 37%@0.50,0.39 | eased zoom out x0.974 | 2 motion ev
+  - “The fundamental thing that you have to understand is that”
+- **#21** 1:04.63 +7.97s | hard | flat graphic | eased zoom out x0.670 | 1 motion ev
+  - “in 2026, there are these businesses that all want to make money. In order to make money, they need to get more clients, and to do that, they need to do something called marketing.”
+  - T: “that all want to make money.” 9.1% @0.50,0.32 2.0s #575656 built =said -0.11s
+  - T: “In 2026, there are businesses” 6.1% @0.50,0.22 3.8s #454443 built =said +0.01s
+- **#22** 1:12.60 +3.03s | hard | speaker 38%@0.50,0.28 | eased zoom in x1.099 | 1 motion ev
+  - “The most effective method of marketing in 2026 is organic”
+  - T: “Themost” 5.2% @0.18,0.89 0.9s #737373
+  - T: “The most effective method of marketing in2026 is organic video” 3.9% @0.45,0.90 3.0s #e6e5e8 built =said +0.79s
+  - (+5 more/smaller text lines)
+  - S: ★BB@72.50(-9dB)
+- **#23** 1:15.63 +3.40s | jump x1.001 | speaker 39%@0.50,0.27 | eased zoom in x1.094 | 3 motion ev
+  - “video marketing, which means creating content on a social media page.”
+  - T: “which means creating content on a social media page” 5.6% @0.50,0.90 2.4s #d3d1d3 built =said -0.01s
+  - T: “Editorso” 3.5% @0.67,0.77 1.3s #976e58
+- **#24** 1:19.03 +3.83s | hard | page with a face on it 36%@0.50,0.52 | eased zoom in x1.253 | 3 motion ev
+  - “The only problem is that when they record raw content and post that, that video flops. It”
+  - T: “Raw video” 5.9% @0.50,0.10 1.9s #254cb5 =said +0.15s
+  - (+1 more/smaller text lines)
+  - S: ★BB@79.03(-7dB), BB+LOW@82.73(-7dB)
+- **#25** 1:22.87 +2.00s | hard | page with a face on it 64%@0.25,0.46 | eased zoom in x1.053 | 1 motion ev
+  - “doesn't get any views and it doesn't portray the business”
+  - T: “Doesn't get views” 8.3% @0.72,0.39 3.6s #69696f built =said -0.23s
+  - T: “Doesn't portray the business” 5.1% @0.70,0.49 2.0s #34353a =said +0.25s
+  - (+1 more/smaller text lines)
+- **#26** 1:24.87 +0.73s | pop | page with a face on it 65%@0.21,0.44 | slow pull out x0.953
+  - “in a nice way.”
+  - T: “in a nice way.” 4.9% @0.61,0.56 1.1s #2b2c30 =said +0.39s
+- **#27** 1:25.60 +1.47s | jump x1.0 | speaker 34%@0.24,0.29 | slow push in x1.037 | 1 motion ev
+  - “Hence why they need someone to”
+  - S: ★BB+LOW@86.68(-10dB)
+- **#28** 1:27.07 +1.33s | transition | page with a face on it 30%@0.22,0.54 | slow pull out x0.981 | 1 motion ev
+  - “turn that raw content into”
+- **#29** 1:28.40 +5.70s | pop | page with a face on it 30%@0.21,0.48 | eased zoom in x1.768 | 2 motion ev
+  - “the viral videos that look stunning, deliver value and make clients trust them. That person, that's what we call a”
+  - T: “Videoeditor” 9.5% @0.50,0.83 1.0s #204cd6 built
+  - T: “theyre functional” 3.1% @0.76,0.43 0.7s #6c6664
+  - (+5 more/smaller text lines)
+  - S: ★BB+LOW@92.95(-0dB)
+- **#30** 1:34.10 +0.77s | jump x1.001 | flat graphic | eased zoom in x1.114
+  - “video editor.”
+  - S: BB@94.67(-10dB)
+- **#31** 1:34.87 +3.67s | hard | speaker 38%@0.49,0.28 | eased zoom in x1.127 | 3 motion ev
+  - “So fundamentally what you need to understand is that you don't get paid to make pretty videos and”
+  - T: “AlRevenue” 5.9% @0.70,0.80 1.7s #656265
+  - T: “that you don't get paid to make pretty videos” 4.6% @0.50,0.90 1.8s #d4cbcf built =said +0.18s
+  - T: “So fundamentally, what you need to understand” 4.4% @0.49,0.90 1.0s #d4d0d2 =said +0.88s
+  - T: “appthattrackstheweather” 3.4% @0.71,0.80 0.9s #857f7f built
+  - T: “Live” 3.1% @0.48,0.92 0.7s #332926
+  - (+7 more/smaller text lines)
+- **#32** 1:38.53 +3.07s | jump x1.001 | speaker 41%@0.50,0.27 | static | 3 motion ev
+  - “you don't get paid because you know Premiere Pro or After Effects.”
+  - T: “You don't get paid because you know” 4.9% @0.50,0.77 2.7s #d2d2d7 built =said +0.11s
+  - S: ★BB@98.62(-11dB)
+- **#33** 1:41.60 +0.10s | pop | speaker 40%@0.48,0.25 | slow push in x1.032
+- **#34** 1:41.70 +5.87s | hard | page with a face on it 30%@0.21,0.49 | slow push in x1.015 | 3 motion ev
+  - “You get paid to deliver high quality premium viral videos. Whether you're doing that yourself or you're allowing the AI to”
+  - T: “You get paid.” 7.8% @0.50,0.14 6.8s #8c8b8b built =said +0.04s
+  - (+4 more/smaller text lines)
+  - S: ★BB@101.67(-8dB), BB@102.24(-13dB), ★BB@103.48(-11dB), BB@103.90(-13dB), BB@105.56(-12dB)
+- **#35** 1:47.57 +0.20s | pop | page with a face on it 27%@0.19,0.46 | static
+  - “do”
+- **#36** 1:47.77 +0.70s | jump x1.0 | page with a face on it 31%@0.78,0.46 | static | 1 motion ev
+  - “the editing. If it's”
+  - T: “If it's done right,” 6.8% @0.50,0.46 2.7s #e8dfde built =said -0.04s
+  - T: “whatdoesul” 3.5% @0.78,0.71 0.5s #64605f
+  - S: ★BB@107.65(-12dB), BB@108.07(-12dB)
+- **#37** 1:48.47 +1.60s | transition | flat graphic | static
+  - “done right, the client doesn't”
+  - T: “the client doesn't care.” 6.7% @0.50,0.55 1.6s #d6d6d7 built =said +0.16s
+  - S: BB@109.04(-12dB)
+- **#38** 1:50.07 +1.27s | transition | flat graphic | static
+  - “care. The client only cares that”
+  - T: “RODI” 12.8% @0.21,0.93 8.8s #1b1b1b
+  - S: BB@110.71(-13dB)
+- **#39** 1:51.33 +1.80s | transition | speaker 37%@0.50,0.38 | slow push in x1.033 | 2 motion ev
+  - “the video looks good or looks atrocious,”
+  - S: BB@112.93(-10dB)
+- **#40** 1:53.13 +6.60s | jump x1.001 | speaker 39%@0.49,0.38 | static | 5 motion ev
+  - “which brings me directly into my next point. In order for us to take a raw video and turn it into a viral edit, there are two major things that”
+  - S: BB@114.04(-12dB), BB+LOW@114.92(-8dB), ★BB@117.69(-12dB)
+- **#41** 1:59.73 +0.50s | jump x1.001 | page with a face on it 42%@0.51,0.40 | slow push in x1.019 | 1 motion ev
+  - “are happening.”
+  - S: ★BB+LOW@120.00(-9dB)
+- **#42** 2:00.23 +8.40s | transition | page with a face on it 34%@0.43,0.63 | eased zoom in x1.162 | 4 motion ev
+  - “First, we have a very deep understanding of how content works. We can look at the content that our client is sending us and say, okay, this needs to look like that and that needs to look like this.”
+  - T: “A very deep understanding of how content works.” 5.8% @0.50,0.24 4.6s #264bb3 =said +2.90s
+  - T: “A very deep understanding of how content works.” 5.6% @0.50,0.62 3.0s #262523 built =said -0.02s
+  - S: BB+LOW@122.06(-10dB), BB+LOW@123.74(-3dB), BB+LOW@126.29(-4dB), ★BB+LOW@128.46(-9dB)
+- **#43** 2:08.63 +4.03s | hard | speaker 37%@0.50,0.38 | eased zoom in x1.236 | 1 motion ev
+  - “It's a lot like an interior designer looking at the interior of a home and knowing exactly what”
+  - T: “RODE” 15.0% @0.26,0.88 2.8s #adadae
+- **#44** 2:12.67 +1.40s | jump x1.001 | speaker 38%@0.49,0.39 | eased zoom in x1.120 | 1 motion ev
+  - “needs to be placed where.”
+- **#45** 2:14.07 +4.67s | hard | page with a face on it 5%@0.18,0.80 | static
+  - “Second, we know how to use Premiere Pro and After Effects to edit the video and bring our vision into life. The”
+  - (+10 more/smaller text lines)
+  - S: ★BB+LOW@134.05(-7dB), BB+LOW@135.27(-3dB)
+- **#46** 2:18.73 +9.10s | pop | page with a face on it 28%@0.11,0.62 | static | 5 motion ev
+  - “terms I use for those skills are video engineering, which is the ability to look at a video and have the vision for what it's supposed to look like and editing knowledge, which is the ability to execute it using”
+  - T: “Video engineering” 6.1% @0.24,0.27 8.0s #214cd3 =said +0.41s
+  - T: “Editing knowledge” 5.9% @0.76,0.27 3.0s #204cd3 =said +0.69s
+  - (+5 more/smaller text lines)
+  - S: BB@139.94(-10dB), BB@141.55(-10dB), ★BB@142.15(-12dB), BB@142.50(-9dB), BB@145.39(-13dB), BB@145.58(-10dB), BB@146.23(-13dB), BB@147.10(-9dB)
+- **#47** 2:27.83 +0.73s | jump x1.0 | page with a face on it 27%@0.09,0.62 | static
+  - “the editing”
+- **#48** 2:28.57 +0.60s | pop | speaker 15%@0.09,0.56 | eased zoom in x1.108 | 1 motion ev
+  - “programs.”
+  - S: ★BB@148.66(-11dB), ★BB@148.99(-9dB)
+- **#49** 2:29.17 +6.27s | hard | speaker 35%@0.49,0.37 | eased zoom out x0.865 | 4 motion ev
+  - “And realistically, all that's happening now with AI is that AI is simply getting better at taking the human vision you have and”
+  - S: BB+LOW@151.74(-5dB), BB+LOW@152.50(-4dB), BB@153.07(-12dB), BB@153.29(-11dB)
+- **#50** 2:35.43 +0.80s | pop | speaker 31%@0.50,0.39 | eased zoom in x1.087 | 2 motion ev
+  - “executing it.”
+  - S: ★BB@155.39(-10dB)
+- **#51** 2:36.23 +10.70s | hard | speaker 49%@0.50,0.31 | eased zoom in x1.149 | 11 motion ev
+  - “This is why it's so stupid to pretend that video editing is dying. You were never paid to use Premiere Pro or After Effects. You were actually paid to come up with the vision for the video. So if AI is going to do the execution”
+  - T: “ROD” 11.5% @0.16,0.94 0.8s #bbbbbd
+  - T: “focus” 5.0% @0.54,0.82 2.0s #8f7e77
+  - T: “youcan” 4.8% @0.46,0.68 0.7s #a6a2a1
+  - T: “you can” 4.6% @0.46,0.76 3.0s #a5a09e built
+  - T: “learn to” 4.6% @0.46,0.81 2.0s #211b1c
+  - T: “leamto” 4.1% @0.46,0.73 0.7s #7e7c7d
+  - (+2 more/smaller text lines)
+  - S: ★BB@156.16(-10dB), BB+LOW@166.76(-5dB)
+- **#52** 2:46.93 +6.60s | transition | page with a face on it 27%@0.50,0.48 | eased zoom in x1.178 | 3 motion ev
+  - “better, all this means is that it makes it easier for you to come up with better visions for the video and let AI take care of the work,”
+  - T: “cholamines” 3.5% @0.62,0.54 0.9s #423c38
+  - T: “focus” 3.0% @0.63,0.35 1.9s #f4d8c6
+  - (+5 more/smaller text lines)
+  - S: BB@169.42(-12dB), BB@170.21(-12dB), BB@171.35(-11dB), BB@172.42(-8dB)
+- **#53** 2:53.53 +1.80s | hard | speaker 34%@0.50,0.38 | eased zoom in x1.118 | 1 motion ev
+  - “which means that this is the best thing”
+  - S: ★BB+LOW@173.49(-7dB), ★BB@174.81(-10dB)
+- **#54** 2:55.33 +0.07s | jump x1.0 | no face (b-roll / screen / graphic) | untracked (full-frame animation, still, or too short)
+  - “that's”
+- **#55** 2:55.40 +1.97s | jump x1.0 | speaker 36%@0.50,0.39 | eased zoom in x1.111 | 2 motion ev
+  - “happened to the editing market ever.”
+  - S: ★BB@175.39(-10dB)
+- **#56** 2:57.37 +1.93s | punch x0.869 | speaker 37%@0.50,0.34 | eased zoom in x1.178
+  - “So the real question you need to ask yourself is if”
+  - T: “So the real question you need to ask” 4.8% @0.45,0.88 1.7s #7d92a5 built =said -0.01s
+  - S: ★BB@177.34(-7dB)
+- **#57** 2:59.30 +2.60s | hard | page with a face on it 17%@0.24,0.40 | slow pull out x0.955
+  - “AI is going to be capable of taking the vision I”
+  - (+1 more/smaller text lines)
+  - S: ★BB+LOW@179.33(-10dB)
+- **#58** 3:01.90 +2.27s | pop | page with a face on it 15%@0.24,0.38 | slow push in x1.094
+  - “have in mind and translating that into a video. What”
+  - T: “What do I need to do as a video editor” 5.9% @0.50,0.46 3.0s #aea7a6 built =said -0.05s
+  - T: “Claude” 3.3% @0.55,0.62 2.1s #686c78
+  - (+1 more/smaller text lines)
+  - S: BB+LOW@182.96(-7dB)
+- **#59** 3:04.17 +2.97s | transition | flat graphic | eased zoom in x1.127
+  - “do I need to do as a video editor in order not to get replaced?”
+  - T: “in order not to” 7.0% @0.37,0.55 0.9s #dad9df =said +0.44s
+  - S: BB+LOW@186.91(-9dB)
+- **#60** 3:07.13 +4.17s | hard | speaker 36%@0.50,0.33 | eased zoom in x1.151 | 2 motion ev
+  - “The first thing you need to do is master video engineering. And in a moment, I'm going to show you exactly how.”
+  - T: “RODE” 15.2% @0.27,0.85 0.8s #acacad
+  - T: “Video Engineering” 4.5% @0.50,0.82 0.7s #dfe0e5 =said +0.34s
+  - T: “In a moment I'll show you exactly how” 4.1% @0.50,0.87 2.3s #d2d2d7 built =said -0.15s
+  - S: BB+LOW@188.29(-8dB), BB@190.97(-7dB)
+- **#61** 3:11.30 +0.90s | jump x0.998 | speaker 38%@0.50,0.30 | slow pull out x0.987 | 1 motion ev
+  - “You need to gain the ability”
+- **#62** 3:12.20 +2.60s | transition | page with a face on it 26%@0.46,0.55 | static | 2 motion ev
+  - “to look at any video that your client wants in any style”
+  - T: “Video Engineering” 4.0% @0.50,0.23 2.3s #434349
+  - T: “specific thing. It's an inability to focus.” 3.5% @0.20,0.47 2.3s #757474
+  - T: “can focus if they're doing something” 3.5% @0.20,0.67 2.3s #b9b9b7
+  - T: “What's your best advice forimproving” 3.3% @0.21,0.39 2.3s #4c4b4c built
+  - (+2 more/smaller text lines)
+  - S: ★BB@192.47(-10dB), BB@192.83(-7dB), BB@193.64(-5dB)
+- **#63** 3:14.80 +0.73s | pop | page with a face on it 24%@0.43,0.54 | static | 2 motion ev
+  - “and know exactly”
+  - T: “they really like. The dopamine,” 3.4% @0.18,0.71 1.7s #a09f9f
+  - T: “norepinephrine, epinephrine are there.” 3.3% @0.21,0.87 1.7s #acaba9
+  - T: “to access them is too high.” 3.0% @0.17,0.95 1.7s #b3b2ae built
+  - (+2 more/smaller text lines)
+- **#64** 3:15.53 +0.83s | pop | page with a face on it 13%@0.44,0.49 | eased zoom in x1.116 | 1 motion ev
+  - “how it needs to look.”
+  - (+2 more/smaller text lines)
+- **#65** 3:16.37 +11.40s | hard | speaker 40%@0.50,0.38 | eased zoom in x1.326 | 10 motion ev
+  - “That's not your client's responsibility. That's yours. You also need to learn how to execute it with AI. And the truth is if you're still going to try to execute it traditionally, every editor that knows how to do it with AI is going to be faster than you, cheaper than you and make better”
+  - T: “RODE” 15.0% @0.25,0.90 2.9s #a4a4a5
+  - T: “How to execute with” 4.1% @0.48,0.89 1.6s #b2b2b6 built =said -0.05s
+  - T: “Being amazing” 3.3% @0.15,0.35 2.0s #a0a0a8
+  - (+2 more/smaller text lines)
+  - S: ★BB+LOW@196.32(-9dB), ★BB+LOW@198.54(-5dB), BB+LOW@201.76(-8dB), BB+LOW@204.30(-8dB)
+- **#66** 3:27.77 +1.30s | jump x0.999 | speaker 41%@0.52,0.33 | pan/slide x1.004 | 1 motion ev
+  - “edits than you. Ultimately,”
+- **#67** 3:29.07 +10.13s | transition | page with a face on it 13%@0.25,0.47 | eased zoom out x0.521 | 5 motion ev
+  - “what you need to do is become the dream editor. You can now take any video that your client has and instantly have the best vision for it. You can execute it and 10 % of the time it usually takes using AI. And if your client has any revisions, you can”
+  - T: “What you need to do is become” 7.4% @0.50,0.45 1.6s #3a3a3e =said +0.91s
+  - T: “the dream editor.” 6.7% @0.50,0.54 1.6s #4f4e54 built =said -0.15s
+  - T: “What you need to do is become” 5.2% @0.50,0.11 9.6s #212327 =said +2.51s
+  - T: “the dream editor.” 5.0% @0.50,0.15 9.6s #274fc5 =said +1.45s
+  - T: “improvingmemory” 4.3% @0.79,0.65 0.6s #e7e1a8
+  - T: “andfocus” 3.7% @0.79,0.64 0.7s #d9d49f
+  - (+6 more/smaller text lines)
+  - S: LOW@209.11(-12dB), BB+LOW@211.33(-3dB), BB+LOW@212.64(-4dB), ★BB+LOW@215.05(-6dB)
+- **#68** 3:39.20 +1.93s | pop | page with a face on it 15%@0.79,0.44 | eased zoom in x1.115 | 2 motion ev
+  - “execute them faster than any editor can.”
+  - T: “Brain fog” 7.2% @0.79,0.62 1.3s #a59f74 built
+  - (+3 more/smaller text lines)
+  - S: ★BB@220.29(-10dB), BB+LOW@220.81(-9dB)
+- **#69** 3:41.13 +3.63s | hard | speaker 37%@0.49,0.32 | eased zoom in x1.124 | 2 motion ev
+  - “For you, this means you can now handle more clients and make even more money.”
+  - S: BB@223.29(-13dB), ★BB+LOW@224.48(-10dB)
+- **#70** 3:44.77 +3.63s | jump x1.001 | speaker 39%@0.50,0.32 | eased zoom in x1.103 | 2 motion ev
+  - “So how do you learn video engineering? And how do you learn to execute it with AI?”
+  - T: “Video Engineering” 4.0% @0.39,0.83 1.5s #dddee4 =said +0.88s
+  - T: “HowtoexecutewithAl” 3.2% @0.61,0.83 0.5s #dadadf
+  - S: LOW@226.96(-5dB)
+- **#71** 3:48.40 +2.40s | hard | flat graphic | slow push in x1.055
+  - “I'm going to show you the full plan on how I would do this from”
+  - T: “Good Design” 5.8% @0.35,0.62 1.0s #5d5d5d
+  - T: “Animation Psychology” 5.5% @0.76,0.42 1.0s #595959
+  - T: “Good Design” 4.5% @0.76,0.62 0.9s #afafaf
+  - T: “A/Tools” 4.3% @0.39,0.42 0.9s #ababab
+  - T: “First Edit” 4.0% @0.56,0.63 1.3s #5f5f5f
+  - S: LOW@229.26(-5dB)
+- **#72** 3:50.80 +0.93s | transition | flat graphic | pan/slide x0.997
+  - “day zero. The only”
+  - S: ★BB+LOW@231.30(-4dB)
+- **#73** 3:51.73 +4.30s | transition | speaker 37%@0.50,0.38 | eased zoom in x1.125 | 2 motion ev
+  - “problem is in every one of those steps, you're going to need to go and learn new information. And that's”
+  - S: BB+LOW@234.41(-11dB), BB@234.93(-13dB)
+- **#74** 3:56.03 +9.40s | hard | page with a face on it 15%@0.58,0.20 | eased zoom out x0.397 | 5 motion ev
+  - “why we built Ultimate Editors. It's the step by step program to go from someone who doesn't know anything about video editing to learning the viral editing styles of 2026, learning how to edit them with AI and making $2”
+  - T: “Editing Styles &” 6.1% @0.41,0.47 0.5s #fdf7fe
+  - T: “A step-by-step program to go from someone” 6.1% @0.50,0.62 3.5s #365ac8 built =said -0.59s
+  - T: “From Beginner” 5.9% @0.40,0.34 0.5s #dbc8fb
+  - T: “who doesn't know anything about video editing” 5.6% @0.50,0.69 1.4s #353438 built =said +0.44s
+  - T: “Editor to Viral” 5.4% @0.40,0.40 0.5s #f7f0fd
+  - T: “$2,000/mo in 90 days” 5.4% @0.43,0.53 0.5s #dec1fd
+  - (+17 more/smaller text lines)
+  - S: ★LOW@236.04(-9dB), ★BB+LOW@237.42(-4dB), ★BB+LOW@241.35(-4dB)
+- **#75** 4:05.43 +1.77s | transition | page with a face on it 14%@0.57,0.16 | eased zoom in x1.095
+  - “,000 per month as a video editor.”
+  - (+16 more/smaller text lines)
+  - S: BB@247.03(-8dB)
+- **#76** 4:07.20 +3.40s | hard | speaker 38%@0.49,0.33 | eased zoom in x1.107 | 2 motion ev
+  - “And there are almost 48 hours before this program closes down forever.”
+  - T: “And there are almost 48 hours before this program closes down forever” 4.2% @0.50,0.88 3.4s #78787c built =said +0.03s
+  - S: BB@248.69(-13dB), BB@249.17(-8dB), BB@249.61(-11dB)
+- **#77** 4:10.60 +0.87s | pop | speaker 41%@0.51,0.33 | eased zoom in x1.071
+  - “So you got to listen up.”
+  - T: “So yougotto listen up” 5.4% @0.50,0.88 1.0s #b6b6bb built =said -0.10s
+- **#78** 4:11.47 +0.07s | punch x0.96 | page with a face on it 39%@0.50,0.32 | untracked (full-frame animation, still, or too short)
+  - S: ★BB+LOW@251.36(-8dB)
+- **#79** 4:11.53 +4.37s | hard | page with a face on it 16%@0.71,0.62 | pan/slide x0.996
+  - “We take beginner editors and teach them the five viral editing styles of 2026, cinematic videos,”
+  - T: “Short-Film” 5.4% @0.83,0.18 2.0s #bcbbba
+  - T: “Short-Film” 4.8% @0.64,0.18 1.0s #d0cdcf
+  - T: “Cinematic” 4.2% @0.64,0.14 1.0s #d7d6d6 =said -0.81s
+  - T: “Cinematic” 4.1% @0.83,0.14 2.0s #e7e6e4 =said -2.81s
+  - T: “whatseems” 3.1% @0.84,0.81 2.0s #dfdeda
+  - (+5 more/smaller text lines)
+  - S: ★BB+LOW@255.52(-4dB)
+- **#80** 4:15.90 +4.47s | transition | flat graphic | slow push in x1.014 | 4 motion ev
+  - “minimal animations, SAS trainers, viral animation breakdowns and even viral talking head edits.”
+  - T: “Noise” 7.1% @0.18,0.72 0.6s #8a8989
+  - T: “Noise” 6.9% @0.04,0.72 0.6s #747473
+  - T: “Viral Talking Head” 5.8% @0.47,0.14 0.9s #2a4260 =said +0.35s
+  - T: “Viral Talking Head” 5.3% @0.62,0.15 0.6s #9a9da4 =said -0.25s
+  - T: “Viral Animation” 5.2% @0.57,0.14 0.8s #a4989e =said -0.01s
+  - T: “SAAS Tralers” 5.0% @0.63,0.15 1.0s #b7b2b5
+  - (+9 more/smaller text lines)
+  - S: BB@257.69(-9dB)
+- **#81** 4:20.37 +0.27s | pop | page with a face on it 7%@0.48,0.90 | eased zoom in x1.098
+  - S: ★BB@260.40(-11dB)
+- **#82** 4:20.63 +4.23s | hard | speaker 36%@0.50,0.33 | eased zoom in x1.239 | 3 motion ev
+  - “Once they've learned how to edit really high quality videos, we then teach them how to do it with AI.”
+  - T: “Wethen teachthem” 4.4% @0.39,0.88 0.8s #cdcdd2
+  - T: “We then teach them how to do it with Al” 4.0% @0.50,0.87 2.1s #666669 built =said -0.20s
+  - S: BB+LOW@263.30(-10dB)
+- **#83** 4:24.87 +0.07s | jump x1.02 | flat graphic | untracked (full-frame animation, still, or too short)
+- **#84** 4:24.93 +9.50s | hard | flat graphic | eased zoom out x0.838
+  - “Using our AI editing fundamentals course, we teach them the fundamental tools, Claude, Remotion and Hicksfield. Then we show them how to edit Iman Gadji videos, Vox documentaries and viral short form edits. Then”
+  - T: “Al Editing Fundamentals Course” 8.9% @0.50,0.51 2.0s #2a56cb built =said +0.27s
+  - T: “Al Editing Fundamentals Course” 8.3% @0.50,0.42 1.0s #224fc6 =said +2.27s
+  - T: “Al Editing Fundamentals Course” 8.0% @0.50,0.31 2.0s #2250c8 =said +3.27s
+  - T: “Al EditingFundamentalsCourse” 7.6% @0.50,0.17 1.0s #6281d6
+  - T: “Iman Gadzhi” 4.5% @0.18,0.72 2.1s #2f51c6
+  - T: “Vox” 4.1% @0.50,0.72 2.1s #3353c2 =said +0.67s
+  - (+7 more/smaller text lines)
+  - S: ★BB+LOW@264.87(-10dB), BB+LOW@267.59(-3dB), LOW@271.28(-8dB), LOW@271.73(-9dB)
+- **#85** 4:34.43 +0.07s | jump x1.0 | flat graphic | untracked (full-frame animation, still, or too short)
+- **#86** 4:34.50 +0.33s | jump x1.0 | page with a face on it 9%@0.83,0.29 | pan/slide x1.000
+  - “using the”
+- **#87** 4:34.83 +11.13s | pop | page with a face on it 14%@0.26,0.48 | eased zoom out x0.574 | 4 motion ev
+  - “Joseph AI editing masterclass, I teach them how I edit my own short form content using my own short form editing skill and even show them how I edited this very YouTube video you're watching right now using my long form AI editing skills.”
+  - T: “JOCEPH” 15.4% @0.26,0.48 2.7s #d3dbec
+  - T: “JOCTEPH” 14.4% @0.27,0.48 2.3s #a9b2f7
+  - T: “Short-Form” 4.3% @0.82,0.66 0.8s #7b92da
+  - T: “Iman Godzh” 4.1% @0.18,0.66 0.8s #768fd9
+  - T: “Long-Form Editing Skill” 4.0% @0.72,0.57 1.6s #3d4554 =said +1.68s
+  - T: “Short-Form Editing Skill” 3.7% @0.72,0.57 1.3s #3d59c2 =said +2.18s
+  - (+1 more/smaller text lines)
+  - S: BB+LOW@275.34(-10dB), LOW@275.59(-12dB), BB+LOW@276.59(-8dB), LOW@279.14(-10dB), BB@282.74(-11dB), ★BB+LOW@283.23(-6dB), BB+LOW@285.71(-7dB)
+- **#88** 4:45.97 +4.37s | hard | speaker 38%@0.50,0.33 | eased zoom in x1.138 | 2 motion ev
+  - “This is probably the last chance you're ever going to have to get access to ultimate editors.”
+  - T: “This is probably the last chance you're ever gonna have” 5.0% @0.50,0.84 3.3s #efeef0 built =said +1.05s
+  - T: “to get access to Ultimate Editors” 4.9% @0.50,0.89 1.3s #e8e8ec built =said +0.39s
+  - T: “gonna” 3.9% @0.69,0.85 1.0s #616167
+- **#89** 4:50.33 +1.73s | hard | flat graphic | slow pull out x0.972 | 1 motion ev
+  - “So if you don't want to be replaced as a video editor in”
+  - T: “If you don't want to be replaced” 5.9% @0.50,0.15 3.0s #727071 built =said -0.11s
+  - T: “rend-focusedcourse:” 3.2% @0.25,0.61 2.0s #778986 built
+  - S: ★BB+LOW@290.31(-6dB)
+- **#90** 4:52.07 +0.90s | pop | page with a face on it 13%@0.74,0.50 | static
+  - “2026,”
+  - T: “as a video editor in 2026” 5.6% @0.50,0.22 1.3s #202022 =said +0.75s
+  - T: “I don't” 3.2% @0.54,0.55 1.3s #f5ede0
+  - (+7 more/smaller text lines)
+- **#91** 4:52.97 +0.10s | pop | flat graphic | untracked (full-frame animation, still, or too short)
+- **#92** 4:53.07 +1.23s | pop | page with a face on it 8%@0.26,0.66 | eased zoom in x1.123 | 1 motion ev
+  - “join ultimate editors 2”
+  - T: “asavide0editorin2026” 5.9% @0.50,0.12 0.6s #c4c2c3
+  - T: “Ifyoudon'twanttobereplaced” 5.7% @0.50,0.04 0.6s #babdc6
+  - T: “things” 5.0% @0.61,0.74 0.6s #e9d6c7
+  - T: “Join Ultimate Editors 2.0 and learn how to edit” 4.6% @0.50,0.26 6.8s #264ba5 built =said +0.84s
+  - T: “Idon't” 4.4% @0.54,0.60 0.6s #efe7db
+  - T: “Beginner” 3.7% @0.23,0.67 0.6s #5b5360
+  - (+6 more/smaller text lines)
+  - S: BB+LOW@293.55(-3dB)
+- **#93** 4:54.30 +1.43s | pop | flat graphic | slow push in x1.049 | 1 motion ev
+  - “.0 and learn how the viral editing”
+  - T: “viral videos in 2026 and use Al to make” 4.5% @0.50,0.33 5.6s #262325 built =said -0.22s
+  - T: “Advanced” 3.2% @0.25,0.86 0.6s #6c666d
+  - (+1 more/smaller text lines)
+- **#94** 4:55.73 +3.10s | pop | page with a face on it 17%@0.58,0.77 | static | 3 motion ev
+  - “styles of 2026 are made and how you can use AI to make”
+  - T: “2.000” 10.6% @0.25,0.86 1.0s #f9fafa
+  - T: “61,478” 10.2% @0.25,0.86 1.0s #f7f9fb
+  - T: “Reflection” 4.4% @0.75,0.80 4.8s #a89e99
+  - (+5 more/smaller text lines)
+- **#95** 4:58.83 +1.77s | pop | page with a face on it 15%@0.58,0.79 | static | 1 motion ev
+  - “$2 ,000 per month as a video”
+  - T: “$2,000 per month as a video editor.” 5.4% @0.50,0.40 1.9s #254cbc built =said -0.73s
+  - T: “ve coaching cal” 4.8% @0.25,0.76 1.9s #868286 built
+  - S: ★BB@298.91(-13dB)
+- **#96** 5:00.60 +0.37s | jump x1.002 | page with a face on it 13%@0.76,0.74 | eased zoom in x1.122 | 1 motion ev
+  - “editor.”
+  - S: ★BB+LOW@300.81(-8dB)
+- **#97** 5:00.97 +3.03s | hard | speaker 35%@0.50,0.38 | eased zoom in x1.107 | 1 motion ev
+  - “Click the link down below before the program closes down forever.”
+  - T: “Click the link down below” 3.6% @0.50,0.84 2.0s #2848a6 =said +0.81s
+  - S: BB@302.22(-6dB)
+- **#98** 5:04.00 +5.97s | pop | speaker 38%@0.50,0.38 | slow push in x1.060 | 5 motion ev
+  - “But with all this being said, where should you get started as a video editor who doesn't know anything about AI? How do you learn to edit good videos and”
+  - T: “How do you land high-paying clients?” 7.4% @0.45,0.41 2.9s #616767 built =said -0.31s
+  - T: “good videos?” 6.0% @0.72,0.49 1.4s #8fc8f6 =said +0.13s
+  - T: “Where should you get startec” 5.8% @0.21,0.16 3.0s #b2b4b4 built =said -0.11s
+  - T: “know” 5.6% @0.13,0.31 0.8s #60665e =said -0.20s
+  - T: “How do you learn to edit” 5.2% @0.75,0.44 1.4s #f4f3f6 =said -0.81s
+  - T: “as a video editor who doesr” 5.1% @0.20,0.23 1.0s #b6baba =said +0.86s
+  - (+1 more/smaller text lines)
+- **#99** 5:09.97 +2.90s | jump x1.001 | speaker 40%@0.50,0.38 | static | 3 motion ev
+  - “how do you land high paying clients? First, we're going to get started with”
+  - S: ★BB@311.82(-13dB), ★BB@312.14(-9dB)
+- **#100** 5:12.87 +3.07s | transition | flat graphic | eased zoom in x1.137 | 1 motion ev
+  - “day 1 through 3 learning the AI editing tools.”
+  - T: “Day” 6.9% @0.82,0.53 1.0s #bbbbbb =said +0.79s
+  - T: “Day” 6.7% @0.26,0.53 1.0s #bababa =said +0.79s
+  - T: “Day” 6.3% @0.22,0.44 1.0s #757575 =said +1.79s
+  - T: “Day” 6.1% @0.78,0.44 1.0s #737374 =said +1.79s
+  - T: “Learning the Alediting tools” 4.1% @0.50,0.50 1.0s #282829 =said +0.73s
+  - S: BB@312.80(-10dB), ★LOW@313.08(-7dB)
+- **#101** 5:15.93 +5.23s | hard | speaker 38%@0.51,0.39 | eased zoom in x1.288 | 4 motion ev
+  - “We're going to spend three days learning just the technical side of how AI videos are edited because the truth is you”
+  - S: ★BB+LOW@315.89(-10dB), BB+LOW@320.95(-8dB)
+- **#102** 5:21.17 +3.20s | hard | page with a face on it 18%@0.71,0.28 | eased zoom in x1.219 | 2 motion ev
+  - “can't paint the Mona Lisa if you don't know how to use your brush.”
+  - S: ★BB+LOW@321.67(-4dB)
+- **#103** 5:24.37 +1.73s | hard | flat graphic | eased zoom in x1.116
+  - “The first tool we want to learn is Claude.”
+  - S: ★BB+LOW@324.32(-9dB), BB+LOW@325.97(-11dB)
+- **#104** 5:26.10 +3.07s | hard | speaker 38%@0.50,0.38 | eased zoom in x1.286 | 3 motion ev
+  - “I would literally spend the entirety of just day 1 just learning Claude.”
+- **#105** 5:29.17 +3.60s | hard | flat graphic | eased zoom in x1.409
+  - “I would first go and sign up for the subscription at least the $20 per month plan and”
+  - T: “Pricing” 9.1% @0.52,0.15 3.6s #595857
+  - T: “Ultra” 5.0% @0.84,0.49 3.4s #979797
+  - T: “Pro” 4.6% @0.31,0.49 3.4s #929292
+  - T: “Max” 4.6% @0.57,0.49 3.4s #8f8f8f
+  - T: “Free” 4.4% @0.05,0.49 3.4s #9b9b9b
+  - T: “$20” 4.1% @0.30,0.60 3.4s #979797 =said -2.55s
+  - (+53 more/smaller text lines)
+  - S: ★BB+LOW@329.10(-9dB), BB+LOW@331.31(-1dB), BB+LOW@332.50(-7dB)
+- **#106** 5:32.77 +4.50s | hard | flat graphic | eased zoom in x1.502
+  - “the best thing you can do is actually just watch how other editors are using Claude to edit videos.”
+  - T: “How to Edit VIRAL Talking Head Videos Using ONLY Claude! (New Minimal Style)” 3.5% @0.48,0.79 4.3s #8d8d8d
+  - T: “YouTube” 3.2% @0.15,0.12 3.4s #d0d0d0
+  - T: “Joseph I Video Editing” 3.0% @0.31,0.81 3.4s #c3c3c3
+  - (+5 more/smaller text lines)
+  - S: LOW@333.85(-5dB), BB+LOW@336.25(-5dB)
+- **#107** 5:37.27 +1.97s | hard | flat graphic | eased zoom in x1.181
+  - “The second tool I would learn about is Remotion.”
+  - S: ★BB+LOW@337.15(-8dB), LOW@338.65(-5dB), BB+LOW@338.96(-10dB)
+- **#108** 5:39.23 +3.70s | hard | speaker 35%@0.50,0.39 | eased zoom in x1.305 | 3 motion ev
+  - “I would spend all of day 2 learning how you can set up Remotion inside of Claude and”
+  - S: LOW@341.04(-0dB), BB+LOW@342.71(-10dB)
+- **#109** 5:42.93 +0.70s | hard | page with a face on it 14%@0.64,0.37 | eased zoom in x1.128
+  - “how you can use Remotion”
+  - T: “7to12” 3.7% @0.65,0.53 0.5s #c4c2c4
+  - T: “years.” 3.7% @0.65,0.57 0.5s #a5a4a6
+  - T: “forevery” 3.5% @0.65,0.50 0.5s #a59f9f
+  - T: “Joseph I Video Editing” 3.0% @0.31,0.82 2.3s #7d7d7d
+  - (+4 more/smaller text lines)
+  - S: LOW@343.45(-5dB)
+- **#110** 5:43.63 +1.63s | pop | flat graphic | eased zoom in x1.097
+  - “to create animations.”
+- **#111** 5:45.27 +0.23s | pop | page with a face on it 8%@0.62,0.39 | eased zoom in x1.109
+  - S: ★BB+LOW@345.27(-4dB)
+- **#112** 5:45.50 +2.07s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+  - “Finally, the third thing that I would learn is Higgs Field.”
+  - S: BB+LOW@347.36(-9dB)
+- **#113** 5:47.57 +2.20s | hard | speaker 36%@0.49,0.38 | eased zoom in x1.243 | 3 motion ev
+  - “Although you're going to be using Higgs Field way less.”
+  - S: ★LOW@348.25(-5dB), ★BB+LOW@349.61(-10dB)
+- **#114** 5:49.77 +7.00s | hard | speaker 22%@0.47,0.41 | eased zoom in x1.310 | 2 motion ev
+  - “I would still spend three days watching a bunch of tutorials on how people are using Higgs Field to create character animations, AI commercials and product design. And”
+  - T: “MASTER” 10.0% @0.16,0.29 1.0s #3b3b3b
+  - T: “2 Higgsfield” 9.8% @0.40,0.43 1.9s #162900
+  - T: “bHiggsfield” 9.6% @0.17,0.43 1.0s #4c7409
+  - T: “SEEDANCE 2.5” 9.5% @0.63,0.48 0.9s #e5e1e4
+  - T: “IN20MIN” 9.3% @0.17,0.55 1.0s #353634
+  - T: “MASTER” 8.7% @0.34,0.23 1.0s #434c60
+  - (+20 more/smaller text lines)
+  - S: LOW@350.64(-0dB), BB+LOW@353.05(-7dB), LOW@355.45(-5dB)
+- **#115** 5:56.77 +4.40s | hard | speaker 40%@0.50,0.30 | eased zoom in x1.140 | 3 motion ev
+  - “by the end of that three day phase you will know how Claude, Remotion and Higgs Field all work which”
+  - T: “Claude” 4.4% @0.30,0.84 2.3s #716f75 =said +0.06s
+  - T: “Remotion” 4.4% @0.50,0.84 1.3s #efeff4 =said +0.38s
+  - S: ★LOW@356.72(-10dB), BB+LOW@360.23(-8dB)
+- **#116** 6:01.17 +6.17s | hard | flat graphic | eased zoom in x1.391 | 1 motion ev
+  - “brings us to our next fix. On days 4 to 6 we need to learn the most important skill in video editing, which is good design.”
+  - T: “Day” 7.6% @0.82,0.44 2.3s #727273
+  - T: “Day” 7.4% @0.18,0.43 2.3s #717171
+  - T: “Day” 6.3% @0.22,0.44 1.9s #afafaf =said +3.63s
+  - T: “Day” 6.1% @0.79,0.44 1.9s #adadad =said +3.63s
+  - T: “Learning the Alediting tools” 4.1% @0.50,0.50 1.9s #828284 built
+  - S: BB@362.20(-6dB)
+- **#117** 6:07.33 +1.07s | hard | speaker 34%@0.49,0.37 | eased zoom in x1.115
+  - “Video editing realistically is”
+  - T: “your brain releases dopamine.” 3.9% @0.79,0.28 2.1s #d6d4d3
+  - T: “Every time you scroll,” 3.5% @0.74,0.21 2.9s #989194 built
+  - T: “That's how the brain is” 3.5% @0.75,0.33 2.1s #dad8d9 built
+  - S: ★BB@367.30(-7dB)
+- **#118** 6:08.40 +2.30s | jump x1.001 | speaker 37%@0.50,0.39 | static
+  - “all about looking at what's happening in the script,”
+  - T: “your brain releases dopamine.” 4.2% @0.80,0.23 2.3s #dadde8
+  - T: “chemically wired to get” 3.7% @0.75,0.39 1.9s #d9d9de built
+  - T: “Every time you scroll,” 3.7% @0.78,0.19 2.3s #d9d6d7
+  - T: “That's how the brain is” 3.7% @0.79,0.30 2.3s #dbdad8 =said -2.35s
+  - T: “addicted to certain narratives” 3.7% @0.82,0.42 2.3s #d6d9e4
+  - T: “addicted to certain narratives.” 3.4% @0.78,0.44 1.0s #dedfe1
+- **#119** 6:10.70 +4.47s | jump x1.002 | speaker 39%@0.50,0.39 | eased zoom in x1.224 | 1 motion ev
+  - “taking the elements that are important and understanding how you can put them together into a scene that looks good.”
+  - T: “ROD” 11.3% @0.19,0.94 0.9s #cbcbca
+  - T: “chemically wired” 6.8% @0.19,0.57 1.0s #edeff2
+  - T: “chemicallywirec” 4.8% @0.35,0.45 1.0s #888f90
+  - T: “your” 4.3% @0.65,0.30 0.9s #d0d1d2
+  - T: “brainreleases dopamine” 4.3% @0.79,0.29 0.9s #c0c4cf
+  - T: “addicted” 4.3% @0.30,0.60 1.0s #eeeefd
+  - (+5 more/smaller text lines)
+  - S: ★BB@370.65(-12dB), BB@371.63(-10dB), BB@373.17(-10dB), BB@374.96(-10dB)
+- **#120** 6:15.17 +2.20s | hard | flat graphic | eased zoom in x3.021 | 1 motion ev
+  - “What I would start by doing is loading up Pinterest and”
+  - S: BB@376.54(-5dB)
+- **#121** 6:17.37 +5.00s | transition | small face (inset / wide shot) 8%@0.31,0.39 | eased zoom in x1.680 | 1 motion ev
+  - “gathering a bunch of inspiration that I really like. Poster designs, website designs and full video editing designs.”
+  - T: “ICTION” 4.2% @0.59,0.31 4.8s #7857a0
+  - T: “300%” 3.3% @0.71,0.41 4.8s #817f7f
+  - (+18 more/smaller text lines)
+  - S: BB+LOW@377.43(-3dB), BB@379.70(-11dB), BB@381.59(-6dB)
+- **#122** 6:22.37 +3.87s | hard | speaker 40%@0.50,0.30 | eased zoom in x1.097 | 2 motion ev
+  - “The main thing you want to start learning is typography, colors, layouts and effects.”
+  - T: “Layouts” 5.8% @0.63,0.81 1.7s #ededf2 =said +0.15s
+  - T: “Typography” 5.4% @0.13,0.81 2.7s #e7e7eb =said +0.71s
+  - T: “Effects” 5.2% @0.88,0.81 1.4s #dbd8da =said -0.21s
+  - T: “Colors” 5.0% @0.38,0.81 2.5s #ededf2 =said -0.13s
+  - S: ★BB@382.30(-8dB)
+- **#123** 6:26.23 +0.90s | jump x0.993 | speaker 40%@0.50,0.28 | pan/slide x1.005 | 1 motion ev
+  - “First, analyze how the”
+- **#124** 6:27.13 +3.13s | transition | flat graphic | eased zoom in x1.118 | 1 motion ev
+  - “text behaves in all of these designs, what kind of fonts are being used, what the”
+  - T: “Colors” 3.9% @0.38,0.18 2.0s #8d8b8c =said +3.42s
+  - T: “Typography” 3.7% @0.12,0.19 2.0s #888685
+  - T: “Effects” 3.5% @0.89,0.18 2.0s #898686 =said +2.24s
+  - T: “Layouts” 3.3% @0.63,0.19 2.0s #8b898a =said +2.86s
+  - S: ★BB+LOW@387.29(-7dB), BB+LOW@389.72(-3dB)
+- **#125** 6:30.27 +3.53s | transition | flat graphic | eased zoom in x1.107 | 1 motion ev
+  - “weights are, what the sizes are and where they're being placed. Second, analyze the”
+  - T: “Typography” 7.7% @0.47,0.09 2.7s #3f3d3e
+  - T: “Font weights” 7.0% @0.29,0.83 2.7s #3b3a39
+- **#126** 6:33.80 +4.47s | transition | flat graphic | slow pull out x0.983 | 1 motion ev
+  - “colors that are being used. Break down the color palettes and how people are using them in the edits. Third, break down”
+  - T: “Colors” 7.6% @0.48,0.09 3.4s #3e3c3d =said +0.81s
+  - T: “and how people are” 4.9% @0.35,0.96 1.0s #b4b3b0 =said +0.75s
+  - S: ★BB+LOW@393.75(-7dB), BB@397.45(-12dB)
+- **#127** 6:38.27 +3.70s | transition | flat graphic | slow pull out x0.983 | 2 motion ev
+  - “the layouts and the effects. Where do people place the objects on a scene and where are the effects”
+  - T: “Layouts” 7.4% @0.49,0.09 2.7s #5d5b5b =said +0.69s
+  - T: “Upperhalf:faded object” 5.9% @0.33,0.88 0.6s #8c8b89
+  - T: “THEPSYCHOLO GY” 5.7% @0.38,0.50 2.7s #655d74
+  - T: “Right half: object” 5.1% @0.30,0.82 1.6s #4f4d4c
+  - T: “OFAVIEWER” 5.0% @0.33,0.55 2.7s #524960
+  - T: “Lefthalf:text” 4.8% @0.58,0.82 1.6s #504f4d built
+  - (+1 more/smaller text lines)
+  - S: ★BB@401.71(-11dB)
+- **#128** 6:41.97 +1.90s | transition | no face (b-roll / screen / graphic) | eased zoom in x1.101
+  - “being used to emphasize different objects?”
+  - T: “Effects” 7.2% @0.51,0.09 0.8s #3f3f3f =said +1.10s
+  - T: “Cast shadow” 6.3% @0.32,0.82 0.8s #5a5959
+  - T: “Blur” 5.9% @0.49,0.83 0.8s #605f5e
+  - T: “adedobject” 5.2% @0.06,0.88 0.8s #73716f
+  - S: BB@402.59(-13dB), BB@403.69(-8dB)
+- **#129** 6:43.87 +2.17s | hard | flat graphic | eased zoom in x1.086 | 1 motion ev
+  - “And the most important part of this whole step is taking all of that”
+  - T: “Typography” 4.1% @0.12,0.15 1.9s #999a98
+  - T: “Colors” 3.7% @0.37,0.15 1.9s #a1a0a0
+  - T: “Effects” 3.5% @0.88,0.15 1.9s #969494 =said +2.09s
+  - T: “Layouts” 3.4% @0.63,0.15 1.9s #9f9e9e
+  - T: “Castshadow” 3.4% @0.81,0.46 0.7s #979393
+  - T: “Folt weights” 3.3% @0.05,0.46 0.7s #9e9e9d
+  - (+9 more/smaller text lines)
+- **#130** 6:46.03 +3.70s | transition | flat graphic | slow push in x1.027
+  - “logic that you're learning and starting to use remotion to build out high -quality designs”
+  - T: “* What are we making today?” 5.2% @0.50,0.37 2.7s #5f5e5b
+  - T: “How can I help you today?” 3.1% @0.30,0.49 1.0s #cbcbcb
+  - T: “Design a cinematic, high-quality scene: a glowing eclipse rising over desert dunes, a” 3.1% @0.49,0.48 1.7s #585858 built
+  - T: “caravan in silhouette, warm golden light, s” 3.1% @0.35,0.52 0.7s #545454
+  - (+3 more/smaller text lines)
+- **#131** 6:49.73 +0.97s | transition | flat graphic | eased zoom in x1.120
+  - “inside of Cloud.”
+  - S: BB@410.05(-9dB)
+- **#132** 6:50.70 +3.17s | hard | speaker 38%@0.50,0.39 | eased zoom in x1.242 | 3 motion ev
+  - “The goal is to become an editor who can create high -quality designs.”
+  - S: ★BB@410.59(-6dB), BB@413.53(-7dB)
+- **#133** 6:53.87 +1.60s | punch x0.807 | speaker 38%@0.50,0.38 | eased zoom in x1.251 | 1 motion ev
+  - “After you've done this, by day six,”
+- **#134** 6:55.47 +5.57s | hard | flat graphic | eased zoom in x1.204
+  - “you're going to now spend the next three days learning the second most important skill as a video editor, which is animation psychology.”
+  - T: “Day” 6.7% @0.80,0.44 4.5s #bdbdbd =said +1.51s
+  - T: “Day” 6.5% @0.20,0.44 4.5s #8f8f8f =said +1.51s
+  - T: “Animation Psychology” 5.9% @0.50,0.50 0.5s #28282d =said +0.39s
+  - S: ★BB+LOW@415.42(-9dB), BB@416.32(-8dB), LOW@417.70(-7dB), BB+LOW@420.88(-7dB)
+- **#135** 7:01.03 +4.23s | hard | speaker 34%@0.50,0.38 | eased zoom in x1.151 | 3 motion ev
+  - “It's the understanding of how you can take a still design and turn it into a high -quality animation”
+  - T: “are there,” 3.2% @0.14,0.40 4.2s #beb7b3
+  - (+8 more/smaller text lines)
+  - S: LOW@421.86(-9dB), ★BB+LOW@422.44(-6dB), BB+LOW@423.90(-6dB), BB+LOW@425.09(-10dB)
+- **#136** 7:05.27 +0.13s | jump x1.0 | speaker 32%@0.50,0.39 | static
+  - “since”
+- **#137** 7:05.40 +1.70s | jump x1.001 | speaker 35%@0.50,0.39 | eased zoom in x1.141 | 1 motion ev
+  - “we're editing a video, not an image.”
+  - T: “are there,” 3.1% @0.78,0.40 1.0s #a59e97
+- **#138** 7:07.10 +2.20s | hard | flat graphic | eased zoom in x1.000 | 1 motion ev
+  - “To do this, all you have to do is collect a big batch of really”
+  - T: “ESCAPF” 7.4% @0.50,0.13 0.8s #c8aea1
+  - (+1 more/smaller text lines)
+  - S: ★BB+LOW@427.04(-9dB), BB+LOW@428.78(-10dB)
+- **#139** 7:09.30 +0.67s | pop | flat graphic | slow pull out x0.981 | 1 motion ev
+  - “good edits that”
+  - T: “2026” 3.9% @0.73,0.76 0.7s #232323
+  - (+7 more/smaller text lines)
+  - S: ★BB+LOW@429.25(-9dB)
+- **#140** 7:09.97 +0.97s | pop | page with a face on it 12%@0.69,0.61 | eased zoom in x1.216 | 1 motion ev
+  - “you like and then break down”
+  - T: “MITOCHON-” 4.6% @0.72,0.40 1.4s #7d5e4a
+  - T: “DRIAL” 4.2% @0.68,0.44 1.4s #9a7c65
+  - (+1 more/smaller text lines)
+- **#141** 7:10.93 +1.23s | transition | flat graphic | eased zoom in x1.469
+  - “what these animations are made”
+  - T: “Louise Taylor” 3.7% @0.68,0.82 8.8s #6e5644
+  - (+1 more/smaller text lines)
+  - S: LOW@430.94(-7dB)
+- **#142** 7:12.17 +3.63s | jump x1.079 | flat graphic | eased zoom out x0.938
+  - “of. Pay attention to what kinds of animations are being used on the text, what kinds of animations are being”
+  - T: “POP UP fading” 6.9% @0.25,0.17 7.8s #535251 built
+  - T: “function” 5.5% @0.24,0.39 1.0s #694a3b
+  - T: “DRIAL” 5.3% @0.23,0.34 5.7s #755445
+  - T: “MITOCHON” 5.0% @0.28,0.30 6.8s #5a3c2f
+  - T: “function” 4.4% @0.69,0.48 1.0s #6d513e
+  - T: “DRIAL” 4.2% @0.68,0.44 1.0s #6d4d3e
+  - (+5 more/smaller text lines)
+  - S: LOW@432.47(-10dB), LOW@432.94(-10dB)
+- **#143** 7:15.80 +3.63s | jump x1.001 | flat graphic | slow pull out x0.959
+  - “used on the objects to reveal them and what animations get used on the background and what”
+  - T: “sof light drift” 6.7% @0.26,0.78 1.8s #514f4d
+  - T: “function” 5.5% @0.24,0.39 1.8s #6e4d3e
+  - T: “blur slide-in” 5.3% @0.23,0.65 4.6s #575654 built
+  - T: “function” 5.0% @0.24,0.39 0.7s #6b4b3e
+  - T: “function” 4.4% @0.68,0.48 0.7s #6d4b3e
+  - T: “DRIAL” 4.2% @0.68,0.44 0.7s #674b3d
+  - (+6 more/smaller text lines)
+  - S: LOW@436.17(-9dB), BB+LOW@436.64(-10dB), LOW@437.10(-12dB), BB@438.47(-10dB)
+- **#144** 7:19.43 +1.30s | jump x1.001 | flat graphic | eased zoom in x1.078
+  - “animations get used on the camera.”
+  - T: “DRI” 5.1% @0.22,0.34 0.9s #886657
+  - (+1 more/smaller text lines)
+  - S: LOW@439.85(-8dB), BB+LOW@440.31(-8dB)
+- **#145** 7:20.73 +6.37s | hard | speaker 42%@0.49,0.26 | eased zoom in x1.335 | 5 motion ev
+  - “Now, what you want to do is you want to take all those good designs that you made in the last three days using Cloud and start turning them into high -quality animations.”
+  - T: “focus” 5.3% @0.72,0.84 3.5s #ddd69b
+  - T: “catecholamines” 3.9% @0.25,0.73 4.4s #6c6561
+  - T: “likesleep” 3.3% @0.50,0.80 3.5s #b5c4d2
+  - T: “thereare foundational things” 3.0% @0.50,0.74 3.5s #8ba5c0
+  - (+5 more/smaller text lines)
+  - S: LOW@443.55(-6dB), BB+LOW@444.15(-9dB)
+- **#146** 7:27.10 +5.07s | hard | flat graphic | slow pull out x0.974 | 1 motion ev
+  - “I'll take a look at a good design that I made and I'll say, okay, I want to apply this text animation here, this slide -in animation here,”
+  - T: “PoP UP fade” 7.3% @0.69,0.29 1.0s #4d4b4c
+  - T: “slide-in” 5.6% @0.66,0.29 1.9s #5b595a built
+  - T: “DRIAL” 5.5% @0.70,0.51 1.0s #7f5d4d
+  - T: “MTOCHON” 5.0% @0.75,0.45 1.0s #d0b28f
+  - T: “are there,” 3.7% @0.17,0.32 7.6s #9d9895
+  - T: “WELOSE8%OFTHAT” 3.2% @0.73,0.40 1.0s #6c4a3c
+  - (+4 more/smaller text lines)
+  - S: ★BB@447.07(-8dB), BB+LOW@450.87(-9dB), LOW@451.39(-10dB)
+- **#147** 7:32.17 +0.43s | pop | flat graphic | static
+  - S: BB+LOW@452.44(-4dB)
+- **#148** 7:32.60 +0.10s | pop | flat graphic | static
+  - “this”
+- **#149** 7:32.70 +4.10s | pop | flat graphic | eased zoom out x0.882 | 1 motion ev
+  - “glitch reveal animation with a camera zoom out and boom, now you've created your first animation. Now,”
+  - T: “glitch reveal” 7.2% @0.70,0.29 1.7s #4d4b4c built =said +0.12s
+  - T: “catech lamines” 5.7% @0.76,0.44 1.0s #211814
+  - T: “cameratoomo” 5.0% @0.71,0.29 1.0s #4a4a49
+  - (+4 more/smaller text lines)
+  - S: BB@455.78(-11dB)
+- **#150** 7:36.80 +9.50s | hard | speaker 36%@0.49,0.38 | eased zoom in x1.310 | 6 motion ev
+  - “if you've made it to Day 10, which by the way, most people quit on Day 2 or 3, this shows that you're a very serious editor. What you now need to do is take all that knowledge you just learned and create your first -ever edit.”
+  - T: “RODE” 13.9% @0.25,0.86 5.4s #9a999a
+  - (+2 more/smaller text lines)
+  - S: ★BB+LOW@460.56(-11dB)
+- **#151** 7:46.30 +2.30s | hard | page with a face on it 19%@0.50,0.36 | slow push in x1.029 | 1 motion ev
+  - “You want to go and grab a new rock clip and put the”
+  - S: ★BB+LOW@466.27(-8dB), ★BB+LOW@468.35(-3dB)
+- **#152** 7:48.60 +13.47s | transition | page with a face on it 19%@0.50,0.34 | eased zoom in x1.044 | 7 motion ev
+  - “script next to it. Since you've mastered typography, you want to use the fundamentals of typography to create high -quality captions for this clip. Since you've mastered design, you want to look at the script and create around three high -quality designs throughout the script. And since you've mastered animation psychology, you then want to turn these designs into high”
+  - T: “focus” 6.4% @0.56,0.65 1.0s #efe7ad
+  - T: “focus” 5.7% @0.82,0.61 0.8s #b7af81
+  - T: “better at learning” 5.2% @0.50,0.58 1.6s #ccc693 built
+  - T: “you want to” 4.6% @0.73,0.61 0.8s #66605b =said +1.01s
+  - T: “you want to” 4.3% @0.46,0.65 1.0s #c2bcb9 =said +1.81s
+  - T: “if somebodywantstoleam,” 3.9% @0.50,0.58 1.0s #949296
+  - (+52 more/smaller text lines)
+  - S: LOW@470.37(-10dB), ★BB@472.18(-8dB), BB@474.98(-12dB), BB@475.21(-8dB), BB+LOW@476.43(-5dB), BB+LOW@477.31(-5dB), BB+LOW@479.23(-4dB), BB@481.43(-12dB)
+- **#153** 8:02.07 +2.27s | pop | flat graphic | slow pull out x0.977
+  - “-quality premium animations and add them to the edit. By”
+  - T: “catecholamines” 4.8% @0.50,0.26 2.1s #261e1b
+  - (+2 more/smaller text lines)
+  - S: BB@482.23(-11dB), BB+LOW@483.44(-8dB)
+- **#154** 8:04.33 +0.83s | pop | flat graphic | static
+  - “Day 10, the fundamental”
+  - (+2 more/smaller text lines)
+- **#155** 8:05.17 +0.93s | transition | flat graphic | eased zoom in x1.056
+  - “objective is”
+- **#156** 8:06.10 +2.63s | jump x1.271 | flat graphic | pan/slide x1.008 | 2 motion ev
+  - “to create a basic good edit. If you can do that,”
+  - T: “hardtrainin” 4.5% @0.45,0.35 0.6s #a4a488 built
+  - T: “45 to75minutesof” 3.0% @0.45,0.32 1.6s #85858a built
+- **#157** 8:08.73 +1.13s | transition | speaker 40%@0.49,0.24 | eased zoom in x1.304 | 1 motion ev
+  - “then you're on track to”
+  - T: “hardtraining” 3.9% @0.45,0.74 0.6s #d9d6a6
+  - T: “not takento edreme” 3.0% @0.44,0.74 0.6s #7b7d81
+  - (+1 more/smaller text lines)
+  - S: BB+LOW@488.74(-4dB)
+- **#158** 8:09.87 +0.67s | pop | speaker 43%@0.49,0.25 | eased zoom in x1.001 | 1 motion ev
+  - “success.”
+  - S: ★BB@489.96(-9dB)
+- **#159** 8:10.53 +9.87s | hard | speaker 42%@0.49,0.39 | eased zoom out x0.692 | 7 motion ev
+  - “And now that we spent the first 10 days learning how to edit basic videos, all that's left is honing that skill and turning these edits from basic videos into better and better videos until we can start to create stunning”
+  - T: “ROD” 13.1% @0.17,0.93 2.0s #cacaca
+  - T: “Noise” 4.3% @0.76,0.71 2.5s #2c292a
+  - T: “Thay” 3.4% @0.37,0.19 1.1s #a7968a
+  - (+4 more/smaller text lines)
+  - S: LOW@497.06(-5dB)
+- **#160** 8:20.40 +1.97s | jump x0.999 | speaker 28%@0.49,0.34 | pan/slide x0.993 | 1 motion ev
+  - “videos. This is why, all the way”
+  - T: “RODE” 12.1% @0.27,0.69 0.6s #93949d
+- **#161** 8:22.37 +4.70s | transition | flat graphic | eased zoom in x1.159
+  - “from Day 11 to Day 19, all that we're going to do is focus on mastering video engineering.”
+  - T: “Day” 6.5% @0.21,0.44 3.6s #909090 =said +0.01s
+  - T: “Day” 6.5% @0.79,0.44 3.6s #8c8c8c =said +0.01s
+  - T: “Mastering Video Engineering” 5.4% @0.50,0.50 0.6s #232328 =said +0.53s
+  - S: BB+LOW@502.40(-6dB)
+- **#162** 8:27.07 +0.93s | hard | speaker 38%@0.50,0.38 | eased zoom in x1.204
+  - “What do I mean by this?”
+  - S: ★BB@507.06(-7dB), BB@507.85(-8dB)
+- **#163** 8:28.00 +2.07s | hard | page with a face on it 9%@0.56,0.45 | slow push in x1.032 | 2 motion ev
+  - “The first thing you're going to do is find eight viral videos that”
+  - T: “ESCAPF” 6.3% @0.56,0.39 1.4s #d3c3b3
+  - T: “berson” 3.9% @0.08,0.50 0.8s #c3a691
+  - (+2 more/smaller text lines)
+- **#164** 8:30.07 +0.30s | pop | page with a face on it 10%@0.68,0.46 | static
+  - “really”
+  - (+1 more/smaller text lines)
+- **#165** 8:30.37 +1.57s | pop | page with a face on it 10%@0.68,0.44 | slow push in x1.015 | 3 motion ev
+  - “impress you. I highly recommend going”
+  - (+1 more/smaller text lines)
+  - S: BB@511.75(-8dB)
+- **#166** 8:31.93 +5.40s | transition | small face (inset / wide shot) 6%@0.21,0.66 | eased zoom in x1.117 | 1 motion ev
+  - “to Instagram, finding a bunch of editors, going through their content and gathering just eight videos that you really, really like.”
+  - T: “Metal” 4.7% @0.62,0.48 2.4s #7d692e
+  - T: “Editing” 4.3% @0.30,0.55 3.4s #7499d8
+  - T: “Editing” 3.5% @0.80,0.47 2.4s #525252
+  - T: “Noise” 3.3% @0.29,0.70 3.4s #5d5e57
+  - T: “Control” 3.1% @0.54,0.66 0.7s #888888
+  - T: “Time.” 3.1% @0.54,0.53 2.4s #655a43
+  - (+13 more/smaller text lines)
+  - S: BB+LOW@513.00(-3dB), BB@515.59(-5dB), BB@517.12(-10dB)
+- **#167** 8:37.33 +3.07s | hard | speaker 36%@0.50,0.28 | eased zoom in x1.200
+  - “Then you're going to rank them from the easiest video to make all the way to the hardest video”
+  - T: “ESCAPF” 5.6% @0.44,0.73 1.2s #d6c4b5
+  - (+1 more/smaller text lines)
+  - S: LOW@517.64(-6dB), BB+LOW@518.36(-2dB)
+- **#168** 8:40.40 +2.33s | transition | page with a face on it 13%@0.78,0.45 | eased zoom in x1.584 | 3 motion ev
+  - “to make. Every single day, you're going to start by taking one”
+  - T: “Aging” 6.1% @0.21,0.42 0.5s #7c766e
+  - S: ★BB+LOW@522.39(-3dB)
+- **#169** 8:42.73 +4.60s | transition | page with a face on it 16%@0.49,0.43 | eased zoom in x2.375 | 3 motion ev
+  - “edit and analyzing the script and every single design that was created on screen. You're going to break down how the design”
+  - T: “Nowwhenyouwakeup,theskin” 5.3% @0.49,0.68 0.8s #4c4d58
+  - T: “functioneverydecade” 4.8% @0.43,0.40 0.8s #4c4d59
+  - T: “lose8%ofthatmitochondrial” 4.4% @0.47,0.32 0.8s #3f3f4a
+  - T: “You just don't feel yourself” 4.2% @0.20,0.77 0.8s #6f6e6d
+  - T: “your skin the most?” 4.2% @0.39,0.27 0.5s #58545c
+  - T: “isslower” 4.1% @0.29,0.58 0.8s #ebc4a4
+  - (+38 more/smaller text lines)
+  - S: BB+LOW@524.74(-2dB), BB@526.06(-4dB), ★LOW@527.05(-2dB)
+- **#170** 8:47.33 +10.47s | transition | page with a face on it 36%@0.25,0.46 | eased zoom out x0.947
+  - “was made, the assets, the effects, the elements, and the layout. Then you're going to break down the animation psychology behind it. What animations were used for the text, what animations were used for the objects, and what animations were used for the camera. And finally, you're going to ask”
+  - T: “objects: the line draws out from the do” 7.2% @0.68,0.71 2.0s #535359 built
+  - T: “effects: warm grade, soft blur-in” 6.5% @0.65,0.25 8.0s #535357 built
+  - T: “layout: face full frame, callout right” 6.5% @0.66,0.38 7.0s #484a53 built
+  - T: “elements: dot + line callout, label” 5.9% @0.64,0.32 8.0s #666669 built
+  - T: “assets: close-up Pportrait” 5.6% @0.61,0.19 9.0s #59595c built
+  - T: “> text: the label types on” 5.5% @0.59,0.66 3.0s #4a4c50 built
+  - (+10 more/smaller text lines)
+  - S: LOW@529.64(-5dB), BB+LOW@537.59(-2dB)
+- **#171** 8:57.80 +1.17s | transition | speaker 83%@0.77,0.53 | eased zoom out x0.631 | 1 motion ev
+  - “yourself the question, why”
+  - T: “your skin the most?” 4.1% @0.39,0.26 1.7s #535357
+  - T: “the one thing that would impact” 3.7% @0.44,0.22 1.7s #545256
+  - T: “DYSFUNCTION” 3.7% @0.76,0.53 0.8s #7a5a56
+  - T: “it did.” 3.7% @0.33,0.71 1.7s #535253
+  - T: “You just don'tfeel yourself” 3.7% @0.42,0.79 1.7s #525051
+  - T: “If someonesaidtome,whatis” 3.3% @0.43,0.17 1.7s #595859
+  - (+2 more/smaller text lines)
+- **#172** 8:58.97 +5.57s | pop | page with a face on it 56%@0.18,0.42 | eased zoom in x2.444
+  - “was that animation used in this part of the video? What's the correlation between it's being shown on screen and what's being said in the video?”
+  - T: “doesn't kind of go back the way” 5.6% @0.71,0.50 4.5s #2e2e3a
+  - T: “it did.” 4.9% @0.56,0.57 4.5s #2f343f
+  - T: “Now when you wake up, the skin” 4.4% @0.72,0.43 4.5s #2e2e3a
+  - T: “andit” 3.3% @0.73,0.56 0.9s #edd4c6
+  - (+5 more/smaller text lines)
+- **#173** 9:04.53 +3.70s | hard | speaker 37%@0.75,0.47 | eased zoom in x1.478 | 5 motion ev
+  - “Then you're going to take the very raw video that was being edited and you're going to recreate these animations”
+  - S: ★BB@547.93(-5dB)
+- **#174** 9:08.23 +2.13s | transition | page with a face on it 41%@0.52,0.45 | eased zoom in x1.084
+  - “from scratch using all the knowledge in”
+  - S: BB@549.59(-8dB)
+- **#175** 9:10.37 +0.73s | pop | page with a face on it 44%@0.48,0.41 | slow pull out x0.987
+  - “AI inside”
+  - S: BB@550.66(-8dB)
+- **#176** 9:11.10 +0.97s | pop | page with a face on it 23%@0.50,0.34 | eased zoom in x1.094
+  - “of Remotions.”
+  - T: “what i” 3.3% @0.46,0.58 0.8s #726f70
+  - S: BB@551.69(-7dB)
+- **#177** 9:12.07 +9.80s | hard | speaker 40%@0.49,0.28 | eased zoom in x1.087 | 9 motion ev
+  - “When you get to day 19, you're going to have created eight completely viral edits that have gotten better every single day because you learned more about better designs, better animations, and why certain animations are”
+  - T: “Aging” 6.1% @0.21,0.77 1.0s #464646
+  - T: “ESCAPF” 6.1% @0.44,0.77 2.0s #9d9f9e
+  - T: “person” 3.3% @0.79,0.86 0.8s #b5aca9
+  - T: “WAKEUP” 3.2% @0.10,0.89 0.7s #615e5f
+  - (+10 more/smaller text lines)
+- **#178** 9:21.87 +1.17s | jump x1.002 | speaker 45%@0.50,0.26 | eased zoom in x1.045 | 2 motion ev
+  - “being used in videos.”
+  - T: “scale” 3.9% @0.79,0.88 0.6s #7e7a7a
+  - S: BB@562.38(-8dB)
+- **#179** 9:23.03 +0.17s | jump x1.01 | no face (b-roll / screen / graphic) | eased zoom in x1.081 | 1 motion ev
+  - “And”
+- **#180** 9:23.20 +1.80s | hard | speaker 41%@0.49,0.42 | eased zoom in x1.240
+  - “now this finally brings us to day 20.”
+- **#181** 9:25.00 +4.13s | hard | flat graphic | eased zoom in x1.097
+  - “And the main focus on day 20 needs to be that you just need to create a wow edit.”
+  - T: “Day” 5.8% @0.50,0.38 3.3s #747474 =said +0.03s
+  - T: “Youneedtocreateawowedit” 4.9% @0.50,0.63 2.3s #b4b4b6
+  - S: ★BB@564.91(-8dB), BB+LOW@568.67(-6dB)
+- **#182** 9:29.13 +2.53s | hard | speaker 34%@0.24,0.39 | eased zoom in x1.083 | 1 motion ev
+  - “What I mean by a wow edit is you need to create an edit that's so”
+  - T: “ovin mem” 4.0% @0.76,0.60 1.0s #e6e4a8
+  - T: “andfocus” 3.9% @0.75,0.60 0.7s #d8d69a
+  - T: “Chris Wiliamson” 3.2% @0.69,0.74 1.7s #191619
+  - (+2 more/smaller text lines)
+- **#183** 9:31.67 +3.20s | jump x1.0 | speaker 36%@0.25,0.38 | static | 2 motion ev
+  - “impressive that you don't even believe you were the one who created it. You need to go and”
+  - T: “Brain fog” 8.3% @0.75,0.57 2.6s #b0a97c built
+  - T: “inabilityto” 5.9% @0.71,0.49 0.6s #c6c091
+  - T: “isnotaspecific thing” 3.8% @0.72,0.61 1.7s #868284 built
+  - (+2 more/smaller text lines)
+- **#184** 9:34.87 +0.80s | transition | speaker 33%@0.25,0.26 | pan/slide x0.997
+  - “find the raw clip that”
+  - T: “inabilitytofocus” 8.7% @0.75,0.42 0.6s #a0987b
+  - S: ★LOW@575.14(-4dB)
+- **#185** 9:35.67 +3.43s | transition | speaker 15%@0.60,0.42 | slow push in x1.032 | 2 motion ev
+  - “you want to edit. You could do this by looking at a podcast or clipping out a smaller clip.”
+  - T: “Why You're Tired, Stressed & Unfocussed (and how to fix it) - Dr Andrew Huberman” 3.3% @0.50,0.78 2.0s #d4d4d4
+  - T: “YouTube” 3.2% @0.17,0.15 2.0s #b3b3b3
+  - T: “MODERN/WISDOM” 3.2% @0.29,0.70 2.0s #aeb1b8
+  - (+3 more/smaller text lines)
+  - S: BB@577.48(-8dB), BB+LOW@578.50(-4dB)
+- **#186** 9:39.10 +1.27s | transition | page with a face on it 18%@0.50,0.41 | eased zoom in x1.087
+  - “Then you need to pull out the transcript of”
+  - T: “What's your best advice for improving” 3.3% @0.21,0.21 1.3s #adadad
+  - (+3 more/smaller text lines)
+- **#187** 9:40.37 +5.90s | pop | speaker 36%@0.83,0.47 | eased zoom out x0.850 | 2 motion ev
+  - “that clip and plan out your edit using all the knowledge you've learned over the last 19 days where the captions are made, all the tracking”
+  - T: “What's your best advice for improving” 3.5% @0.41,0.21 0.9s #525253
+  - T: “focus” 3.4% @0.11,0.41 0.9s #4f4f4f
+  - T: “like.” 3.1% @0.31,0.45 0.9s #525252
+  - T: “The dopamine, norepinephrine,” 3.0% @0.39,0.50 0.9s #545454
+  - T: “but the threshold to access them is too high.” 3.0% @0.42,0.56 0.9s #4c4c4c
+  - T: “What's your best advice for improving” 3.0% @0.64,0.25 7.6s #505051
+  - (+36 more/smaller text lines)
+  - S: BB+LOW@581.14(-5dB)
+- **#188** 9:46.27 +0.73s | pop | speaker 27%@0.87,0.45 | slow push in x1.022
+  - “scenes, all the”
+  - (+1 more/smaller text lines)
+- **#189** 9:47.00 +2.97s | pop | speaker 15%@0.89,0.39 | eased zoom in x1.146 | 1 motion ev
+  - “full screen animations and the bureau segments and all the images.”
+  - T: “ESCAPF” 5.4% @0.06,0.57 2.8s #a26f6c
+  - (+4 more/smaller text lines)
+  - S: BB@589.52(-9dB)
+- **#190** 9:49.97 +1.77s | hard | speaker 35%@0.50,0.38 | eased zoom in x1.227
+  - “Then you can go and execute it using AI,”
+- **#191** 9:51.73 +2.20s | hard | page with a face on it 18%@0.49,0.38 | eased zoom in x1.082 | 1 motion ev
+  - “create the full designs and create the full animations. And”
+  - S: BB@592.14(-12dB)
+- **#192** 9:53.93 +3.23s | pop | flat graphic | pan/slide x0.994
+  - “once you've created the impressive edit, you need to ask yourself the game changing question.”
+  - T: “theyre functional” 4.1% @0.46,0.39 0.7s #ada8a5
+  - T: “are there,” 3.5% @0.45,0.35 1.7s #b3aba7
+  - (+3 more/smaller text lines)
+  - S: ★BB@593.82(-12dB), BB+LOW@594.06(-6dB), BB@594.59(-9dB)
+- **#193** 9:57.17 +2.60s | transition | speaker 32%@0.24,0.36 | static | 1 motion ev
+  - “Is this edit worth clients paying me money for it?”
+  - T: “paying money for?” 5.1% @0.75,0.87 1.4s #84b4da built =said +0.24s
+  - T: “Isthis editworthclients” 3.5% @0.75,0.82 2.6s #656569 built
+  - (+2 more/smaller text lines)
+  - S: ★BB@597.46(-9dB)
+- **#194** 9:59.77 +7.33s | pop | speaker 35%@0.49,0.39 | eased zoom in x1.111 | 6 motion ev
+  - “If it's not, then it's time to go back and figure out what's the difference between your edit and what a really premium edit looks like and how you can close that gap.”
+  - T: “whatdoestha” 3.3% @0.73,0.64 0.7s #706c6c
+  - S: BB+LOW@600.19(-5dB), LOW@600.44(-5dB), LOW@600.66(-7dB)
+- **#195** 10:07.10 +1.00s | hard | speaker 33%@0.25,0.38 | eased zoom in x1.069
+  - “If the answer is yes,”
+  - T: “focus” 5.4% @0.80,0.39 1.0s #c8a799
+  - T: “you can” 4.7% @0.71,0.33 1.0s #cbc6c2 =said +0.90s
+  - T: “learn to” 4.6% @0.71,0.39 1.0s #7c7470
+  - S: ★BB+LOW@607.09(-6dB)
+- **#196** 10:08.10 +5.80s | jump x0.997 | speaker 36%@0.49,0.35 | eased zoom out x0.990 | 4 motion ev
+  - “then that is when you know that you're now officially a high quality editor and you should start finding people who need your service,”
+  - T: “RODE” 13.2% @0.27,0.80 2.7s #949696
+  - T: “You are now” 5.3% @0.36,0.87 2.0s #5d5d61 built =said +0.10s
+  - S: LOW@608.66(-7dB), ★BB@611.28(-10dB), BB@613.48(-8dB)
+- **#197** 10:13.90 +7.97s | hard | flat graphic | eased zoom out x0.847 | 2 motion ev
+  - “which brings us to the last stretch days 21 to 30. And the only objective here is to acquire clients who want their raw video as edited and turned into viral videos.”
+  - T: “Day” 6.3% @0.21,0.44 5.0s #747476
+  - T: “Day” 6.3% @0.79,0.44 5.0s #77777a
+  - T: “Acquire clients” 4.7% @0.50,0.50 1.0s #26262a =said +0.43s
+  - T: “Day” 4.7% @0.29,0.77 1.9s #767679
+  - T: “Day” 4.5% @0.71,0.77 0.9s #7a7a7c
+  - T: “are there.” 3.5% @0.66,0.09 0.7s #cac4c0
+  - (+4 more/smaller text lines)
+  - S: ★LOW@614.30(-6dB), BB+LOW@619.12(-3dB)
+- **#198** 10:21.87 +2.17s | hard | speaker 39%@0.50,0.30 | eased zoom in x1.222
+  - “The first thing you have to do is find prospects. I”
+  - T: “1. Find prospects.” 6.5% @0.50,0.87 1.3s #e9e9ec built =said -0.05s
+  - S: ★BB+LOW@621.84(-8dB), BB+LOW@623.79(-7dB)
+- **#199** 10:24.03 +1.40s | hard | speaker 13%@0.51,0.27 | eased zoom in x1.052 | 1 motion ev
+  - “would go on Instagram and try to”
+  - T: “Brain fog” 6.8% @0.61,0.44 1.8s #efe6ab
+  - T: “Hahit” 6.4% @0.33,0.68 0.8s #3e4a74
+  - T: “Createa” 3.8% @0.32,0.65 0.8s #5e5968
+  - (+7 more/smaller text lines)
+  - S: ★BB+LOW@625.22(-8dB)
+- **#200** 10:25.43 +1.43s | transition | page with a face on it 18%@0.73,0.28 | eased zoom in x1.300
+  - “find those business owners who have anywhere between”
+  - T: “inability to” 5.4% @0.68,0.49 0.5s #dfd9a2
+  - T: “I'm about to make you a Mast” 4.3% @0.93,0.49 0.9s #b9b9bb built
+  - T: “Imabout tomakeyouaMaster” 3.9% @0.81,0.45 0.8s #b3b3b5
+  - T: “CLORTHEOHY” 3.5% @0.81,0.83 0.8s #2071bb
+  - T: “Search” 3.5% @0.31,0.19 1.4s #26282d
+  - T: “TYPOGRAPHY” 3.4% @0.81,0.94 0.8s #3a77a7
+  - (+24 more/smaller text lines)
+- **#201** 10:26.87 +0.47s | pop | speaker 17%@0.79,0.28 | eased zoom out x0.871 | 1 motion ev
+  - “5”
+  - (+1 more/smaller text lines)
+  - S: ★BB@626.94(-10dB)
+- **#202** 10:27.33 +1.50s | transition | page with a face on it 16%@0.21,0.53 | eased zoom in x1.112
+  - “to 10 ,000 followers and whose”
+  - T: “is a habit,” 5.2% @0.52,0.86 0.8s #534f48
+  - T: “Healthy skin” 5.0% @0.53,0.80 0.8s #514d48
+  - T: “not a product.” 4.6% @0.52,0.92 0.8s #504c45
+  - T: “Message” 3.7% @0.60,0.43 0.5s #433c41
+  - T: “389 following” 3.7% @0.62,0.51 0.5s #3d3a3e
+  - T: “Message” 3.6% @0.61,0.29 0.8s #3b3e3c
+  - (+24 more/smaller text lines)
+  - S: BB+LOW@627.35(-11dB), BB+LOW@628.43(-8dB)
+- **#203** 10:28.83 +2.37s | transition | page with a face on it 10%@0.57,0.22 | eased zoom out x0.905
+  - “businesses are built around the content that they make.”
+  - T: “you still believe” 4.8% @0.39,0.87 1.3s #a5a2b0
+  - T: “SPF is the only” 4.7% @0.21,0.67 1.3s #ffd4c0
+  - T: “SPF is the only” 4.6% @0.24,0.80 0.8s #ffd4be
+  - T: “anti-aging step” 4.6% @0.24,0.86 0.8s #ffd4bd
+  - T: “not a product.” 4.5% @0.39,0.36 1.3s #625f56
+  - T: “not a product.” 4.4% @0.43,0.46 0.8s #575249
+  - (+23 more/smaller text lines)
+- **#204** 10:31.20 +3.43s | hard | speaker 35%@0.51,0.38 | eased zoom in x1.255 | 4 motion ev
+  - “These are people who need content, but they also have the money to afford a video editor.”
+  - S: ★BB+LOW@631.16(-9dB), ★BB+LOW@634.48(-10dB)
+- **#205** 10:34.63 +11.27s | hard | page with a face on it 20%@0.49,0.33 | eased zoom in x1.256 | 3 motion ev
+  - “Once you found that prospect, the main thing you want to do is search for raw videos that they have posted, videos that are unedited. Then you want to take a look at what their branding looks like and use AI to create a stunning edit out of their raw videos and their brand.”
+  - T: “lessismore” 6.7% @0.50,0.61 0.7s #b79e92 built
+  - T: “like yours again.” 6.1% @0.56,0.31 1.9s #b2b0ab
+  - T: “luna” 5.7% @0.85,0.77 1.3s #4d4c4b
+  - T: “Skin that feels” 5.0% @0.55,0.25 1.9s #b0ada7
+  - T: “Jyou still believe” 4.8% @0.39,0.85 0.8s #544c56
+  - T: “orapraduct.” 4.6% @0.18,0.36 1.0s #b3afa6
+  - (+36 more/smaller text lines)
+  - S: BB@636.23(-11dB), BB+LOW@640.37(-7dB), BB+LOW@642.52(-10dB), BB+LOW@643.35(-9dB), ★BB@645.23(-8dB)
+- **#206** 10:45.90 +2.30s | hard | speaker 35%@0.50,0.39 | eased zoom in x1.225 | 1 motion ev
+  - “Now, once you've done that, you've pretty much hit the jackpot.”
+  - T: “RODE” 14.0% @0.25,0.89 1.9s #8c8c8f
+  - S: ★BB+LOW@645.79(-9dB), BB+LOW@647.96(-9dB)
+- **#207** 10:48.20 +6.57s | hard | flat graphic | eased zoom out x0.802 | 3 motion ev
+  - “First, you want to reach out to them and send them a quick message say, Hey, I spent the last few days mastering how viral videos are edited and I've decided to edit one of your raw”
+  - T: “oneof yourrawvideos foryl” 3.7% @0.27,0.65 1.6s #302c2f built
+  - T: “Message..” 3.0% @0.30,0.91 1.0s #a8a7a9
+  - (+9 more/smaller text lines)
+  - S: ★BB+LOW@649.55(-6dB), ★BB+LOW@654.25(-2dB)
+- **#208** 10:54.77 +0.97s | pop | flat graphic | eased zoom in x1.240
+  - “videos for you. Take a look”
+  - T: “Message...” 3.5% @0.13,0.90 0.5s #9b9a9b
+  - T: “waytoooften.” 3.3% @0.66,0.57 0.8s #372a2a
+  - T: “edited, and I've decided to edit one of your raw videos for you.” 3.0% @0.55,0.37 0.8s #ade4ff =said +1.59s
+  - T: “Takea look foryourself!” 3.0% @0.33,0.24 0.5s #b6e7ff
+  - (+5 more/smaller text lines)
+- **#209** 10:55.73 +0.50s | pop | page with a face on it 15%@0.59,0.42 | eased zoom in x1.127
+  - “for yourself. Don't”
+- **#210** 10:56.23 +3.80s | hard | speaker 40%@0.50,0.29 | eased zoom in x1.162 | 4 motion ev
+  - “offer anything. Don't sell them on anything and don't be pushy. Just give them free value.”
+  - T: “just give” 5.7% @0.37,0.88 1.0s #e1e2e6 built =said -0.09s
+  - T: “Don't offer anything, don't sell them on anything, and don't be pushy,” 5.6% @0.50,0.88 1.8s #e9e8ed built =said -0.37s
+  - T: “Don'toffer” 4.8% @0.22,0.88 0.8s #86868b
+  - S: ★BB+LOW@656.20(-10dB), ★BB+LOW@659.88(-9dB)
+- **#211** 11:00.03 +0.60s | hard | flat graphic | eased zoom in x1.083
+  - “If they like it,”
+  - T: “Take a look for yourself!” 3.1% @0.46,0.41 0.6s #7cbdfc
+  - (+5 more/smaller text lines)
+- **#212** 11:00.63 +0.20s | pop | page with a face on it 11%@0.65,0.54 | static
+  - “they're going”
+  - (+4 more/smaller text lines)
+- **#213** 11:00.83 +1.87s | jump x1.002 | page with a face on it 12%@0.73,0.27 | eased zoom in x1.289
+  - “to reach back out and then you can do your offer.”
+  - T: “lessismore.” 3.9% @0.73,0.44 0.8s #d0b6a9
+  - T: “Hey, I'm super interested. Can you hop on a one-on-one call?” 3.0% @0.47,0.65 0.8s #5f5a5e
+  - T: “Message....” 3.0% @0.34,0.73 0.8s #a7a7a9
+  - (+3 more/smaller text lines)
+- **#214** 11:02.70 +3.90s | hard | speaker 39%@0.50,0.30 | eased zoom in x1.116 | 2 motion ev
+  - “Second, you're going to take that video and package it into a well -formatted video for your personal brand.”
+  - T: “Step 2: Upload your edit.” 5.4% @0.50,0.85 3.0s #b1d1f5
+  - S: ★BB+LOW@662.61(-8dB)
+- **#215** 11:06.60 +1.20s | transition | page with a face on it 13%@0.22,0.46 | eased zoom out x0.977 | 1 motion ev
+  - “The first way you're going to post it”
+  - S: ★BB+LOW@666.66(-5dB)
+- **#216** 11:07.80 +1.07s | pop | flat graphic | eased zoom out x0.811 | 2 motion ev
+  - “is just as the video”
+  - (+2 more/smaller text lines)
+  - S: ★BB@668.19(-9dB), ★LOW@668.40(-7dB)
+- **#217** 11:08.87 +0.57s | hard | flat graphic | eased zoom in x1.083 | 1 motion ev
+  - “itself.”
+  - S: ★BB+LOW@668.94(-7dB)
+- **#218** 11:09.43 +2.27s | hard | speaker 34%@0.49,0.38 | eased zoom in x1.223 | 1 motion ev
+  - “The second way is a format that works in your market.”
+- **#219** 11:11.70 +0.50s | hard | page with a face on it 24%@0.50,0.30 | eased zoom in x1.156
+  - “For example,”
+  - T: “ruining your skin?” 5.7% @0.50,0.62 0.6s #a89185
+  - S: ★BB+LOW@671.69(-9dB)
+- **#220** 11:12.20 +0.10s | hard | flat graphic | static
+  - “this”
+- **#221** 11:12.30 +0.07s | pop | flat graphic | untracked (full-frame animation, still, or too short)
+  - “could”
+- **#222** 11:12.37 +3.63s | punch x0.832 | flat graphic | eased zoom out x0.910 | 2 motion ev
+  - “mean writing out text that says POV, your client paid you for a viral edit and”
+  - T: “POV: your client” 4.8% @0.50,0.45 2.3s #1f1a1b built =said -0.07s
+  - T: “paid you for a” 4.7% @0.50,0.50 0.6s #201f1e =said +0.71s
+  - T: “viral edit” 4.1% @0.50,0.56 0.6s #232221 =said +0.07s
+  - T: “you're washing it” 3.6% @0.44,0.30 1.2s #cac1c1 built
+- **#223** 11:16.00 +0.93s | hard | flat graphic | slow push in x1.021
+  - “putting up a few shots of”
+  - T: “paid you for a” 5.6% @0.50,0.15 4.8s #19191a =said +1.54s
+  - T: “POV: your client” 5.0% @0.50,0.09 4.8s #191919 =said +2.50s
+  - T: “viral edit” 4.3% @0.50,0.21 4.8s #1a1919 =said +0.90s
+- **#224** 11:16.93 +0.93s | pop | flat graphic | slow push in x1.012
+  - “you working on the edit”
+- **#225** 11:17.87 +2.93s | pop | flat graphic | slow push in x1.085
+  - “with a buildup and a countdown timer for three seconds and then on the B”
+  - S: BB@680.01(-11dB)
+- **#226** 11:20.80 +1.27s | hard | flat graphic | eased zoom in x1.080
+  - “drop revealing the full edit.”
+  - T: “you're washing it” 3.2% @0.43,0.28 1.1s #c9c4c4 built
+  - S: ★BB+LOW@680.81(-5dB), BB@681.44(-12dB)
+- **#227** 11:22.07 +2.50s | hard | speaker 38%@0.50,0.29 | eased zoom in x1.089 | 2 motion ev
+  - “If you do this for 10 days straight, every single day you”
+  - S: ★BB+LOW@682.00(-6dB)
+- **#228** 11:24.57 +3.97s | transition | page with a face on it 8%@0.17,0.53 | eased zoom in x1.268
+  - “find one new prospect. You create a stunning new edit for them and their branding and you post”
+  - T: “Brain fog” 4.5% @0.16,0.60 1.3s #d6d1a3
+  - T: “diting skills holdin” 3.5% @0.84,0.58 1.0s #cbc4b7
+  - S: BB+LOW@684.77(-7dB), BB+LOW@685.61(-13dB), BB+LOW@686.06(-3dB)
+- **#229** 11:28.53 +1.40s | pop | page with a face on it 8%@0.64,0.53 | eased zoom in x1.126 | 1 motion ev
+  - “it on your personal brand.”
+  - (+2 more/smaller text lines)
+- **#230** 11:29.93 +1.47s | hard | speaker 35%@0.50,0.38 | eased zoom in x1.112 | 1 motion ev
+  - “The chances of you getting a client out”
+  - T: “Brain fog” 3.8% @0.69,0.31 1.5s #cac99b
+  - S: ★BB+LOW@689.86(-9dB)
+- **#231** 11:31.40 +3.37s | jump x1.0 | speaker 36%@0.49,0.39 | eased zoom out x0.960 | 3 motion ev
+  - “of those 10 days are through the roof. If you're editing is truly stunning.”
+  - (+1 more/smaller text lines)
+  - S: BB+LOW@694.51(-9dB)
+- **#232** 11:34.77 +3.10s | hard | speaker 30%@0.49,0.38 | eased zoom out x0.917 | 1 motion ev
+  - “If not, the chances of you getting a client are atrocious.”
+  - T: “RODE” 13.2% @0.27,0.79 3.4s #979799
+- **#233** 11:37.87 +0.27s | jump x1.001 | speaker 28%@0.49,0.31 | static
+  - “That's”
+- **#234** 11:38.13 +4.47s | punch x1.181 | speaker 38%@0.49,0.38 | slow push in x1.022 | 1 motion ev
+  - “why it's much more important for you to become a good editor than it is for you to pursue clients.”
+  - S: BB+LOW@702.29(-9dB)
+- **#235** 11:42.60 +3.43s | transition | page with a face on it 11%@0.43,0.43 | eased zoom in x1.576 | 5 motion ev
+  - “Because if you're actually creating stunning edits, at least one of those 10 prospects is”
+  - T: “Time” 12.0% @0.47,0.21 0.8s #370f0f
+  - T: “Time” 8.1% @0.42,0.32 0.9s #2a1e21
+  - T: “isvery” 6.9% @0.47,0.29 0.8s #221316
+  - T: “deliberate” 4.9% @0.47,0.36 0.8s #282a2a
+  - S: ★BB+LOW@705.61(-4dB)
+- **#236** 11:46.03 +0.70s | transition | flat graphic | eased zoom in x1.147
+  - “going to respond to”
+  - T: “I don't” 6.3% @0.43,0.40 1.0s #b6baa8
+- **#237** 11:46.73 +2.23s | pop | page with a face on it 6%@0.39,0.60 | slow push in x1.026
+  - “you and at least one of those 10 high quality edits that you've posted”
+  - T: “I don't” 5.9% @0.22,0.40 1.4s #e8f2e5
+  - T: “takeon” 5.0% @0.25,0.43 1.4s #c3e4c2
+  - T: “all the” 3.7% @0.34,0.59 1.4s #dfd7c0
+  - S: LOW@707.23(-6dB)
+- **#238** 11:48.97 +1.97s | pop | flat graphic | slow push in x1.050 | 1 motion ev
+  - “is going to attract some kind of client and at least one of your”
+  - T: “/month” 5.6% @0.90,0.53 1.9s #252323
+  - T: “Iwant” 3.9% @0.29,0.63 0.6s #c1cbc3
+  - T: “to geb” 3.9% @0.29,0.63 1.1s #d4ded3
+- **#239** 11:50.93 +1.30s | jump x1.001 | page with a face on it 42%@0.23,0.30 | slow push in x1.019
+  - “trendy formatted videos”
+  - T: “$2,000” 13.7% @0.74,0.50 0.5s #2252cd
+  - T: “$910” 12.0% @0.73,0.50 0.8s #2252cc
+  - S: BB+LOW@711.84(-9dB)
+- **#240** 11:52.23 +0.33s | jump x1.003 | page with a face on it 23%@0.27,0.35 | eased zoom in x1.109 | 1 motion ev
+- **#241** 11:52.57 +2.30s | hard | speaker 35%@0.49,0.39 | eased zoom in x1.119 | 2 motion ev
+  - “that is how you land clients as video editors.”
+  - S: BB@714.42(-12dB)
+- **#242** 11:54.87 +3.43s | punch x0.946 | speaker 35%@0.49,0.39 | slow push in x1.088 | 1 motion ev
+  - “Now, once you do land your first client, there is a lot of money that can be made.”
+  - T: “$2,000” 15.4% @0.79,0.33 1.3s #93ccfc
+  - T: “$1,500” 11.3% @0.25,0.28 2.0s #587a8d
+  - T: “$600” 9.3% @0.16,0.63 1.3s #527f99
+  - T: “$4,000” 9.1% @0.67,0.16 1.0s #4a4f57
+  - T: “$50” 7.2% @0.41,0.15 1.0s #75a2c4
+  - T: “S100” 6.6% @0.85,0.60 1.3s #2e3844
+  - S: BB@717.48(-11dB)
+- **#243** 11:58.30 +1.00s | jump x1.001 | speaker 36%@0.50,0.38 | slow push in x1.018 | 1 motion ev
+  - “On average, once you've”
+  - T: “$2,000” 14.2% @0.78,0.36 0.5s #93cdfd
+  - T: “$1,500” 11.3% @0.25,0.31 0.5s #96cdfd
+  - T: “$4,000” 8.7% @0.65,0.20 0.5s #4b525d
+- **#244** 11:59.30 +2.87s | transition | flat graphic | slow push in x1.024 | 2 motion ev
+  - “become a very good A .I. editor, you could easily put out anywhere between 3”
+  - T: “$2,000” 17.9% @0.77,0.12 0.9s #7cabcd
+  - T: “$1,500” 11.7% @0.22,0.07 0.9s #6e9ebe
+  - T: “Noise” 5.2% @0.48,0.49 2.3s #353435
+  - T: “Te 60-30-10” 3.0% @0.66,0.35 1.1s #817f88
+- **#245** 12:02.17 +1.13s | pop | page with a face on it 10%@0.18,0.43 | pan/slide x0.995 | 1 motion ev
+  - “to 5 short form”
+  - T: “youcan” 3.1% @0.31,0.39 1.5s #a6a09d
+  - (+3 more/smaller text lines)
+- **#246** 12:03.30 +0.30s | pop | page with a face on it 11%@0.17,0.43 | static
+  - “videos”
+- **#247** 12:03.60 +4.87s | pop | page with a face on it 8%@0.29,0.43 | eased zoom in x1.109 | 4 motion ev
+  - “per day or one complete long form video. The typical pricing range for a short form content can be anywhere between $30”
+  - T: “per day” 7.1% @0.50,0.86 5.9s #5b5a5b =said -1.88s
+  - T: “perday” 5.9% @0.50,0.85 0.7s #b7b7b7
+  - T: “per day” 5.7% @0.27,0.74 3.2s #252525 =said +0.65s
+  - T: “1per day” 5.3% @0.76,0.80 1.0s #211f20
+  - T: “focus” 3.3% @0.37,0.43 0.7s #e8ccba
+  - T: “Noise” 3.1% @0.23,0.49 2.0s #372c16
+  - (+5 more/smaller text lines)
+  - S: ★BB+LOW@724.23(-6dB), BB+LOW@726.90(-7dB)
+- **#248** 12:08.47 +3.70s | pop | page with a face on it 10%@0.18,0.42 | static | 1 motion ev
+  - “to $100 per short form video, depending on the style. Most people will get”
+  - T: “$30 to $100” 7.4% @0.50,0.50 2.9s #2e54bd =said +0.13s
+  - S: ★BB@728.42(-13dB)
+- **#249** 12:12.17 +8.13s | jump x0.997 | small face (inset / wide shot) 5%@0.58,0.56 | eased zoom out x0.595 | 6 motion ev
+  - “paid $50. So if your client sends you 20 to 30 videos, you could easily make $1000 to $1500 in a single week's worth of work.”
+  - T: “$1,000 to $1,500” 8.2% @0.50,0.15 3.9s #4a6ed3 built =said -0.01s
+  - T: “$50” 5.7% @0.32,0.33 1.0s #2952c7 =said +1.10s
+  - T: “$50” 5.5% @0.64,0.33 1.0s #2a54ca =said +1.10s
+  - T: “$50” 4.5% @0.49,0.17 1.0s #6d82c6 =said +2.10s
+  - T: “1week” 4.4% @0.50,0.96 0.7s #bbbab9
+  - T: “focus” 3.7% @0.32,0.42 1.0s #e2d9a9
+  - (+45 more/smaller text lines)
+  - S: ★BB@732.15(-13dB), BB+LOW@734.29(-5dB), BB@736.68(-13dB)
+- **#250** 12:20.30 +1.77s | hard | speaker 35%@0.50,0.39 | eased zoom in x1.256
+  - “As for long form content, the range goes anywhere between”
+  - T: “RODE” 14.9% @0.25,0.88 1.6s #8f8f91
+- **#251** 12:22.07 +2.87s | hard | flat graphic | eased zoom out x0.956
+  - “$200 and $600 per video. So if your client”
+  - T: “$200 to $600” 4.0% @0.25,0.21 2.3s #284fc0 =said +0.65s
+  - (+6 more/smaller text lines)
+  - S: ★BB@741.95(-11dB), BB@742.49(-12dB)
+- **#252** 12:24.93 +4.03s | transition | page with a face on it 6%@0.60,0.38 | eased zoom out x0.305 | 5 motion ev
+  - “sends you 5 to 10 long form videos, you could easily be making anywhere between $2000 to $6000”
+  - T: “$2,000 to $6,000” 9.4% @0.50,0.16 2.8s #456bd2 built =said -0.09s
+  - T: “$200 to $600” 3.2% @0.36,0.35 5.6s #3852b7 =said +2.95s
+  - (+8 more/smaller text lines)
+  - S: ★BB+LOW@745.14(-4dB), ★BB@748.55(-10dB)
+- **#253** 12:28.97 +0.07s | jump x1.0 | flat graphic | untracked (full-frame animation, still, or too short)
+- **#254** 12:29.03 +0.67s | jump x1.001 | flat graphic | static
+  - “over”
+  - T: “2.0” 5.7% @0.82,0.62 1.4s #f9fbfe
+- **#255** 12:29.70 +0.10s | pop | flat graphic | static
+- **#256** 12:29.80 +0.07s | pop | flat graphic | untracked (full-frame animation, still, or too short)
+- **#257** 12:29.87 +0.10s | pop | page with a face on it 3%@0.74,0.41 | untracked (full-frame animation, still, or too short)
+- **#258** 12:29.97 +0.27s | pop | page with a face on it 3%@0.74,0.41 | static
+  - “two”
+- **#259** 12:30.23 +0.87s | pop | flat graphic | eased zoom in x1.125
+  - “weeks of work.”
+  - T: “2weeksofwork” 4.6% @0.50,0.80 0.6s #898989
+- **#260** 12:31.10 +4.37s | hard | speaker 36%@0.50,0.39 | eased zoom in x1.151 | 1 motion ev
+  - “Again, this is how the editors that I mentioned early in the video have made the money they made using A .I.”
+  - (+26 more/smaller text lines)
+  - S: ★BB+LOW@751.09(-8dB)
+- **#261** 12:35.47 +0.63s | jump x1.0 | speaker 37%@0.50,0.36 | pan/slide x1.005
+  - “But now that you have”
+- **#262** 12:36.10 +3.13s | transition | flat graphic | eased zoom in x1.198
+  - “the full complete roadmap to learn A .I. video editing from scratch,”
+  - T: “Clients” 5.4% @0.83,0.39 1.3s #595758
+  - T: “$2,000/month” 5.3% @0.87,0.50 1.0s #294db6
+  - T: “Video Engineering” 5.1% @0.64,0.39 1.3s #595960
+  - T: “-$2.000/month” 5.0% @0.87,0.60 1.0s #788dcf
+  - T: “VideoEngineering” 4.9% @0.63,0.51 1.0s #acacb2
+  - T: “Animofion.Psychdlogy” 4.7% @0.42,0.50 1.0s #acacb3
+  - (+9 more/smaller text lines)
+- **#263** 12:39.23 +1.70s | hard | speaker 43%@0.49,0.33 | eased zoom in x1.190 | 1 motion ev
+  - “what should you do now? The fact of the matter is most”
+  - T: “What should you now do?” 5.2% @0.50,0.87 1.5s #afafb4 built =said +0.01s
+  - S: ★BB+LOW@759.17(-12dB)
+- **#264** 12:40.93 +2.07s | hard | flat graphic | eased zoom in x1.140 | 1 motion ev
+  - “people quit on day two or three simply”
+  - T: “Mostpeople” 8.3% @0.37,0.82 0.8s #515050
+  - T: “88888” 7.4% @0.48,0.20 0.8s #6e6e70
+  - T: “Most people quit on day 2” 6.1% @0.46,0.82 1.2s #2e2e2e =said +1.07s
+  - T: “GoodDesign” 4.1% @0.78,0.69 1.8s #b7b6b4
+  - T: “AlTools” 3.9% @0.40,0.48 1.8s #516ecb
+  - S: ★BB+LOW@761.93(-5dB), BB+LOW@762.83(-8dB)
+- **#265** 12:43.00 +3.43s | hard | speaker 37%@0.50,0.39 | eased zoom in x1.146 | 3 motion ev
+  - “because they don't know where to learn the new things. And”
+  - T: “RODE” 15.1% @0.26,0.92 1.6s #929293
+  - T: “good vid” 6.1% @0.38,0.25 0.7s #7fb6df
+  - T: “How do you learn to” 5.4% @0.31,0.19 1.2s #e9ebeb =said +3.69s
+  - T: “Where do I learn this?” 5.3% @0.50,0.85 1.7s #aeb1b4 built
+  - T: “ow do you land” 4.9% @0.66,0.49 1.0s #c0c0c6 built
+- **#266** 12:46.43 +3.30s | transition | flat graphic | eased zoom in x1.002
+  - “they don't have a community of people supporting them and encouraging them to keep moving forward,”
+  - T: “No community.” 6.7% @0.50,0.83 1.3s #234fc3
+  - S: LOW@766.59(-5dB)
+- **#267** 12:49.73 +3.40s | hard | speaker 35%@0.49,0.39 | eased zoom in x1.368 | 1 motion ev
+  - “which means the truth is if you really wanted to make it as an A .I. editor,”
+  - S: ★BB+LOW@769.65(-9dB), ★BB+LOW@773.01(-8dB)
+- **#268** 12:53.13 +2.93s | hard | page with a face on it 9%@0.32,0.43 | eased zoom in x1.161 | 1 motion ev
+  - “we both know that's not going to happen by you trying to learn things on”
+  - T: “ARE DEAD” 6.1% @0.39,0.39 0.9s #060c06
+  - T: “EDITORS” 5.2% @0.38,0.34 1.1s #9ed20d
+  - T: “10 MINUTES” 5.0% @0.72,0.42 0.9s #373d3e
+  - T: “FllCentrol” 4.8% @0.88,0.83 0.9s #3e4c61
+  - T: “AI TAKEOVER” 4.6% @0.65,0.20 1.6s #d62a33
+  - T: “EDITING” 4.5% @0.85,0.64 1.1s #000c16
+  - (+19 more/smaller text lines)
+- **#269** 12:56.07 +0.93s | transition | speaker 13%@0.79,0.61 | slow push in x1.016
+  - “your own on YouTube.”
+  - T: “FREE” 5.1% @0.35,0.57 0.7s #545358
+- **#270** 12:57.00 +2.73s | hard | speaker 42%@0.48,0.39 | eased zoom in x1.153 | 2 motion ev
+  - “If that was the case, you would have already been a good A .I. editor.”
+  - T: “ROD” 13.1% @0.15,0.93 0.8s #c9c9ca
+- **#271** 12:59.73 +1.10s | hard | flat graphic | slow push in x1.033 | 1 motion ev
+  - “If right now making $2000”
+  - T: “/month” 7.9% @0.65,0.53 3.3s #191819 =said -1.50s
+  - S: ★BB+LOW@779.68(-8dB), ★BB@780.63(-12dB)
+- **#272** 13:00.83 +3.00s | pop | flat graphic | slow push in x1.053
+  - “to $4000 per month as a video editor would really change your”
+  - T: “$4,000” 19.3% @0.44,0.50 1.7s #2151cd =said +1.54s
+  - T: “$3,660” 19.1% @0.44,0.51 1.0s #2151cd
+  - T: “$1,560” 17.8% @0.44,0.51 0.8s #2151cd
+  - S: BB@781.40(-9dB), BB@782.10(-12dB)
+- **#273** 13:03.83 +0.60s | transition | flat graphic | static
+  - “life, then what”
+  - S: ★BB+LOW@784.00(-4dB)
+- **#274** 13:04.43 +0.83s | transition | page with a face on it 40%@0.70,0.47 | static
+  - “you need is Ultimate”
+  - T: “Editing Styles &” 7.6% @0.39,0.42 2.3s #9f93c0
+  - T: “$2.000/men90doy” 7.4% @0.41,0.53 0.6s #9e8ac6
+  - T: “$2,000/mo in 90 days” 7.0% @0.41,0.53 1.5s #dbc1fd
+  - T: “Editor to Viral” 6.6% @0.37,0.34 2.3s #9e94bb =said +1.89s
+  - T: “From Beginner” 6.5% @0.38,0.26 2.3s #8f88ae
+  - T: “SAASTrailers” 3.1% @0.25,0.69 1.5s #853489
+  - (+1 more/smaller text lines)
+- **#275** 13:05.27 +1.53s | transition | page with a face on it 40%@0.70,0.47 | eased zoom out x0.923
+  - “Editors 2 .0. The step -by”
+- **#276** 13:06.80 +14.63s | transition | page with a face on it 21%@0.61,0.20 | eased zoom out x0.619 | 3 motion ev
+  - “-step program to turn you into a viral editor who knows how to edit videos with A .I. and make $2000 per month as a video editor. Inside, you're going to get step -by -step masterclasses on the five viral editing styles of 2026. Cinematic style, the minimal animations, the SAS trainer, the viral animation breakdowns and the viral talking head style.”
+  - T: “.Time” 10.0% @0.86,0.49 1.2s #a1a09f
+  - T: “The step-bytstepprg am” 8.7% @0.41,0.51 0.9s #64225d
+  - T: “Theshep-by-stepprogromtofumyou” 8.6% @0.50,0.27 1.0s #b0afb4
+  - T: “ondmdkesS2.000/monih” 7.7% @0.50,0.44 1.0s #8499d9
+  - T: “The step-by-step program to turn you” 7.4% @0.50,0.48 5.0s #1e1e23 =said +1.35s
+  - T: “into avr I” 6.3% @0.30,0.59 1.0s #214877
+  - (+36 more/smaller text lines)
+  - S: BB+LOW@786.80(-3dB), BB+LOW@792.87(-6dB), BB+LOW@795.45(-7dB), BB+LOW@796.94(-5dB), BB@797.98(-8dB), BB+LOW@799.01(-5dB), BB+LOW@800.07(-8dB)
+- **#277** 13:21.43 +0.60s | transition | flat graphic | static | 1 motion ev
+  - “You're going to get the A”
+  - S: ★LOW@801.71(-2dB)
+- **#278** 13:22.03 +1.47s | transition | flat graphic | eased zoom out x0.839 | 2 motion ev
+  - “.I. editing fundamentals masterclass where”
+  - T: “Al Editing” 12.0% @0.51,0.45 1.2s #dbcdd8
+  - T: “Fundamentals” 8.7% @0.51,0.54 1.2s #b5a6b3 =said -0.22s
+  - S: BB+LOW@803.09(-8dB)
+- **#279** 13:23.50 +2.87s | transition | flat graphic | eased zoom out x0.627
+  - “we teach you the cloud and remotion and Higgs field tools step”
+  - T: “Al Editing” 7.6% @0.50,0.25 0.9s #fce1e2
+  - T: “Fundamentals” 6.7% @0.51,0.32 0.9s #fbd1d1 =said +1.15s
+  - T: “Claude” 6.7% @0.64,0.46 0.9s #dddae0
+  - T: “Al Editing” 6.5% @0.50,0.15 2.9s #fbdee0
+  - T: “Claude” 5.7% @0.61,0.32 2.9s #dfdfe2
+  - T: “Fundamentals” 5.1% @0.50,0.21 2.9s #f9cdcf =said +2.05s
+  - (+3 more/smaller text lines)
+  - S: BB+LOW@803.43(-7dB), BB@804.46(-10dB), BB@805.19(-13dB)
+- **#280** 13:26.37 +3.30s | transition | flat graphic | eased zoom out x0.962
+  - “-by -step and you're going to get the Iman Gaji skill, the Vox documentary skill and”
+  - T: “AlEditing” 6.3% @0.50,0.10 1.0s #d2acad
+  - T: “Fundamentals” 5.2% @0.50,0.15 1.0s #c6a0a0
+  - T: “Vox Documentary Skill” 4.4% @0.50,0.64 3.6s #2d51c3 =said +0.67s
+  - T: “ImanGadzhi Skill” 4.1% @0.20,0.63 3.6s #2e52c5
+  - (+2 more/smaller text lines)
+  - S: ★BB+LOW@806.25(-7dB), LOW@807.86(-6dB), BB+LOW@808.17(-4dB)
+- **#281** 13:29.67 +0.07s | pop | flat graphic | untracked (full-frame animation, still, or too short)
+- **#282** 13:29.73 +1.43s | pop | flat graphic | slow push in x1.018 | 2 motion ev
+  - “the short form editing skills to”
+  - T: “Short-Form Editing Skill” 4.3% @0.81,0.63 2.9s #617ed2 =said -0.30s
+  - S: ★BB+LOW@809.65(-7dB)
+- **#283** 13:31.17 +2.13s | pop | flat graphic | slow push in x1.027 | 1 motion ev
+  - “edit viral videos using A .I. Using the Joseph A”
+  - (+1 more/smaller text lines)
+  - S: BB@813.06(-6dB)
+- **#284** 13:33.30 +8.27s | transition | page with a face on it 23%@0.26,0.46 | eased zoom out x0.985 | 8 motion ev
+  - “.I. editing masterclass, you can learn how I edit my own short form content using A .I. and how I edit these very long form videos using A .I. And you can even get access to the skills themselves.”
+  - T: “JOEEPH” 27.8% @0.26,0.29 0.8s #85b7fe built
+  - T: “EPH” 24.3% @0.51,0.46 4.3s #9ac1f9
+  - T: “EPH” 22.4% @0.40,0.29 1.4s #99c1fa
+  - T: “EPH” 21.3% @0.65,0.61 0.7s #8cadec
+  - T: “EPH” 20.1% @0.65,0.47 0.7s #99c1fa
+  - T: “Short-Form Editing Skill” 4.1% @0.69,0.64 4.1s #2a52c4
+  - (+4 more/smaller text lines)
+  - S: BB+LOW@814.66(-5dB), ★BB@816.18(-8dB), BB+LOW@816.61(-5dB), BB@817.09(-11dB), ★BB@818.91(-11dB), BB+LOW@819.21(-6dB), ★BB+LOW@820.34(-6dB), BB@820.89(-6dB)
+- **#285** 13:41.57 +0.60s | transition | page with a face on it 21%@0.25,0.28 | static | 1 motion ev
+  - “After”
+  - S: ★BB+LOW@821.71(-5dB)
+- **#286** 13:42.17 +0.83s | transition | flat graphic | static
+  - “all of this, you're going to get”
+  - T: “s2,000/mo Editor” 8.7% @0.50,0.46 2.6s #aeacbc
+  - T: “Blueprint” 8.7% @0.45,0.55 2.0s #f4c6cc =said -2.14s
+- **#287** 13:43.00 +1.80s | transition | flat graphic | eased zoom out x0.895
+  - “access to the $2000 per month editor”
+- **#288** 13:44.80 +1.80s | transition | flat graphic | eased zoom out x0.704
+  - “blueprint where I'm going to teach you how to build”
+  - T: “Blueprint” 5.9% @0.26,0.53 6.4s #fac4c8 =said -0.14s
+  - T: “$2,000/mo Editor” 5.8% @0.26,0.48 6.4s #fcecf2
+  - S: BB+LOW@824.80(-5dB)
+- **#289** 13:46.60 +3.67s | transition | page with a face on it 14%@0.65,0.49 | eased zoom out x0.949 | 1 motion ev
+  - “high quality premium personal brands as a video editor and send high quality outreach”
+  - T: “Personal Branding Theory” 3.7% @0.63,0.25 2.0s #2c2d30
+  - (+7 more/smaller text lines)
+  - S: BB+LOW@826.67(-3dB), BB+LOW@829.67(-5dB)
+- **#290** 13:50.27 +1.13s | pop | page with a face on it 9%@0.86,0.52 | pan/slide x0.999
+  - “and land your first”
+  - (+4 more/smaller text lines)
+  - S: BB@831.22(-8dB)
+- **#291** 13:51.40 +2.30s | transition | flat graphic | eased zoom in x1.475 | 2 motion ev
+  - “$2000 per month client in just 30 days.”
+  - S: ★BB+LOW@832.44(-4dB), BB@833.16(-5dB)
+- **#292** 13:53.70 +3.13s | hard | speaker 39%@0.49,0.33 | eased zoom in x1.183 | 1 motion ev
+  - “Look, this all closes down forever on November 15th”
+  - T: “November” 4.6% @0.60,0.88 1.0s #4f6984 =said -0.20s
+  - T: “ClosesdownforeverorNovember” 4.4% @0.47,0.87 2.3s #e0e0e5 built
+  - S: ★BB@833.64(-4dB), BB+LOW@836.40(-2dB)
+- **#293** 13:56.83 +3.60s | hard | speaker 41%@0.29,0.38 | eased zoom in x1.344 | 5 motion ev
+  - “and you can now get lifetime access for just $299. This”
+  - T: “$299” 12.8% @0.69,0.55 1.3s #93cdfb =said +0.31s
+  - T: “$1,200/year” 7.1% @0.72,0.44 3.0s #e2e2e6 built
+  - T: “lifetime” 4.2% @0.80,0.58 1.3s #afafb4 =said +1.51s
+  - T: “Get lifetime access” 3.5% @0.73,0.66 1.6s #141a26 =said +1.39s
+  - T: “year” 3.4% @0.79,0.45 1.4s #5d5e66
+  - T: “Ultimate Editors 2.0” 3.2% @0.74,0.34 3.0s #979799
+  - S: BB@838.31(-5dB), ★BB@839.67(-7dB)
+- **#294** 14:00.43 +5.07s | jump x1.099 | speaker 34%@0.50,0.35 | eased zoom in x1.276 | 4 motion ev
+  - “is your last chance. So take it while you can. Join Ultimate Editors 2 .0. The link is down below.”
+  - T: “Click the link down below” 3.9% @0.50,0.84 0.9s #2945a9 =said +0.65s
+  - S: ★BB@840.35(-4dB), ★BB@841.89(-6dB), ★LOW@843.02(-7dB), LOW@843.64(-7dB), LOW@844.04(-8dB)
+- **#295** 14:05.50 +0.80s | pop | speaker 40%@0.49,0.34 | eased zoom in x1.040
+  - “I'll see you guys inside.”
+  - S: ★BB@845.49(-6dB)

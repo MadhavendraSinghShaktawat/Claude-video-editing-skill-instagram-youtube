@@ -1,0 +1,936 @@
+{
+ "source": "vaylens-explainer.mp4",
+ "language": "en",
+ "model": "small",
+ "verbatim": false,
+ "words": [
+  {
+   "w": "Managing",
+   "start": 0.05,
+   "end": 0.73,
+   "p": 0.909
+  },
+  {
+   "w": "electric",
+   "start": 0.73,
+   "end": 1.15,
+   "p": 0.974
+  },
+  {
+   "w": "car",
+   "start": 1.15,
+   "end": 1.51,
+   "p": 0.989
+  },
+  {
+   "w": "charging",
+   "start": 1.51,
+   "end": 1.89,
+   "p": 0.807
+  },
+  {
+   "w": "stations",
+   "start": 1.89,
+   "end": 2.51,
+   "p": 0.998
+  },
+  {
+   "w": "shouldn't",
+   "start": 2.51,
+   "end": 3.29,
+   "p": 0.956
+  },
+  {
+   "w": "be",
+   "start": 3.29,
+   "end": 3.43,
+   "p": 0.997
+  },
+  {
+   "w": "rocket",
+   "start": 3.43,
+   "end": 3.75,
+   "p": 0.989
+  },
+  {
+   "w": "science.",
+   "start": 3.75,
+   "end": 4.23,
+   "p": 0.998
+  },
+  {
+   "w": "Yet",
+   "start": 4.73,
+   "end": 5.11,
+   "p": 0.986
+  },
+  {
+   "w": "often,",
+   "start": 5.11,
+   "end": 5.39,
+   "p": 0.93
+  },
+  {
+   "w": "that's",
+   "start": 5.83,
+   "end": 6.13,
+   "p": 0.995
+  },
+  {
+   "w": "exactly",
+   "start": 6.13,
+   "end": 6.61,
+   "p": 0.998
+  },
+  {
+   "w": "how",
+   "start": 6.61,
+   "end": 6.85,
+   "p": 0.999
+  },
+  {
+   "w": "it",
+   "start": 6.85,
+   "end": 6.97,
+   "p": 0.999
+  },
+  {
+   "w": "feels.",
+   "start": 6.97,
+   "end": 7.31,
+   "p": 0.998
+  },
+  {
+   "w": "It",
+   "start": 7.91,
+   "end": 8.05,
+   "p": 0.993
+  },
+  {
+   "w": "looks",
+   "start": 8.05,
+   "end": 8.21,
+   "p": 0.996
+  },
+  {
+   "w": "complicated",
+   "start": 8.21,
+   "end": 8.71,
+   "p": 0.999
+  },
+  {
+   "w": "and",
+   "start": 8.71,
+   "end": 9.45,
+   "p": 0.758
+  },
+  {
+   "w": "intimidating.",
+   "start": 9.45,
+   "end": 9.99,
+   "p": 0.999
+  },
+  {
+   "w": "That's",
+   "start": 10.75,
+   "end": 11.09,
+   "p": 0.996
+  },
+  {
+   "w": "why",
+   "start": 11.09,
+   "end": 11.33,
+   "p": 0.999
+  },
+  {
+   "w": "we",
+   "start": 11.33,
+   "end": 11.87,
+   "p": 0.943
+  },
+  {
+   "w": "built",
+   "start": 11.87,
+   "end": 12.23,
+   "p": 0.981
+  },
+  {
+   "w": "Valens.",
+   "start": 12.23,
+   "end": 13.65,
+   "p": 0.318
+  },
+  {
+   "w": "It's",
+   "start": 20.36,
+   "end": 20.88,
+   "p": 0.992
+  },
+  {
+   "w": "a",
+   "start": 20.88,
+   "end": 20.94,
+   "p": 0.996
+  },
+  {
+   "w": "charging",
+   "start": 20.94,
+   "end": 21.26,
+   "p": 0.992
+  },
+  {
+   "w": "management",
+   "start": 21.26,
+   "end": 21.66,
+   "p": 0.988
+  },
+  {
+   "w": "software",
+   "start": 21.66,
+   "end": 22.2,
+   "p": 0.999
+  },
+  {
+   "w": "that's",
+   "start": 22.81,
+   "end": 23.95,
+   "p": 0.892
+  },
+  {
+   "w": "compatible",
+   "start": 23.95,
+   "end": 24.41,
+   "p": 0.999
+  },
+  {
+   "w": "with",
+   "start": 24.41,
+   "end": 25.43,
+   "p": 0.974
+  },
+  {
+   "w": "every",
+   "start": 25.43,
+   "end": 25.87,
+   "p": 0.984
+  },
+  {
+   "w": "business.",
+   "start": 25.87,
+   "end": 26.29,
+   "p": 0.998
+  },
+  {
+   "w": "We",
+   "start": 27.17,
+   "end": 27.35,
+   "p": 0.997
+  },
+  {
+   "w": "know",
+   "start": 27.35,
+   "end": 27.51,
+   "p": 0.999
+  },
+  {
+   "w": "many",
+   "start": 27.51,
+   "end": 27.73,
+   "p": 0.989
+  },
+  {
+   "w": "of",
+   "start": 27.73,
+   "end": 27.93,
+   "p": 0.999
+  },
+  {
+   "w": "them",
+   "start": 27.93,
+   "end": 28.03,
+   "p": 0.998
+  },
+  {
+   "w": "don't",
+   "start": 28.03,
+   "end": 28.43,
+   "p": 0.986
+  },
+  {
+   "w": "feel",
+   "start": 28.43,
+   "end": 28.61,
+   "p": 0.998
+  },
+  {
+   "w": "they",
+   "start": 28.61,
+   "end": 28.79,
+   "p": 0.994
+  },
+  {
+   "w": "have",
+   "start": 28.79,
+   "end": 28.97,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 28.97,
+   "end": 29.11,
+   "p": 1.0
+  },
+  {
+   "w": "resources",
+   "start": 29.11,
+   "end": 29.57,
+   "p": 0.997
+  },
+  {
+   "w": "to",
+   "start": 29.57,
+   "end": 29.95,
+   "p": 0.999
+  },
+  {
+   "w": "invest",
+   "start": 29.95,
+   "end": 30.29,
+   "p": 0.999
+  },
+  {
+   "w": "in",
+   "start": 30.29,
+   "end": 30.53,
+   "p": 0.994
+  },
+  {
+   "w": "electric",
+   "start": 30.53,
+   "end": 30.87,
+   "p": 0.995
+  },
+  {
+   "w": "mobility.",
+   "start": 30.87,
+   "end": 31.41,
+   "p": 0.998
+  },
+  {
+   "w": "Even",
+   "start": 31.91,
+   "end": 32.27,
+   "p": 0.631
+  },
+  {
+   "w": "worse,",
+   "start": 32.27,
+   "end": 32.67,
+   "p": 0.992
+  },
+  {
+   "w": "they",
+   "start": 33.05,
+   "end": 33.21,
+   "p": 0.975
+  },
+  {
+   "w": "fear",
+   "start": 33.21,
+   "end": 33.47,
+   "p": 0.998
+  },
+  {
+   "w": "being",
+   "start": 33.47,
+   "end": 33.65,
+   "p": 0.995
+  },
+  {
+   "w": "stuck",
+   "start": 33.65,
+   "end": 33.97,
+   "p": 0.997
+  },
+  {
+   "w": "with",
+   "start": 33.97,
+   "end": 34.21,
+   "p": 0.994
+  },
+  {
+   "w": "an",
+   "start": 34.21,
+   "end": 34.31,
+   "p": 0.984
+  },
+  {
+   "w": "unreliable",
+   "start": 34.31,
+   "end": 35.11,
+   "p": 0.997
+  },
+  {
+   "w": "product",
+   "start": 35.11,
+   "end": 35.51,
+   "p": 0.986
+  },
+  {
+   "w": "or",
+   "start": 35.51,
+   "end": 35.85,
+   "p": 0.99
+  },
+  {
+   "w": "partner.",
+   "start": 35.85,
+   "end": 36.21,
+   "p": 0.994
+  },
+  {
+   "w": "But",
+   "start": 36.81,
+   "end": 36.91,
+   "p": 0.984
+  },
+  {
+   "w": "as",
+   "start": 36.91,
+   "end": 37.45,
+   "p": 0.657
+  },
+  {
+   "w": "the",
+   "start": 37.45,
+   "end": 37.61,
+   "p": 0.992
+  },
+  {
+   "w": "need",
+   "start": 37.61,
+   "end": 37.73,
+   "p": 0.996
+  },
+  {
+   "w": "to",
+   "start": 37.73,
+   "end": 37.91,
+   "p": 0.982
+  },
+  {
+   "w": "use",
+   "start": 37.91,
+   "end": 38.15,
+   "p": 0.998
+  },
+  {
+   "w": "electric",
+   "start": 38.15,
+   "end": 38.45,
+   "p": 0.989
+  },
+  {
+   "w": "cars",
+   "start": 38.45,
+   "end": 38.77,
+   "p": 0.997
+  },
+  {
+   "w": "becomes",
+   "start": 38.77,
+   "end": 39.07,
+   "p": 0.988
+  },
+  {
+   "w": "the",
+   "start": 39.07,
+   "end": 39.29,
+   "p": 0.997
+  },
+  {
+   "w": "norm,",
+   "start": 39.29,
+   "end": 39.61,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 40.62,
+   "end": 40.7,
+   "p": 0.982
+  },
+  {
+   "w": "way",
+   "start": 40.7,
+   "end": 40.9,
+   "p": 0.999
+  },
+  {
+   "w": "we",
+   "start": 40.9,
+   "end": 41.04,
+   "p": 0.996
+  },
+  {
+   "w": "recharge",
+   "start": 41.04,
+   "end": 41.48,
+   "p": 0.95
+  },
+  {
+   "w": "them",
+   "start": 41.48,
+   "end": 41.8,
+   "p": 0.998
+  },
+  {
+   "w": "shouldn't",
+   "start": 41.8,
+   "end": 42.54,
+   "p": 0.957
+  },
+  {
+   "w": "be",
+   "start": 42.54,
+   "end": 42.72,
+   "p": 0.999
+  },
+  {
+   "w": "a",
+   "start": 42.72,
+   "end": 42.88,
+   "p": 0.867
+  },
+  {
+   "w": "headache.",
+   "start": 42.88,
+   "end": 43.14,
+   "p": 0.994
+  },
+  {
+   "w": "At",
+   "start": 43.96,
+   "end": 44.14,
+   "p": 0.989
+  },
+  {
+   "w": "Valens,",
+   "start": 44.14,
+   "end": 44.56,
+   "p": 0.258
+  },
+  {
+   "w": "we",
+   "start": 44.86,
+   "end": 44.96,
+   "p": 0.996
+  },
+  {
+   "w": "provide",
+   "start": 44.96,
+   "end": 45.32,
+   "p": 0.997
+  },
+  {
+   "w": "straightforward",
+   "start": 45.32,
+   "end": 46.02,
+   "p": 0.905
+  },
+  {
+   "w": "tools",
+   "start": 46.02,
+   "end": 46.52,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 46.52,
+   "end": 46.78,
+   "p": 0.995
+  },
+  {
+   "w": "services",
+   "start": 46.78,
+   "end": 47.28,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 47.28,
+   "end": 47.98,
+   "p": 0.922
+  },
+  {
+   "w": "make",
+   "start": 47.98,
+   "end": 48.18,
+   "p": 0.995
+  },
+  {
+   "w": "it",
+   "start": 48.18,
+   "end": 48.32,
+   "p": 0.997
+  },
+  {
+   "w": "as",
+   "start": 48.32,
+   "end": 48.48,
+   "p": 0.997
+  },
+  {
+   "w": "easy",
+   "start": 48.48,
+   "end": 48.82,
+   "p": 0.994
+  },
+  {
+   "w": "as",
+   "start": 48.82,
+   "end": 49.0,
+   "p": 0.996
+  },
+  {
+   "w": "possible",
+   "start": 49.0,
+   "end": 49.38,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 49.38,
+   "end": 49.72,
+   "p": 0.995
+  },
+  {
+   "w": "buy,",
+   "start": 49.72,
+   "end": 50.04,
+   "p": 0.994
+  },
+  {
+   "w": "use",
+   "start": 50.48,
+   "end": 50.66,
+   "p": 0.997
+  },
+  {
+   "w": "and",
+   "start": 50.66,
+   "end": 51.18,
+   "p": 0.568
+  },
+  {
+   "w": "monetize",
+   "start": 51.18,
+   "end": 51.8,
+   "p": 0.832
+  },
+  {
+   "w": "charging",
+   "start": 51.8,
+   "end": 52.16,
+   "p": 0.994
+  },
+  {
+   "w": "infrastructure,",
+   "start": 52.16,
+   "end": 52.92,
+   "p": 0.998
+  },
+  {
+   "w": "helping",
+   "start": 53.28,
+   "end": 53.82,
+   "p": 0.994
+  },
+  {
+   "w": "thousands",
+   "start": 53.82,
+   "end": 54.3,
+   "p": 0.992
+  },
+  {
+   "w": "of",
+   "start": 54.3,
+   "end": 54.54,
+   "p": 0.999
+  },
+  {
+   "w": "companies",
+   "start": 54.54,
+   "end": 54.94,
+   "p": 0.998
+  },
+  {
+   "w": "feel",
+   "start": 54.94,
+   "end": 55.28,
+   "p": 0.996
+  },
+  {
+   "w": "confident",
+   "start": 55.28,
+   "end": 55.8,
+   "p": 0.999
+  },
+  {
+   "w": "managing",
+   "start": 55.8,
+   "end": 56.34,
+   "p": 0.964
+  },
+  {
+   "w": "charging",
+   "start": 56.34,
+   "end": 56.8,
+   "p": 0.996
+  },
+  {
+   "w": "stations",
+   "start": 56.8,
+   "end": 57.36,
+   "p": 0.999
+  },
+  {
+   "w": "and",
+   "start": 57.36,
+   "end": 58.08,
+   "p": 0.749
+  },
+  {
+   "w": "freeing",
+   "start": 58.08,
+   "end": 58.46,
+   "p": 0.992
+  },
+  {
+   "w": "up",
+   "start": 58.46,
+   "end": 58.6,
+   "p": 0.998
+  },
+  {
+   "w": "time",
+   "start": 58.6,
+   "end": 58.92,
+   "p": 0.996
+  },
+  {
+   "w": "for",
+   "start": 58.92,
+   "end": 59.56,
+   "p": 0.951
+  },
+  {
+   "w": "what",
+   "start": 59.56,
+   "end": 59.76,
+   "p": 0.999
+  },
+  {
+   "w": "they",
+   "start": 59.76,
+   "end": 59.98,
+   "p": 0.999
+  },
+  {
+   "w": "do",
+   "start": 59.98,
+   "end": 60.2,
+   "p": 0.998
+  },
+  {
+   "w": "best.",
+   "start": 60.2,
+   "end": 60.52,
+   "p": 0.999
+  },
+  {
+   "w": "We",
+   "start": 60.52,
+   "end": 61.16,
+   "p": 0.615
+  },
+  {
+   "w": "make",
+   "start": 61.16,
+   "end": 61.36,
+   "p": 0.996
+  },
+  {
+   "w": "sure",
+   "start": 61.36,
+   "end": 61.68,
+   "p": 0.999
+  },
+  {
+   "w": "everyone's",
+   "start": 61.68,
+   "end": 62.34,
+   "p": 0.986
+  },
+  {
+   "w": "investment",
+   "start": 62.34,
+   "end": 62.84,
+   "p": 0.997
+  },
+  {
+   "w": "is",
+   "start": 62.84,
+   "end": 63.32,
+   "p": 0.996
+  },
+  {
+   "w": "worthwhile",
+   "start": 63.32,
+   "end": 63.82,
+   "p": 0.988
+  },
+  {
+   "w": "so",
+   "start": 63.82,
+   "end": 64.4,
+   "p": 0.455
+  },
+  {
+   "w": "electric",
+   "start": 64.4,
+   "end": 64.72,
+   "p": 0.912
+  },
+  {
+   "w": "mobility",
+   "start": 64.72,
+   "end": 65.3,
+   "p": 1.0
+  },
+  {
+   "w": "becomes",
+   "start": 65.3,
+   "end": 65.88,
+   "p": 0.994
+  },
+  {
+   "w": "accessible",
+   "start": 65.88,
+   "end": 66.58,
+   "p": 0.992
+  },
+  {
+   "w": "to",
+   "start": 66.58,
+   "end": 67.06,
+   "p": 0.996
+  },
+  {
+   "w": "all.",
+   "start": 67.06,
+   "end": 67.36,
+   "p": 0.997
+  },
+  {
+   "w": "This",
+   "start": 68.61,
+   "end": 68.99,
+   "p": 0.971
+  },
+  {
+   "w": "is",
+   "start": 68.99,
+   "end": 69.63,
+   "p": 0.96
+  },
+  {
+   "w": "Valens.",
+   "start": 69.63,
+   "end": 70.17,
+   "p": 0.25
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.05,
+   "end": 4.23,
+   "text": "Managing electric car charging stations shouldn't be rocket science."
+  },
+  {
+   "start": 4.73,
+   "end": 7.31,
+   "text": "Yet often, that's exactly how it feels."
+  },
+  {
+   "start": 7.91,
+   "end": 9.99,
+   "text": "It looks complicated and intimidating."
+  },
+  {
+   "start": 10.75,
+   "end": 13.65,
+   "text": "That's why we built Valens."
+  },
+  {
+   "start": 20.36,
+   "end": 26.29,
+   "text": "It's a charging management software that's compatible with every business."
+  },
+  {
+   "start": 27.17,
+   "end": 31.41,
+   "text": "We know many of them don't feel they have the resources to invest in electric mobility."
+  },
+  {
+   "start": 31.91,
+   "end": 36.21,
+   "text": "Even worse, they fear being stuck with an unreliable product or partner."
+  },
+  {
+   "start": 36.81,
+   "end": 39.61,
+   "text": "But as the need to use electric cars becomes the norm,"
+  },
+  {
+   "start": 40.62,
+   "end": 43.14,
+   "text": "the way we recharge them shouldn't be a headache."
+  },
+  {
+   "start": 43.96,
+   "end": 47.28,
+   "text": "At Valens, we provide straightforward tools and services"
+  },
+  {
+   "start": 47.28,
+   "end": 52.92,
+   "text": "to make it as easy as possible to buy, use and monetize charging infrastructure,"
+  },
+  {
+   "start": 53.28,
+   "end": 57.36,
+   "text": "helping thousands of companies feel confident managing charging stations"
+  },
+  {
+   "start": 57.36,
+   "end": 60.52,
+   "text": "and freeing up time for what they do best."
+  },
+  {
+   "start": 60.52,
+   "end": 63.82,
+   "text": "We make sure everyone's investment is worthwhile"
+  },
+  {
+   "start": 63.82,
+   "end": 67.36,
+   "text": "so electric mobility becomes accessible to all."
+  },
+  {
+   "start": 68.61,
+   "end": 70.17,
+   "text": "This is Valens."
+  }
+ ]
+}

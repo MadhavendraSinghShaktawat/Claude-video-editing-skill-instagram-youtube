@@ -1,0 +1,33 @@
+{
+ "video": "ig-reel-ref.mp4",
+ "duration": 28.885333,
+ "source_fps": 30.0,
+ "source_size": [
+  1080,
+  1920
+ ],
+ "sample_fps": 2.0,
+ "range": [
+  0,
+  28.885333
+ ],
+ "grid": [
+  6,
+  5
+ ],
+ "how_to_read": "Each tile has burned-in time (s) + source frame number. Order is left-to-right, top-to-bottom. Use t_start/t_end to pick the sheet for a moment.",
+ "sheets": [
+  {
+   "file": "sheet_001.jpg",
+   "t_start": 0.0,
+   "t_end": 15.0,
+   "frames": 30
+  },
+  {
+   "file": "sheet_002.jpg",
+   "t_start": 15.0,
+   "t_end": 29.0,
+   "frames": 28
+  }
+ ]
+}

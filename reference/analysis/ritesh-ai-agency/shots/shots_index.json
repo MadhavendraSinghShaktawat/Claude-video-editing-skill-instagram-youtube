@@ -1,0 +1,158 @@
+{
+ "how_to_read": "tiles left-to-right, top-to-bottom; label = #shot index and time in seconds",
+ "sheets": [
+  {
+   "file": "shots_001.jpg",
+   "shots": [
+    0,
+    12
+   ],
+   "t_start": 0.03,
+   "t_end": 49.23
+  },
+  {
+   "file": "shots_002.jpg",
+   "shots": [
+    12,
+    23
+   ],
+   "t_start": 52.12,
+   "t_end": 112.33
+  },
+  {
+   "file": "shots_003.jpg",
+   "shots": [
+    23,
+    33
+   ],
+   "t_start": 115.52,
+   "t_end": 163.13
+  },
+  {
+   "file": "shots_004.jpg",
+   "shots": [
+    34,
+    44
+   ],
+   "t_start": 163.21,
+   "t_end": 215.48
+  },
+  {
+   "file": "shots_005.jpg",
+   "shots": [
+    45,
+    55
+   ],
+   "t_start": 215.57,
+   "t_end": 275.04
+  },
+  {
+   "file": "shots_006.jpg",
+   "shots": [
+    55,
+    69
+   ],
+   "t_start": 276.54,
+   "t_end": 323.02
+  },
+  {
+   "file": "shots_007.jpg",
+   "shots": [
+    69,
+    79
+   ],
+   "t_start": 324.46,
+   "t_end": 383.02
+  },
+  {
+   "file": "shots_008.jpg",
+   "shots": [
+    80,
+    91
+   ],
+   "t_start": 383.1,
+   "t_end": 441.72
+  },
+  {
+   "file": "shots_009.jpg",
+   "shots": [
+    91,
+    102
+   ],
+   "t_start": 442.71,
+   "t_end": 493.44
+  },
+  {
+   "file": "shots_010.jpg",
+   "shots": [
+    102,
+    111
+   ],
+   "t_start": 496.96,
+   "t_end": 562.9
+  },
+  {
+   "file": "shots_011.jpg",
+   "shots": [
+    111,
+    119
+   ],
+   "t_start": 566.65,
+   "t_end": 651.02
+  },
+  {
+   "file": "shots_012.jpg",
+   "shots": [
+    120,
+    129
+   ],
+   "t_start": 651.1,
+   "t_end": 731.31
+  },
+  {
+   "file": "shots_013.jpg",
+   "shots": [
+    129,
+    141
+   ],
+   "t_start": 733.95,
+   "t_end": 783.55
+  },
+  {
+   "file": "shots_014.jpg",
+   "shots": [
+    142,
+    153
+   ],
+   "t_start": 783.63,
+   "t_end": 839.34
+  },
+  {
+   "file": "shots_015.jpg",
+   "shots": [
+    153,
+    163
+   ],
+   "t_start": 842.07,
+   "t_end": 902.84
+  },
+  {
+   "file": "shots_016.jpg",
+   "shots": [
+    164,
+    174
+   ],
+   "t_start": 902.92,
+   "t_end": 957.61
+  },
+  {
+   "file": "shots_017.jpg",
+   "shots": [
+    174,
+    178
+   ],
+   "t_start": 958.09,
+   "t_end": 971.5
+  }
+ ]
+}

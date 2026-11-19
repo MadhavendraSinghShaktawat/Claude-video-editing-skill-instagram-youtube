@@ -1,0 +1,45 @@
+{
+ "video": "myna-ui.mp4",
+ "duration": 8.359184,
+ "source_fps": 30.0,
+ "source_size": [
+  736,
+  414
+ ],
+ "sample_fps": 10.0,
+ "range": [
+  0,
+  8.359184
+ ],
+ "grid": [
+  5,
+  5
+ ],
+ "how_to_read": "Each tile has burned-in time (s) + source frame number. Order is left-to-right, top-to-bottom. Use t_start/t_end to pick the sheet for a moment.",
+ "sheets": [
+  {
+   "file": "sheet_001.jpg",
+   "t_start": 0.0,
+   "t_end": 2.5,
+   "frames": 25
+  },
+  {
+   "file": "sheet_002.jpg",
+   "t_start": 2.5,
+   "t_end": 5.0,
+   "frames": 25
+  },
+  {
+   "file": "sheet_003.jpg",
+   "t_start": 5.0,
+   "t_end": 7.5,
+   "frames": 25
+  },
+  {
+   "file": "sheet_004.jpg",
+   "t_start": 7.5,
+   "t_end": 8.2,
+   "frames": 7
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "how_to_read": "tiles left-to-right, top-to-bottom; label = #shot index and time in seconds",
+ "sheets": [
+  {
+   "file": "shots_001.jpg",
+   "shots": [
+    0,
+    10
+   ],
+   "t_start": 0.2,
+   "t_end": 67.8
+  },
+  {
+   "file": "shots_002.jpg",
+   "shots": [
+    10,
+    17
+   ],
+   "t_start": 70.3,
+   "t_end": 158.52
+  },
+  {
+   "file": "shots_003.jpg",
+   "shots": [
+    17,
+    27
+   ],
+   "t_start": 162.4,
+   "t_end": 224.28
+  },
+  {
+   "file": "shots_004.jpg",
+   "shots": [
+    27,
+    37
+   ],
+   "t_start": 224.53,
+   "t_end": 283.0
+  },
+  {
+   "file": "shots_005.jpg",
+   "shots": [
+    37,
+    45
+   ],
+   "t_start": 283.6,
+   "t_end": 364.62
+  },
+  {
+   "file": "shots_006.jpg",
+   "shots": [
+    45,
+    55
+   ],
+   "t_start": 365.95,
+   "t_end": 441.7
+  },
+  {
+   "file": "shots_007.jpg",
+   "shots": [
+    55,
+    59
+   ],
+   "t_start": 445.62,
+   "t_end": 560.8
+  },
+  {
+   "file": "shots_008.jpg",
+   "shots": [
+    59,
+    68
+   ],
+   "t_start": 564.7,
+   "t_end": 645.17
+  },
+  {
+   "file": "shots_009.jpg",
+   "shots": [
+    68,
+    68
+   ],
+   "t_start": 649.08,
+   "t_end": 672.58
+  }
+ ]
+}

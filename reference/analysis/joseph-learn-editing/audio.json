@@ -1,0 +1,8377 @@
+{
+ "source": "joseph-learn-editing.mp4",
+ "duration": 846.37,
+ "stems": true,
+ "loudness": {
+  "integrated_LUFS": -18.0,
+  "LRA_LU": 4.3,
+  "true_peak_dBTP": -1.4
+ },
+ "voice": {
+  "stem_rms_dBFS": -21.0,
+  "active_share": 0.951,
+  "words": 3728,
+  "wpm_overall": 264.3,
+  "wpm_while_speaking": 278.0,
+  "wpm_per_30s": [
+   234,
+   262,
+   244,
+   244,
+   258,
+   254,
+   294,
+   282,
+   224,
+   246,
+   262,
+   264,
+   248,
+   274,
+   306,
+   274,
+   254,
+   278,
+   256,
+   290,
+   260,
+   298,
+   294,
+   280,
+   230,
+   286,
+   262,
+   246,
+   52
+  ]
+ },
+ "pause_stats": {
+  "count": 78,
+  "per_min": 5.5,
+  "total_s": 11.7,
+  "share_of_runtime": 0.014,
+  "median_s": 0.14,
+  "p25_s": 0.13,
+  "p75_s": 0.17,
+  "p90_s": 0.19,
+  "max_s": 0.22,
+  "over_0.5s": 0,
+  "over_1s": 0,
+  "over_2s": 0,
+  "speech_run_s": {
+   "median": 1.12,
+   "p90": 3.83,
+   "max": 12.7
+  }
+ },
+ "word_gaps": {
+  "count": 190,
+  "median_s": 0.22,
+  "p90_s": 0.32,
+  "max_s": 0.74
+ },
+ "bed": {
+  "summary": {
+   "stems": true,
+   "median_rel_voice_dB": -24.7,
+   "p10_rel_voice_dB": -33.6,
+   "p90_rel_voice_dB": -18.0,
+   "audible_bed_share": 0.98,
+   "while_voice_rel_dB": -24.9,
+   "in_pauses_rel_dB": -19.6,
+   "duck_dB": 5.3,
+   "bed_on_spans": [
+    [
+     0,
+     355
+    ],
+    [
+     360,
+     850
+    ]
+   ]
+  },
+  "per_30s": [
+   {
+    "t": 0,
+    "level_dBFS": -47.9,
+    "rel_voice_dB": -26.9
+   },
+   {
+    "t": 30,
+    "level_dBFS": -47.8,
+    "rel_voice_dB": -26.8
+   },
+   {
+    "t": 60,
+    "level_dBFS": -45.5,
+    "rel_voice_dB": -24.5
+   },
+   {
+    "t": 90,
+    "level_dBFS": -45.1,
+    "rel_voice_dB": -24.1
+   },
+   {
+    "t": 120,
+    "level_dBFS": -47.3,
+    "rel_voice_dB": -26.3
+   },
+   {
+    "t": 150,
+    "level_dBFS": -46.4,
+    "rel_voice_dB": -25.5
+   },
+   {
+    "t": 180,
+    "level_dBFS": -45.7,
+    "rel_voice_dB": -24.8
+   },
+   {
+    "t": 210,
+    "level_dBFS": -44.2,
+    "rel_voice_dB": -23.3
+   },
+   {
+    "t": 240,
+    "level_dBFS": -46.7,
+    "rel_voice_dB": -25.7
+   },
+   {
+    "t": 270,
+    "level_dBFS": -42.9,
+    "rel_voice_dB": -21.9
+   },
+   {
+    "t": 300,
+    "level_dBFS": -43.0,
+    "rel_voice_dB": -22.0
+   },
+   {
+    "t": 330,
+    "level_dBFS": -46.7,
+    "rel_voice_dB": -25.7
+   },
+   {
+    "t": 360,
+    "level_dBFS": -51.2,
+    "rel_voice_dB": -30.2
+   },
+   {
+    "t": 390,
+    "level_dBFS": -48.9,
+    "rel_voice_dB": -27.9
+   },
+   {
+    "t": 420,
+    "level_dBFS": -46.2,
+    "rel_voice_dB": -25.3
+   },
+   {
+    "t": 450,
+    "level_dBFS": -45.1,
+    "rel_voice_dB": -24.1
+   },
+   {
+    "t": 480,
+    "level_dBFS": -46.9,
+    "rel_voice_dB": -25.9
+   },
+   {
+    "t": 510,
+    "level_dBFS": -49.0,
+    "rel_voice_dB": -28.0
+   },
+   {
+    "t": 540,
+    "level_dBFS": -48.7,
+    "rel_voice_dB": -27.7
+   },
+   {
+    "t": 570,
+    "level_dBFS": -48.7,
+    "rel_voice_dB": -27.7
+   },
+   {
+    "t": 600,
+    "level_dBFS": -49.0,
+    "rel_voice_dB": -28.0
+   },
+   {
+    "t": 630,
+    "level_dBFS": -45.5,
+    "rel_voice_dB": -24.6
+   },
+   {
+    "t": 660,
+    "level_dBFS": -44.4,
+    "rel_voice_dB": -23.5
+   },
+   {
+    "t": 690,
+    "level_dBFS": -42.1,
+    "rel_voice_dB": -21.1
+   },
+   {
+    "t": 720,
+    "level_dBFS": -43.2,
+    "rel_voice_dB": -22.2
+   },
+   {
+    "t": 750,
+    "level_dBFS": -46.7,
+    "rel_voice_dB": -25.8
+   },
+   {
+    "t": 780,
+    "level_dBFS": -40.9,
+    "rel_voice_dB": -19.9
+   },
+   {
+    "t": 810,
+    "level_dBFS": -40.0,
+    "rel_voice_dB": -19.0
+   },
+   {
+    "t": 840,
+    "level_dBFS": -42.4,
+    "rel_voice_dB": -21.4
+   }
+  ]
+ },
+ "silences": [],
+ "sfx_candidates": [
+  {
+   "t": 4.89,
+   "dur": 0.4,
+   "peak_t": 5.03,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -24.7,
+   "rel_voice_dB": -3.7,
+   "low_dB": -24.9,
+   "mid_dB": -36.6,
+   "hi_dB": -53.3,
+   "centroid_Hz": 68,
+   "attack_ms": 140,
+   "decay10dB_ms": 150,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 8.03,
+   "dur": 0.1,
+   "peak_t": 8.03,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.8,
+   "rel_voice_dB": -4.9,
+   "low_dB": -25.9,
+   "mid_dB": -37.8,
+   "hi_dB": -57.6,
+   "centroid_Hz": 56,
+   "attack_ms": 0,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 9.71,
+   "dur": 0.04,
+   "peak_t": 9.73,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.6,
+   "low_dB": -31.0,
+   "mid_dB": -33.1,
+   "hi_dB": -35.5,
+   "centroid_Hz": 1248,
+   "attack_ms": 20,
+   "decay10dB_ms": 800,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 9.97,
+   "dur": 0.07,
+   "peak_t": 10.03,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.7,
+   "rel_voice_dB": -10.7,
+   "low_dB": -32.5,
+   "mid_dB": -35.1,
+   "hi_dB": -43.1,
+   "centroid_Hz": 514,
+   "attack_ms": 60,
+   "decay10dB_ms": 510,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 10.39,
+   "dur": 0.03,
+   "peak_t": 10.4,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.7,
+   "rel_voice_dB": -12.7,
+   "low_dB": -34.5,
+   "mid_dB": -41.5,
+   "hi_dB": -39.6,
+   "centroid_Hz": 1174,
+   "attack_ms": 10,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 11.98,
+   "dur": 0.35,
+   "peak_t": 12.24,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.6,
+   "low_dB": -30.9,
+   "mid_dB": -36.1,
+   "hi_dB": -33.9,
+   "centroid_Hz": 1132,
+   "attack_ms": 260,
+   "decay10dB_ms": 480,
+   "voice_active_share": 0.69,
+   "strong": true
+  },
+  {
+   "t": 12.66,
+   "dur": 0.03,
+   "peak_t": 12.67,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.4,
+   "rel_voice_dB": -14.4,
+   "low_dB": -36.2,
+   "mid_dB": -45.9,
+   "hi_dB": -44.0,
+   "centroid_Hz": 524,
+   "attack_ms": 10,
+   "decay10dB_ms": 480,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 14.0,
+   "dur": 1.19,
+   "peak_t": 15.07,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.6,
+   "rel_voice_dB": -3.6,
+   "low_dB": -24.9,
+   "mid_dB": -31.2,
+   "hi_dB": -51.8,
+   "centroid_Hz": 129,
+   "attack_ms": 1070,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.94,
+   "strong": true
+  },
+  {
+   "t": 18.24,
+   "dur": 0.28,
+   "peak_t": 18.43,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.4,
+   "rel_voice_dB": -4.5,
+   "low_dB": -25.6,
+   "mid_dB": -37.8,
+   "hi_dB": -51.5,
+   "centroid_Hz": 87,
+   "attack_ms": 190,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 21.65,
+   "dur": 0.13,
+   "peak_t": 21.76,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.6,
+   "rel_voice_dB": -3.7,
+   "low_dB": -24.7,
+   "mid_dB": -37.0,
+   "hi_dB": -55.8,
+   "centroid_Hz": 83,
+   "attack_ms": 110,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 23.65,
+   "dur": 0.26,
+   "peak_t": 23.81,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.8,
+   "rel_voice_dB": -6.8,
+   "low_dB": -28.6,
+   "mid_dB": -33.6,
+   "hi_dB": -52.5,
+   "centroid_Hz": 173,
+   "attack_ms": 160,
+   "decay10dB_ms": 220,
+   "voice_active_share": 0.69,
+   "strong": true
+  },
+  {
+   "t": 28.91,
+   "dur": 0.05,
+   "peak_t": 28.95,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.2,
+   "rel_voice_dB": -12.3,
+   "low_dB": -33.9,
+   "mid_dB": -42.5,
+   "hi_dB": -41.8,
+   "centroid_Hz": 635,
+   "attack_ms": 40,
+   "decay10dB_ms": 210,
+   "voice_active_share": 0.4,
+   "strong": true
+  },
+  {
+   "t": 29.51,
+   "dur": 0.17,
+   "peak_t": 29.51,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.8,
+   "rel_voice_dB": -3.9,
+   "low_dB": -24.9,
+   "mid_dB": -35.5,
+   "hi_dB": -49.6,
+   "centroid_Hz": 86,
+   "attack_ms": 0,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 30.39,
+   "dur": 0.21,
+   "peak_t": 30.5,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -22.7,
+   "rel_voice_dB": -1.8,
+   "low_dB": -23.0,
+   "mid_dB": -34.9,
+   "hi_dB": -49.3,
+   "centroid_Hz": 80,
+   "attack_ms": 110,
+   "decay10dB_ms": 90,
+   "voice_active_share": 0.67,
+   "strong": true
+  },
+  {
+   "t": 31.17,
+   "dur": 0.19,
+   "peak_t": 31.3,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.3,
+   "rel_voice_dB": -4.3,
+   "low_dB": -25.6,
+   "mid_dB": -36.4,
+   "hi_dB": -51.3,
+   "centroid_Hz": 106,
+   "attack_ms": 130,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 32.6,
+   "dur": 0.07,
+   "peak_t": 32.61,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.1,
+   "rel_voice_dB": -11.1,
+   "low_dB": -33.6,
+   "mid_dB": -34.9,
+   "hi_dB": -56.3,
+   "centroid_Hz": 181,
+   "attack_ms": 10,
+   "decay10dB_ms": 480,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 38.36,
+   "dur": 0.11,
+   "peak_t": 38.38,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.2,
+   "rel_voice_dB": -12.2,
+   "low_dB": -33.8,
+   "mid_dB": -38.7,
+   "hi_dB": -57.4,
+   "centroid_Hz": 140,
+   "attack_ms": 20,
+   "decay10dB_ms": 340,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 40.3,
+   "dur": 0.28,
+   "peak_t": 40.45,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -24.0,
+   "rel_voice_dB": -3.1,
+   "low_dB": -24.1,
+   "mid_dB": -36.0,
+   "hi_dB": -56.4,
+   "centroid_Hz": 51,
+   "attack_ms": 150,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 40.84,
+   "dur": 0.14,
+   "peak_t": 40.84,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.0,
+   "rel_voice_dB": -4.0,
+   "low_dB": -25.1,
+   "mid_dB": -39.1,
+   "hi_dB": -68.9,
+   "centroid_Hz": 41,
+   "attack_ms": 0,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 45.24,
+   "dur": 0.24,
+   "peak_t": 45.24,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.8,
+   "rel_voice_dB": -4.9,
+   "low_dB": -25.9,
+   "mid_dB": -39.3,
+   "hi_dB": -59.4,
+   "centroid_Hz": 66,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 51.05,
+   "dur": 0.54,
+   "peak_t": 51.43,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.4,
+   "rel_voice_dB": -6.5,
+   "low_dB": -27.6,
+   "mid_dB": -34.5,
+   "hi_dB": -57.8,
+   "centroid_Hz": 111,
+   "attack_ms": 380,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 52.04,
+   "dur": 0.08,
+   "peak_t": 52.06,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.6,
+   "rel_voice_dB": -12.6,
+   "low_dB": -34.6,
+   "mid_dB": -41.5,
+   "hi_dB": -43.6,
+   "centroid_Hz": 391,
+   "attack_ms": 20,
+   "decay10dB_ms": 60,
+   "voice_active_share": 0.25,
+   "strong": true
+  },
+  {
+   "t": 55.44,
+   "dur": 0.05,
+   "peak_t": 55.47,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.6,
+   "rel_voice_dB": -4.7,
+   "low_dB": -25.8,
+   "mid_dB": -36.8,
+   "hi_dB": -65.2,
+   "centroid_Hz": 66,
+   "attack_ms": 30,
+   "decay10dB_ms": 130,
+   "voice_active_share": 0.0,
+   "strong": true
+  },
+  {
+   "t": 56.28,
+   "dur": 1.04,
+   "peak_t": 56.79,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.7,
+   "low_dB": -30.1,
+   "mid_dB": -36.5,
+   "hi_dB": -39.0,
+   "centroid_Hz": 234,
+   "attack_ms": 510,
+   "decay10dB_ms": 210,
+   "voice_active_share": 0.93,
+   "strong": true
+  },
+  {
+   "t": 58.28,
+   "dur": 0.03,
+   "peak_t": 58.29,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.3,
+   "rel_voice_dB": -6.4,
+   "low_dB": -28.2,
+   "mid_dB": -34.9,
+   "hi_dB": -60.1,
+   "centroid_Hz": 114,
+   "attack_ms": 10,
+   "decay10dB_ms": 210,
+   "voice_active_share": 0.0,
+   "strong": true
+  },
+  {
+   "t": 62.21,
+   "dur": 0.41,
+   "peak_t": 62.56,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.4,
+   "rel_voice_dB": -5.4,
+   "low_dB": -30.3,
+   "mid_dB": -33.5,
+   "hi_dB": -27.4,
+   "centroid_Hz": 1204,
+   "attack_ms": 350,
+   "decay10dB_ms": 40,
+   "voice_active_share": 0.59,
+   "strong": true
+  },
+  {
+   "t": 72.5,
+   "dur": 0.15,
+   "peak_t": 72.62,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.5,
+   "rel_voice_dB": -8.6,
+   "low_dB": -30.3,
+   "mid_dB": -32.0,
+   "hi_dB": -52.5,
+   "centroid_Hz": 234,
+   "attack_ms": 120,
+   "decay10dB_ms": 190,
+   "voice_active_share": 0.33,
+   "strong": true
+  },
+  {
+   "t": 76.08,
+   "dur": 0.06,
+   "peak_t": 76.12,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.9,
+   "rel_voice_dB": -13.9,
+   "low_dB": -36.8,
+   "mid_dB": -39.5,
+   "hi_dB": -62.2,
+   "centroid_Hz": 254,
+   "attack_ms": 40,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 76.4,
+   "dur": 0.15,
+   "peak_t": 76.53,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.4,
+   "rel_voice_dB": -15.4,
+   "low_dB": -37.7,
+   "mid_dB": -38.4,
+   "hi_dB": -61.1,
+   "centroid_Hz": 242,
+   "attack_ms": 130,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.6,
+   "strong": false
+  },
+  {
+   "t": 79.03,
+   "dur": 0.03,
+   "peak_t": 79.03,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.8,
+   "rel_voice_dB": -6.9,
+   "low_dB": -28.7,
+   "mid_dB": -34.9,
+   "hi_dB": -63.3,
+   "centroid_Hz": 129,
+   "attack_ms": 0,
+   "decay10dB_ms": 330,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 82.73,
+   "dur": 0.38,
+   "peak_t": 82.94,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.0,
+   "rel_voice_dB": -7.1,
+   "low_dB": -30.4,
+   "mid_dB": -31.3,
+   "hi_dB": -54.4,
+   "centroid_Hz": 242,
+   "attack_ms": 210,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 86.68,
+   "dur": 0.5,
+   "peak_t": 86.87,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.8,
+   "low_dB": -31.9,
+   "mid_dB": -33.1,
+   "hi_dB": -58.8,
+   "centroid_Hz": 314,
+   "attack_ms": 190,
+   "decay10dB_ms": 310,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 89.4,
+   "dur": 0.34,
+   "peak_t": 89.73,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.1,
+   "rel_voice_dB": -14.1,
+   "low_dB": -37.5,
+   "mid_dB": -38.8,
+   "hi_dB": -41.7,
+   "centroid_Hz": 264,
+   "attack_ms": 330,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 92.95,
+   "dur": 0.48,
+   "peak_t": 93.12,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -21.4,
+   "rel_voice_dB": -0.5,
+   "low_dB": -21.5,
+   "mid_dB": -33.2,
+   "hi_dB": -51.8,
+   "centroid_Hz": 98,
+   "attack_ms": 170,
+   "decay10dB_ms": 100,
+   "voice_active_share": 0.88,
+   "strong": true
+  },
+  {
+   "t": 94.67,
+   "dur": 0.24,
+   "peak_t": 94.89,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.6,
+   "low_dB": -33.1,
+   "mid_dB": -32.5,
+   "hi_dB": -40.3,
+   "centroid_Hz": 313,
+   "attack_ms": 220,
+   "decay10dB_ms": 440,
+   "voice_active_share": 0.5,
+   "strong": true
+  },
+  {
+   "t": 98.62,
+   "dur": 0.16,
+   "peak_t": 98.77,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.2,
+   "rel_voice_dB": -11.3,
+   "low_dB": -36.9,
+   "mid_dB": -33.7,
+   "hi_dB": -36.8,
+   "centroid_Hz": 1366,
+   "attack_ms": 150,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.56,
+   "strong": true
+  },
+  {
+   "t": 99.46,
+   "dur": 0.29,
+   "peak_t": 99.46,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.7,
+   "rel_voice_dB": -13.7,
+   "low_dB": -37.0,
+   "mid_dB": -37.6,
+   "hi_dB": -46.9,
+   "centroid_Hz": 325,
+   "attack_ms": 0,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 101.67,
+   "dur": 0.18,
+   "peak_t": 101.7,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.8,
+   "low_dB": -29.1,
+   "mid_dB": -35.9,
+   "hi_dB": -42.0,
+   "centroid_Hz": 194,
+   "attack_ms": 30,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 102.24,
+   "dur": 0.06,
+   "peak_t": 102.25,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.7,
+   "rel_voice_dB": -12.7,
+   "low_dB": -36.3,
+   "mid_dB": -35.2,
+   "hi_dB": -40.3,
+   "centroid_Hz": 1011,
+   "attack_ms": 10,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 103.48,
+   "dur": 0.19,
+   "peak_t": 103.5,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.3,
+   "rel_voice_dB": -11.4,
+   "low_dB": -36.2,
+   "mid_dB": -34.6,
+   "hi_dB": -63.2,
+   "centroid_Hz": 218,
+   "attack_ms": 20,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.79,
+   "strong": true
+  },
+  {
+   "t": 103.9,
+   "dur": 0.2,
+   "peak_t": 104.05,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -35.7,
+   "mid_dB": -37.3,
+   "hi_dB": -57.5,
+   "centroid_Hz": 214,
+   "attack_ms": 150,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 105.56,
+   "dur": 0.09,
+   "peak_t": 105.58,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.8,
+   "rel_voice_dB": -11.9,
+   "low_dB": -37.1,
+   "mid_dB": -34.6,
+   "hi_dB": -45.1,
+   "centroid_Hz": 659,
+   "attack_ms": 20,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 107.65,
+   "dur": 0.17,
+   "peak_t": 107.66,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.6,
+   "rel_voice_dB": -11.7,
+   "low_dB": -37.1,
+   "mid_dB": -34.3,
+   "hi_dB": -59.1,
+   "centroid_Hz": 281,
+   "attack_ms": 10,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 108.07,
+   "dur": 0.15,
+   "peak_t": 108.09,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.8,
+   "rel_voice_dB": -11.9,
+   "low_dB": -38.1,
+   "mid_dB": -34.1,
+   "hi_dB": -62.2,
+   "centroid_Hz": 245,
+   "attack_ms": 20,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.53,
+   "strong": true
+  },
+  {
+   "t": 108.4,
+   "dur": 0.14,
+   "peak_t": 108.49,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.2,
+   "rel_voice_dB": -13.3,
+   "low_dB": -37.7,
+   "mid_dB": -36.4,
+   "hi_dB": -57.3,
+   "centroid_Hz": 252,
+   "attack_ms": 90,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 109.04,
+   "dur": 0.15,
+   "peak_t": 109.05,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.1,
+   "rel_voice_dB": -12.1,
+   "low_dB": -37.9,
+   "mid_dB": -34.7,
+   "hi_dB": -61.5,
+   "centroid_Hz": 248,
+   "attack_ms": 10,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.07,
+   "strong": true
+  },
+  {
+   "t": 110.71,
+   "dur": 0.16,
+   "peak_t": 110.71,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -37.7,
+   "mid_dB": -36.2,
+   "hi_dB": -62.8,
+   "centroid_Hz": 194,
+   "attack_ms": 0,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.75,
+   "strong": true
+  },
+  {
+   "t": 112.93,
+   "dur": 0.15,
+   "peak_t": 113.07,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.4,
+   "rel_voice_dB": -9.5,
+   "low_dB": -35.9,
+   "mid_dB": -31.9,
+   "hi_dB": -65.8,
+   "centroid_Hz": 246,
+   "attack_ms": 140,
+   "decay10dB_ms": 1470,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 114.04,
+   "dur": 0.16,
+   "peak_t": 114.19,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.3,
+   "rel_voice_dB": -12.3,
+   "low_dB": -34.5,
+   "mid_dB": -35.3,
+   "hi_dB": -62.8,
+   "centroid_Hz": 248,
+   "attack_ms": 150,
+   "decay10dB_ms": 1140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 114.92,
+   "dur": 0.38,
+   "peak_t": 114.92,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.7,
+   "rel_voice_dB": -7.7,
+   "low_dB": -28.8,
+   "mid_dB": -34.5,
+   "hi_dB": -50.8,
+   "centroid_Hz": 180,
+   "attack_ms": 0,
+   "decay10dB_ms": 20,
+   "voice_active_share": 0.42,
+   "strong": true
+  },
+  {
+   "t": 117.69,
+   "dur": 0.03,
+   "peak_t": 117.7,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.9,
+   "rel_voice_dB": -11.9,
+   "low_dB": -40.0,
+   "mid_dB": -33.8,
+   "hi_dB": -61.3,
+   "centroid_Hz": 615,
+   "attack_ms": 10,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 120.0,
+   "dur": 0.46,
+   "peak_t": 120.34,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.2,
+   "rel_voice_dB": -9.2,
+   "low_dB": -30.7,
+   "mid_dB": -31.3,
+   "hi_dB": -56.1,
+   "centroid_Hz": 241,
+   "attack_ms": 340,
+   "decay10dB_ms": 340,
+   "voice_active_share": 0.61,
+   "strong": true
+  },
+  {
+   "t": 122.06,
+   "dur": 0.04,
+   "peak_t": 122.09,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.4,
+   "rel_voice_dB": -10.4,
+   "low_dB": -31.7,
+   "mid_dB": -40.9,
+   "hi_dB": -66.5,
+   "centroid_Hz": 82,
+   "attack_ms": 30,
+   "decay10dB_ms": 30,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 123.74,
+   "dur": 0.52,
+   "peak_t": 123.9,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.9,
+   "rel_voice_dB": -2.9,
+   "low_dB": -24.1,
+   "mid_dB": -34.9,
+   "hi_dB": -49.8,
+   "centroid_Hz": 91,
+   "attack_ms": 160,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 126.29,
+   "dur": 0.29,
+   "peak_t": 126.43,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.9,
+   "rel_voice_dB": -3.9,
+   "low_dB": -25.1,
+   "mid_dB": -35.9,
+   "hi_dB": -48.1,
+   "centroid_Hz": 118,
+   "attack_ms": 140,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 126.83,
+   "dur": 0.05,
+   "peak_t": 126.83,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.3,
+   "rel_voice_dB": -16.3,
+   "low_dB": -42.4,
+   "mid_dB": -43.3,
+   "hi_dB": -39.9,
+   "centroid_Hz": 1664,
+   "attack_ms": 0,
+   "decay10dB_ms": 320,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 128.46,
+   "dur": 0.34,
+   "peak_t": 128.68,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.7,
+   "rel_voice_dB": -8.8,
+   "low_dB": -30.0,
+   "mid_dB": -35.2,
+   "hi_dB": -48.8,
+   "centroid_Hz": 182,
+   "attack_ms": 220,
+   "decay10dB_ms": 200,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 134.05,
+   "dur": 0.14,
+   "peak_t": 134.06,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.1,
+   "rel_voice_dB": -7.1,
+   "low_dB": -28.5,
+   "mid_dB": -33.2,
+   "hi_dB": -55.8,
+   "centroid_Hz": 136,
+   "attack_ms": 10,
+   "decay10dB_ms": 190,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 135.27,
+   "dur": 0.25,
+   "peak_t": 135.43,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.1,
+   "rel_voice_dB": -3.2,
+   "low_dB": -24.4,
+   "mid_dB": -34.6,
+   "hi_dB": -47.5,
+   "centroid_Hz": 109,
+   "attack_ms": 160,
+   "decay10dB_ms": 60,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 139.94,
+   "dur": 0.52,
+   "peak_t": 139.94,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.5,
+   "low_dB": -31.1,
+   "mid_dB": -35.6,
+   "hi_dB": -47.0,
+   "centroid_Hz": 210,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 0.77,
+   "strong": true
+  },
+  {
+   "t": 141.55,
+   "dur": 0.03,
+   "peak_t": 141.55,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.3,
+   "rel_voice_dB": -10.3,
+   "low_dB": -35.5,
+   "mid_dB": -33.4,
+   "hi_dB": -68.4,
+   "centroid_Hz": 215,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 0.0,
+   "strong": true
+  },
+  {
+   "t": 142.15,
+   "dur": 0.05,
+   "peak_t": 142.16,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.8,
+   "rel_voice_dB": -11.8,
+   "low_dB": -33.8,
+   "mid_dB": -40.2,
+   "hi_dB": -47.1,
+   "centroid_Hz": 298,
+   "attack_ms": 10,
+   "decay10dB_ms": 240,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 142.5,
+   "dur": 0.04,
+   "peak_t": 142.53,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.9,
+   "rel_voice_dB": -9.0,
+   "low_dB": -31.0,
+   "mid_dB": -36.6,
+   "hi_dB": -58.6,
+   "centroid_Hz": 189,
+   "attack_ms": 30,
+   "decay10dB_ms": 210,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 142.7,
+   "dur": 0.03,
+   "peak_t": 142.71,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.1,
+   "rel_voice_dB": -13.1,
+   "low_dB": -39.7,
+   "mid_dB": -35.5,
+   "hi_dB": -63.6,
+   "centroid_Hz": 305,
+   "attack_ms": 10,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 145.39,
+   "dur": 0.04,
+   "peak_t": 145.39,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.7,
+   "rel_voice_dB": -12.7,
+   "low_dB": -36.4,
+   "mid_dB": -36.4,
+   "hi_dB": -44.2,
+   "centroid_Hz": 685,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 145.58,
+   "dur": 0.21,
+   "peak_t": 145.58,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.1,
+   "rel_voice_dB": -10.1,
+   "low_dB": -33.8,
+   "mid_dB": -32.6,
+   "hi_dB": -39.7,
+   "centroid_Hz": 736,
+   "attack_ms": 0,
+   "decay10dB_ms": 240,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 146.23,
+   "dur": 0.15,
+   "peak_t": 146.37,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.8,
+   "rel_voice_dB": -12.9,
+   "low_dB": -34.9,
+   "mid_dB": -36.1,
+   "hi_dB": -40.8,
+   "centroid_Hz": 749,
+   "attack_ms": 140,
+   "decay10dB_ms": 250,
+   "voice_active_share": 0.53,
+   "strong": true
+  },
+  {
+   "t": 147.1,
+   "dur": 0.07,
+   "peak_t": 147.14,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.0,
+   "rel_voice_dB": -9.0,
+   "low_dB": -31.3,
+   "mid_dB": -36.0,
+   "hi_dB": -40.2,
+   "centroid_Hz": 423,
+   "attack_ms": 40,
+   "decay10dB_ms": 150,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 147.89,
+   "dur": 0.04,
+   "peak_t": 147.91,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.2,
+   "rel_voice_dB": -13.3,
+   "low_dB": -34.7,
+   "mid_dB": -41.1,
+   "hi_dB": -67.9,
+   "centroid_Hz": 173,
+   "attack_ms": 20,
+   "decay10dB_ms": 170,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 148.66,
+   "dur": 0.03,
+   "peak_t": 148.67,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.9,
+   "rel_voice_dB": -10.9,
+   "low_dB": -34.2,
+   "mid_dB": -34.4,
+   "hi_dB": -59.2,
+   "centroid_Hz": 229,
+   "attack_ms": 10,
+   "decay10dB_ms": 710,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 148.99,
+   "dur": 0.26,
+   "peak_t": 149.06,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.6,
+   "low_dB": -30.7,
+   "mid_dB": -33.2,
+   "hi_dB": -54.5,
+   "centroid_Hz": 197,
+   "attack_ms": 70,
+   "decay10dB_ms": 240,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 151.74,
+   "dur": 0.6,
+   "peak_t": 152.18,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.4,
+   "rel_voice_dB": -5.4,
+   "low_dB": -26.5,
+   "mid_dB": -36.2,
+   "hi_dB": -58.5,
+   "centroid_Hz": 79,
+   "attack_ms": 440,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.83,
+   "strong": true
+  },
+  {
+   "t": 152.5,
+   "dur": 0.14,
+   "peak_t": 152.56,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.9,
+   "rel_voice_dB": -4.0,
+   "low_dB": -25.0,
+   "mid_dB": -33.1,
+   "hi_dB": -57.5,
+   "centroid_Hz": 72,
+   "attack_ms": 60,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 153.07,
+   "dur": 0.07,
+   "peak_t": 153.09,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.1,
+   "rel_voice_dB": -12.1,
+   "low_dB": -36.4,
+   "mid_dB": -35.1,
+   "hi_dB": -56.5,
+   "centroid_Hz": 270,
+   "attack_ms": 20,
+   "decay10dB_ms": 90,
+   "voice_active_share": 0.14,
+   "strong": true
+  },
+  {
+   "t": 153.29,
+   "dur": 0.18,
+   "peak_t": 153.32,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.2,
+   "rel_voice_dB": -11.2,
+   "low_dB": -32.9,
+   "mid_dB": -38.5,
+   "hi_dB": -41.5,
+   "centroid_Hz": 381,
+   "attack_ms": 30,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 154.26,
+   "dur": 0.05,
+   "peak_t": 154.26,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -38.6,
+   "rel_voice_dB": -17.6,
+   "low_dB": -43.9,
+   "mid_dB": -45.8,
+   "hi_dB": -41.3,
+   "centroid_Hz": 3446,
+   "attack_ms": 0,
+   "decay10dB_ms": 500,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 155.39,
+   "dur": 0.23,
+   "peak_t": 155.39,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.1,
+   "rel_voice_dB": -10.1,
+   "low_dB": -33.9,
+   "mid_dB": -32.0,
+   "hi_dB": -42.1,
+   "centroid_Hz": 370,
+   "attack_ms": 0,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 156.16,
+   "dur": 0.17,
+   "peak_t": 156.23,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.5,
+   "low_dB": -31.0,
+   "mid_dB": -34.5,
+   "hi_dB": -50.3,
+   "centroid_Hz": 212,
+   "attack_ms": 70,
+   "decay10dB_ms": 330,
+   "voice_active_share": 0.71,
+   "strong": true
+  },
+  {
+   "t": 166.54,
+   "dur": 0.05,
+   "peak_t": 166.58,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.1,
+   "rel_voice_dB": -13.1,
+   "low_dB": -34.9,
+   "mid_dB": -40.1,
+   "hi_dB": -63.9,
+   "centroid_Hz": 172,
+   "attack_ms": 40,
+   "decay10dB_ms": 1220,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 166.76,
+   "dur": 0.42,
+   "peak_t": 167.14,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.6,
+   "rel_voice_dB": -4.6,
+   "low_dB": -25.9,
+   "mid_dB": -27.2,
+   "hi_dB": -57.4,
+   "centroid_Hz": 191,
+   "attack_ms": 380,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 169.42,
+   "dur": 0.29,
+   "peak_t": 169.46,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.5,
+   "rel_voice_dB": -11.6,
+   "low_dB": -33.0,
+   "mid_dB": -38.4,
+   "hi_dB": -66.2,
+   "centroid_Hz": 169,
+   "attack_ms": 40,
+   "decay10dB_ms": 290,
+   "voice_active_share": 0.69,
+   "strong": true
+  },
+  {
+   "t": 170.21,
+   "dur": 0.03,
+   "peak_t": 170.22,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.5,
+   "rel_voice_dB": -11.5,
+   "low_dB": -32.9,
+   "mid_dB": -42.5,
+   "hi_dB": -66.7,
+   "centroid_Hz": 121,
+   "attack_ms": 10,
+   "decay10dB_ms": 270,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 171.35,
+   "dur": 0.04,
+   "peak_t": 171.38,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.0,
+   "rel_voice_dB": -11.1,
+   "low_dB": -33.0,
+   "mid_dB": -36.1,
+   "hi_dB": -60.5,
+   "centroid_Hz": 191,
+   "attack_ms": 30,
+   "decay10dB_ms": 150,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 172.42,
+   "dur": 0.54,
+   "peak_t": 172.43,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.4,
+   "rel_voice_dB": -8.4,
+   "low_dB": -32.5,
+   "mid_dB": -32.1,
+   "hi_dB": -32.2,
+   "centroid_Hz": 1120,
+   "attack_ms": 10,
+   "decay10dB_ms": 320,
+   "voice_active_share": 0.89,
+   "strong": true
+  },
+  {
+   "t": 173.49,
+   "dur": 0.21,
+   "peak_t": 173.69,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.5,
+   "rel_voice_dB": -6.6,
+   "low_dB": -28.2,
+   "mid_dB": -35.3,
+   "hi_dB": -55.1,
+   "centroid_Hz": 169,
+   "attack_ms": 200,
+   "decay10dB_ms": 140,
+   "voice_active_share": 0.67,
+   "strong": true
+  },
+  {
+   "t": 174.81,
+   "dur": 0.03,
+   "peak_t": 174.83,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.7,
+   "rel_voice_dB": -9.8,
+   "low_dB": -32.2,
+   "mid_dB": -36.0,
+   "hi_dB": -63.0,
+   "centroid_Hz": 171,
+   "attack_ms": 20,
+   "decay10dB_ms": 180,
+   "voice_active_share": 0.0,
+   "strong": true
+  },
+  {
+   "t": 175.39,
+   "dur": 0.24,
+   "peak_t": 175.6,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.0,
+   "rel_voice_dB": -10.0,
+   "low_dB": -31.2,
+   "mid_dB": -39.8,
+   "hi_dB": -61.1,
+   "centroid_Hz": 186,
+   "attack_ms": 210,
+   "decay10dB_ms": 160,
+   "voice_active_share": 0.75,
+   "strong": true
+  },
+  {
+   "t": 177.34,
+   "dur": 0.07,
+   "peak_t": 177.34,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.1,
+   "rel_voice_dB": -7.2,
+   "low_dB": -29.6,
+   "mid_dB": -33.5,
+   "hi_dB": -56.1,
+   "centroid_Hz": 193,
+   "attack_ms": 0,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 179.33,
+   "dur": 0.08,
+   "peak_t": 179.4,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.3,
+   "rel_voice_dB": -10.4,
+   "low_dB": -32.1,
+   "mid_dB": -38.8,
+   "hi_dB": -53.1,
+   "centroid_Hz": 172,
+   "attack_ms": 70,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 182.63,
+   "dur": 0.03,
+   "peak_t": 182.63,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -38.0,
+   "rel_voice_dB": -17.0,
+   "low_dB": -49.4,
+   "mid_dB": -39.0,
+   "hi_dB": -46.1,
+   "centroid_Hz": 1581,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 182.96,
+   "dur": 1.35,
+   "peak_t": 182.99,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.6,
+   "rel_voice_dB": -6.6,
+   "low_dB": -27.7,
+   "mid_dB": -40.1,
+   "hi_dB": -45.4,
+   "centroid_Hz": 53,
+   "attack_ms": 30,
+   "decay10dB_ms": 1320,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 186.91,
+   "dur": 0.52,
+   "peak_t": 187.24,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.9,
+   "rel_voice_dB": -8.9,
+   "low_dB": -30.3,
+   "mid_dB": -34.9,
+   "hi_dB": -52.7,
+   "centroid_Hz": 239,
+   "attack_ms": 330,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 188.29,
+   "dur": 1.21,
+   "peak_t": 188.31,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.5,
+   "rel_voice_dB": -7.6,
+   "low_dB": -28.8,
+   "mid_dB": -34.2,
+   "hi_dB": -56.1,
+   "centroid_Hz": 61,
+   "attack_ms": 20,
+   "decay10dB_ms": 1380,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 190.97,
+   "dur": 0.05,
+   "peak_t": 190.97,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.2,
+   "rel_voice_dB": -7.2,
+   "low_dB": -29.3,
+   "mid_dB": -33.4,
+   "hi_dB": -55.8,
+   "centroid_Hz": 131,
+   "attack_ms": 0,
+   "decay10dB_ms": 1720,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 192.47,
+   "dur": 0.04,
+   "peak_t": 192.49,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.7,
+   "rel_voice_dB": -9.8,
+   "low_dB": -31.7,
+   "mid_dB": -37.7,
+   "hi_dB": -62.9,
+   "centroid_Hz": 93,
+   "attack_ms": 20,
+   "decay10dB_ms": 200,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 192.83,
+   "dur": 0.06,
+   "peak_t": 192.88,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.3,
+   "rel_voice_dB": -7.3,
+   "low_dB": -28.5,
+   "mid_dB": -36.2,
+   "hi_dB": -50.1,
+   "centroid_Hz": 94,
+   "attack_ms": 50,
+   "decay10dB_ms": 210,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 193.64,
+   "dur": 0.14,
+   "peak_t": 193.77,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.8,
+   "rel_voice_dB": -4.9,
+   "low_dB": -25.9,
+   "mid_dB": -41.6,
+   "hi_dB": -44.0,
+   "centroid_Hz": 74,
+   "attack_ms": 130,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 196.32,
+   "dur": 0.22,
+   "peak_t": 196.36,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.9,
+   "rel_voice_dB": -9.0,
+   "low_dB": -30.8,
+   "mid_dB": -34.8,
+   "hi_dB": -56.8,
+   "centroid_Hz": 164,
+   "attack_ms": 40,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 198.3,
+   "dur": 0.03,
+   "peak_t": 198.31,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.7,
+   "rel_voice_dB": -16.8,
+   "low_dB": -47.2,
+   "mid_dB": -37.8,
+   "hi_dB": -56.0,
+   "centroid_Hz": 536,
+   "attack_ms": 10,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 198.54,
+   "dur": 1.46,
+   "peak_t": 198.98,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.0,
+   "rel_voice_dB": -5.1,
+   "low_dB": -26.2,
+   "mid_dB": -37.0,
+   "hi_dB": -57.5,
+   "centroid_Hz": 59,
+   "attack_ms": 440,
+   "decay10dB_ms": 710,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 200.46,
+   "dur": 0.03,
+   "peak_t": 200.48,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.7,
+   "rel_voice_dB": -16.7,
+   "low_dB": -44.5,
+   "mid_dB": -38.7,
+   "hi_dB": -70.3,
+   "centroid_Hz": 381,
+   "attack_ms": 20,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 201.3,
+   "dur": 0.05,
+   "peak_t": 201.33,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -40.6,
+   "rel_voice_dB": -19.6,
+   "low_dB": -53.7,
+   "mid_dB": -40.7,
+   "hi_dB": -65.6,
+   "centroid_Hz": 633,
+   "attack_ms": 30,
+   "decay10dB_ms": 270,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 201.76,
+   "dur": 1.09,
+   "peak_t": 201.79,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.7,
+   "rel_voice_dB": -7.7,
+   "low_dB": -28.8,
+   "mid_dB": -38.3,
+   "hi_dB": -64.9,
+   "centroid_Hz": 64,
+   "attack_ms": 30,
+   "decay10dB_ms": 1240,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 204.3,
+   "dur": 1.58,
+   "peak_t": 204.38,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.9,
+   "low_dB": -29.0,
+   "mid_dB": -35.6,
+   "hi_dB": -58.1,
+   "centroid_Hz": 67,
+   "attack_ms": 80,
+   "decay10dB_ms": 1250,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 207.32,
+   "dur": 0.17,
+   "peak_t": 207.32,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.5,
+   "rel_voice_dB": -16.5,
+   "low_dB": -50.2,
+   "mid_dB": -37.8,
+   "hi_dB": -55.3,
+   "centroid_Hz": 523,
+   "attack_ms": 0,
+   "decay10dB_ms": 280,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 209.11,
+   "dur": 0.38,
+   "peak_t": 209.21,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -33.4,
+   "rel_voice_dB": -12.4,
+   "low_dB": -33.9,
+   "mid_dB": -38.0,
+   "hi_dB": -50.6,
+   "centroid_Hz": 176,
+   "attack_ms": 100,
+   "decay10dB_ms": 370,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 209.97,
+   "dur": 0.05,
+   "peak_t": 209.97,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.4,
+   "rel_voice_dB": -14.5,
+   "low_dB": -44.3,
+   "mid_dB": -35.5,
+   "hi_dB": -56.1,
+   "centroid_Hz": 582,
+   "attack_ms": 0,
+   "decay10dB_ms": 430,
+   "voice_active_share": 0.2,
+   "strong": false
+  },
+  {
+   "t": 211.33,
+   "dur": 0.47,
+   "peak_t": 211.44,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.9,
+   "rel_voice_dB": -3.0,
+   "low_dB": -24.2,
+   "mid_dB": -33.5,
+   "hi_dB": -45.1,
+   "centroid_Hz": 117,
+   "attack_ms": 110,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.81,
+   "strong": true
+  },
+  {
+   "t": 212.64,
+   "dur": 0.49,
+   "peak_t": 212.77,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.4,
+   "rel_voice_dB": -4.5,
+   "low_dB": -25.5,
+   "mid_dB": -35.4,
+   "hi_dB": -50.6,
+   "centroid_Hz": 104,
+   "attack_ms": 130,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 215.05,
+   "dur": 0.48,
+   "peak_t": 215.15,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.2,
+   "rel_voice_dB": -6.2,
+   "low_dB": -27.6,
+   "mid_dB": -35.2,
+   "hi_dB": -50.2,
+   "centroid_Hz": 140,
+   "attack_ms": 100,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 216.46,
+   "dur": 0.04,
+   "peak_t": 216.46,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.4,
+   "rel_voice_dB": -13.4,
+   "low_dB": -49.5,
+   "mid_dB": -34.4,
+   "hi_dB": -58.0,
+   "centroid_Hz": 608,
+   "attack_ms": 0,
+   "decay10dB_ms": 150,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 220.29,
+   "dur": 0.06,
+   "peak_t": 220.29,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.5,
+   "rel_voice_dB": -10.5,
+   "low_dB": -48.9,
+   "mid_dB": -33.6,
+   "hi_dB": -35.7,
+   "centroid_Hz": 1658,
+   "attack_ms": 0,
+   "decay10dB_ms": 290,
+   "voice_active_share": 0.5,
+   "strong": true
+  },
+  {
+   "t": 220.81,
+   "dur": 0.48,
+   "peak_t": 221.05,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.2,
+   "rel_voice_dB": -9.2,
+   "low_dB": -32.0,
+   "mid_dB": -32.6,
+   "hi_dB": -49.7,
+   "centroid_Hz": 314,
+   "attack_ms": 240,
+   "decay10dB_ms": 370,
+   "voice_active_share": 0.6,
+   "strong": true
+  },
+  {
+   "t": 223.29,
+   "dur": 0.21,
+   "peak_t": 223.31,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.6,
+   "rel_voice_dB": -12.6,
+   "low_dB": -43.2,
+   "mid_dB": -33.7,
+   "hi_dB": -51.9,
+   "centroid_Hz": 584,
+   "attack_ms": 20,
+   "decay10dB_ms": 300,
+   "voice_active_share": 0.57,
+   "strong": true
+  },
+  {
+   "t": 223.79,
+   "dur": 0.54,
+   "peak_t": 223.81,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.4,
+   "rel_voice_dB": -14.5,
+   "low_dB": -46.1,
+   "mid_dB": -35.7,
+   "hi_dB": -55.1,
+   "centroid_Hz": 578,
+   "attack_ms": 20,
+   "decay10dB_ms": 560,
+   "voice_active_share": 0.85,
+   "strong": false
+  },
+  {
+   "t": 224.48,
+   "dur": 0.57,
+   "peak_t": 224.9,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.2,
+   "rel_voice_dB": -10.3,
+   "low_dB": -36.9,
+   "mid_dB": -36.3,
+   "hi_dB": -31.6,
+   "centroid_Hz": 4318,
+   "attack_ms": 420,
+   "decay10dB_ms": 30,
+   "voice_active_share": 0.81,
+   "strong": true
+  },
+  {
+   "t": 225.26,
+   "dur": 0.06,
+   "peak_t": 225.26,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -35.0,
+   "rel_voice_dB": -14.0,
+   "low_dB": -35.4,
+   "mid_dB": -45.6,
+   "hi_dB": -70.9,
+   "centroid_Hz": 81,
+   "attack_ms": 0,
+   "decay10dB_ms": 150,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 226.96,
+   "dur": 0.09,
+   "peak_t": 226.97,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.4,
+   "rel_voice_dB": -5.4,
+   "low_dB": -26.4,
+   "mid_dB": -47.6,
+   "hi_dB": -70.6,
+   "centroid_Hz": 48,
+   "attack_ms": 10,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 229.26,
+   "dur": 0.33,
+   "peak_t": 229.48,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.9,
+   "rel_voice_dB": -4.9,
+   "low_dB": -25.9,
+   "mid_dB": -43.8,
+   "hi_dB": -66.1,
+   "centroid_Hz": 43,
+   "attack_ms": 220,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 231.3,
+   "dur": 0.66,
+   "peak_t": 231.57,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.8,
+   "rel_voice_dB": -3.8,
+   "low_dB": -25.2,
+   "mid_dB": -31.2,
+   "hi_dB": -53.3,
+   "centroid_Hz": 88,
+   "attack_ms": 270,
+   "decay10dB_ms": 170,
+   "voice_active_share": 0.71,
+   "strong": true
+  },
+  {
+   "t": 234.41,
+   "dur": 0.17,
+   "peak_t": 234.57,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.7,
+   "rel_voice_dB": -10.7,
+   "low_dB": -32.0,
+   "mid_dB": -41.4,
+   "hi_dB": -59.1,
+   "centroid_Hz": 171,
+   "attack_ms": 160,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 234.93,
+   "dur": 0.7,
+   "peak_t": 235.45,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -34.5,
+   "mid_dB": -38.9,
+   "hi_dB": -62.3,
+   "centroid_Hz": 281,
+   "attack_ms": 520,
+   "decay10dB_ms": 430,
+   "voice_active_share": 0.96,
+   "strong": true
+  },
+  {
+   "t": 236.04,
+   "dur": 0.08,
+   "peak_t": 236.08,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -29.5,
+   "rel_voice_dB": -8.6,
+   "low_dB": -30.1,
+   "mid_dB": -34.6,
+   "hi_dB": -64.1,
+   "centroid_Hz": 125,
+   "attack_ms": 40,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 237.42,
+   "dur": 0.39,
+   "peak_t": 237.59,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.0,
+   "rel_voice_dB": -4.1,
+   "low_dB": -25.2,
+   "mid_dB": -36.8,
+   "hi_dB": -51.0,
+   "centroid_Hz": 130,
+   "attack_ms": 170,
+   "decay10dB_ms": 40,
+   "voice_active_share": 0.82,
+   "strong": true
+  },
+  {
+   "t": 241.35,
+   "dur": 0.46,
+   "peak_t": 241.53,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.5,
+   "rel_voice_dB": -3.5,
+   "low_dB": -24.7,
+   "mid_dB": -36.6,
+   "hi_dB": -53.9,
+   "centroid_Hz": 80,
+   "attack_ms": 180,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 247.03,
+   "dur": 0.29,
+   "peak_t": 247.16,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.6,
+   "rel_voice_dB": -7.7,
+   "low_dB": -29.4,
+   "mid_dB": -32.4,
+   "hi_dB": -53.8,
+   "centroid_Hz": 184,
+   "attack_ms": 130,
+   "decay10dB_ms": 230,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 248.69,
+   "dur": 0.27,
+   "peak_t": 248.94,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -13.0,
+   "low_dB": -34.5,
+   "mid_dB": -41.5,
+   "hi_dB": -58.7,
+   "centroid_Hz": 170,
+   "attack_ms": 250,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 249.17,
+   "dur": 0.29,
+   "peak_t": 249.27,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.3,
+   "rel_voice_dB": -8.3,
+   "low_dB": -29.5,
+   "mid_dB": -41.4,
+   "hi_dB": -58.0,
+   "centroid_Hz": 158,
+   "attack_ms": 100,
+   "decay10dB_ms": 120,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 249.61,
+   "dur": 0.27,
+   "peak_t": 249.86,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.0,
+   "rel_voice_dB": -11.0,
+   "low_dB": -32.3,
+   "mid_dB": -40.4,
+   "hi_dB": -59.0,
+   "centroid_Hz": 270,
+   "attack_ms": 250,
+   "decay10dB_ms": 210,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 251.36,
+   "dur": 0.32,
+   "peak_t": 251.36,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.8,
+   "low_dB": -29.1,
+   "mid_dB": -34.7,
+   "hi_dB": -51.7,
+   "centroid_Hz": 174,
+   "attack_ms": 0,
+   "decay10dB_ms": 120,
+   "voice_active_share": 0.53,
+   "strong": true
+  },
+  {
+   "t": 255.52,
+   "dur": 0.6,
+   "peak_t": 255.87,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.8,
+   "rel_voice_dB": -3.8,
+   "low_dB": -24.9,
+   "mid_dB": -34.2,
+   "hi_dB": -61.7,
+   "centroid_Hz": 135,
+   "attack_ms": 350,
+   "decay10dB_ms": 40,
+   "voice_active_share": 0.87,
+   "strong": true
+  },
+  {
+   "t": 257.69,
+   "dur": 0.38,
+   "peak_t": 257.89,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.4,
+   "rel_voice_dB": -9.4,
+   "low_dB": -30.9,
+   "mid_dB": -38.8,
+   "hi_dB": -54.9,
+   "centroid_Hz": 126,
+   "attack_ms": 200,
+   "decay10dB_ms": 230,
+   "voice_active_share": 0.79,
+   "strong": true
+  },
+  {
+   "t": 260.4,
+   "dur": 0.41,
+   "peak_t": 260.6,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.9,
+   "rel_voice_dB": -10.9,
+   "low_dB": -33.2,
+   "mid_dB": -34.6,
+   "hi_dB": -52.0,
+   "centroid_Hz": 227,
+   "attack_ms": 200,
+   "decay10dB_ms": 900,
+   "voice_active_share": 0.88,
+   "strong": true
+  },
+  {
+   "t": 263.3,
+   "dur": 0.06,
+   "peak_t": 263.35,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.6,
+   "low_dB": -30.8,
+   "mid_dB": -41.1,
+   "hi_dB": -62.8,
+   "centroid_Hz": 164,
+   "attack_ms": 50,
+   "decay10dB_ms": 260,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 264.01,
+   "dur": 0.19,
+   "peak_t": 264.02,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.8,
+   "rel_voice_dB": -13.8,
+   "low_dB": -35.2,
+   "mid_dB": -43.7,
+   "hi_dB": -61.9,
+   "centroid_Hz": 143,
+   "attack_ms": 10,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 264.87,
+   "dur": 0.15,
+   "peak_t": 264.87,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.9,
+   "rel_voice_dB": -9.9,
+   "low_dB": -31.8,
+   "mid_dB": -36.4,
+   "hi_dB": -62.7,
+   "centroid_Hz": 122,
+   "attack_ms": 0,
+   "decay10dB_ms": 190,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 267.59,
+   "dur": 0.6,
+   "peak_t": 267.97,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.7,
+   "rel_voice_dB": -2.7,
+   "low_dB": -23.8,
+   "mid_dB": -33.7,
+   "hi_dB": -51.6,
+   "centroid_Hz": 90,
+   "attack_ms": 380,
+   "decay10dB_ms": 90,
+   "voice_active_share": 0.88,
+   "strong": true
+  },
+  {
+   "t": 271.28,
+   "dur": 0.14,
+   "peak_t": 271.28,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -29.3,
+   "rel_voice_dB": -8.4,
+   "low_dB": -29.4,
+   "mid_dB": -48.8,
+   "hi_dB": -63.1,
+   "centroid_Hz": 38,
+   "attack_ms": 0,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 271.73,
+   "dur": 0.18,
+   "peak_t": 271.8,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -30.2,
+   "rel_voice_dB": -9.3,
+   "low_dB": -30.3,
+   "mid_dB": -46.3,
+   "hi_dB": -62.7,
+   "centroid_Hz": 41,
+   "attack_ms": 70,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 275.34,
+   "dur": 0.04,
+   "peak_t": 275.37,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.8,
+   "low_dB": -33.1,
+   "mid_dB": -34.6,
+   "hi_dB": -64.4,
+   "centroid_Hz": 248,
+   "attack_ms": 30,
+   "decay10dB_ms": 320,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 275.59,
+   "dur": 0.03,
+   "peak_t": 275.61,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -32.7,
+   "rel_voice_dB": -11.7,
+   "low_dB": -32.8,
+   "mid_dB": -49.1,
+   "hi_dB": -63.1,
+   "centroid_Hz": 49,
+   "attack_ms": 20,
+   "decay10dB_ms": 230,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 276.59,
+   "dur": 0.19,
+   "peak_t": 276.77,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.6,
+   "rel_voice_dB": -7.7,
+   "low_dB": -28.7,
+   "mid_dB": -39.0,
+   "hi_dB": -54.2,
+   "centroid_Hz": 57,
+   "attack_ms": 180,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 279.14,
+   "dur": 0.19,
+   "peak_t": 279.19,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -31.2,
+   "rel_voice_dB": -10.2,
+   "low_dB": -31.3,
+   "mid_dB": -39.3,
+   "hi_dB": -67.4,
+   "centroid_Hz": 64,
+   "attack_ms": 50,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 282.74,
+   "dur": 0.19,
+   "peak_t": 282.86,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.6,
+   "rel_voice_dB": -10.6,
+   "low_dB": -32.4,
+   "mid_dB": -36.0,
+   "hi_dB": -58.0,
+   "centroid_Hz": 193,
+   "attack_ms": 120,
+   "decay10dB_ms": 870,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 283.23,
+   "dur": 0.25,
+   "peak_t": 283.41,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.4,
+   "rel_voice_dB": -6.5,
+   "low_dB": -27.7,
+   "mid_dB": -35.1,
+   "hi_dB": -62.2,
+   "centroid_Hz": 77,
+   "attack_ms": 180,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 283.69,
+   "dur": 0.03,
+   "peak_t": 283.7,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.4,
+   "rel_voice_dB": -14.4,
+   "low_dB": -37.0,
+   "mid_dB": -40.5,
+   "hi_dB": -61.8,
+   "centroid_Hz": 154,
+   "attack_ms": 10,
+   "decay10dB_ms": 630,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 285.71,
+   "dur": 0.51,
+   "peak_t": 285.95,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.0,
+   "rel_voice_dB": -7.1,
+   "low_dB": -28.7,
+   "mid_dB": -32.4,
+   "hi_dB": -50.2,
+   "centroid_Hz": 211,
+   "attack_ms": 240,
+   "decay10dB_ms": 370,
+   "voice_active_share": 0.88,
+   "strong": true
+  },
+  {
+   "t": 290.31,
+   "dur": 0.07,
+   "peak_t": 290.35,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.2,
+   "rel_voice_dB": -6.3,
+   "low_dB": -29.0,
+   "mid_dB": -31.3,
+   "hi_dB": -59.8,
+   "centroid_Hz": 156,
+   "attack_ms": 40,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 293.55,
+   "dur": 0.41,
+   "peak_t": 293.73,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.2,
+   "rel_voice_dB": -3.2,
+   "low_dB": -24.3,
+   "mid_dB": -35.0,
+   "hi_dB": -40.6,
+   "centroid_Hz": 144,
+   "attack_ms": 180,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 298.91,
+   "dur": 0.08,
+   "peak_t": 298.98,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -37.7,
+   "mid_dB": -36.4,
+   "hi_dB": -40.6,
+   "centroid_Hz": 884,
+   "attack_ms": 70,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.0,
+   "strong": true
+  },
+  {
+   "t": 300.81,
+   "dur": 0.35,
+   "peak_t": 301.15,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.2,
+   "rel_voice_dB": -8.2,
+   "low_dB": -29.5,
+   "mid_dB": -32.5,
+   "hi_dB": -54.4,
+   "centroid_Hz": 221,
+   "attack_ms": 340,
+   "decay10dB_ms": 140,
+   "voice_active_share": 0.49,
+   "strong": true
+  },
+  {
+   "t": 302.22,
+   "dur": 0.07,
+   "peak_t": 302.24,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.7,
+   "rel_voice_dB": -5.8,
+   "low_dB": -40.8,
+   "mid_dB": -33.8,
+   "hi_dB": -27.9,
+   "centroid_Hz": 4448,
+   "attack_ms": 20,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 311.82,
+   "dur": 0.06,
+   "peak_t": 311.83,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.5,
+   "rel_voice_dB": -12.6,
+   "low_dB": -47.8,
+   "mid_dB": -34.7,
+   "hi_dB": -38.6,
+   "centroid_Hz": 1687,
+   "attack_ms": 10,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.83,
+   "strong": true
+  },
+  {
+   "t": 312.14,
+   "dur": 0.44,
+   "peak_t": 312.33,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.7,
+   "low_dB": -51.3,
+   "mid_dB": -29.7,
+   "hi_dB": -42.1,
+   "centroid_Hz": 868,
+   "attack_ms": 190,
+   "decay10dB_ms": 1670,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 312.8,
+   "dur": 0.1,
+   "peak_t": 312.89,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.1,
+   "rel_voice_dB": -10.2,
+   "low_dB": -45.7,
+   "mid_dB": -31.4,
+   "hi_dB": -44.0,
+   "centroid_Hz": 839,
+   "attack_ms": 90,
+   "decay10dB_ms": 1220,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 313.08,
+   "dur": 0.8,
+   "peak_t": 313.15,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.7,
+   "rel_voice_dB": -6.8,
+   "low_dB": -28.6,
+   "mid_dB": -33.8,
+   "hi_dB": -47.4,
+   "centroid_Hz": 221,
+   "attack_ms": 70,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 315.89,
+   "dur": 0.21,
+   "peak_t": 315.97,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.7,
+   "rel_voice_dB": -9.7,
+   "low_dB": -32.0,
+   "mid_dB": -34.1,
+   "hi_dB": -58.5,
+   "centroid_Hz": 155,
+   "attack_ms": 80,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 320.95,
+   "dur": 0.52,
+   "peak_t": 321.27,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.1,
+   "rel_voice_dB": -8.1,
+   "low_dB": -29.6,
+   "mid_dB": -33.5,
+   "hi_dB": -53.3,
+   "centroid_Hz": 223,
+   "attack_ms": 320,
+   "decay10dB_ms": 110,
+   "voice_active_share": 0.85,
+   "strong": true
+  },
+  {
+   "t": 321.67,
+   "dur": 0.53,
+   "peak_t": 321.83,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.8,
+   "rel_voice_dB": -3.8,
+   "low_dB": -24.9,
+   "mid_dB": -33.8,
+   "hi_dB": -44.4,
+   "centroid_Hz": 205,
+   "attack_ms": 160,
+   "decay10dB_ms": 90,
+   "voice_active_share": 0.81,
+   "strong": true
+  },
+  {
+   "t": 323.06,
+   "dur": 0.17,
+   "peak_t": 323.06,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -40.8,
+   "rel_voice_dB": -19.8,
+   "low_dB": -58.4,
+   "mid_dB": -44.4,
+   "hi_dB": -43.2,
+   "centroid_Hz": 6805,
+   "attack_ms": 0,
+   "decay10dB_ms": 1870,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 324.32,
+   "dur": 0.22,
+   "peak_t": 324.36,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.7,
+   "rel_voice_dB": -8.7,
+   "low_dB": -30.6,
+   "mid_dB": -34.9,
+   "hi_dB": -56.2,
+   "centroid_Hz": 168,
+   "attack_ms": 40,
+   "decay10dB_ms": 240,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 325.46,
+   "dur": 0.16,
+   "peak_t": 325.48,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -38.1,
+   "rel_voice_dB": -17.2,
+   "low_dB": -49.3,
+   "mid_dB": -38.3,
+   "hi_dB": -54.1,
+   "centroid_Hz": 428,
+   "attack_ms": 20,
+   "decay10dB_ms": 1350,
+   "voice_active_share": 0.62,
+   "strong": false
+  },
+  {
+   "t": 325.97,
+   "dur": 0.36,
+   "peak_t": 326.18,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.8,
+   "rel_voice_dB": -10.9,
+   "low_dB": -31.9,
+   "mid_dB": -33.2,
+   "hi_dB": -53.8,
+   "centroid_Hz": 221,
+   "attack_ms": 210,
+   "decay10dB_ms": 150,
+   "voice_active_share": 0.81,
+   "strong": true
+  },
+  {
+   "t": 329.1,
+   "dur": 0.28,
+   "peak_t": 329.16,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.1,
+   "rel_voice_dB": -9.1,
+   "low_dB": -30.9,
+   "mid_dB": -34.5,
+   "hi_dB": -60.1,
+   "centroid_Hz": 183,
+   "attack_ms": 60,
+   "decay10dB_ms": 140,
+   "voice_active_share": 0.96,
+   "strong": true
+  },
+  {
+   "t": 331.31,
+   "dur": 0.41,
+   "peak_t": 331.46,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -21.5,
+   "rel_voice_dB": -0.6,
+   "low_dB": -21.6,
+   "mid_dB": -40.5,
+   "hi_dB": -50.9,
+   "centroid_Hz": 71,
+   "attack_ms": 150,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 332.2,
+   "dur": 0.03,
+   "peak_t": 332.22,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -41.0,
+   "rel_voice_dB": -20.0,
+   "low_dB": -51.7,
+   "mid_dB": -41.8,
+   "hi_dB": -50.9,
+   "centroid_Hz": 807,
+   "attack_ms": 20,
+   "decay10dB_ms": 2310,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 332.5,
+   "dur": 0.71,
+   "peak_t": 333.1,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.6,
+   "rel_voice_dB": -6.6,
+   "low_dB": -27.8,
+   "mid_dB": -33.9,
+   "hi_dB": -49.2,
+   "centroid_Hz": 226,
+   "attack_ms": 600,
+   "decay10dB_ms": 110,
+   "voice_active_share": 0.86,
+   "strong": true
+  },
+  {
+   "t": 333.85,
+   "dur": 0.1,
+   "peak_t": 333.87,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.6,
+   "rel_voice_dB": -4.6,
+   "low_dB": -25.6,
+   "mid_dB": -42.0,
+   "hi_dB": -67.2,
+   "centroid_Hz": 66,
+   "attack_ms": 20,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 334.15,
+   "dur": 0.17,
+   "peak_t": 334.31,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -38.9,
+   "rel_voice_dB": -17.9,
+   "low_dB": -54.7,
+   "mid_dB": -39.0,
+   "hi_dB": -56.6,
+   "centroid_Hz": 446,
+   "attack_ms": 160,
+   "decay10dB_ms": 190,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 336.25,
+   "dur": 0.34,
+   "peak_t": 336.27,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.7,
+   "rel_voice_dB": -4.8,
+   "low_dB": -25.8,
+   "mid_dB": -39.6,
+   "hi_dB": -53.0,
+   "centroid_Hz": 96,
+   "attack_ms": 20,
+   "decay10dB_ms": 70,
+   "voice_active_share": 0.41,
+   "strong": true
+  },
+  {
+   "t": 337.15,
+   "dur": 0.35,
+   "peak_t": 337.26,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.3,
+   "rel_voice_dB": -8.4,
+   "low_dB": -30.6,
+   "mid_dB": -34.9,
+   "hi_dB": -52.1,
+   "centroid_Hz": 214,
+   "attack_ms": 110,
+   "decay10dB_ms": 200,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 338.65,
+   "dur": 0.09,
+   "peak_t": 338.67,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.7,
+   "rel_voice_dB": -4.7,
+   "low_dB": -25.9,
+   "mid_dB": -39.0,
+   "hi_dB": -59.6,
+   "centroid_Hz": 77,
+   "attack_ms": 20,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 338.96,
+   "dur": 0.5,
+   "peak_t": 339.25,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.4,
+   "rel_voice_dB": -10.5,
+   "low_dB": -31.7,
+   "mid_dB": -35.2,
+   "hi_dB": -52.1,
+   "centroid_Hz": 243,
+   "attack_ms": 290,
+   "decay10dB_ms": 250,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 341.04,
+   "dur": 0.15,
+   "peak_t": 341.06,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -21.5,
+   "rel_voice_dB": -0.5,
+   "low_dB": -21.6,
+   "mid_dB": -34.1,
+   "hi_dB": -62.6,
+   "centroid_Hz": 80,
+   "attack_ms": 20,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 342.26,
+   "dur": 0.17,
+   "peak_t": 342.4,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -39.1,
+   "rel_voice_dB": -18.1,
+   "low_dB": -50.5,
+   "mid_dB": -39.1,
+   "hi_dB": -53.0,
+   "centroid_Hz": 534,
+   "attack_ms": 140,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.76,
+   "strong": false
+  },
+  {
+   "t": 342.71,
+   "dur": 0.44,
+   "peak_t": 343.04,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.5,
+   "low_dB": -32.7,
+   "mid_dB": -32.3,
+   "hi_dB": -55.6,
+   "centroid_Hz": 242,
+   "attack_ms": 330,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.86,
+   "strong": true
+  },
+  {
+   "t": 343.45,
+   "dur": 0.09,
+   "peak_t": 343.47,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.6,
+   "rel_voice_dB": -4.6,
+   "low_dB": -25.8,
+   "mid_dB": -37.2,
+   "hi_dB": -63.7,
+   "centroid_Hz": 85,
+   "attack_ms": 20,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 345.27,
+   "dur": 0.92,
+   "peak_t": 345.87,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.4,
+   "rel_voice_dB": -4.5,
+   "low_dB": -25.6,
+   "mid_dB": -34.4,
+   "hi_dB": -52.4,
+   "centroid_Hz": 219,
+   "attack_ms": 600,
+   "decay10dB_ms": 110,
+   "voice_active_share": 0.95,
+   "strong": true
+  },
+  {
+   "t": 346.61,
+   "dur": 0.03,
+   "peak_t": 346.61,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -40.7,
+   "rel_voice_dB": -19.8,
+   "low_dB": -58.0,
+   "mid_dB": -40.9,
+   "hi_dB": -55.7,
+   "centroid_Hz": 953,
+   "attack_ms": 0,
+   "decay10dB_ms": 1570,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 347.36,
+   "dur": 0.38,
+   "peak_t": 347.56,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.1,
+   "rel_voice_dB": -9.2,
+   "low_dB": -30.9,
+   "mid_dB": -35.0,
+   "hi_dB": -51.8,
+   "centroid_Hz": 184,
+   "attack_ms": 200,
+   "decay10dB_ms": 190,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 348.25,
+   "dur": 0.1,
+   "peak_t": 348.27,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.5,
+   "rel_voice_dB": -4.6,
+   "low_dB": -25.6,
+   "mid_dB": -47.7,
+   "hi_dB": -72.4,
+   "centroid_Hz": 56,
+   "attack_ms": 20,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 349.61,
+   "dur": 0.35,
+   "peak_t": 349.85,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.2,
+   "rel_voice_dB": -10.2,
+   "low_dB": -31.7,
+   "mid_dB": -35.0,
+   "hi_dB": -55.2,
+   "centroid_Hz": 219,
+   "attack_ms": 240,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 350.64,
+   "dur": 0.13,
+   "peak_t": 350.67,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -21.1,
+   "rel_voice_dB": -0.1,
+   "low_dB": -21.1,
+   "mid_dB": -46.9,
+   "hi_dB": -62.7,
+   "centroid_Hz": 54,
+   "attack_ms": 30,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 353.05,
+   "dur": 0.63,
+   "peak_t": 353.07,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.5,
+   "rel_voice_dB": -6.6,
+   "low_dB": -27.7,
+   "mid_dB": -30.8,
+   "hi_dB": -57.7,
+   "centroid_Hz": 146,
+   "attack_ms": 20,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 355.45,
+   "dur": 0.09,
+   "peak_t": 355.47,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.1,
+   "rel_voice_dB": -5.1,
+   "low_dB": -26.1,
+   "mid_dB": -51.6,
+   "hi_dB": -53.4,
+   "centroid_Hz": 57,
+   "attack_ms": 20,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 356.72,
+   "dur": 0.22,
+   "peak_t": 356.76,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -31.0,
+   "rel_voice_dB": -10.0,
+   "low_dB": -31.4,
+   "mid_dB": -36.6,
+   "hi_dB": -62.4,
+   "centroid_Hz": 117,
+   "attack_ms": 40,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 360.23,
+   "dur": 1.11,
+   "peak_t": 361.16,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.6,
+   "rel_voice_dB": -7.7,
+   "low_dB": -30.8,
+   "mid_dB": -29.6,
+   "hi_dB": -52.5,
+   "centroid_Hz": 378,
+   "attack_ms": 930,
+   "decay10dB_ms": 190,
+   "voice_active_share": 0.8,
+   "strong": true
+  },
+  {
+   "t": 362.2,
+   "dur": 0.45,
+   "peak_t": 362.4,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.1,
+   "rel_voice_dB": -6.1,
+   "low_dB": -40.3,
+   "mid_dB": -27.1,
+   "hi_dB": -44.9,
+   "centroid_Hz": 475,
+   "attack_ms": 200,
+   "decay10dB_ms": 170,
+   "voice_active_share": 0.56,
+   "strong": true
+  },
+  {
+   "t": 366.06,
+   "dur": 0.03,
+   "peak_t": 366.07,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.5,
+   "rel_voice_dB": -13.5,
+   "low_dB": -35.3,
+   "mid_dB": -42.5,
+   "hi_dB": -53.4,
+   "centroid_Hz": 168,
+   "attack_ms": 10,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 367.3,
+   "dur": 0.07,
+   "peak_t": 367.34,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.7,
+   "rel_voice_dB": -6.7,
+   "low_dB": -28.6,
+   "mid_dB": -35.1,
+   "hi_dB": -55.4,
+   "centroid_Hz": 131,
+   "attack_ms": 40,
+   "decay10dB_ms": 120,
+   "voice_active_share": 0.29,
+   "strong": true
+  },
+  {
+   "t": 370.65,
+   "dur": 0.08,
+   "peak_t": 370.67,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.7,
+   "rel_voice_dB": -11.7,
+   "low_dB": -36.8,
+   "mid_dB": -36.9,
+   "hi_dB": -39.0,
+   "centroid_Hz": 1830,
+   "attack_ms": 20,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 371.63,
+   "dur": 0.1,
+   "peak_t": 371.7,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.0,
+   "rel_voice_dB": -10.0,
+   "low_dB": -31.2,
+   "mid_dB": -43.2,
+   "hi_dB": -54.1,
+   "centroid_Hz": 128,
+   "attack_ms": 70,
+   "decay10dB_ms": 210,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 373.17,
+   "dur": 0.23,
+   "peak_t": 373.21,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.2,
+   "rel_voice_dB": -10.2,
+   "low_dB": -37.0,
+   "mid_dB": -36.7,
+   "hi_dB": -33.6,
+   "centroid_Hz": 2465,
+   "attack_ms": 40,
+   "decay10dB_ms": 250,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 374.96,
+   "dur": 0.28,
+   "peak_t": 375.23,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.8,
+   "low_dB": -31.2,
+   "mid_dB": -34.5,
+   "hi_dB": -54.4,
+   "centroid_Hz": 162,
+   "attack_ms": 270,
+   "decay10dB_ms": 410,
+   "voice_active_share": 0.79,
+   "strong": true
+  },
+  {
+   "t": 376.54,
+   "dur": 0.33,
+   "peak_t": 376.61,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.0,
+   "rel_voice_dB": -5.0,
+   "low_dB": -36.2,
+   "mid_dB": -32.7,
+   "hi_dB": -27.6,
+   "centroid_Hz": 3823,
+   "attack_ms": 70,
+   "decay10dB_ms": 20,
+   "voice_active_share": 0.82,
+   "strong": true
+  },
+  {
+   "t": 377.43,
+   "dur": 0.12,
+   "peak_t": 377.49,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.1,
+   "rel_voice_dB": -3.2,
+   "low_dB": -24.1,
+   "mid_dB": -43.7,
+   "hi_dB": -56.1,
+   "centroid_Hz": 59,
+   "attack_ms": 60,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 379.7,
+   "dur": 0.03,
+   "peak_t": 379.71,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.8,
+   "rel_voice_dB": -10.8,
+   "low_dB": -38.5,
+   "mid_dB": -47.1,
+   "hi_dB": -32.4,
+   "centroid_Hz": 7285,
+   "attack_ms": 10,
+   "decay10dB_ms": 2900,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 381.59,
+   "dur": 0.06,
+   "peak_t": 381.61,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.6,
+   "rel_voice_dB": -5.6,
+   "low_dB": -35.0,
+   "mid_dB": -33.9,
+   "hi_dB": -27.9,
+   "centroid_Hz": 4187,
+   "attack_ms": 20,
+   "decay10dB_ms": 30,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 382.3,
+   "dur": 0.1,
+   "peak_t": 382.39,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.2,
+   "rel_voice_dB": -8.2,
+   "low_dB": -30.9,
+   "mid_dB": -34.0,
+   "hi_dB": -58.5,
+   "centroid_Hz": 177,
+   "attack_ms": 90,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 387.29,
+   "dur": 0.62,
+   "peak_t": 387.38,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.1,
+   "rel_voice_dB": -7.2,
+   "low_dB": -28.3,
+   "mid_dB": -41.6,
+   "hi_dB": -58.6,
+   "centroid_Hz": 56,
+   "attack_ms": 90,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 389.72,
+   "dur": 0.5,
+   "peak_t": 390.0,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.2,
+   "rel_voice_dB": -3.2,
+   "low_dB": -24.3,
+   "mid_dB": -35.9,
+   "hi_dB": -54.6,
+   "centroid_Hz": 87,
+   "attack_ms": 280,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 391.37,
+   "dur": 0.13,
+   "peak_t": 391.48,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -41.3,
+   "rel_voice_dB": -20.3,
+   "low_dB": -46.1,
+   "mid_dB": -42.6,
+   "hi_dB": -57.7,
+   "centroid_Hz": 354,
+   "attack_ms": 110,
+   "decay10dB_ms": 2880,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 393.75,
+   "dur": 0.41,
+   "peak_t": 394.14,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.9,
+   "rel_voice_dB": -7.0,
+   "low_dB": -28.6,
+   "mid_dB": -33.8,
+   "hi_dB": -60.1,
+   "centroid_Hz": 112,
+   "attack_ms": 390,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 395.89,
+   "dur": 0.19,
+   "peak_t": 395.94,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.5,
+   "rel_voice_dB": -14.5,
+   "low_dB": -39.0,
+   "mid_dB": -36.1,
+   "hi_dB": -55.8,
+   "centroid_Hz": 361,
+   "attack_ms": 50,
+   "decay10dB_ms": 310,
+   "voice_active_share": 0.68,
+   "strong": false
+  },
+  {
+   "t": 397.1,
+   "dur": 0.04,
+   "peak_t": 397.13,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.1,
+   "rel_voice_dB": -13.1,
+   "low_dB": -36.7,
+   "mid_dB": -37.0,
+   "hi_dB": -59.4,
+   "centroid_Hz": 212,
+   "attack_ms": 30,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 397.45,
+   "dur": 0.1,
+   "peak_t": 397.54,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.4,
+   "rel_voice_dB": -12.4,
+   "low_dB": -36.0,
+   "mid_dB": -35.2,
+   "hi_dB": -59.7,
+   "centroid_Hz": 223,
+   "attack_ms": 90,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 401.18,
+   "dur": 0.03,
+   "peak_t": 401.19,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.6,
+   "rel_voice_dB": -13.6,
+   "low_dB": -35.2,
+   "mid_dB": -42.3,
+   "hi_dB": -64.7,
+   "centroid_Hz": 156,
+   "attack_ms": 10,
+   "decay10dB_ms": 1590,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 401.71,
+   "dur": 0.47,
+   "peak_t": 402.08,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.2,
+   "rel_voice_dB": -11.2,
+   "low_dB": -32.8,
+   "mid_dB": -37.8,
+   "hi_dB": -46.4,
+   "centroid_Hz": 179,
+   "attack_ms": 370,
+   "decay10dB_ms": 700,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 402.59,
+   "dur": 0.06,
+   "peak_t": 402.63,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -34.4,
+   "mid_dB": -41.2,
+   "hi_dB": -68.3,
+   "centroid_Hz": 121,
+   "attack_ms": 40,
+   "decay10dB_ms": 150,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 403.69,
+   "dur": 0.24,
+   "peak_t": 403.89,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.1,
+   "rel_voice_dB": -8.2,
+   "low_dB": -29.7,
+   "mid_dB": -33.9,
+   "hi_dB": -55.0,
+   "centroid_Hz": 170,
+   "attack_ms": 200,
+   "decay10dB_ms": 150,
+   "voice_active_share": 0.88,
+   "strong": true
+  },
+  {
+   "t": 410.05,
+   "dur": 0.39,
+   "peak_t": 410.05,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.4,
+   "rel_voice_dB": -9.4,
+   "low_dB": -34.4,
+   "mid_dB": -32.6,
+   "hi_dB": -40.0,
+   "centroid_Hz": 699,
+   "attack_ms": 0,
+   "decay10dB_ms": 1180,
+   "voice_active_share": 0.74,
+   "strong": true
+  },
+  {
+   "t": 410.59,
+   "dur": 0.13,
+   "peak_t": 410.71,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.8,
+   "rel_voice_dB": -5.8,
+   "low_dB": -27.5,
+   "mid_dB": -34.7,
+   "hi_dB": -59.9,
+   "centroid_Hz": 162,
+   "attack_ms": 120,
+   "decay10dB_ms": 50,
+   "voice_active_share": 0.54,
+   "strong": true
+  },
+  {
+   "t": 413.53,
+   "dur": 0.35,
+   "peak_t": 413.71,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.1,
+   "rel_voice_dB": -7.1,
+   "low_dB": -28.7,
+   "mid_dB": -33.1,
+   "hi_dB": -55.3,
+   "centroid_Hz": 120,
+   "attack_ms": 180,
+   "decay10dB_ms": 200,
+   "voice_active_share": 0.57,
+   "strong": true
+  },
+  {
+   "t": 415.42,
+   "dur": 0.06,
+   "peak_t": 415.42,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.8,
+   "rel_voice_dB": -8.8,
+   "low_dB": -30.1,
+   "mid_dB": -35.0,
+   "hi_dB": -61.6,
+   "centroid_Hz": 152,
+   "attack_ms": 0,
+   "decay10dB_ms": 220,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 416.32,
+   "dur": 0.03,
+   "peak_t": 416.33,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.5,
+   "rel_voice_dB": -7.5,
+   "low_dB": -34.5,
+   "mid_dB": -29.7,
+   "hi_dB": -61.5,
+   "centroid_Hz": 295,
+   "attack_ms": 10,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 417.7,
+   "dur": 0.88,
+   "peak_t": 417.71,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.7,
+   "rel_voice_dB": -6.8,
+   "low_dB": -28.3,
+   "mid_dB": -33.6,
+   "hi_dB": -62.5,
+   "centroid_Hz": 112,
+   "attack_ms": 10,
+   "decay10dB_ms": 380,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 420.88,
+   "dur": 0.27,
+   "peak_t": 420.94,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.0,
+   "rel_voice_dB": -7.0,
+   "low_dB": -31.2,
+   "mid_dB": -28.4,
+   "hi_dB": -48.9,
+   "centroid_Hz": 344,
+   "attack_ms": 60,
+   "decay10dB_ms": 250,
+   "voice_active_share": 0.78,
+   "strong": true
+  },
+  {
+   "t": 421.86,
+   "dur": 0.16,
+   "peak_t": 422.01,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.6,
+   "low_dB": -29.7,
+   "mid_dB": -36.0,
+   "hi_dB": -64.7,
+   "centroid_Hz": 151,
+   "attack_ms": 150,
+   "decay10dB_ms": 770,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 422.44,
+   "dur": 0.17,
+   "peak_t": 422.57,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.5,
+   "rel_voice_dB": -5.5,
+   "low_dB": -26.7,
+   "mid_dB": -34.6,
+   "hi_dB": -50.5,
+   "centroid_Hz": 104,
+   "attack_ms": 130,
+   "decay10dB_ms": 190,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 423.9,
+   "dur": 0.28,
+   "peak_t": 424.09,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.6,
+   "rel_voice_dB": -5.6,
+   "low_dB": -26.7,
+   "mid_dB": -36.5,
+   "hi_dB": -43.4,
+   "centroid_Hz": 91,
+   "attack_ms": 190,
+   "decay10dB_ms": 130,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 425.09,
+   "dur": 0.06,
+   "peak_t": 425.1,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.7,
+   "rel_voice_dB": -9.7,
+   "low_dB": -31.4,
+   "mid_dB": -33.9,
+   "hi_dB": -65.4,
+   "centroid_Hz": 225,
+   "attack_ms": 10,
+   "decay10dB_ms": 420,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 427.04,
+   "dur": 0.24,
+   "peak_t": 427.09,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.6,
+   "low_dB": -30.7,
+   "mid_dB": -35.9,
+   "hi_dB": -59.2,
+   "centroid_Hz": 147,
+   "attack_ms": 50,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 428.78,
+   "dur": 0.07,
+   "peak_t": 428.8,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.3,
+   "rel_voice_dB": -10.4,
+   "low_dB": -32.4,
+   "mid_dB": -38.0,
+   "hi_dB": -67.7,
+   "centroid_Hz": 160,
+   "attack_ms": 20,
+   "decay10dB_ms": 840,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 429.25,
+   "dur": 0.24,
+   "peak_t": 429.25,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.8,
+   "rel_voice_dB": -8.9,
+   "low_dB": -31.3,
+   "mid_dB": -34.6,
+   "hi_dB": -67.7,
+   "centroid_Hz": 128,
+   "attack_ms": 0,
+   "decay10dB_ms": 340,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 430.94,
+   "dur": 0.16,
+   "peak_t": 430.99,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.6,
+   "rel_voice_dB": -6.7,
+   "low_dB": -27.7,
+   "mid_dB": -41.5,
+   "hi_dB": -63.9,
+   "centroid_Hz": 62,
+   "attack_ms": 50,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 432.47,
+   "dur": 0.27,
+   "peak_t": 432.71,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.8,
+   "low_dB": -31.6,
+   "mid_dB": -34.3,
+   "hi_dB": -59.1,
+   "centroid_Hz": 155,
+   "attack_ms": 240,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 432.94,
+   "dur": 0.27,
+   "peak_t": 432.94,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -30.7,
+   "rel_voice_dB": -9.8,
+   "low_dB": -32.1,
+   "mid_dB": -35.2,
+   "hi_dB": -62.8,
+   "centroid_Hz": 127,
+   "attack_ms": 0,
+   "decay10dB_ms": 470,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 436.17,
+   "dur": 0.23,
+   "peak_t": 436.17,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -30.3,
+   "rel_voice_dB": -9.3,
+   "low_dB": -30.7,
+   "mid_dB": -40.7,
+   "hi_dB": -62.4,
+   "centroid_Hz": 125,
+   "attack_ms": 0,
+   "decay10dB_ms": 270,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 436.64,
+   "dur": 0.24,
+   "peak_t": 436.86,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.9,
+   "rel_voice_dB": -10.0,
+   "low_dB": -32.8,
+   "mid_dB": -31.2,
+   "hi_dB": -66.9,
+   "centroid_Hz": 190,
+   "attack_ms": 220,
+   "decay10dB_ms": 480,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 437.1,
+   "dur": 0.21,
+   "peak_t": 437.11,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -33.4,
+   "rel_voice_dB": -12.4,
+   "low_dB": -33.5,
+   "mid_dB": -40.4,
+   "hi_dB": -69.8,
+   "centroid_Hz": 131,
+   "attack_ms": 10,
+   "decay10dB_ms": 390,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 438.47,
+   "dur": 0.03,
+   "peak_t": 438.48,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.4,
+   "rel_voice_dB": -10.5,
+   "low_dB": -40.4,
+   "mid_dB": -32.0,
+   "hi_dB": -58.8,
+   "centroid_Hz": 427,
+   "attack_ms": 10,
+   "decay10dB_ms": 290,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 439.85,
+   "dur": 0.31,
+   "peak_t": 439.88,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -28.9,
+   "rel_voice_dB": -7.9,
+   "low_dB": -30.0,
+   "mid_dB": -35.3,
+   "hi_dB": -66.0,
+   "centroid_Hz": 148,
+   "attack_ms": 30,
+   "decay10dB_ms": 280,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 440.31,
+   "dur": 0.65,
+   "peak_t": 440.32,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.6,
+   "rel_voice_dB": -7.6,
+   "low_dB": -28.8,
+   "mid_dB": -33.2,
+   "hi_dB": -53.2,
+   "centroid_Hz": 166,
+   "attack_ms": 10,
+   "decay10dB_ms": 170,
+   "voice_active_share": 0.82,
+   "strong": true
+  },
+  {
+   "t": 443.55,
+   "dur": 0.1,
+   "peak_t": 443.55,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.7,
+   "rel_voice_dB": -5.8,
+   "low_dB": -27.5,
+   "mid_dB": -34.9,
+   "hi_dB": -58.9,
+   "centroid_Hz": 170,
+   "attack_ms": 0,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 444.15,
+   "dur": 0.1,
+   "peak_t": 444.15,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.3,
+   "rel_voice_dB": -9.4,
+   "low_dB": -30.8,
+   "mid_dB": -35.9,
+   "hi_dB": -66.7,
+   "centroid_Hz": 123,
+   "attack_ms": 0,
+   "decay10dB_ms": 470,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 447.07,
+   "dur": 0.12,
+   "peak_t": 447.12,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.5,
+   "rel_voice_dB": -8.5,
+   "low_dB": -30.9,
+   "mid_dB": -34.4,
+   "hi_dB": -58.3,
+   "centroid_Hz": 185,
+   "attack_ms": 50,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 450.87,
+   "dur": 0.31,
+   "peak_t": 450.93,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.2,
+   "rel_voice_dB": -9.2,
+   "low_dB": -30.7,
+   "mid_dB": -32.7,
+   "hi_dB": -45.5,
+   "centroid_Hz": 188,
+   "attack_ms": 60,
+   "decay10dB_ms": 310,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 451.39,
+   "dur": 0.23,
+   "peak_t": 451.4,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.9,
+   "low_dB": -31.0,
+   "mid_dB": -35.2,
+   "hi_dB": -61.9,
+   "centroid_Hz": 123,
+   "attack_ms": 10,
+   "decay10dB_ms": 480,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 452.44,
+   "dur": 0.21,
+   "peak_t": 452.54,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.8,
+   "rel_voice_dB": -3.8,
+   "low_dB": -25.3,
+   "mid_dB": -32.7,
+   "hi_dB": -47.9,
+   "centroid_Hz": 122,
+   "attack_ms": 100,
+   "decay10dB_ms": 90,
+   "voice_active_share": 0.1,
+   "strong": true
+  },
+  {
+   "t": 455.78,
+   "dur": 0.03,
+   "peak_t": 455.78,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.2,
+   "rel_voice_dB": -11.3,
+   "low_dB": -34.1,
+   "mid_dB": -35.5,
+   "hi_dB": -60.7,
+   "centroid_Hz": 169,
+   "attack_ms": 0,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 456.48,
+   "dur": 0.35,
+   "peak_t": 456.71,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.1,
+   "rel_voice_dB": -13.1,
+   "low_dB": -38.2,
+   "mid_dB": -36.2,
+   "hi_dB": -47.8,
+   "centroid_Hz": 641,
+   "attack_ms": 230,
+   "decay10dB_ms": 120,
+   "voice_active_share": 0.49,
+   "strong": false
+  },
+  {
+   "t": 460.56,
+   "dur": 0.27,
+   "peak_t": 460.77,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -32.0,
+   "rel_voice_dB": -11.0,
+   "low_dB": -32.1,
+   "mid_dB": -36.3,
+   "hi_dB": -49.9,
+   "centroid_Hz": 222,
+   "attack_ms": 210,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 466.27,
+   "dur": 0.32,
+   "peak_t": 466.29,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.0,
+   "rel_voice_dB": -8.0,
+   "low_dB": -30.0,
+   "mid_dB": -35.1,
+   "hi_dB": -39.4,
+   "centroid_Hz": 246,
+   "attack_ms": 20,
+   "decay10dB_ms": 190,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 468.35,
+   "dur": 0.62,
+   "peak_t": 468.52,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.6,
+   "rel_voice_dB": -2.6,
+   "low_dB": -23.8,
+   "mid_dB": -33.8,
+   "hi_dB": -42.0,
+   "centroid_Hz": 140,
+   "attack_ms": 170,
+   "decay10dB_ms": 70,
+   "voice_active_share": 0.85,
+   "strong": true
+  },
+  {
+   "t": 470.37,
+   "dur": 0.19,
+   "peak_t": 470.55,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -30.5,
+   "rel_voice_dB": -9.5,
+   "low_dB": -31.1,
+   "mid_dB": -38.2,
+   "hi_dB": -65.4,
+   "centroid_Hz": 102,
+   "attack_ms": 180,
+   "decay10dB_ms": 130,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 472.18,
+   "dur": 0.4,
+   "peak_t": 472.21,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.5,
+   "rel_voice_dB": -7.5,
+   "low_dB": -42.7,
+   "mid_dB": -34.5,
+   "hi_dB": -29.8,
+   "centroid_Hz": 2665,
+   "attack_ms": 30,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 474.98,
+   "dur": 0.06,
+   "peak_t": 474.99,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.3,
+   "rel_voice_dB": -12.3,
+   "low_dB": -40.8,
+   "mid_dB": -33.7,
+   "hi_dB": -57.9,
+   "centroid_Hz": 391,
+   "attack_ms": 10,
+   "decay10dB_ms": 770,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 475.21,
+   "dur": 0.27,
+   "peak_t": 475.3,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.4,
+   "rel_voice_dB": -8.5,
+   "low_dB": -31.3,
+   "mid_dB": -33.3,
+   "hi_dB": -54.7,
+   "centroid_Hz": 210,
+   "attack_ms": 90,
+   "decay10dB_ms": 110,
+   "voice_active_share": 0.7,
+   "strong": true
+  },
+  {
+   "t": 476.43,
+   "dur": 0.54,
+   "peak_t": 476.7,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.8,
+   "rel_voice_dB": -4.9,
+   "low_dB": -25.9,
+   "mid_dB": -37.0,
+   "hi_dB": -34.3,
+   "centroid_Hz": 229,
+   "attack_ms": 270,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 477.31,
+   "dur": 0.21,
+   "peak_t": 477.47,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.7,
+   "rel_voice_dB": -4.8,
+   "low_dB": -26.1,
+   "mid_dB": -34.5,
+   "hi_dB": -59.3,
+   "centroid_Hz": 94,
+   "attack_ms": 160,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 477.96,
+   "dur": 0.03,
+   "peak_t": 477.97,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.5,
+   "rel_voice_dB": -14.5,
+   "low_dB": -42.0,
+   "mid_dB": -36.4,
+   "hi_dB": -59.0,
+   "centroid_Hz": 301,
+   "attack_ms": 10,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 479.23,
+   "dur": 0.97,
+   "peak_t": 479.53,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.5,
+   "rel_voice_dB": -4.5,
+   "low_dB": -25.8,
+   "mid_dB": -33.8,
+   "hi_dB": -53.9,
+   "centroid_Hz": 64,
+   "attack_ms": 300,
+   "decay10dB_ms": 120,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 480.97,
+   "dur": 0.15,
+   "peak_t": 481.07,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.7,
+   "rel_voice_dB": -15.7,
+   "low_dB": -41.1,
+   "mid_dB": -38.8,
+   "hi_dB": -49.8,
+   "centroid_Hz": 456,
+   "attack_ms": 100,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 481.43,
+   "dur": 0.05,
+   "peak_t": 481.44,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.8,
+   "rel_voice_dB": -11.8,
+   "low_dB": -42.9,
+   "mid_dB": -35.9,
+   "hi_dB": -36.2,
+   "centroid_Hz": 2158,
+   "attack_ms": 10,
+   "decay10dB_ms": 1360,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 482.23,
+   "dur": 0.04,
+   "peak_t": 482.24,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.8,
+   "rel_voice_dB": -10.8,
+   "low_dB": -45.3,
+   "mid_dB": -37.7,
+   "hi_dB": -33.3,
+   "centroid_Hz": 5925,
+   "attack_ms": 10,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 483.44,
+   "dur": 0.49,
+   "peak_t": 483.5,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.7,
+   "rel_voice_dB": -7.7,
+   "low_dB": -32.0,
+   "mid_dB": -31.7,
+   "hi_dB": -32.1,
+   "centroid_Hz": 1006,
+   "attack_ms": 60,
+   "decay10dB_ms": 470,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 488.74,
+   "dur": 0.34,
+   "peak_t": 488.82,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.0,
+   "rel_voice_dB": -4.0,
+   "low_dB": -25.4,
+   "mid_dB": -32.3,
+   "hi_dB": -51.6,
+   "centroid_Hz": 137,
+   "attack_ms": 80,
+   "decay10dB_ms": 130,
+   "voice_active_share": 0.62,
+   "strong": true
+  },
+  {
+   "t": 489.96,
+   "dur": 0.6,
+   "peak_t": 490.41,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.3,
+   "rel_voice_dB": -9.3,
+   "low_dB": -32.0,
+   "mid_dB": -33.2,
+   "hi_dB": -45.3,
+   "centroid_Hz": 291,
+   "attack_ms": 450,
+   "decay10dB_ms": 150,
+   "voice_active_share": 0.75,
+   "strong": true
+  },
+  {
+   "t": 497.06,
+   "dur": 0.17,
+   "peak_t": 497.06,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.6,
+   "rel_voice_dB": -4.7,
+   "low_dB": -25.7,
+   "mid_dB": -41.7,
+   "hi_dB": -64.0,
+   "centroid_Hz": 39,
+   "attack_ms": 0,
+   "decay10dB_ms": 30,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 502.4,
+   "dur": 0.3,
+   "peak_t": 502.55,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.9,
+   "rel_voice_dB": -6.0,
+   "low_dB": -27.1,
+   "mid_dB": -34.7,
+   "hi_dB": -42.1,
+   "centroid_Hz": 152,
+   "attack_ms": 150,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 507.06,
+   "dur": 0.03,
+   "peak_t": 507.06,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.8,
+   "rel_voice_dB": -6.8,
+   "low_dB": -28.4,
+   "mid_dB": -36.6,
+   "hi_dB": -56.8,
+   "centroid_Hz": 122,
+   "attack_ms": 0,
+   "decay10dB_ms": 130,
+   "voice_active_share": 0.0,
+   "strong": true
+  },
+  {
+   "t": 507.85,
+   "dur": 0.19,
+   "peak_t": 507.91,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.8,
+   "low_dB": -29.3,
+   "mid_dB": -34.8,
+   "hi_dB": -54.2,
+   "centroid_Hz": 162,
+   "attack_ms": 60,
+   "decay10dB_ms": 450,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 511.75,
+   "dur": 0.6,
+   "peak_t": 511.84,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.1,
+   "rel_voice_dB": -8.1,
+   "low_dB": -29.1,
+   "mid_dB": -37.9,
+   "hi_dB": -55.4,
+   "centroid_Hz": 95,
+   "attack_ms": 90,
+   "decay10dB_ms": 250,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 513.0,
+   "dur": 0.23,
+   "peak_t": 513.17,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.8,
+   "rel_voice_dB": -2.9,
+   "low_dB": -24.1,
+   "mid_dB": -35.2,
+   "hi_dB": -48.6,
+   "centroid_Hz": 107,
+   "attack_ms": 170,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 515.59,
+   "dur": 0.11,
+   "peak_t": 515.64,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.2,
+   "rel_voice_dB": -5.2,
+   "low_dB": -33.2,
+   "mid_dB": -33.6,
+   "hi_dB": -27.2,
+   "centroid_Hz": 2669,
+   "attack_ms": 50,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 517.12,
+   "dur": 0.06,
+   "peak_t": 517.14,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.3,
+   "rel_voice_dB": -10.3,
+   "low_dB": -34.5,
+   "mid_dB": -38.6,
+   "hi_dB": -33.3,
+   "centroid_Hz": 2297,
+   "attack_ms": 20,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 517.64,
+   "dur": 0.04,
+   "peak_t": 517.64,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.9,
+   "rel_voice_dB": -5.9,
+   "low_dB": -26.9,
+   "mid_dB": -47.1,
+   "hi_dB": -71.7,
+   "centroid_Hz": 50,
+   "attack_ms": 0,
+   "decay10dB_ms": 190,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 518.36,
+   "dur": 0.3,
+   "peak_t": 518.54,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.3,
+   "rel_voice_dB": -2.3,
+   "low_dB": -23.4,
+   "mid_dB": -35.4,
+   "hi_dB": -52.7,
+   "centroid_Hz": 81,
+   "attack_ms": 180,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 522.39,
+   "dur": 0.38,
+   "peak_t": 522.66,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.4,
+   "rel_voice_dB": -3.4,
+   "low_dB": -24.4,
+   "mid_dB": -40.0,
+   "hi_dB": -55.5,
+   "centroid_Hz": 76,
+   "attack_ms": 270,
+   "decay10dB_ms": 60,
+   "voice_active_share": 0.87,
+   "strong": true
+  },
+  {
+   "t": 524.74,
+   "dur": 0.43,
+   "peak_t": 524.83,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.2,
+   "rel_voice_dB": -2.3,
+   "low_dB": -23.3,
+   "mid_dB": -38.2,
+   "hi_dB": -58.1,
+   "centroid_Hz": 81,
+   "attack_ms": 90,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 526.06,
+   "dur": 0.34,
+   "peak_t": 526.24,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.2,
+   "rel_voice_dB": -4.2,
+   "low_dB": -25.3,
+   "mid_dB": -38.0,
+   "hi_dB": -54.0,
+   "centroid_Hz": 87,
+   "attack_ms": 180,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.85,
+   "strong": true
+  },
+  {
+   "t": 527.05,
+   "dur": 0.29,
+   "peak_t": 527.23,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -22.5,
+   "rel_voice_dB": -1.5,
+   "low_dB": -22.5,
+   "mid_dB": -43.5,
+   "hi_dB": -64.7,
+   "centroid_Hz": 50,
+   "attack_ms": 180,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 529.27,
+   "dur": 0.11,
+   "peak_t": 529.28,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.2,
+   "rel_voice_dB": -13.2,
+   "low_dB": -34.8,
+   "mid_dB": -42.5,
+   "hi_dB": -69.5,
+   "centroid_Hz": 118,
+   "attack_ms": 10,
+   "decay10dB_ms": 1880,
+   "voice_active_share": 0.0,
+   "strong": false
+  },
+  {
+   "t": 529.64,
+   "dur": 0.04,
+   "peak_t": 529.64,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.1,
+   "rel_voice_dB": -5.1,
+   "low_dB": -26.1,
+   "mid_dB": -46.2,
+   "hi_dB": -71.4,
+   "centroid_Hz": 56,
+   "attack_ms": 0,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 537.59,
+   "dur": 0.56,
+   "peak_t": 537.66,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -22.9,
+   "rel_voice_dB": -2.0,
+   "low_dB": -23.0,
+   "mid_dB": -36.2,
+   "hi_dB": -54.4,
+   "centroid_Hz": 74,
+   "attack_ms": 70,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 547.93,
+   "dur": 0.31,
+   "peak_t": 548.04,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.4,
+   "rel_voice_dB": -5.4,
+   "low_dB": -27.2,
+   "mid_dB": -31.3,
+   "hi_dB": -59.4,
+   "centroid_Hz": 189,
+   "attack_ms": 110,
+   "decay10dB_ms": 560,
+   "voice_active_share": 0.71,
+   "strong": true
+  },
+  {
+   "t": 549.59,
+   "dur": 0.1,
+   "peak_t": 549.64,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.6,
+   "rel_voice_dB": -7.6,
+   "low_dB": -35.8,
+   "mid_dB": -35.9,
+   "hi_dB": -30.1,
+   "centroid_Hz": 3267,
+   "attack_ms": 50,
+   "decay10dB_ms": 350,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 550.66,
+   "dur": 0.04,
+   "peak_t": 550.66,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.8,
+   "low_dB": -29.0,
+   "mid_dB": -39.9,
+   "hi_dB": -56.7,
+   "centroid_Hz": 81,
+   "attack_ms": 0,
+   "decay10dB_ms": 320,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 551.69,
+   "dur": 0.53,
+   "peak_t": 552.14,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.7,
+   "rel_voice_dB": -6.7,
+   "low_dB": -27.8,
+   "mid_dB": -32.0,
+   "hi_dB": -33.2,
+   "centroid_Hz": 648,
+   "attack_ms": 450,
+   "decay10dB_ms": 20,
+   "voice_active_share": 0.77,
+   "strong": true
+  },
+  {
+   "t": 562.38,
+   "dur": 0.87,
+   "peak_t": 563.17,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.9,
+   "rel_voice_dB": -8.0,
+   "low_dB": -29.6,
+   "mid_dB": -33.3,
+   "hi_dB": -52.8,
+   "centroid_Hz": 206,
+   "attack_ms": 790,
+   "decay10dB_ms": 210,
+   "voice_active_share": 0.75,
+   "strong": true
+  },
+  {
+   "t": 564.91,
+   "dur": 0.13,
+   "peak_t": 564.97,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.3,
+   "rel_voice_dB": -8.3,
+   "low_dB": -29.8,
+   "mid_dB": -35.4,
+   "hi_dB": -57.2,
+   "centroid_Hz": 168,
+   "attack_ms": 60,
+   "decay10dB_ms": 60,
+   "voice_active_share": 0.31,
+   "strong": true
+  },
+  {
+   "t": 568.67,
+   "dur": 1.0,
+   "peak_t": 569.03,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.6,
+   "rel_voice_dB": -5.7,
+   "low_dB": -27.5,
+   "mid_dB": -31.5,
+   "hi_dB": -48.4,
+   "centroid_Hz": 137,
+   "attack_ms": 360,
+   "decay10dB_ms": 160,
+   "voice_active_share": 0.9,
+   "strong": true
+  },
+  {
+   "t": 575.14,
+   "dur": 0.84,
+   "peak_t": 575.35,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -25.3,
+   "rel_voice_dB": -4.4,
+   "low_dB": -25.3,
+   "mid_dB": -38.1,
+   "hi_dB": -57.6,
+   "centroid_Hz": 45,
+   "attack_ms": 210,
+   "decay10dB_ms": 170,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 577.48,
+   "dur": 0.05,
+   "peak_t": 577.51,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.9,
+   "rel_voice_dB": -7.9,
+   "low_dB": -41.7,
+   "mid_dB": -38.6,
+   "hi_dB": -29.5,
+   "centroid_Hz": 5441,
+   "attack_ms": 30,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 578.5,
+   "dur": 1.07,
+   "peak_t": 578.57,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.3,
+   "rel_voice_dB": -4.3,
+   "low_dB": -25.5,
+   "mid_dB": -32.7,
+   "hi_dB": -50.3,
+   "centroid_Hz": 128,
+   "attack_ms": 70,
+   "decay10dB_ms": 80,
+   "voice_active_share": 0.93,
+   "strong": true
+  },
+  {
+   "t": 581.14,
+   "dur": 0.1,
+   "peak_t": 581.22,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.2,
+   "rel_voice_dB": -5.2,
+   "low_dB": -26.2,
+   "mid_dB": -41.5,
+   "hi_dB": -32.7,
+   "centroid_Hz": 684,
+   "attack_ms": 80,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 589.52,
+   "dur": 0.5,
+   "peak_t": 589.91,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.1,
+   "rel_voice_dB": -9.2,
+   "low_dB": -31.1,
+   "mid_dB": -34.0,
+   "hi_dB": -52.3,
+   "centroid_Hz": 184,
+   "attack_ms": 390,
+   "decay10dB_ms": 180,
+   "voice_active_share": 0.86,
+   "strong": true
+  },
+  {
+   "t": 592.14,
+   "dur": 0.07,
+   "peak_t": 592.19,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.7,
+   "rel_voice_dB": -11.7,
+   "low_dB": -33.8,
+   "mid_dB": -38.4,
+   "hi_dB": -39.3,
+   "centroid_Hz": 1040,
+   "attack_ms": 50,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 593.82,
+   "dur": 0.04,
+   "peak_t": 593.84,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.4,
+   "rel_voice_dB": -12.5,
+   "low_dB": -36.1,
+   "mid_dB": -47.4,
+   "hi_dB": -35.7,
+   "centroid_Hz": 3599,
+   "attack_ms": 20,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 594.06,
+   "dur": 0.09,
+   "peak_t": 594.07,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.3,
+   "rel_voice_dB": -6.3,
+   "low_dB": -27.4,
+   "mid_dB": -42.7,
+   "hi_dB": -52.0,
+   "centroid_Hz": 84,
+   "attack_ms": 10,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 594.59,
+   "dur": 0.31,
+   "peak_t": 594.6,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.1,
+   "rel_voice_dB": -9.1,
+   "low_dB": -35.9,
+   "mid_dB": -32.9,
+   "hi_dB": -34.3,
+   "centroid_Hz": 1316,
+   "attack_ms": 10,
+   "decay10dB_ms": 210,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 597.46,
+   "dur": 0.47,
+   "peak_t": 597.78,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.3,
+   "rel_voice_dB": -9.3,
+   "low_dB": -30.5,
+   "mid_dB": -35.7,
+   "hi_dB": -48.7,
+   "centroid_Hz": 168,
+   "attack_ms": 320,
+   "decay10dB_ms": 300,
+   "voice_active_share": 0.89,
+   "strong": true
+  },
+  {
+   "t": 598.09,
+   "dur": 0.06,
+   "peak_t": 598.14,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.3,
+   "rel_voice_dB": -15.3,
+   "low_dB": -39.1,
+   "mid_dB": -38.7,
+   "hi_dB": -59.4,
+   "centroid_Hz": 278,
+   "attack_ms": 50,
+   "decay10dB_ms": 1220,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 600.19,
+   "dur": 0.08,
+   "peak_t": 600.22,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.7,
+   "rel_voice_dB": -4.7,
+   "low_dB": -25.7,
+   "mid_dB": -40.5,
+   "hi_dB": -51.6,
+   "centroid_Hz": 66,
+   "attack_ms": 30,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 600.44,
+   "dur": 0.03,
+   "peak_t": 600.44,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.2,
+   "rel_voice_dB": -5.2,
+   "low_dB": -26.2,
+   "mid_dB": -48.8,
+   "hi_dB": -67.9,
+   "centroid_Hz": 42,
+   "attack_ms": 0,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 600.66,
+   "dur": 0.05,
+   "peak_t": 600.7,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.7,
+   "rel_voice_dB": -6.7,
+   "low_dB": -27.7,
+   "mid_dB": -40.6,
+   "hi_dB": -66.3,
+   "centroid_Hz": 53,
+   "attack_ms": 40,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 607.09,
+   "dur": 0.2,
+   "peak_t": 607.28,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.1,
+   "rel_voice_dB": -6.1,
+   "low_dB": -27.1,
+   "mid_dB": -43.5,
+   "hi_dB": -62.2,
+   "centroid_Hz": 44,
+   "attack_ms": 190,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 608.66,
+   "dur": 0.16,
+   "peak_t": 608.66,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.9,
+   "rel_voice_dB": -7.0,
+   "low_dB": -28.0,
+   "mid_dB": -40.8,
+   "hi_dB": -61.8,
+   "centroid_Hz": 62,
+   "attack_ms": 0,
+   "decay10dB_ms": 10,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 611.28,
+   "dur": 0.2,
+   "peak_t": 611.33,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.8,
+   "low_dB": -31.3,
+   "mid_dB": -34.5,
+   "hi_dB": -56.2,
+   "centroid_Hz": 202,
+   "attack_ms": 50,
+   "decay10dB_ms": 740,
+   "voice_active_share": 0.45,
+   "strong": true
+  },
+  {
+   "t": 613.48,
+   "dur": 0.47,
+   "peak_t": 613.72,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.8,
+   "low_dB": -29.3,
+   "mid_dB": -34.0,
+   "hi_dB": -44.5,
+   "centroid_Hz": 251,
+   "attack_ms": 240,
+   "decay10dB_ms": 270,
+   "voice_active_share": 0.62,
+   "strong": true
+  },
+  {
+   "t": 614.3,
+   "dur": 0.64,
+   "peak_t": 614.38,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.2,
+   "rel_voice_dB": -6.2,
+   "low_dB": -27.3,
+   "mid_dB": -37.9,
+   "hi_dB": -57.0,
+   "centroid_Hz": 45,
+   "attack_ms": 80,
+   "decay10dB_ms": 170,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 619.12,
+   "dur": 0.51,
+   "peak_t": 619.27,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.0,
+   "rel_voice_dB": -3.0,
+   "low_dB": -24.3,
+   "mid_dB": -36.0,
+   "hi_dB": -42.1,
+   "centroid_Hz": 122,
+   "attack_ms": 150,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 621.84,
+   "dur": 0.2,
+   "peak_t": 621.86,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.5,
+   "rel_voice_dB": -7.5,
+   "low_dB": -29.9,
+   "mid_dB": -34.1,
+   "hi_dB": -56.9,
+   "centroid_Hz": 163,
+   "attack_ms": 20,
+   "decay10dB_ms": 180,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 623.79,
+   "dur": 0.4,
+   "peak_t": 624.12,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.3,
+   "rel_voice_dB": -7.4,
+   "low_dB": -28.6,
+   "mid_dB": -35.7,
+   "hi_dB": -54.3,
+   "centroid_Hz": 213,
+   "attack_ms": 330,
+   "decay10dB_ms": 100,
+   "voice_active_share": 0.68,
+   "strong": true
+  },
+  {
+   "t": 625.22,
+   "dur": 0.33,
+   "peak_t": 625.47,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.8,
+   "rel_voice_dB": -7.8,
+   "low_dB": -28.9,
+   "mid_dB": -39.8,
+   "hi_dB": -34.2,
+   "centroid_Hz": 438,
+   "attack_ms": 250,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 626.94,
+   "dur": 0.07,
+   "peak_t": 626.97,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.9,
+   "rel_voice_dB": -9.9,
+   "low_dB": -43.7,
+   "mid_dB": -35.9,
+   "hi_dB": -32.1,
+   "centroid_Hz": 5474,
+   "attack_ms": 30,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 627.35,
+   "dur": 0.17,
+   "peak_t": 627.46,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -32.2,
+   "rel_voice_dB": -11.2,
+   "low_dB": -33.4,
+   "mid_dB": -38.0,
+   "hi_dB": -49.1,
+   "centroid_Hz": 162,
+   "attack_ms": 110,
+   "decay10dB_ms": 120,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 628.43,
+   "dur": 0.56,
+   "peak_t": 628.64,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.6,
+   "rel_voice_dB": -7.7,
+   "low_dB": -28.8,
+   "mid_dB": -35.7,
+   "hi_dB": -60.5,
+   "centroid_Hz": 132,
+   "attack_ms": 210,
+   "decay10dB_ms": 390,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 631.16,
+   "dur": 0.21,
+   "peak_t": 631.19,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.7,
+   "low_dB": -30.4,
+   "mid_dB": -34.9,
+   "hi_dB": -58.9,
+   "centroid_Hz": 164,
+   "attack_ms": 30,
+   "decay10dB_ms": 140,
+   "voice_active_share": 0.67,
+   "strong": true
+  },
+  {
+   "t": 634.48,
+   "dur": 0.35,
+   "peak_t": 634.74,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -31.2,
+   "rel_voice_dB": -10.3,
+   "low_dB": -32.1,
+   "mid_dB": -33.5,
+   "hi_dB": -53.7,
+   "centroid_Hz": 248,
+   "attack_ms": 260,
+   "decay10dB_ms": 150,
+   "voice_active_share": 0.86,
+   "strong": true
+  },
+  {
+   "t": 636.23,
+   "dur": 0.92,
+   "peak_t": 636.51,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.5,
+   "rel_voice_dB": -10.6,
+   "low_dB": -34.4,
+   "mid_dB": -34.7,
+   "hi_dB": -46.5,
+   "centroid_Hz": 242,
+   "attack_ms": 280,
+   "decay10dB_ms": 540,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 640.37,
+   "dur": 0.18,
+   "peak_t": 640.46,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.9,
+   "rel_voice_dB": -6.9,
+   "low_dB": -28.0,
+   "mid_dB": -38.6,
+   "hi_dB": -60.4,
+   "centroid_Hz": 84,
+   "attack_ms": 90,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 642.52,
+   "dur": 0.16,
+   "peak_t": 642.58,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.7,
+   "rel_voice_dB": -9.7,
+   "low_dB": -31.0,
+   "mid_dB": -39.6,
+   "hi_dB": -64.7,
+   "centroid_Hz": 113,
+   "attack_ms": 60,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 643.35,
+   "dur": 0.1,
+   "peak_t": 643.38,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.8,
+   "rel_voice_dB": -8.8,
+   "low_dB": -32.2,
+   "mid_dB": -35.3,
+   "hi_dB": -32.0,
+   "centroid_Hz": 3023,
+   "attack_ms": 30,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 643.99,
+   "dur": 0.06,
+   "peak_t": 644.0,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -38.0,
+   "rel_voice_dB": -17.0,
+   "low_dB": -41.4,
+   "mid_dB": -39.9,
+   "hi_dB": -46.8,
+   "centroid_Hz": 1081,
+   "attack_ms": 10,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 645.23,
+   "dur": 0.4,
+   "peak_t": 645.31,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.9,
+   "rel_voice_dB": -7.9,
+   "low_dB": -38.5,
+   "mid_dB": -31.2,
+   "hi_dB": -32.5,
+   "centroid_Hz": 1489,
+   "attack_ms": 80,
+   "decay10dB_ms": 240,
+   "voice_active_share": 0.8,
+   "strong": true
+  },
+  {
+   "t": 645.79,
+   "dur": 0.28,
+   "peak_t": 645.92,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.9,
+   "rel_voice_dB": -8.9,
+   "low_dB": -30.6,
+   "mid_dB": -33.8,
+   "hi_dB": -54.7,
+   "centroid_Hz": 182,
+   "attack_ms": 130,
+   "decay10dB_ms": 70,
+   "voice_active_share": 0.68,
+   "strong": true
+  },
+  {
+   "t": 647.96,
+   "dur": 0.46,
+   "peak_t": 648.22,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.0,
+   "rel_voice_dB": -9.0,
+   "low_dB": -32.1,
+   "mid_dB": -31.7,
+   "hi_dB": -53.7,
+   "centroid_Hz": 243,
+   "attack_ms": 260,
+   "decay10dB_ms": 150,
+   "voice_active_share": 0.85,
+   "strong": true
+  },
+  {
+   "t": 649.55,
+   "dur": 0.44,
+   "peak_t": 649.57,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.3,
+   "rel_voice_dB": -6.4,
+   "low_dB": -28.6,
+   "mid_dB": -34.0,
+   "hi_dB": -29.8,
+   "centroid_Hz": 506,
+   "attack_ms": 20,
+   "decay10dB_ms": 270,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 654.25,
+   "dur": 0.53,
+   "peak_t": 654.4,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.2,
+   "rel_voice_dB": -2.2,
+   "low_dB": -23.5,
+   "mid_dB": -32.8,
+   "hi_dB": -28.3,
+   "centroid_Hz": 563,
+   "attack_ms": 150,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 656.2,
+   "dur": 0.08,
+   "peak_t": 656.23,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.8,
+   "rel_voice_dB": -9.9,
+   "low_dB": -31.9,
+   "mid_dB": -36.0,
+   "hi_dB": -57.2,
+   "centroid_Hz": 160,
+   "attack_ms": 30,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 659.88,
+   "dur": 0.24,
+   "peak_t": 660.11,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.9,
+   "rel_voice_dB": -9.0,
+   "low_dB": -30.0,
+   "mid_dB": -33.4,
+   "hi_dB": -56.8,
+   "centroid_Hz": 241,
+   "attack_ms": 230,
+   "decay10dB_ms": 130,
+   "voice_active_share": 0.42,
+   "strong": true
+  },
+  {
+   "t": 662.61,
+   "dur": 0.26,
+   "peak_t": 662.69,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.2,
+   "rel_voice_dB": -8.3,
+   "low_dB": -30.6,
+   "mid_dB": -34.8,
+   "hi_dB": -50.9,
+   "centroid_Hz": 191,
+   "attack_ms": 80,
+   "decay10dB_ms": 140,
+   "voice_active_share": 0.85,
+   "strong": true
+  },
+  {
+   "t": 666.66,
+   "dur": 0.75,
+   "peak_t": 666.85,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.1,
+   "rel_voice_dB": -5.2,
+   "low_dB": -26.2,
+   "mid_dB": -37.6,
+   "hi_dB": -57.8,
+   "centroid_Hz": 64,
+   "attack_ms": 190,
+   "decay10dB_ms": 170,
+   "voice_active_share": 0.92,
+   "strong": true
+  },
+  {
+   "t": 667.98,
+   "dur": 0.05,
+   "peak_t": 668.01,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.0,
+   "rel_voice_dB": -15.0,
+   "low_dB": -37.3,
+   "mid_dB": -42.0,
+   "hi_dB": -62.0,
+   "centroid_Hz": 256,
+   "attack_ms": 30,
+   "decay10dB_ms": 1940,
+   "voice_active_share": 0.2,
+   "strong": false
+  },
+  {
+   "t": 668.19,
+   "dur": 0.06,
+   "peak_t": 668.21,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -30.0,
+   "rel_voice_dB": -9.1,
+   "low_dB": -38.6,
+   "mid_dB": -34.9,
+   "hi_dB": -32.7,
+   "centroid_Hz": 3819,
+   "attack_ms": 20,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 668.4,
+   "dur": 0.04,
+   "peak_t": 668.4,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.7,
+   "rel_voice_dB": -6.7,
+   "low_dB": -27.9,
+   "mid_dB": -40.0,
+   "hi_dB": -68.0,
+   "centroid_Hz": 50,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 668.94,
+   "dur": 0.54,
+   "peak_t": 669.45,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.4,
+   "rel_voice_dB": -7.4,
+   "low_dB": -29.0,
+   "mid_dB": -34.1,
+   "hi_dB": -29.9,
+   "centroid_Hz": 5702,
+   "attack_ms": 510,
+   "decay10dB_ms": 240,
+   "voice_active_share": 0.83,
+   "strong": true
+  },
+  {
+   "t": 671.69,
+   "dur": 0.04,
+   "peak_t": 671.72,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.0,
+   "rel_voice_dB": -9.0,
+   "low_dB": -32.2,
+   "mid_dB": -33.6,
+   "hi_dB": -60.2,
+   "centroid_Hz": 160,
+   "attack_ms": 30,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 678.5,
+   "dur": 0.03,
+   "peak_t": 678.5,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.6,
+   "rel_voice_dB": -16.6,
+   "low_dB": -39.2,
+   "mid_dB": -41.4,
+   "hi_dB": -62.0,
+   "centroid_Hz": 335,
+   "attack_ms": 0,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 680.01,
+   "dur": 0.18,
+   "peak_t": 680.02,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.9,
+   "rel_voice_dB": -10.9,
+   "low_dB": -34.6,
+   "mid_dB": -34.1,
+   "hi_dB": -64.4,
+   "centroid_Hz": 320,
+   "attack_ms": 10,
+   "decay10dB_ms": 430,
+   "voice_active_share": 0.56,
+   "strong": true
+  },
+  {
+   "t": 680.81,
+   "dur": 0.46,
+   "peak_t": 681.06,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.9,
+   "rel_voice_dB": -4.9,
+   "low_dB": -26.2,
+   "mid_dB": -35.4,
+   "hi_dB": -62.7,
+   "centroid_Hz": 73,
+   "attack_ms": 250,
+   "decay10dB_ms": 280,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 681.44,
+   "dur": 0.08,
+   "peak_t": 681.47,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.0,
+   "rel_voice_dB": -12.0,
+   "low_dB": -36.0,
+   "mid_dB": -35.1,
+   "hi_dB": -56.6,
+   "centroid_Hz": 269,
+   "attack_ms": 30,
+   "decay10dB_ms": 1590,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 682.0,
+   "dur": 0.09,
+   "peak_t": 682.04,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.3,
+   "rel_voice_dB": -6.4,
+   "low_dB": -28.1,
+   "mid_dB": -34.5,
+   "hi_dB": -57.0,
+   "centroid_Hz": 166,
+   "attack_ms": 40,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 684.77,
+   "dur": 0.62,
+   "peak_t": 685.14,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.3,
+   "rel_voice_dB": -7.4,
+   "low_dB": -28.4,
+   "mid_dB": -33.3,
+   "hi_dB": -60.3,
+   "centroid_Hz": 129,
+   "attack_ms": 370,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 685.61,
+   "dur": 0.16,
+   "peak_t": 685.61,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -33.6,
+   "rel_voice_dB": -12.6,
+   "low_dB": -34.2,
+   "mid_dB": -39.0,
+   "hi_dB": -62.8,
+   "centroid_Hz": 124,
+   "attack_ms": 0,
+   "decay10dB_ms": 250,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 686.06,
+   "dur": 0.47,
+   "peak_t": 686.17,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.8,
+   "rel_voice_dB": -2.9,
+   "low_dB": -24.2,
+   "mid_dB": -33.8,
+   "hi_dB": -48.4,
+   "centroid_Hz": 120,
+   "attack_ms": 110,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 689.86,
+   "dur": 0.3,
+   "peak_t": 689.93,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.6,
+   "rel_voice_dB": -8.6,
+   "low_dB": -31.8,
+   "mid_dB": -32.2,
+   "hi_dB": -55.3,
+   "centroid_Hz": 239,
+   "attack_ms": 70,
+   "decay10dB_ms": 280,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 691.98,
+   "dur": 0.07,
+   "peak_t": 692.02,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.0,
+   "rel_voice_dB": -15.0,
+   "low_dB": -47.5,
+   "mid_dB": -36.2,
+   "hi_dB": -58.5,
+   "centroid_Hz": 655,
+   "attack_ms": 40,
+   "decay10dB_ms": 830,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 693.32,
+   "dur": 0.03,
+   "peak_t": 693.32,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.2,
+   "rel_voice_dB": -16.2,
+   "low_dB": -48.6,
+   "mid_dB": -37.4,
+   "hi_dB": -68.4,
+   "centroid_Hz": 722,
+   "attack_ms": 0,
+   "decay10dB_ms": 790,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 694.51,
+   "dur": 0.43,
+   "peak_t": 694.76,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.0,
+   "rel_voice_dB": -9.1,
+   "low_dB": -31.2,
+   "mid_dB": -34.5,
+   "hi_dB": -56.7,
+   "centroid_Hz": 238,
+   "attack_ms": 250,
+   "decay10dB_ms": 40,
+   "voice_active_share": 0.79,
+   "strong": true
+  },
+  {
+   "t": 697.16,
+   "dur": 0.17,
+   "peak_t": 697.19,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.2,
+   "rel_voice_dB": -14.2,
+   "low_dB": -50.1,
+   "mid_dB": -35.3,
+   "hi_dB": -65.5,
+   "centroid_Hz": 436,
+   "attack_ms": 30,
+   "decay10dB_ms": 270,
+   "voice_active_share": 0.47,
+   "strong": false
+  },
+  {
+   "t": 698.35,
+   "dur": 0.31,
+   "peak_t": 698.37,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.4,
+   "rel_voice_dB": -16.4,
+   "low_dB": -43.4,
+   "mid_dB": -37.7,
+   "hi_dB": -62.4,
+   "centroid_Hz": 406,
+   "attack_ms": 20,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.81,
+   "strong": false
+  },
+  {
+   "t": 700.99,
+   "dur": 0.03,
+   "peak_t": 700.99,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.0,
+   "rel_voice_dB": -14.1,
+   "low_dB": -47.1,
+   "mid_dB": -35.2,
+   "hi_dB": -62.7,
+   "centroid_Hz": 360,
+   "attack_ms": 0,
+   "decay10dB_ms": 1950,
+   "voice_active_share": 0.0,
+   "strong": false
+  },
+  {
+   "t": 701.31,
+   "dur": 0.06,
+   "peak_t": 701.35,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.3,
+   "rel_voice_dB": -15.3,
+   "low_dB": -49.8,
+   "mid_dB": -36.3,
+   "hi_dB": -62.4,
+   "centroid_Hz": 564,
+   "attack_ms": 40,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 702.29,
+   "dur": 0.49,
+   "peak_t": 702.53,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.0,
+   "rel_voice_dB": -9.0,
+   "low_dB": -30.7,
+   "mid_dB": -35.4,
+   "hi_dB": -58.0,
+   "centroid_Hz": 214,
+   "attack_ms": 240,
+   "decay10dB_ms": 360,
+   "voice_active_share": 0.8,
+   "strong": true
+  },
+  {
+   "t": 703.29,
+   "dur": 0.03,
+   "peak_t": 703.31,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -39.3,
+   "rel_voice_dB": -18.4,
+   "low_dB": -46.7,
+   "mid_dB": -41.4,
+   "hi_dB": -43.6,
+   "centroid_Hz": 1713,
+   "attack_ms": 20,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 705.61,
+   "dur": 0.43,
+   "peak_t": 705.79,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.2,
+   "rel_voice_dB": -4.3,
+   "low_dB": -25.7,
+   "mid_dB": -34.9,
+   "hi_dB": -56.7,
+   "centroid_Hz": 100,
+   "attack_ms": 180,
+   "decay10dB_ms": 70,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 706.63,
+   "dur": 0.06,
+   "peak_t": 706.67,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -37.0,
+   "rel_voice_dB": -16.1,
+   "low_dB": -48.2,
+   "mid_dB": -37.4,
+   "hi_dB": -52.3,
+   "centroid_Hz": 615,
+   "attack_ms": 40,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 707.23,
+   "dur": 0.42,
+   "peak_t": 707.37,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.5,
+   "rel_voice_dB": -6.5,
+   "low_dB": -27.5,
+   "mid_dB": -39.8,
+   "hi_dB": -64.3,
+   "centroid_Hz": 73,
+   "attack_ms": 140,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 707.99,
+   "dur": 0.05,
+   "peak_t": 708.01,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.9,
+   "rel_voice_dB": -15.9,
+   "low_dB": -48.9,
+   "mid_dB": -37.2,
+   "hi_dB": -52.5,
+   "centroid_Hz": 583,
+   "attack_ms": 20,
+   "decay10dB_ms": 2750,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 708.43,
+   "dur": 0.03,
+   "peak_t": 708.43,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.6,
+   "rel_voice_dB": -15.6,
+   "low_dB": -43.7,
+   "mid_dB": -38.0,
+   "hi_dB": -41.8,
+   "centroid_Hz": 1362,
+   "attack_ms": 0,
+   "decay10dB_ms": 2330,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 709.14,
+   "dur": 0.05,
+   "peak_t": 709.14,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.8,
+   "rel_voice_dB": -14.9,
+   "low_dB": -49.4,
+   "mid_dB": -35.9,
+   "hi_dB": -65.2,
+   "centroid_Hz": 483,
+   "attack_ms": 0,
+   "decay10dB_ms": 1610,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 711.84,
+   "dur": 0.99,
+   "peak_t": 712.67,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.1,
+   "rel_voice_dB": -9.1,
+   "low_dB": -31.2,
+   "mid_dB": -33.4,
+   "hi_dB": -32.0,
+   "centroid_Hz": 952,
+   "attack_ms": 830,
+   "decay10dB_ms": 270,
+   "voice_active_share": 0.83,
+   "strong": true
+  },
+  {
+   "t": 714.42,
+   "dur": 0.47,
+   "peak_t": 714.82,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.3,
+   "rel_voice_dB": -12.3,
+   "low_dB": -36.1,
+   "mid_dB": -36.6,
+   "hi_dB": -41.7,
+   "centroid_Hz": 719,
+   "attack_ms": 400,
+   "decay10dB_ms": 50,
+   "voice_active_share": 0.53,
+   "strong": true
+  },
+  {
+   "t": 717.48,
+   "dur": 0.47,
+   "peak_t": 717.53,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.1,
+   "rel_voice_dB": -11.1,
+   "low_dB": -34.4,
+   "mid_dB": -34.1,
+   "hi_dB": -37.3,
+   "centroid_Hz": 682,
+   "attack_ms": 50,
+   "decay10dB_ms": 1530,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 724.23,
+   "dur": 0.41,
+   "peak_t": 724.46,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.7,
+   "rel_voice_dB": -5.8,
+   "low_dB": -26.8,
+   "mid_dB": -36.0,
+   "hi_dB": -41.4,
+   "centroid_Hz": 122,
+   "attack_ms": 230,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 726.9,
+   "dur": 0.64,
+   "peak_t": 727.0,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.0,
+   "rel_voice_dB": -7.0,
+   "low_dB": -28.4,
+   "mid_dB": -32.9,
+   "hi_dB": -40.9,
+   "centroid_Hz": 170,
+   "attack_ms": 100,
+   "decay10dB_ms": 590,
+   "voice_active_share": 0.94,
+   "strong": true
+  },
+  {
+   "t": 728.19,
+   "dur": 0.03,
+   "peak_t": 728.2,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -36.4,
+   "rel_voice_dB": -15.4,
+   "low_dB": -46.0,
+   "mid_dB": -37.5,
+   "hi_dB": -43.8,
+   "centroid_Hz": 1859,
+   "attack_ms": 10,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 728.42,
+   "dur": 0.35,
+   "peak_t": 728.46,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -38.1,
+   "mid_dB": -39.0,
+   "hi_dB": -36.2,
+   "centroid_Hz": 1624,
+   "attack_ms": 40,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 732.15,
+   "dur": 0.07,
+   "peak_t": 732.15,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.7,
+   "rel_voice_dB": -12.7,
+   "low_dB": -40.5,
+   "mid_dB": -35.0,
+   "hi_dB": -43.8,
+   "centroid_Hz": 936,
+   "attack_ms": 0,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 732.4,
+   "dur": 0.05,
+   "peak_t": 732.44,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -34.4,
+   "rel_voice_dB": -13.4,
+   "low_dB": -39.8,
+   "mid_dB": -36.5,
+   "hi_dB": -42.3,
+   "centroid_Hz": 590,
+   "attack_ms": 40,
+   "decay10dB_ms": 2910,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 734.29,
+   "dur": 0.26,
+   "peak_t": 734.33,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.3,
+   "rel_voice_dB": -5.4,
+   "low_dB": -26.6,
+   "mid_dB": -35.1,
+   "hi_dB": -61.7,
+   "centroid_Hz": 115,
+   "attack_ms": 40,
+   "decay10dB_ms": 200,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 736.68,
+   "dur": 0.19,
+   "peak_t": 736.79,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.8,
+   "rel_voice_dB": -12.8,
+   "low_dB": -35.3,
+   "mid_dB": -36.7,
+   "hi_dB": -36.5,
+   "centroid_Hz": 1565,
+   "attack_ms": 110,
+   "decay10dB_ms": 1780,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 741.95,
+   "dur": 0.23,
+   "peak_t": 742.12,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.1,
+   "rel_voice_dB": -11.1,
+   "low_dB": -33.6,
+   "mid_dB": -35.1,
+   "hi_dB": -45.4,
+   "centroid_Hz": 274,
+   "attack_ms": 170,
+   "decay10dB_ms": 240,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 742.49,
+   "dur": 0.26,
+   "peak_t": 742.56,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.7,
+   "rel_voice_dB": -11.7,
+   "low_dB": -34.4,
+   "mid_dB": -39.8,
+   "hi_dB": -36.2,
+   "centroid_Hz": 1643,
+   "attack_ms": 70,
+   "decay10dB_ms": 1270,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 745.14,
+   "dur": 0.4,
+   "peak_t": 745.37,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.5,
+   "rel_voice_dB": -3.5,
+   "low_dB": -24.7,
+   "mid_dB": -34.7,
+   "hi_dB": -53.2,
+   "centroid_Hz": 85,
+   "attack_ms": 230,
+   "decay10dB_ms": 50,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 748.55,
+   "dur": 0.15,
+   "peak_t": 748.56,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.2,
+   "rel_voice_dB": -10.3,
+   "low_dB": -35.8,
+   "mid_dB": -34.6,
+   "hi_dB": -35.7,
+   "centroid_Hz": 1391,
+   "attack_ms": 10,
+   "decay10dB_ms": 740,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 750.23,
+   "dur": 0.05,
+   "peak_t": 750.23,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -35.6,
+   "rel_voice_dB": -14.7,
+   "low_dB": -42.6,
+   "mid_dB": -40.5,
+   "hi_dB": -37.2,
+   "centroid_Hz": 2455,
+   "attack_ms": 0,
+   "decay10dB_ms": 3000,
+   "voice_active_share": 0.8,
+   "strong": false
+  },
+  {
+   "t": 751.09,
+   "dur": 0.14,
+   "peak_t": 751.09,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.1,
+   "rel_voice_dB": -8.2,
+   "low_dB": -30.5,
+   "mid_dB": -34.1,
+   "hi_dB": -51.8,
+   "centroid_Hz": 162,
+   "attack_ms": 0,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 756.44,
+   "dur": 0.48,
+   "peak_t": 756.62,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -34.0,
+   "rel_voice_dB": -13.0,
+   "low_dB": -34.6,
+   "mid_dB": -38.8,
+   "hi_dB": -58.8,
+   "centroid_Hz": 133,
+   "attack_ms": 180,
+   "decay10dB_ms": 120,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 759.17,
+   "dur": 0.22,
+   "peak_t": 759.31,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -32.8,
+   "rel_voice_dB": -11.8,
+   "low_dB": -33.2,
+   "mid_dB": -35.6,
+   "hi_dB": -40.5,
+   "centroid_Hz": 1040,
+   "attack_ms": 140,
+   "decay10dB_ms": 160,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 761.93,
+   "dur": 0.29,
+   "peak_t": 762.1,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.5,
+   "rel_voice_dB": -4.6,
+   "low_dB": -25.7,
+   "mid_dB": -38.3,
+   "hi_dB": -44.1,
+   "centroid_Hz": 174,
+   "attack_ms": 170,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 762.83,
+   "dur": 0.55,
+   "peak_t": 763.08,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.5,
+   "rel_voice_dB": -7.6,
+   "low_dB": -29.5,
+   "mid_dB": -33.6,
+   "hi_dB": -56.1,
+   "centroid_Hz": 221,
+   "attack_ms": 250,
+   "decay10dB_ms": 120,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 766.59,
+   "dur": 0.75,
+   "peak_t": 766.6,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.2,
+   "rel_voice_dB": -5.2,
+   "low_dB": -26.2,
+   "mid_dB": -45.9,
+   "hi_dB": -66.7,
+   "centroid_Hz": 43,
+   "attack_ms": 10,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 769.65,
+   "dur": 0.49,
+   "peak_t": 769.71,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -30.3,
+   "rel_voice_dB": -9.4,
+   "low_dB": -31.8,
+   "mid_dB": -34.9,
+   "hi_dB": -55.9,
+   "centroid_Hz": 179,
+   "attack_ms": 60,
+   "decay10dB_ms": 240,
+   "voice_active_share": 0.86,
+   "strong": true
+  },
+  {
+   "t": 773.01,
+   "dur": 0.3,
+   "peak_t": 773.11,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.4,
+   "rel_voice_dB": -8.4,
+   "low_dB": -30.3,
+   "mid_dB": -36.1,
+   "hi_dB": -51.0,
+   "centroid_Hz": 197,
+   "attack_ms": 100,
+   "decay10dB_ms": 250,
+   "voice_active_share": 0.7,
+   "strong": true
+  },
+  {
+   "t": 777.25,
+   "dur": 0.04,
+   "peak_t": 777.25,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -34.2,
+   "rel_voice_dB": -13.3,
+   "low_dB": -34.6,
+   "mid_dB": -44.3,
+   "hi_dB": -75.7,
+   "centroid_Hz": 101,
+   "attack_ms": 0,
+   "decay10dB_ms": 300,
+   "voice_active_share": 1.0,
+   "strong": false
+  },
+  {
+   "t": 779.68,
+   "dur": 0.24,
+   "peak_t": 779.71,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.7,
+   "rel_voice_dB": -7.7,
+   "low_dB": -30.1,
+   "mid_dB": -34.3,
+   "hi_dB": -62.8,
+   "centroid_Hz": 148,
+   "attack_ms": 30,
+   "decay10dB_ms": 240,
+   "voice_active_share": 0.88,
+   "strong": true
+  },
+  {
+   "t": 780.63,
+   "dur": 0.18,
+   "peak_t": 780.65,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -32.8,
+   "rel_voice_dB": -11.9,
+   "low_dB": -42.2,
+   "mid_dB": -38.7,
+   "hi_dB": -33.7,
+   "centroid_Hz": 2767,
+   "attack_ms": 20,
+   "decay10dB_ms": 900,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 781.4,
+   "dur": 0.03,
+   "peak_t": 781.4,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.7,
+   "rel_voice_dB": -8.7,
+   "low_dB": -54.4,
+   "mid_dB": -41.6,
+   "hi_dB": -30.0,
+   "centroid_Hz": 10834,
+   "attack_ms": 0,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 782.1,
+   "dur": 0.16,
+   "peak_t": 782.25,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.5,
+   "rel_voice_dB": -12.5,
+   "low_dB": -38.6,
+   "mid_dB": -35.4,
+   "hi_dB": -35.9,
+   "centroid_Hz": 2205,
+   "attack_ms": 150,
+   "decay10dB_ms": 740,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 784.0,
+   "dur": 0.72,
+   "peak_t": 784.33,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.1,
+   "rel_voice_dB": -4.1,
+   "low_dB": -25.5,
+   "mid_dB": -32.6,
+   "hi_dB": -54.5,
+   "centroid_Hz": 91,
+   "attack_ms": 330,
+   "decay10dB_ms": 70,
+   "voice_active_share": 0.83,
+   "strong": true
+  },
+  {
+   "t": 786.8,
+   "dur": 0.33,
+   "peak_t": 786.85,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.0,
+   "rel_voice_dB": -3.1,
+   "low_dB": -24.1,
+   "mid_dB": -35.2,
+   "hi_dB": -40.7,
+   "centroid_Hz": 115,
+   "attack_ms": 50,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 792.87,
+   "dur": 0.44,
+   "peak_t": 793.05,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.0,
+   "rel_voice_dB": -6.0,
+   "low_dB": -28.2,
+   "mid_dB": -30.5,
+   "hi_dB": -51.9,
+   "centroid_Hz": 162,
+   "attack_ms": 180,
+   "decay10dB_ms": 310,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 795.45,
+   "dur": 0.49,
+   "peak_t": 795.49,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.2,
+   "rel_voice_dB": -7.2,
+   "low_dB": -29.6,
+   "mid_dB": -33.8,
+   "hi_dB": -57.7,
+   "centroid_Hz": 187,
+   "attack_ms": 40,
+   "decay10dB_ms": 260,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 796.94,
+   "dur": 0.19,
+   "peak_t": 797.04,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.9,
+   "rel_voice_dB": -5.0,
+   "low_dB": -26.4,
+   "mid_dB": -34.6,
+   "hi_dB": -52.2,
+   "centroid_Hz": 107,
+   "attack_ms": 100,
+   "decay10dB_ms": 100,
+   "voice_active_share": 0.68,
+   "strong": true
+  },
+  {
+   "t": 797.98,
+   "dur": 0.21,
+   "peak_t": 797.99,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.3,
+   "rel_voice_dB": -8.4,
+   "low_dB": -29.6,
+   "mid_dB": -32.9,
+   "hi_dB": -58.8,
+   "centroid_Hz": 162,
+   "attack_ms": 10,
+   "decay10dB_ms": 410,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 799.01,
+   "dur": 0.19,
+   "peak_t": 799.11,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.8,
+   "rel_voice_dB": -4.8,
+   "low_dB": -26.0,
+   "mid_dB": -35.1,
+   "hi_dB": -50.4,
+   "centroid_Hz": 110,
+   "attack_ms": 100,
+   "decay10dB_ms": 90,
+   "voice_active_share": 0.63,
+   "strong": true
+  },
+  {
+   "t": 800.07,
+   "dur": 0.22,
+   "peak_t": 800.07,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.9,
+   "rel_voice_dB": -7.9,
+   "low_dB": -29.2,
+   "mid_dB": -36.0,
+   "hi_dB": -59.0,
+   "centroid_Hz": 121,
+   "attack_ms": 0,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 801.71,
+   "dur": 0.17,
+   "peak_t": 801.87,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -22.5,
+   "rel_voice_dB": -1.5,
+   "low_dB": -22.5,
+   "mid_dB": -37.9,
+   "hi_dB": -60.6,
+   "centroid_Hz": 58,
+   "attack_ms": 160,
+   "decay10dB_ms": 10,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 803.09,
+   "dur": 0.16,
+   "peak_t": 803.09,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -29.1,
+   "rel_voice_dB": -8.2,
+   "low_dB": -29.6,
+   "mid_dB": -37.8,
+   "hi_dB": -57.7,
+   "centroid_Hz": 159,
+   "attack_ms": 0,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 803.43,
+   "dur": 0.28,
+   "peak_t": 803.5,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.6,
+   "rel_voice_dB": -6.6,
+   "low_dB": -27.9,
+   "mid_dB": -36.2,
+   "hi_dB": -59.9,
+   "centroid_Hz": 79,
+   "attack_ms": 70,
+   "decay10dB_ms": 290,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 804.46,
+   "dur": 0.05,
+   "peak_t": 804.46,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.5,
+   "rel_voice_dB": -10.5,
+   "low_dB": -36.4,
+   "mid_dB": -33.2,
+   "hi_dB": -61.7,
+   "centroid_Hz": 329,
+   "attack_ms": 0,
+   "decay10dB_ms": 480,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 805.19,
+   "dur": 0.05,
+   "peak_t": 805.2,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -33.9,
+   "rel_voice_dB": -12.9,
+   "low_dB": -44.5,
+   "mid_dB": -34.9,
+   "hi_dB": -39.3,
+   "centroid_Hz": 1075,
+   "attack_ms": 10,
+   "decay10dB_ms": 1790,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 806.25,
+   "dur": 0.38,
+   "peak_t": 806.4,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -27.9,
+   "rel_voice_dB": -6.9,
+   "low_dB": -28.1,
+   "mid_dB": -36.9,
+   "hi_dB": -53.6,
+   "centroid_Hz": 119,
+   "attack_ms": 150,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 807.86,
+   "dur": 0.12,
+   "peak_t": 807.95,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -26.5,
+   "rel_voice_dB": -5.5,
+   "low_dB": -26.6,
+   "mid_dB": -38.7,
+   "hi_dB": -65.6,
+   "centroid_Hz": 53,
+   "attack_ms": 90,
+   "decay10dB_ms": 670,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 808.17,
+   "dur": 0.32,
+   "peak_t": 808.47,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.1,
+   "rel_voice_dB": -4.2,
+   "low_dB": -25.6,
+   "mid_dB": -32.4,
+   "hi_dB": -42.9,
+   "centroid_Hz": 94,
+   "attack_ms": 300,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 809.65,
+   "dur": 0.13,
+   "peak_t": 809.65,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -28.3,
+   "rel_voice_dB": -7.3,
+   "low_dB": -28.6,
+   "mid_dB": -37.9,
+   "hi_dB": -61.1,
+   "centroid_Hz": 142,
+   "attack_ms": 0,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 813.06,
+   "dur": 0.29,
+   "peak_t": 813.24,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -27.2,
+   "rel_voice_dB": -6.2,
+   "low_dB": -28.8,
+   "mid_dB": -28.9,
+   "hi_dB": -54.7,
+   "centroid_Hz": 196,
+   "attack_ms": 180,
+   "decay10dB_ms": 330,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 814.66,
+   "dur": 0.22,
+   "peak_t": 814.8,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.2,
+   "rel_voice_dB": -5.3,
+   "low_dB": -26.4,
+   "mid_dB": -33.3,
+   "hi_dB": -52.6,
+   "centroid_Hz": 106,
+   "attack_ms": 140,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 816.18,
+   "dur": 0.08,
+   "peak_t": 816.21,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.4,
+   "rel_voice_dB": -8.4,
+   "low_dB": -35.6,
+   "mid_dB": -33.5,
+   "hi_dB": -32.0,
+   "centroid_Hz": 2915,
+   "attack_ms": 30,
+   "decay10dB_ms": 140,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 816.61,
+   "dur": 0.25,
+   "peak_t": 816.66,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.9,
+   "rel_voice_dB": -4.9,
+   "low_dB": -26.2,
+   "mid_dB": -37.5,
+   "hi_dB": -56.0,
+   "centroid_Hz": 136,
+   "attack_ms": 50,
+   "decay10dB_ms": 90,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 817.09,
+   "dur": 0.18,
+   "peak_t": 817.24,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.8,
+   "rel_voice_dB": -10.8,
+   "low_dB": -33.7,
+   "mid_dB": -35.6,
+   "hi_dB": -34.7,
+   "centroid_Hz": 1186,
+   "attack_ms": 150,
+   "decay10dB_ms": 960,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 818.91,
+   "dur": 0.07,
+   "peak_t": 818.94,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -31.7,
+   "rel_voice_dB": -10.8,
+   "low_dB": -39.8,
+   "mid_dB": -36.3,
+   "hi_dB": -34.2,
+   "centroid_Hz": 3176,
+   "attack_ms": 30,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 819.21,
+   "dur": 0.21,
+   "peak_t": 819.34,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.8,
+   "rel_voice_dB": -5.9,
+   "low_dB": -27.1,
+   "mid_dB": -36.5,
+   "hi_dB": -56.4,
+   "centroid_Hz": 129,
+   "attack_ms": 130,
+   "decay10dB_ms": 80,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 820.34,
+   "dur": 0.17,
+   "peak_t": 820.44,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.6,
+   "rel_voice_dB": -5.7,
+   "low_dB": -26.9,
+   "mid_dB": -32.9,
+   "hi_dB": -50.6,
+   "centroid_Hz": 104,
+   "attack_ms": 100,
+   "decay10dB_ms": 110,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 820.89,
+   "dur": 0.11,
+   "peak_t": 820.94,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.7,
+   "rel_voice_dB": -5.7,
+   "low_dB": -34.6,
+   "mid_dB": -32.7,
+   "hi_dB": -28.0,
+   "centroid_Hz": 3372,
+   "attack_ms": 50,
+   "decay10dB_ms": 60,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 821.71,
+   "dur": 0.41,
+   "peak_t": 822.05,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.2,
+   "rel_voice_dB": -5.2,
+   "low_dB": -26.4,
+   "mid_dB": -29.2,
+   "hi_dB": -49.7,
+   "centroid_Hz": 197,
+   "attack_ms": 340,
+   "decay10dB_ms": 50,
+   "voice_active_share": 0.93,
+   "strong": true
+  },
+  {
+   "t": 824.8,
+   "dur": 0.28,
+   "peak_t": 824.86,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -26.3,
+   "rel_voice_dB": -5.4,
+   "low_dB": -26.9,
+   "mid_dB": -34.4,
+   "hi_dB": -57.8,
+   "centroid_Hz": 115,
+   "attack_ms": 60,
+   "decay10dB_ms": 120,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 826.67,
+   "dur": 0.27,
+   "peak_t": 826.8,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.2,
+   "rel_voice_dB": -3.2,
+   "low_dB": -24.5,
+   "mid_dB": -34.1,
+   "hi_dB": -58.7,
+   "centroid_Hz": 90,
+   "attack_ms": 130,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 829.67,
+   "dur": 0.28,
+   "peak_t": 829.76,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -25.8,
+   "rel_voice_dB": -4.8,
+   "low_dB": -25.9,
+   "mid_dB": -37.1,
+   "hi_dB": -52.7,
+   "centroid_Hz": 76,
+   "attack_ms": 90,
+   "decay10dB_ms": 100,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 831.22,
+   "dur": 0.64,
+   "peak_t": 831.41,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -29.2,
+   "rel_voice_dB": -8.2,
+   "low_dB": -30.7,
+   "mid_dB": -31.6,
+   "hi_dB": -52.9,
+   "centroid_Hz": 214,
+   "attack_ms": 190,
+   "decay10dB_ms": 470,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 832.44,
+   "dur": 0.2,
+   "peak_t": 832.6,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -24.9,
+   "rel_voice_dB": -4.0,
+   "low_dB": -25.0,
+   "mid_dB": -35.8,
+   "hi_dB": -57.7,
+   "centroid_Hz": 91,
+   "attack_ms": 160,
+   "decay10dB_ms": 20,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 833.16,
+   "dur": 0.1,
+   "peak_t": 833.25,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.9,
+   "rel_voice_dB": -5.0,
+   "low_dB": -26.6,
+   "mid_dB": -35.9,
+   "hi_dB": -39.3,
+   "centroid_Hz": 764,
+   "attack_ms": 90,
+   "decay10dB_ms": 1640,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 833.64,
+   "dur": 0.08,
+   "peak_t": 833.64,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.5,
+   "rel_voice_dB": -4.5,
+   "low_dB": -27.2,
+   "mid_dB": -29.4,
+   "hi_dB": -59.0,
+   "centroid_Hz": 137,
+   "attack_ms": 0,
+   "decay10dB_ms": 1230,
+   "voice_active_share": 0.5,
+   "strong": true
+  },
+  {
+   "t": 836.4,
+   "dur": 0.75,
+   "peak_t": 836.69,
+   "kinds": [
+    "BB",
+    "LOW"
+   ],
+   "peak_dBFS": -23.1,
+   "rel_voice_dB": -2.2,
+   "low_dB": -23.4,
+   "mid_dB": -30.7,
+   "hi_dB": -40.8,
+   "centroid_Hz": 115,
+   "attack_ms": 290,
+   "decay10dB_ms": 180,
+   "voice_active_share": 0.92,
+   "strong": true
+  },
+  {
+   "t": 838.31,
+   "dur": 0.63,
+   "peak_t": 838.84,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.6,
+   "rel_voice_dB": -4.6,
+   "low_dB": -26.9,
+   "mid_dB": -32.9,
+   "hi_dB": -32.2,
+   "centroid_Hz": 1232,
+   "attack_ms": 530,
+   "decay10dB_ms": 680,
+   "voice_active_share": 0.76,
+   "strong": true
+  },
+  {
+   "t": 839.67,
+   "dur": 0.19,
+   "peak_t": 839.74,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -28.1,
+   "rel_voice_dB": -7.1,
+   "low_dB": -29.7,
+   "mid_dB": -34.7,
+   "hi_dB": -31.0,
+   "centroid_Hz": 3404,
+   "attack_ms": 70,
+   "decay10dB_ms": 170,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 840.35,
+   "dur": 0.11,
+   "peak_t": 840.41,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -25.5,
+   "rel_voice_dB": -4.5,
+   "low_dB": -26.1,
+   "mid_dB": -30.7,
+   "hi_dB": -51.6,
+   "centroid_Hz": 160,
+   "attack_ms": 60,
+   "decay10dB_ms": 400,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 841.89,
+   "dur": 0.16,
+   "peak_t": 841.94,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.5,
+   "rel_voice_dB": -5.5,
+   "low_dB": -27.3,
+   "mid_dB": -38.5,
+   "hi_dB": -26.7,
+   "centroid_Hz": 3844,
+   "attack_ms": 50,
+   "decay10dB_ms": 30,
+   "voice_active_share": 0.69,
+   "strong": true
+  },
+  {
+   "t": 843.02,
+   "dur": 0.39,
+   "peak_t": 843.25,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -28.2,
+   "rel_voice_dB": -7.3,
+   "low_dB": -28.4,
+   "mid_dB": -36.8,
+   "hi_dB": -72.0,
+   "centroid_Hz": 82,
+   "attack_ms": 230,
+   "decay10dB_ms": 250,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 843.64,
+   "dur": 0.15,
+   "peak_t": 843.65,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -27.6,
+   "rel_voice_dB": -6.7,
+   "low_dB": -27.7,
+   "mid_dB": -39.3,
+   "hi_dB": -74.2,
+   "centroid_Hz": 118,
+   "attack_ms": 10,
+   "decay10dB_ms": 320,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 844.04,
+   "dur": 0.03,
+   "peak_t": 844.05,
+   "kinds": [
+    "LOW"
+   ],
+   "peak_dBFS": -28.9,
+   "rel_voice_dB": -8.0,
+   "low_dB": -29.1,
+   "mid_dB": -39.6,
+   "hi_dB": -74.2,
+   "centroid_Hz": 98,
+   "attack_ms": 10,
+   "decay10dB_ms": 230,
+   "voice_active_share": 1.0,
+   "strong": true
+  },
+  {
+   "t": 845.49,
+   "dur": 0.1,
+   "peak_t": 845.54,
+   "kinds": [
+    "BB"
+   ],
+   "peak_dBFS": -26.7,
+   "rel_voice_dB": -5.8,
+   "low_dB": -45.5,
+   "mid_dB": -35.2,
+   "hi_dB": -27.4,
+   "centroid_Hz": 6036,
+   "attack_ms": 50,
+   "decay10dB_ms": 40,
+   "voice_active_share": 1.0,
+   "strong": true
+  }
+ ],
+ "pauses": [
+  {
+   "t": 4.48,
+   "dur": 0.13
+  },
+  {
+   "t": 55.41,
+   "dur": 0.19
+  },
+  {
+   "t": 109.05,
+   "dur": 0.15
+  },
+  {
+   "t": 109.62,
+   "dur": 0.14
+  },
+  {
+   "t": 114.99,
+   "dur": 0.13
+  },
+  {
+   "t": 120.02,
+   "dur": 0.18
+  },
+  {
+   "t": 133.58,
+   "dur": 0.12
+  },
+  {
+   "t": 140.31,
+   "dur": 0.12
+  },
+  {
+   "t": 141.55,
+   "dur": 0.12
+  },
+  {
+   "t": 149.95,
+   "dur": 0.16
+  },
+  {
+   "t": 151.58,
+   "dur": 0.12
+  },
+  {
+   "t": 156.07,
+   "dur": 0.14
+  },
+  {
+   "t": 174.69,
+   "dur": 0.16
+  },
+  {
+   "t": 177.19,
+   "dur": 0.15
+  },
+  {
+   "t": 221.01,
+   "dur": 0.12
+  },
+  {
+   "t": 231.38,
+   "dur": 0.19
+  },
+  {
+   "t": 244.8,
+   "dur": 0.15
+  },
+  {
+   "t": 251.34,
+   "dur": 0.17
+  },
+  {
+   "t": 259.97,
+   "dur": 0.12
+  },
+  {
+   "t": 294.76,
+   "dur": 0.14
+  },
+  {
+   "t": 300.17,
+   "dur": 0.16
+  },
+  {
+   "t": 300.81,
+   "dur": 0.18
+  },
+  {
+   "t": 311.37,
+   "dur": 0.15
+  },
+  {
+   "t": 314.07,
+   "dur": 0.14
+  },
+  {
+   "t": 320.34,
+   "dur": 0.16
+  },
+  {
+   "t": 336.29,
+   "dur": 0.13
+  },
+  {
+   "t": 339.09,
+   "dur": 0.12
+  },
+  {
+   "t": 355.88,
+   "dur": 0.12
+  },
+  {
+   "t": 361.04,
+   "dur": 0.15
+  },
+  {
+   "t": 362.27,
+   "dur": 0.2
+  },
+  {
+   "t": 366.84,
+   "dur": 0.14
+  },
+  {
+   "t": 384.48,
+   "dur": 0.14
+  },
+  {
+   "t": 385.01,
+   "dur": 0.14
+  },
+  {
+   "t": 394.84,
+   "dur": 0.13
+  },
+  {
+   "t": 410.53,
+   "dur": 0.12
+  },
+  {
+   "t": 430.36,
+   "dur": 0.13
+  },
+  {
+   "t": 440.61,
+   "dur": 0.12
+  },
+  {
+   "t": 452.46,
+   "dur": 0.19
+  },
+  {
+   "t": 466.07,
+   "dur": 0.15
+  },
+  {
+   "t": 468.04,
+   "dur": 0.13
+  },
+  {
+   "t": 484.06,
+   "dur": 0.14
+  },
+  {
+   "t": 486.85,
+   "dur": 0.14
+  },
+  {
+   "t": 487.65,
+   "dur": 0.19
+  },
+  {
+   "t": 488.81,
+   "dur": 0.13
+  },
+  {
+   "t": 515.07,
+   "dur": 0.13
+  },
+  {
+   "t": 529.26,
+   "dur": 0.16
+  },
+  {
+   "t": 530.47,
+   "dur": 0.13
+  },
+  {
+   "t": 543.27,
+   "dur": 0.15
+  },
+  {
+   "t": 550.83,
+   "dur": 0.17
+  },
+  {
+   "t": 551.96,
+   "dur": 0.12
+  },
+  {
+   "t": 562.73,
+   "dur": 0.12
+  },
+  {
+   "t": 578.06,
+   "dur": 0.12
+  },
+  {
+   "t": 599.66,
+   "dur": 0.18
+  },
+  {
+   "t": 611.17,
+   "dur": 0.22
+  },
+  {
+   "t": 615.69,
+   "dur": 0.19
+  },
+  {
+   "t": 623.58,
+   "dur": 0.13
+  },
+  {
+   "t": 623.88,
+   "dur": 0.13
+  },
+  {
+   "t": 624.87,
+   "dur": 0.21
+  },
+  {
+   "t": 631.07,
+   "dur": 0.16
+  },
+  {
+   "t": 642.14,
+   "dur": 0.2
+  },
+  {
+   "t": 650.34,
+   "dur": 0.14
+  },
+  {
+   "t": 650.78,
+   "dur": 0.17
+  },
+  {
+   "t": 657.27,
+   "dur": 0.16
+  },
+  {
+   "t": 659.88,
+   "dur": 0.14
+  },
+  {
+   "t": 681.84,
+   "dur": 0.14
+  },
+  {
+   "t": 700.94,
+   "dur": 0.13
+  },
+  {
+   "t": 702.27,
+   "dur": 0.12
+  },
+  {
+   "t": 712.4,
+   "dur": 0.17
+  },
+  {
+   "t": 714.63,
+   "dur": 0.22
+  },
+  {
+   "t": 718.14,
+   "dur": 0.13
+  },
+  {
+   "t": 751.33,
+   "dur": 0.14
+  },
+  {
+   "t": 753.66,
+   "dur": 0.16
+  },
+  {
+   "t": 765.02,
+   "dur": 0.19
+  },
+  {
+   "t": 797.07,
+   "dur": 0.12
+  },
+  {
+   "t": 829.09,
+   "dur": 0.17
+  },
+  {
+   "t": 838.78,
+   "dur": 0.15
+  },
+  {
+   "t": 841.72,
+   "dur": 0.22
+  },
+  {
+   "t": 844.48,
+   "dur": 0.15
+  }
+ ]
+}

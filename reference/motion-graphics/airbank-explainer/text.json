@@ -1,0 +1,5377 @@
+{
+ "video": "airbank-explainer.mp4",
+ "sample_fps": 5.0,
+ "samples": 310,
+ "tracks": [
+  {
+   "text": "Present day",
+   "t0": 0.8,
+   "t1": 2.2,
+   "dur": 1.4,
+   "box": [
+    0.421,
+    0.781,
+    0.577,
+    0.835
+   ],
+   "h": 0.054,
+   "conf": 0.86,
+   "text_colour": "#c4c2be",
+   "bg_colour": "#eeece9",
+   "grew": false
+  },
+  {
+   "text": "2002",
+   "t0": 2.2,
+   "t1": 3.4,
+   "dur": 1.2,
+   "box": [
+    0.469,
+    0.787,
+    0.53,
+    0.83
+   ],
+   "h": 0.043,
+   "conf": 0.8,
+   "text_colour": "#9d9a99",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "1990",
+   "t0": 3.4,
+   "t1": 5.8,
+   "dur": 2.4,
+   "box": [
+    0.476,
+    0.856,
+    0.522,
+    0.889
+   ],
+   "h": 0.044,
+   "conf": 0.8,
+   "text_colour": "#302e2d",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Ba' Iing",
+   "t0": 5.4,
+   "t1": 7.4,
+   "dur": 2.0,
+   "box": [
+    0.346,
+    0.361,
+    0.654,
+    0.637
+   ],
+   "h": 0.276,
+   "conf": 0.87,
+   "text_colour": "#040302",
+   "bg_colour": "#efede9",
+   "grew": false
+  },
+  {
+   "text": "Ar",
+   "t0": 8.4,
+   "t1": 8.6,
+   "dur": 0.2,
+   "box": [
+    0.342,
+    0.502,
+    0.502,
+    0.839
+   ],
+   "h": 0.337,
+   "conf": 0.66,
+   "text_colour": "#000000",
+   "bg_colour": "#efede9",
+   "grew": false
+  },
+  {
+   "text": "Airbank",
+   "t0": 8.8,
+   "t1": 10.6,
+   "dur": 1.8,
+   "box": [
+    0.336,
+    0.437,
+    0.669,
+    0.569
+   ],
+   "h": 0.343,
+   "conf": 0.87,
+   "text_colour": "#000000",
+   "bg_colour": "#efede9",
+   "grew": false
+  },
+  {
+   "text": "Small businesses or startups",
+   "t0": 11.0,
+   "t1": 13.8,
+   "dur": 2.8,
+   "box": [
+    0.307,
+    0.767,
+    0.693,
+    0.822
+   ],
+   "h": 0.085,
+   "conf": 0.94,
+   "text_colour": "#cbc9c5",
+   "bg_colour": "#efede9",
+   "grew": true,
+   "first_text": "Small"
+  },
+  {
+   "text": "startups",
+   "t0": 13.8,
+   "t1": 14.0,
+   "dur": 0.2,
+   "box": [
+    0.577,
+    0.774,
+    0.693,
+    0.82
+   ],
+   "h": 0.046,
+   "conf": 0.84,
+   "text_colour": "#c3c1c1",
+   "bg_colour": "#edeceb",
+   "grew": false
+  },
+  {
+   "text": "- 1.560,00",
+   "t0": 14.6,
+   "t1": 14.8,
+   "dur": 0.2,
+   "box": [
+    0.766,
+    0.28,
+    0.824,
+    0.298
+   ],
+   "h": 0.019,
+   "conf": 0.75,
+   "text_colour": "#8c8b8b",
+   "bg_colour": "#f9f7f7",
+   "grew": false
+  },
+  {
+   "text": "- 39,96 ri±",
+   "t0": 14.6,
+   "t1": 14.8,
+   "dur": 0.2,
+   "box": [
+    0.775,
+    0.38,
+    0.826,
+    0.407
+   ],
+   "h": 0.028,
+   "conf": 0.75,
+   "text_colour": "#919191",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "alance",
+   "t0": 14.8,
+   "t1": 15.0,
+   "dur": 0.2,
+   "box": [
+    0.151,
+    0.302,
+    0.183,
+    0.326
+   ],
+   "h": 0.024,
+   "conf": 0.82,
+   "text_colour": "#7c7c7c",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "1.560,00 tct",
+   "t0": 14.8,
+   "t1": 15.0,
+   "dur": 0.2,
+   "box": [
+    0.77,
+    0.467,
+    0.825,
+    0.487
+   ],
+   "h": 0.02,
+   "conf": 0.84,
+   "text_colour": "#8a8a8a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "- 299.00 x4",
+   "t0": 14.8,
+   "t1": 15.2,
+   "dur": 0.4,
+   "box": [
+    0.775,
+    0.317,
+    0.824,
+    0.335
+   ],
+   "h": 0.019,
+   "conf": 0.73,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "299,00 rug",
+   "t0": 14.8,
+   "t1": 15.6,
+   "dur": 0.8,
+   "box": [
+    0.777,
+    0.569,
+    0.825,
+    0.589
+   ],
+   "h": 0.022,
+   "conf": 0.81,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Banking",
+   "t0": 14.8,
+   "t1": 17.4,
+   "dur": 2.6,
+   "box": [
+    0.281,
+    0.144,
+    0.323,
+    0.178
+   ],
+   "h": 0.035,
+   "conf": 0.86,
+   "text_colour": "#706d64",
+   "bg_colour": "#edece1",
+   "grew": false
+  },
+  {
+   "text": "Airbank",
+   "t0": 14.8,
+   "t1": 17.4,
+   "dur": 2.6,
+   "box": [
+    0.188,
+    0.144,
+    0.249,
+    0.176
+   ],
+   "h": 0.037,
+   "conf": 0.86,
+   "text_colour": "#222222",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Revenue",
+   "t0": 14.8,
+   "t1": 17.4,
+   "dur": 2.6,
+   "box": [
+    0.342,
+    0.144,
+    0.386,
+    0.178
+   ],
+   "h": 0.033,
+   "conf": 0.85,
+   "text_colour": "#817c7c",
+   "bg_colour": "#f0eceb",
+   "grew": false
+  },
+  {
+   "text": "1.660,00,so",
+   "t0": 15.0,
+   "t1": 15.2,
+   "dur": 0.2,
+   "box": [
+    0.772,
+    0.619,
+    0.825,
+    0.637
+   ],
+   "h": 0.019,
+   "conf": 0.62,
+   "text_colour": "#929292",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "- 39,90 IVt",
+   "t0": 15.0,
+   "t1": 15.2,
+   "dur": 0.2,
+   "box": [
+    0.778,
+    0.7,
+    0.826,
+    0.719
+   ],
+   "h": 0.019,
+   "conf": 0.62,
+   "text_colour": "#909090",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "+ 2.700,00 r6a",
+   "t0": 15.0,
+   "t1": 15.4,
+   "dur": 0.4,
+   "box": [
+    0.766,
+    0.381,
+    0.825,
+    0.4
+   ],
+   "h": 0.02,
+   "conf": 0.9,
+   "text_colour": "#919191",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Expenses",
+   "t0": 15.0,
+   "t1": 17.4,
+   "dur": 2.4,
+   "box": [
+    0.406,
+    0.15,
+    0.45,
+    0.174
+   ],
+   "h": 0.031,
+   "conf": 0.88,
+   "text_colour": "#7c7c7c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Cashflow",
+   "t0": 15.0,
+   "t1": 17.4,
+   "dur": 2.4,
+   "box": [
+    0.473,
+    0.146,
+    0.519,
+    0.176
+   ],
+   "h": 0.03,
+   "conf": 0.86,
+   "text_colour": "#787878",
+   "bg_colour": "#fbfbfc",
+   "grew": false
+  },
+  {
+   "text": "Total baiance",
+   "t0": 15.0,
+   "t1": 17.4,
+   "dur": 2.4,
+   "box": [
+    0.188,
+    0.304,
+    0.249,
+    0.335
+   ],
+   "h": 0.031,
+   "conf": 0.89,
+   "text_colour": "#7c7c7c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "EUR 816.709,00",
+   "t0": 15.0,
+   "t1": 17.4,
+   "dur": 2.4,
+   "box": [
+    0.169,
+    0.331,
+    0.282,
+    0.359
+   ],
+   "h": 0.028,
+   "conf": 0.9,
+   "text_colour": "#444444",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "299,99 6.0",
+   "t0": 15.2,
+   "t1": 15.4,
+   "dur": 0.2,
+   "box": [
+    0.778,
+    0.478,
+    0.825,
+    0.496
+   ],
+   "h": 0.019,
+   "conf": 0.76,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "1.560,00 t,a",
+   "t0": 15.2,
+   "t1": 16.0,
+   "dur": 0.8,
+   "box": [
+    0.774,
+    0.778,
+    0.824,
+    0.796
+   ],
+   "h": 0.019,
+   "conf": 0.79,
+   "text_colour": "#8e8e8e",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "39,90 (V0",
+   "t0": 15.2,
+   "t1": 16.6,
+   "dur": 1.4,
+   "box": [
+    0.786,
+    0.826,
+    0.824,
+    0.844
+   ],
+   "h": 0.019,
+   "conf": 0.75,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fcfcfc",
+   "grew": true,
+   "first_text": "39,90 ()"
+  },
+  {
+   "text": "2.700,00 tv",
+   "t0": 15.2,
+   "t1": 17.2,
+   "dur": 2.0,
+   "box": [
+    0.768,
+    0.559,
+    0.825,
+    0.581
+   ],
+   "h": 0.022,
+   "conf": 0.87,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Treasury",
+   "t0": 15.2,
+   "t1": 17.4,
+   "dur": 2.2,
+   "box": [
+    0.535,
+    0.144,
+    0.579,
+    0.178
+   ],
+   "h": 0.033,
+   "conf": 0.88,
+   "text_colour": "#7a7a7a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Add bark sctount",
+   "t0": 15.2,
+   "t1": 17.4,
+   "dur": 2.2,
+   "box": [
+    0.723,
+    0.226,
+    0.798,
+    0.259
+   ],
+   "h": 0.033,
+   "conf": 0.9,
+   "text_colour": "#b7b6b6",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "299,00 rot",
+   "t0": 15.2,
+   "t1": 17.4,
+   "dur": 2.2,
+   "box": [
+    0.777,
+    0.635,
+    0.825,
+    0.657
+   ],
+   "h": 0.022,
+   "conf": 0.86,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": ".108.28",
+   "t0": 15.4,
+   "t1": 15.6,
+   "dur": 0.2,
+   "box": [
+    0.777,
+    0.333,
+    0.816,
+    0.352
+   ],
+   "h": 0.019,
+   "conf": 0.67,
+   "text_colour": "#838383",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "- 79,90 1Vt",
+   "t0": 15.4,
+   "t1": 15.6,
+   "dur": 0.2,
+   "box": [
+    0.78,
+    0.42,
+    0.824,
+    0.439
+   ],
+   "h": 0.019,
+   "conf": 0.67,
+   "text_colour": "#8e8e8e",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "2.700,00 1y9",
+   "t0": 15.4,
+   "t1": 15.6,
+   "dur": 0.2,
+   "box": [
+    0.766,
+    0.498,
+    0.825,
+    0.517
+   ],
+   "h": 0.019,
+   "conf": 0.71,
+   "text_colour": "#909090",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "2.800,00 ryt",
+   "t0": 15.4,
+   "t1": 16.0,
+   "dur": 0.6,
+   "box": [
+    0.769,
+    0.635,
+    0.825,
+    0.654
+   ],
+   "h": 0.019,
+   "conf": 0.8,
+   "text_colour": "#979797",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "299,00 r,R",
+   "t0": 15.4,
+   "t1": 17.4,
+   "dur": 2.0,
+   "box": [
+    0.78,
+    0.726,
+    0.825,
+    0.748
+   ],
+   "h": 0.024,
+   "conf": 0.77,
+   "text_colour": "#929292",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "2.800,00",
+   "t0": 15.6,
+   "t1": 15.8,
+   "dur": 0.2,
+   "box": [
+    0.774,
+    0.278,
+    0.811,
+    0.298
+   ],
+   "h": 0.02,
+   "conf": 0.85,
+   "text_colour": "#989797",
+   "bg_colour": "#f9f7f9",
+   "grew": false
+  },
+  {
+   "text": "432,70",
+   "t0": 15.6,
+   "t1": 15.8,
+   "dur": 0.2,
+   "box": [
+    0.784,
+    0.359,
+    0.812,
+    0.374
+   ],
+   "h": 0.015,
+   "conf": 0.7,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#f4f4f4",
+   "grew": false
+  },
+  {
+   "text": ".106,28 1",
+   "t0": 15.6,
+   "t1": 15.8,
+   "dur": 0.2,
+   "box": [
+    0.777,
+    0.431,
+    0.819,
+    0.45
+   ],
+   "h": 0.019,
+   "conf": 0.82,
+   "text_colour": "#868686",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "- 79,90 rux",
+   "t0": 15.6,
+   "t1": 16.2,
+   "dur": 0.6,
+   "box": [
+    0.78,
+    0.563,
+    0.825,
+    0.581
+   ],
+   "h": 0.022,
+   "conf": 0.78,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": ".299,001",
+   "t0": 15.8,
+   "t1": 16.0,
+   "dur": 0.2,
+   "box": [
+    0.78,
+    0.293,
+    0.816,
+    0.313
+   ],
+   "h": 0.02,
+   "conf": 0.73,
+   "text_colour": "#979495",
+   "bg_colour": "#fdfcfc",
+   "grew": false
+  },
+  {
+   "text": "$,108,28 sU",
+   "t0": 15.8,
+   "t1": 16.0,
+   "dur": 0.2,
+   "box": [
+    0.777,
+    0.485,
+    0.822,
+    0.504
+   ],
+   "h": 0.019,
+   "conf": 0.65,
+   "text_colour": "#858585",
+   "bg_colour": "#fafafa",
+   "grew": false
+  },
+  {
+   "text": "2.800,00 roo",
+   "t0": 15.8,
+   "t1": 17.4,
+   "dur": 1.6,
+   "box": [
+    0.768,
+    0.406,
+    0.826,
+    0.43
+   ],
+   "h": 0.024,
+   "conf": 0.81,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "432,70 tup",
+   "t0": 15.8,
+   "t1": 17.4,
+   "dur": 1.6,
+   "box": [
+    0.781,
+    0.463,
+    0.824,
+    0.481
+   ],
+   "h": 0.02,
+   "conf": 0.85,
+   "text_colour": "#919191",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Date",
+   "t0": 16.0,
+   "t1": 16.2,
+   "dur": 0.2,
+   "box": [
+    0.618,
+    0.289,
+    0.641,
+    0.315
+   ],
+   "h": 0.026,
+   "conf": 0.77,
+   "text_colour": "#818181",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Ceegory",
+   "t0": 16.0,
+   "t1": 16.2,
+   "dur": 0.2,
+   "box": [
+    0.693,
+    0.287,
+    0.734,
+    0.317
+   ],
+   "h": 0.03,
+   "conf": 0.71,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Reference",
+   "t0": 16.0,
+   "t1": 17.2,
+   "dur": 1.2,
+   "box": [
+    0.446,
+    0.352,
+    0.487,
+    0.376
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#838383",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Description",
+   "t0": 16.0,
+   "t1": 17.4,
+   "dur": 1.4,
+   "box": [
+    0.345,
+    0.357,
+    0.391,
+    0.38
+   ],
+   "h": 0.028,
+   "conf": 0.88,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Actoont",
+   "t0": 16.0,
+   "t1": 17.4,
+   "dur": 1.4,
+   "box": [
+    0.534,
+    0.356,
+    0.571,
+    0.383
+   ],
+   "h": 0.028,
+   "conf": 0.84,
+   "text_colour": "#8b898a",
+   "bg_colour": "#fdfcfc",
+   "grew": false
+  },
+  {
+   "text": "Amount",
+   "t0": 16.0,
+   "t1": 17.4,
+   "dur": 1.4,
+   "box": [
+    0.761,
+    0.359,
+    0.794,
+    0.383
+   ],
+   "h": 0.024,
+   "conf": 0.84,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "- 299,00 rUr",
+   "t0": 16.0,
+   "t1": 17.4,
+   "dur": 1.4,
+   "box": [
+    0.774,
+    0.38,
+    0.825,
+    0.404
+   ],
+   "h": 0.024,
+   "conf": 0.8,
+   "text_colour": "#888888",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "44,106,28 (Ut",
+   "t0": 16.0,
+   "t1": 17.4,
+   "dur": 1.4,
+   "box": [
+    0.768,
+    0.509,
+    0.826,
+    0.537
+   ],
+   "h": 0.028,
+   "conf": 0.83,
+   "text_colour": "#838383",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "2.800.00 6",
+   "t0": 16.0,
+   "t1": 17.4,
+   "dur": 1.4,
+   "box": [
+    0.756,
+    0.691,
+    0.8,
+    0.707
+   ],
+   "h": 0.017,
+   "conf": 0.83,
+   "text_colour": "#939393",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "1.160.90",
+   "t0": 16.2,
+   "t1": 17.0,
+   "dur": 0.8,
+   "box": [
+    0.776,
+    0.789,
+    0.811,
+    0.802
+   ],
+   "h": 0.013,
+   "conf": 0.69,
+   "text_colour": "#949494",
+   "bg_colour": "#f1f1f1",
+   "grew": false
+  },
+  {
+   "text": "Dete",
+   "t0": 16.2,
+   "t1": 17.4,
+   "dur": 1.2,
+   "box": [
+    0.61,
+    0.357,
+    0.633,
+    0.383
+   ],
+   "h": 0.026,
+   "conf": 0.71,
+   "text_colour": "#7d7d7d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Male a peyment",
+   "t0": 16.4,
+   "t1": 16.6,
+   "dur": 0.2,
+   "box": [
+    0.743,
+    0.293,
+    0.816,
+    0.326
+   ],
+   "h": 0.033,
+   "conf": 0.79,
+   "text_colour": "#b4b4b4",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Date",
+   "t0": 16.4,
+   "t1": 16.6,
+   "dur": 0.2,
+   "box": [
+    0.618,
+    0.348,
+    0.641,
+    0.372
+   ],
+   "h": 0.024,
+   "conf": 0.77,
+   "text_colour": "#838383",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "EUR",
+   "t0": 16.4,
+   "t1": 17.2,
+   "dur": 0.8,
+   "box": [
+    0.17,
+    0.333,
+    0.205,
+    0.357
+   ],
+   "h": 0.024,
+   "conf": 0.75,
+   "text_colour": "#606060",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Caetegory",
+   "t0": 16.4,
+   "t1": 17.4,
+   "dur": 1.0,
+   "box": [
+    0.693,
+    0.348,
+    0.734,
+    0.381
+   ],
+   "h": 0.033,
+   "conf": 0.79,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Transactions",
+   "t0": 16.4,
+   "t1": 17.6,
+   "dur": 1.2,
+   "box": [
+    0.399,
+    0.35,
+    0.459,
+    0.372
+   ],
+   "h": 0.031,
+   "conf": 0.92,
+   "text_colour": "#353435",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "susubed e opw",
+   "t0": 16.6,
+   "t1": 17.0,
+   "dur": 0.4,
+   "box": [
+    0.744,
+    0.304,
+    0.816,
+    0.331
+   ],
+   "h": 0.028,
+   "conf": 0.61,
+   "text_colour": "#b7b7b7",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "219.00",
+   "t0": 17.0,
+   "t1": 17.2,
+   "dur": 0.2,
+   "box": [
+    0.782,
+    0.746,
+    0.81,
+    0.759
+   ],
+   "h": 0.013,
+   "conf": 0.73,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#f0f0f0",
+   "grew": false
+  },
+  {
+   "text": "Make a peyment",
+   "t0": 17.0,
+   "t1": 17.4,
+   "dur": 0.4,
+   "box": [
+    0.743,
+    0.3,
+    0.817,
+    0.335
+   ],
+   "h": 0.035,
+   "conf": 0.81,
+   "text_colour": "#b3b3b3",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "79.99",
+   "t0": 17.2,
+   "t1": 17.4,
+   "dur": 0.2,
+   "box": [
+    0.769,
+    0.569,
+    0.794,
+    0.583
+   ],
+   "h": 0.015,
+   "conf": 0.66,
+   "text_colour": "#989898",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "R016.709,00",
+   "t0": 17.4,
+   "t1": 17.6,
+   "dur": 0.2,
+   "box": [
+    0.294,
+    0.372,
+    0.367,
+    0.4
+   ],
+   "h": 0.028,
+   "conf": 0.79,
+   "text_colour": "#616161",
+   "bg_colour": "#e0e0e0",
+   "grew": false
+  },
+  {
+   "text": "hemurt",
+   "t0": 17.4,
+   "t1": 17.6,
+   "dur": 0.2,
+   "box": [
+    0.531,
+    0.391,
+    0.557,
+    0.411
+   ],
+   "h": 0.02,
+   "conf": 0.64,
+   "text_colour": "#7f7d7e",
+   "bg_colour": "#dfdedf",
+   "grew": false
+  },
+  {
+   "text": "Revtrse",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.367,
+    0.17,
+    0.402,
+    0.193
+   ],
+   "h": 0.022,
+   "conf": 0.67,
+   "text_colour": "#a4a4a4",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "iance",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.222,
+    0.319,
+    0.246,
+    0.343
+   ],
+   "h": 0.024,
+   "conf": 0.68,
+   "text_colour": "#a8a6a5",
+   "bg_colour": "#f0eeee",
+   "grew": false
+  },
+  {
+   "text": "783.605,38",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.689,
+    0.307,
+    0.738,
+    0.326
+   ],
+   "h": 0.019,
+   "conf": 0.68,
+   "text_colour": "#adadad",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "-709,00",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.22,
+    0.337,
+    0.268,
+    0.37
+   ],
+   "h": 0.033,
+   "conf": 0.77,
+   "text_colour": "#8f8c8d",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": ".67",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.221,
+    0.369,
+    0.245,
+    0.4
+   ],
+   "h": 0.031,
+   "conf": 0.73,
+   "text_colour": "#8b8989",
+   "bg_colour": "#f2f0f0",
+   "grew": false
+  },
+  {
+   "text": "14.329.14 -c)",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.692,
+    0.374,
+    0.738,
+    0.393
+   ],
+   "h": 0.019,
+   "conf": 0.73,
+   "text_colour": "#a6a6a6",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Cashfliow",
+   "t0": 21.2,
+   "t1": 26.2,
+   "dur": 5.0,
+   "box": [
+    0.468,
+    0.117,
+    0.517,
+    0.148
+   ],
+   "h": 0.031,
+   "conf": 0.88,
+   "text_colour": "#a3a3a3",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Expenses",
+   "t0": 21.2,
+   "t1": 26.2,
+   "dur": 5.0,
+   "box": [
+    0.406,
+    0.161,
+    0.449,
+    0.185
+   ],
+   "h": 0.031,
+   "conf": 0.89,
+   "text_colour": "#9d9d9d",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Airbank",
+   "t0": 21.2,
+   "t1": 26.2,
+   "dur": 5.0,
+   "box": [
+    0.195,
+    0.157,
+    0.253,
+    0.187
+   ],
+   "h": 0.037,
+   "conf": 0.87,
+   "text_colour": "#656565",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Bansing",
+   "t0": 21.2,
+   "t1": 26.2,
+   "dur": 5.0,
+   "box": [
+    0.287,
+    0.157,
+    0.326,
+    0.185
+   ],
+   "h": 0.035,
+   "conf": 0.87,
+   "text_colour": "#9c9996",
+   "bg_colour": "#e8e7e1",
+   "grew": false
+  },
+  {
+   "text": "Treosury",
+   "t0": 21.2,
+   "t1": 26.2,
+   "dur": 5.0,
+   "box": [
+    0.532,
+    0.161,
+    0.573,
+    0.185
+   ],
+   "h": 0.035,
+   "conf": 0.89,
+   "text_colour": "#a2a2a2",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Add banik aceount",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.768,
+    0.215,
+    0.844,
+    0.237
+   ],
+   "h": 0.031,
+   "conf": 0.89,
+   "text_colour": "#aeaeae",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "29.601, 13 (55",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.768,
+    0.389,
+    0.825,
+    0.411
+   ],
+   "h": 0.022,
+   "conf": 0.87,
+   "text_colour": "#929191",
+   "bg_colour": "#fcfbfa",
+   "grew": false
+  },
+  {
+   "text": "USD",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.164,
+    0.376,
+    0.194,
+    0.406
+   ],
+   "h": 0.031,
+   "conf": 0.75,
+   "text_colour": "#797776",
+   "bg_colour": "#fdfbfa",
+   "grew": false
+  },
+  {
+   "text": "43.930,67",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.206,
+    0.376,
+    0.279,
+    0.406
+   ],
+   "h": 0.03,
+   "conf": 0.87,
+   "text_colour": "#514f4f",
+   "bg_colour": "#fcfafa",
+   "grew": false
+  },
+  {
+   "text": "783.401.76 ru2",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.78,
+    0.435,
+    0.84,
+    0.454
+   ],
+   "h": 0.02,
+   "conf": 0.83,
+   "text_colour": "#8a8a8a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "14.329,54 v50",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.784,
+    0.478,
+    0.84,
+    0.5
+   ],
+   "h": 0.024,
+   "conf": 0.84,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fefefe",
+   "grew": false
+  },
+  {
+   "text": "2.201,06 cb0",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.771,
+    0.52,
+    0.823,
+    0.543
+   ],
+   "h": 0.024,
+   "conf": 0.8,
+   "text_colour": "#929292",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "31.106,18 ru9",
+   "t0": 21.4,
+   "t1": 22.8,
+   "dur": 1.4,
+   "box": [
+    0.767,
+    0.563,
+    0.822,
+    0.587
+   ],
+   "h": 0.024,
+   "conf": 0.81,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Total balance",
+   "t0": 21.4,
+   "t1": 23.0,
+   "dur": 1.6,
+   "box": [
+    0.164,
+    0.309,
+    0.225,
+    0.333
+   ],
+   "h": 0.03,
+   "conf": 0.92,
+   "text_colour": "#8b8a8a",
+   "bg_colour": "#fdfcfc",
+   "grew": false
+  },
+  {
+   "text": "EUR816.709,00",
+   "t0": 21.4,
+   "t1": 23.0,
+   "dur": 1.6,
+   "box": [
+    0.164,
+    0.367,
+    0.278,
+    0.394
+   ],
+   "h": 0.028,
+   "conf": 0.88,
+   "text_colour": "#575756",
+   "bg_colour": "#fdfcfb",
+   "grew": false
+  },
+  {
+   "text": "Revenue",
+   "t0": 21.4,
+   "t1": 26.2,
+   "dur": 4.8,
+   "box": [
+    0.347,
+    0.161,
+    0.385,
+    0.185
+   ],
+   "h": 0.031,
+   "conf": 0.87,
+   "text_colour": "#7a7a7a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Benk",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.344,
+    0.344,
+    0.368,
+    0.37
+   ],
+   "h": 0.03,
+   "conf": 0.8,
+   "text_colour": "#888888",
+   "bg_colour": "#fcfdfd",
+   "grew": false
+  },
+  {
+   "text": "Type",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.586,
+    0.344,
+    0.609,
+    0.372
+   ],
+   "h": 0.028,
+   "conf": 0.8,
+   "text_colour": "#888888",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Nickname",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.432,
+    0.346,
+    0.474,
+    0.37
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#818181",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "Country",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.512,
+    0.344,
+    0.549,
+    0.372
+   ],
+   "h": 0.031,
+   "conf": 0.87,
+   "text_colour": "#939192",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "IBAN",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.644,
+    0.344,
+    0.669,
+    0.37
+   ],
+   "h": 0.026,
+   "conf": 0.8,
+   "text_colour": "#838383",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Staterment",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.699,
+    0.33,
+    0.743,
+    0.352
+   ],
+   "h": 0.024,
+   "conf": 0.87,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Balance",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.794,
+    0.344,
+    0.828,
+    0.37
+   ],
+   "h": 0.028,
+   "conf": 0.85,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "EUR",
+   "t0": 21.6,
+   "t1": 22.8,
+   "dur": 1.2,
+   "box": [
+    0.165,
+    0.333,
+    0.195,
+    0.359
+   ],
+   "h": 0.026,
+   "conf": 0.75,
+   "text_colour": "#7c7a78",
+   "bg_colour": "#fdfbfb",
+   "grew": false
+  },
+  {
+   "text": "All Accounts",
+   "t0": 22.0,
+   "t1": 22.8,
+   "dur": 0.8,
+   "box": [
+    0.345,
+    0.293,
+    0.427,
+    0.324
+   ],
+   "h": 0.031,
+   "conf": 0.87,
+   "text_colour": "#3d3b3c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "sosuedxg",
+   "t0": 22.2,
+   "t1": 22.4,
+   "dur": 0.2,
+   "box": [
+    0.397,
+    0.128,
+    0.445,
+    0.156
+   ],
+   "h": 0.028,
+   "conf": 0.77,
+   "text_colour": "#7e7e7e",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "31.306,18 60",
+   "t0": 22.4,
+   "t1": 22.6,
+   "dur": 0.2,
+   "box": [
+    0.769,
+    0.563,
+    0.823,
+    0.587
+   ],
+   "h": 0.024,
+   "conf": 0.72,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "IlAccounts",
+   "t0": 22.8,
+   "t1": 23.0,
+   "dur": 0.2,
+   "box": [
+    0.433,
+    0.291,
+    0.508,
+    0.322
+   ],
+   "h": 0.031,
+   "conf": 0.82,
+   "text_colour": "#3d3b3c",
+   "bg_colour": "#fefcfd",
+   "grew": false
+  },
+  {
+   "text": "Niciname",
+   "t0": 22.8,
+   "t1": 23.0,
+   "dur": 0.2,
+   "box": [
+    0.512,
+    0.344,
+    0.554,
+    0.369
+   ],
+   "h": 0.024,
+   "conf": 0.77,
+   "text_colour": "#8a8a8a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Country",
+   "t0": 22.8,
+   "t1": 23.0,
+   "dur": 0.2,
+   "box": [
+    0.593,
+    0.343,
+    0.63,
+    0.372
+   ],
+   "h": 0.03,
+   "conf": 0.78,
+   "text_colour": "#929292",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Type",
+   "t0": 22.8,
+   "t1": 23.0,
+   "dur": 0.2,
+   "box": [
+    0.668,
+    0.344,
+    0.692,
+    0.37
+   ],
+   "h": 0.026,
+   "conf": 0.73,
+   "text_colour": "#898989",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "IBAN",
+   "t0": 22.8,
+   "t1": 23.0,
+   "dur": 0.2,
+   "box": [
+    0.726,
+    0.344,
+    0.751,
+    0.37
+   ],
+   "h": 0.026,
+   "conf": 0.8,
+   "text_colour": "#7d7d7d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Statement",
+   "t0": 22.8,
+   "t1": 23.0,
+   "dur": 0.2,
+   "box": [
+    0.799,
+    0.346,
+    0.843,
+    0.37
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#888888",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "nts",
+   "t0": 23.0,
+   "t1": 23.2,
+   "dur": 0.2,
+   "box": [
+    0.689,
+    0.293,
+    0.716,
+    0.322
+   ],
+   "h": 0.03,
+   "conf": 0.75,
+   "text_colour": "#3a3738",
+   "bg_colour": "#fcfafb",
+   "grew": false
+  },
+  {
+   "text": "Nickname",
+   "t0": 23.0,
+   "t1": 23.2,
+   "dur": 0.2,
+   "box": [
+    0.72,
+    0.344,
+    0.762,
+    0.369
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#828282",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Country",
+   "t0": 23.0,
+   "t1": 23.2,
+   "dur": 0.2,
+   "box": [
+    0.801,
+    0.346,
+    0.836,
+    0.37
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#909090",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Totel bolsnce",
+   "t0": 23.0,
+   "t1": 23.2,
+   "dur": 0.2,
+   "box": [
+    0.163,
+    0.372,
+    0.225,
+    0.396
+   ],
+   "h": 0.024,
+   "conf": 0.87,
+   "text_colour": "#bebebe",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Nickname",
+   "t0": 23.2,
+   "t1": 23.4,
+   "dur": 0.2,
+   "box": [
+    0.81,
+    0.344,
+    0.851,
+    0.369
+   ],
+   "h": 0.024,
+   "conf": 0.74,
+   "text_colour": "#898989",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Pls",
+   "t0": 23.4,
+   "t1": 23.6,
+   "dur": 0.2,
+   "box": [
+    0.315,
+    0.206,
+    0.34,
+    0.237
+   ],
+   "h": 0.031,
+   "conf": 0.63,
+   "text_colour": "#2e2e2e",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "KPIs",
+   "t0": 23.6,
+   "t1": 26.2,
+   "dur": 2.6,
+   "box": [
+    0.348,
+    0.235,
+    0.378,
+    0.265
+   ],
+   "h": 0.037,
+   "conf": 0.77,
+   "text_colour": "#3b3b3b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Cash position",
+   "t0": 23.8,
+   "t1": 26.4,
+   "dur": 2.6,
+   "box": [
+    0.258,
+    0.35,
+    0.321,
+    0.372
+   ],
+   "h": 0.035,
+   "conf": 0.92,
+   "text_colour": "#3b3a3a",
+   "bg_colour": "#f2eff0",
+   "grew": false
+  },
+  {
+   "text": "Net cashflow",
+   "t0": 24.0,
+   "t1": 26.4,
+   "dur": 2.4,
+   "box": [
+    0.504,
+    0.311,
+    0.581,
+    0.333
+   ],
+   "h": 0.031,
+   "conf": 0.91,
+   "text_colour": "#3e3e3f",
+   "bg_colour": "#fcfbfc",
+   "grew": false
+  },
+  {
+   "text": "Burn rate",
+   "t0": 24.2,
+   "t1": 26.2,
+   "dur": 2.0,
+   "box": [
+    0.192,
+    0.6,
+    0.249,
+    0.631
+   ],
+   "h": 0.031,
+   "conf": 0.88,
+   "text_colour": "#393939",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Runway",
+   "t0": 24.2,
+   "t1": 26.2,
+   "dur": 2.0,
+   "box": [
+    0.5,
+    0.6,
+    0.551,
+    0.631
+   ],
+   "h": 0.037,
+   "conf": 0.86,
+   "text_colour": "#414141",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Airbtink",
+   "t0": 26.2,
+   "t1": 26.4,
+   "dur": 0.2,
+   "box": [
+    0.259,
+    0.228,
+    0.307,
+    0.256
+   ],
+   "h": 0.028,
+   "conf": 0.81,
+   "text_colour": "#c0bdbc",
+   "bg_colour": "#f2f0ee",
+   "grew": false
+  },
+  {
+   "text": "XPis",
+   "t0": 26.2,
+   "t1": 26.4,
+   "dur": 0.2,
+   "box": [
+    0.379,
+    0.293,
+    0.405,
+    0.317
+   ],
+   "h": 0.024,
+   "conf": 0.71,
+   "text_colour": "#c0c0bd",
+   "bg_colour": "#f0f0ee",
+   "grew": false
+  },
+  {
+   "text": "Rursvey",
+   "t0": 26.2,
+   "t1": 26.4,
+   "dur": 0.2,
+   "box": [
+    0.5,
+    0.578,
+    0.54,
+    0.606
+   ],
+   "h": 0.028,
+   "conf": 0.68,
+   "text_colour": "#c2c2c0",
+   "bg_colour": "#f2f2ef",
+   "grew": false
+  },
+  {
+   "text": "Reconcliation",
+   "t0": 26.4,
+   "t1": 26.6,
+   "dur": 0.2,
+   "box": [
+    0.146,
+    0.363,
+    0.223,
+    0.385
+   ],
+   "h": 0.022,
+   "conf": 0.88,
+   "text_colour": "#414141",
+   "bg_colour": "#f7f7f7",
+   "grew": false
+  },
+  {
+   "text": "Schedule this payment",
+   "t0": 26.4,
+   "t1": 26.6,
+   "dur": 0.2,
+   "box": [
+    0.145,
+    0.535,
+    0.271,
+    0.565
+   ],
+   "h": 0.03,
+   "conf": 0.87,
+   "text_colour": "#3d3d3d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Confirm payment",
+   "t0": 26.4,
+   "t1": 26.6,
+   "dur": 0.2,
+   "box": [
+    0.248,
+    0.696,
+    0.33,
+    0.728
+   ],
+   "h": 0.031,
+   "conf": 0.83,
+   "text_colour": "#b7b5b5",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "Transaction detalls",
+   "t0": 26.6,
+   "t1": 26.8,
+   "dur": 0.2,
+   "box": [
+    0.178,
+    0.222,
+    0.271,
+    0.244
+   ],
+   "h": 0.022,
+   "conf": 0.85,
+   "text_colour": "#4c4a4a",
+   "bg_colour": "#f2eff0",
+   "grew": false
+  },
+  {
+   "text": "ivoices",
+   "t0": 26.6,
+   "t1": 26.8,
+   "dur": 0.2,
+   "box": [
+    0.499,
+    0.42,
+    0.6,
+    0.474
+   ],
+   "h": 0.054,
+   "conf": 0.83,
+   "text_colour": "#1f1e1c",
+   "bg_colour": "#eeecec",
+   "grew": false
+  },
+  {
+   "text": "Reconciliation",
+   "t0": 26.6,
+   "t1": 26.8,
+   "dur": 0.2,
+   "box": [
+    0.178,
+    0.559,
+    0.248,
+    0.58
+   ],
+   "h": 0.02,
+   "conf": 0.85,
+   "text_colour": "#434343",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Schedule this payment",
+   "t0": 26.6,
+   "t1": 27.8,
+   "dur": 1.2,
+   "box": [
+    0.208,
+    0.696,
+    0.311,
+    0.719
+   ],
+   "h": 0.024,
+   "conf": 0.91,
+   "text_colour": "#454545",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Manage",
+   "t0": 26.6,
+   "t1": 31.4,
+   "dur": 4.8,
+   "box": [
+    0.6,
+    0.369,
+    0.705,
+    0.426
+   ],
+   "h": 0.065,
+   "conf": 0.85,
+   "text_colour": "#060404",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Reclpient",
+   "t0": 26.8,
+   "t1": 27.0,
+   "dur": 0.2,
+   "box": [
+    0.193,
+    0.161,
+    0.242,
+    0.189
+   ],
+   "h": 0.028,
+   "conf": 0.79,
+   "text_colour": "#454342",
+   "bg_colour": "#fbf9fa",
+   "grew": false
+  },
+  {
+   "text": "Transaction detais",
+   "t0": 26.8,
+   "t1": 27.0,
+   "dur": 0.2,
+   "box": [
+    0.195,
+    0.385,
+    0.282,
+    0.409
+   ],
+   "h": 0.024,
+   "conf": 0.85,
+   "text_colour": "#494949",
+   "bg_colour": "#faf7f6",
+   "grew": false
+  },
+  {
+   "text": "Confirm paymeet",
+   "t0": 26.8,
+   "t1": 27.8,
+   "dur": 1.0,
+   "box": [
+    0.281,
+    0.754,
+    0.353,
+    0.78
+   ],
+   "h": 0.026,
+   "conf": 0.86,
+   "text_colour": "#adabac",
+   "bg_colour": "#020202",
+   "grew": false
+  },
+  {
+   "text": "Reconcilliation",
+   "t0": 26.8,
+   "t1": 31.4,
+   "dur": 4.6,
+   "box": [
+    0.203,
+    0.65,
+    0.269,
+    0.674
+   ],
+   "h": 0.028,
+   "conf": 0.91,
+   "text_colour": "#4c4c4c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "your invoices",
+   "t0": 26.8,
+   "t1": 31.6,
+   "dur": 4.8,
+   "box": [
+    0.601,
+    0.428,
+    0.77,
+    0.48
+   ],
+   "h": 0.057,
+   "conf": 0.91,
+   "text_colour": "#2e2c2c",
+   "bg_colour": "#eeeceb",
+   "grew": true,
+   "first_text": "invoices"
+  },
+  {
+   "text": "Scan code",
+   "t0": 27.0,
+   "t1": 27.2,
+   "dur": 0.2,
+   "box": [
+    0.224,
+    0.161,
+    0.273,
+    0.183
+   ],
+   "h": 0.022,
+   "conf": 0.85,
+   "text_colour": "#828282",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Upload batch file",
+   "t0": 27.0,
+   "t1": 27.2,
+   "dur": 0.2,
+   "box": [
+    0.333,
+    0.191,
+    0.411,
+    0.213
+   ],
+   "h": 0.022,
+   "conf": 0.93,
+   "text_colour": "#787878",
+   "bg_colour": "#fafaf9",
+   "grew": false
+  },
+  {
+   "text": "Reciplent",
+   "t0": 27.0,
+   "t1": 31.4,
+   "dur": 4.4,
+   "box": [
+    0.215,
+    0.322,
+    0.259,
+    0.35
+   ],
+   "h": 0.033,
+   "conf": 0.88,
+   "text_colour": "#444444",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Transactilon details",
+   "t0": 27.0,
+   "t1": 31.4,
+   "dur": 4.4,
+   "box": [
+    0.208,
+    0.491,
+    0.294,
+    0.513
+   ],
+   "h": 0.024,
+   "conf": 0.92,
+   "text_colour": "#424242",
+   "bg_colour": "#fcfbfb",
+   "grew": false
+  },
+  {
+   "text": "Ils",
+   "t0": 27.2,
+   "t1": 27.4,
+   "dur": 0.2,
+   "box": [
+    0.5,
+    0.617,
+    0.535,
+    0.674
+   ],
+   "h": 0.057,
+   "conf": 0.64,
+   "text_colour": "#333131",
+   "bg_colour": "#eeecec",
+   "grew": false
+  },
+  {
+   "text": "New payment",
+   "t0": 27.2,
+   "t1": 31.4,
+   "dur": 4.2,
+   "box": [
+    0.197,
+    0.22,
+    0.321,
+    0.263
+   ],
+   "h": 0.044,
+   "conf": 0.91,
+   "text_colour": "#1e1b1c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Scan code",
+   "t0": 27.2,
+   "t1": 31.4,
+   "dur": 4.2,
+   "box": [
+    0.228,
+    0.28,
+    0.277,
+    0.307
+   ],
+   "h": 0.028,
+   "conf": 0.9,
+   "text_colour": "#7f7f7f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Uploed batch flile",
+   "t0": 27.2,
+   "t1": 31.6,
+   "dur": 4.4,
+   "box": [
+    0.34,
+    0.28,
+    0.415,
+    0.304
+   ],
+   "h": 0.03,
+   "conf": 0.91,
+   "text_colour": "#898888",
+   "bg_colour": "#fcfbfc",
+   "grew": false
+  },
+  {
+   "text": "ur",
+   "t0": 27.4,
+   "t1": 27.6,
+   "dur": 0.2,
+   "box": [
+    0.499,
+    0.628,
+    0.535,
+    0.67
+   ],
+   "h": 0.043,
+   "conf": 0.66,
+   "text_colour": "#2d2a2a",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "bills",
+   "t0": 27.4,
+   "t1": 27.8,
+   "dur": 0.4,
+   "box": [
+    0.63,
+    0.62,
+    0.689,
+    0.67
+   ],
+   "h": 0.059,
+   "conf": 0.83,
+   "text_colour": "#292726",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Pay",
+   "t0": 27.4,
+   "t1": 31.4,
+   "dur": 4.0,
+   "box": [
+    0.596,
+    0.552,
+    0.655,
+    0.62
+   ],
+   "h": 0.07,
+   "conf": 0.75,
+   "text_colour": "#060404",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "your bills",
+   "t0": 27.6,
+   "t1": 31.6,
+   "dur": 4.0,
+   "box": [
+    0.6,
+    0.615,
+    0.72,
+    0.672
+   ],
+   "h": 0.065,
+   "conf": 0.88,
+   "text_colour": "#1b1a1a",
+   "bg_colour": "#eeeceb",
+   "grew": true,
+   "first_text": "your"
+  },
+  {
+   "text": "Confirm pryment",
+   "t0": 28.2,
+   "t1": 30.4,
+   "dur": 2.2,
+   "box": [
+    0.294,
+    0.744,
+    0.362,
+    0.77
+   ],
+   "h": 0.026,
+   "conf": 0.87,
+   "text_colour": "#ababab",
+   "bg_colour": "#020202",
+   "grew": false
+  },
+  {
+   "text": "Schedule this payment",
+   "t0": 29.0,
+   "t1": 30.0,
+   "dur": 1.0,
+   "box": [
+    0.212,
+    0.694,
+    0.314,
+    0.717
+   ],
+   "h": 0.024,
+   "conf": 0.9,
+   "text_colour": "#464646",
+   "bg_colour": "#fefefe",
+   "grew": false
+  },
+  {
+   "text": "Ceefrm paryment",
+   "t0": 31.0,
+   "t1": 31.2,
+   "dur": 0.2,
+   "box": [
+    0.296,
+    0.739,
+    0.364,
+    0.769
+   ],
+   "h": 0.03,
+   "conf": 0.74,
+   "text_colour": "#afafaf",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "ichedule this payment",
+   "t0": 31.0,
+   "t1": 31.4,
+   "dur": 0.4,
+   "box": [
+    0.219,
+    0.691,
+    0.316,
+    0.715
+   ],
+   "h": 0.024,
+   "conf": 0.91,
+   "text_colour": "#4b4b4b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "age",
+   "t0": 31.4,
+   "t1": 31.6,
+   "dur": 0.2,
+   "box": [
+    0.644,
+    0.378,
+    0.705,
+    0.426
+   ],
+   "h": 0.048,
+   "conf": 0.71,
+   "text_colour": "#0a0809",
+   "bg_colour": "#efedec",
+   "grew": false
+  },
+  {
+   "text": "Editaccess rights",
+   "t0": 31.6,
+   "t1": 34.4,
+   "dur": 2.8,
+   "box": [
+    0.586,
+    0.241,
+    0.743,
+    0.278
+   ],
+   "h": 0.041,
+   "conf": 0.92,
+   "text_colour": "#262626",
+   "bg_colour": "#fdfdfd",
+   "grew": true,
+   "first_text": "Editacci"
+  },
+  {
+   "text": "Custom",
+   "t0": 31.6,
+   "t1": 34.6,
+   "dur": 3.0,
+   "box": [
+    0.169,
+    0.372,
+    0.271,
+    0.419
+   ],
+   "h": 0.057,
+   "conf": 0.86,
+   "text_colour": "#0c0a09",
+   "bg_colour": "#efedec",
+   "grew": false
+  },
+  {
+   "text": "Cn view ocoure informarsot",
+   "t0": 31.8,
+   "t1": 32.0,
+   "dur": 0.2,
+   "box": [
+    0.664,
+    0.435,
+    0.749,
+    0.452
+   ],
+   "h": 0.017,
+   "conf": 0.77,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "access",
+   "t0": 31.8,
+   "t1": 32.0,
+   "dur": 0.2,
+   "box": [
+    0.35,
+    0.494,
+    0.441,
+    0.535
+   ],
+   "h": 0.041,
+   "conf": 0.85,
+   "text_colour": "#252221",
+   "bg_colour": "#efedec",
+   "grew": false
+  },
+  {
+   "text": "Cen manage sodovi",
+   "t0": 31.8,
+   "t1": 32.0,
+   "dur": 0.2,
+   "box": [
+    0.664,
+    0.602,
+    0.725,
+    0.62
+   ],
+   "h": 0.019,
+   "conf": 0.68,
+   "text_colour": "#7e7e7e",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Can initisne payments",
+   "t0": 31.8,
+   "t1": 32.4,
+   "dur": 0.6,
+   "box": [
+    0.662,
+    0.478,
+    0.728,
+    0.496
+   ],
+   "h": 0.019,
+   "conf": 0.76,
+   "text_colour": "#868686",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "100.000,00",
+   "t0": 31.8,
+   "t1": 34.2,
+   "dur": 2.4,
+   "box": [
+    0.593,
+    0.574,
+    0.646,
+    0.598
+   ],
+   "h": 0.024,
+   "conf": 0.89,
+   "text_colour": "#918e8a",
+   "bg_colour": "#f7f5f2",
+   "grew": false
+  },
+  {
+   "text": "Cencel",
+   "t0": 31.8,
+   "t1": 34.2,
+   "dur": 2.4,
+   "box": [
+    0.62,
+    0.707,
+    0.65,
+    0.731
+   ],
+   "h": 0.026,
+   "conf": 0.81,
+   "text_colour": "#4c4c4c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "rights",
+   "t0": 32.0,
+   "t1": 32.4,
+   "dur": 0.4,
+   "box": [
+    0.328,
+    0.489,
+    0.405,
+    0.541
+   ],
+   "h": 0.057,
+   "conf": 0.85,
+   "text_colour": "#201e1c",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "access rights",
+   "t0": 32.0,
+   "t1": 34.6,
+   "dur": 2.6,
+   "box": [
+    0.167,
+    0.431,
+    0.338,
+    0.481
+   ],
+   "h": 0.056,
+   "conf": 0.91,
+   "text_colour": "#22201f",
+   "bg_colour": "#eeeceb",
+   "grew": true,
+   "first_text": "access"
+  },
+  {
+   "text": "t in TUR",
+   "t0": 32.4,
+   "t1": 32.6,
+   "dur": 0.2,
+   "box": [
+    0.642,
+    0.515,
+    0.668,
+    0.533
+   ],
+   "h": 0.019,
+   "conf": 0.71,
+   "text_colour": "#a4a4a4",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Can imanage acebunt",
+   "t0": 32.4,
+   "t1": 33.8,
+   "dur": 1.4,
+   "box": [
+    0.594,
+    0.602,
+    0.655,
+    0.62
+   ],
+   "h": 0.019,
+   "conf": 0.77,
+   "text_colour": "#858585",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Can intirte peynerts",
+   "t0": 32.4,
+   "t1": 34.2,
+   "dur": 1.8,
+   "box": [
+    0.586,
+    0.478,
+    0.651,
+    0.494
+   ],
+   "h": 0.019,
+   "conf": 0.74,
+   "text_colour": "#858585",
+   "bg_colour": "#fafafa",
+   "grew": true,
+   "first_text": "Can initiata pey"
+  },
+  {
+   "text": "Cas Pan",
+   "t0": 32.6,
+   "t1": 32.8,
+   "dur": 0.2,
+   "box": [
+    0.59,
+    0.604,
+    0.615,
+    0.619
+   ],
+   "h": 0.015,
+   "conf": 0.61,
+   "text_colour": "#868686",
+   "bg_colour": "#ededed",
+   "grew": false
+  },
+  {
+   "text": "Cen view",
+   "t0": 33.8,
+   "t1": 34.0,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.441,
+    0.615,
+    0.457
+   ],
+   "h": 0.017,
+   "conf": 0.68,
+   "text_colour": "#828282",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Ces naregt stcount",
+   "t0": 33.8,
+   "t1": 34.0,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.604,
+    0.648,
+    0.626
+   ],
+   "h": 0.022,
+   "conf": 0.64,
+   "text_colour": "#878787",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Can rarapr stovnt",
+   "t0": 34.0,
+   "t1": 34.2,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.626,
+    0.649,
+    0.646
+   ],
+   "h": 0.02,
+   "conf": 0.61,
+   "text_colour": "#8a8a8a",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "100.000,00",
+   "t0": 34.2,
+   "t1": 34.4,
+   "dur": 0.2,
+   "box": [
+    0.592,
+    0.631,
+    0.646,
+    0.656
+   ],
+   "h": 0.024,
+   "conf": 0.8,
+   "text_colour": "#989694",
+   "bg_colour": "#f7f5f3",
+   "grew": false
+  },
+  {
+   "text": "Cancal",
+   "t0": 34.2,
+   "t1": 34.4,
+   "dur": 0.2,
+   "box": [
+    0.62,
+    0.763,
+    0.649,
+    0.789
+   ],
+   "h": 0.026,
+   "conf": 0.69,
+   "text_colour": "#515151",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Edit accessrights",
+   "t0": 34.4,
+   "t1": 34.6,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.337,
+    0.743,
+    0.372
+   ],
+   "h": 0.035,
+   "conf": 0.86,
+   "text_colour": "#1b1b1b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "100.000,00",
+   "t0": 34.4,
+   "t1": 34.6,
+   "dur": 0.2,
+   "box": [
+    0.592,
+    0.769,
+    0.646,
+    0.793
+   ],
+   "h": 0.024,
+   "conf": 0.78,
+   "text_colour": "#999796",
+   "bg_colour": "#f7f5f3",
+   "grew": false
+  },
+  {
+   "text": "Approval",
+   "t0": 34.4,
+   "t1": 34.8,
+   "dur": 0.4,
+   "box": [
+    0.146,
+    0.541,
+    0.263,
+    0.602
+   ],
+   "h": 0.061,
+   "conf": 0.83,
+   "text_colour": "#b5b3b2",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "flows",
+   "t0": 34.4,
+   "t1": 34.8,
+   "dur": 0.4,
+   "box": [
+    0.144,
+    0.615,
+    0.216,
+    0.672
+   ],
+   "h": 0.057,
+   "conf": 0.83,
+   "text_colour": "#d9d7d6",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Editaccessrights",
+   "t0": 34.6,
+   "t1": 34.8,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.498,
+    0.742,
+    0.533
+   ],
+   "h": 0.035,
+   "conf": 0.9,
+   "text_colour": "#141414",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Custom",
+   "t0": 34.6,
+   "t1": 37.4,
+   "dur": 2.8,
+   "box": [
+    0.25,
+    0.281,
+    0.332,
+    0.319
+   ],
+   "h": 0.052,
+   "conf": 0.86,
+   "text_colour": "#080504",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "access rights",
+   "t0": 34.6,
+   "t1": 37.4,
+   "dur": 2.8,
+   "box": [
+    0.223,
+    0.33,
+    0.371,
+    0.37
+   ],
+   "h": 0.057,
+   "conf": 0.92,
+   "text_colour": "#262422",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Editaccessrights",
+   "t0": 34.8,
+   "t1": 35.0,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.678,
+    0.742,
+    0.715
+   ],
+   "h": 0.037,
+   "conf": 0.89,
+   "text_colour": "#181818",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Approval",
+   "t0": 34.8,
+   "t1": 37.4,
+   "dur": 2.6,
+   "box": [
+    0.225,
+    0.443,
+    0.321,
+    0.494
+   ],
+   "h": 0.061,
+   "conf": 0.89,
+   "text_colour": "#171413",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "flows",
+   "t0": 34.8,
+   "t1": 37.4,
+   "dur": 2.6,
+   "box": [
+    0.214,
+    0.491,
+    0.274,
+    0.537
+   ],
+   "h": 0.057,
+   "conf": 0.83,
+   "text_colour": "#444241",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Edit access rights",
+   "t0": 35.0,
+   "t1": 35.2,
+   "dur": 0.2,
+   "box": [
+    0.586,
+    0.77,
+    0.742,
+    0.807
+   ],
+   "h": 0.037,
+   "conf": 0.89,
+   "text_colour": "#212121",
+   "bg_colour": "#fcfbfb",
+   "grew": false
+  },
+  {
+   "text": "Spending",
+   "t0": 35.2,
+   "t1": 37.4,
+   "dur": 2.2,
+   "box": [
+    0.212,
+    0.609,
+    0.311,
+    0.661
+   ],
+   "h": 0.067,
+   "conf": 0.89,
+   "text_colour": "#e0dedd",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "limits",
+   "t0": 35.4,
+   "t1": 37.4,
+   "dur": 2.0,
+   "box": [
+    0.211,
+    0.661,
+    0.274,
+    0.702
+   ],
+   "h": 0.054,
+   "conf": 0.86,
+   "text_colour": "#bebcbb",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Tears member",
+   "t0": 35.6,
+   "t1": 35.8,
+   "dur": 0.2,
+   "box": [
+    0.407,
+    0.217,
+    0.461,
+    0.235
+   ],
+   "h": 0.019,
+   "conf": 0.77,
+   "text_colour": "#5d5d5d",
+   "bg_colour": "#fbfafa",
+   "grew": false
+  },
+  {
+   "text": "Aetiors",
+   "t0": 35.6,
+   "t1": 36.0,
+   "dur": 0.4,
+   "box": [
+    0.861,
+    0.25,
+    0.895,
+    0.28
+   ],
+   "h": 0.03,
+   "conf": 0.69,
+   "text_colour": "#5f5f5f",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Rale",
+   "t0": 35.6,
+   "t1": 37.0,
+   "dur": 1.4,
+   "box": [
+    0.752,
+    0.27,
+    0.773,
+    0.298
+   ],
+   "h": 0.028,
+   "conf": 0.72,
+   "text_colour": "#595959",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Access rights",
+   "t0": 35.8,
+   "t1": 37.4,
+   "dur": 1.6,
+   "box": [
+    0.407,
+    0.269,
+    0.478,
+    0.298
+   ],
+   "h": 0.037,
+   "conf": 0.91,
+   "text_colour": "#383636",
+   "bg_colour": "#f9f7f6",
+   "grew": false
+  },
+  {
+   "text": "Tearm member",
+   "t0": 36.0,
+   "t1": 37.0,
+   "dur": 1.0,
+   "box": [
+    0.407,
+    0.269,
+    0.461,
+    0.294
+   ],
+   "h": 0.026,
+   "conf": 0.88,
+   "text_colour": "#575757",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Astions",
+   "t0": 36.0,
+   "t1": 37.2,
+   "dur": 1.2,
+   "box": [
+    0.847,
+    0.28,
+    0.876,
+    0.298
+   ],
+   "h": 0.024,
+   "conf": 0.8,
+   "text_colour": "#5e5e5e",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "ge",
+   "t0": 38.0,
+   "t1": 38.2,
+   "dur": 0.2,
+   "box": [
+    0.0,
+    0.752,
+    0.065,
+    0.869
+   ],
+   "h": 0.117,
+   "conf": 0.66,
+   "text_colour": "#000000",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "xero",
+   "t0": 38.0,
+   "t1": 38.2,
+   "dur": 0.2,
+   "box": [
+    0.785,
+    0.835,
+    0.847,
+    0.878
+   ],
+   "h": 0.043,
+   "conf": 0.79,
+   "text_colour": "#d7d7d7",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "sage",
+   "t0": 38.2,
+   "t1": 40.6,
+   "dur": 2.4,
+   "box": [
+    0.033,
+    0.389,
+    0.143,
+    0.472
+   ],
+   "h": 0.089,
+   "conf": 0.8,
+   "text_colour": "#020000",
+   "bg_colour": "#edebe9",
+   "grew": false
+  },
+  {
+   "text": "DATEV",
+   "t0": 38.2,
+   "t1": 40.6,
+   "dur": 2.4,
+   "box": [
+    0.499,
+    0.893,
+    0.564,
+    0.93
+   ],
+   "h": 0.037,
+   "conf": 0.82,
+   "text_colour": "#1c1b1c",
+   "bg_colour": "#e9e7e7",
+   "grew": false
+  },
+  {
+   "text": "xero",
+   "t0": 38.2,
+   "t1": 40.6,
+   "dur": 2.4,
+   "box": [
+    0.785,
+    0.448,
+    0.838,
+    0.481
+   ],
+   "h": 0.043,
+   "conf": 0.79,
+   "text_colour": "#bdbdbd",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "shopify",
+   "t0": 40.6,
+   "t1": 44.0,
+   "dur": 3.4,
+   "box": [
+    0.589,
+    0.639,
+    0.649,
+    0.687
+   ],
+   "h": 0.065,
+   "conf": 0.87,
+   "text_colour": "#494645",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "stripe",
+   "t0": 40.6,
+   "t1": 44.0,
+   "dur": 3.4,
+   "box": [
+    0.332,
+    0.563,
+    0.404,
+    0.615
+   ],
+   "h": 0.093,
+   "conf": 0.86,
+   "text_colour": "#3d3b3b",
+   "bg_colour": "#eeeceb",
+   "grew": false
+  },
+  {
+   "text": "Airbank",
+   "t0": 43.8,
+   "t1": 44.0,
+   "dur": 0.2,
+   "box": [
+    0.126,
+    0.048,
+    0.198,
+    0.087
+   ],
+   "h": 0.039,
+   "conf": 0.87,
+   "text_colour": "#222020",
+   "bg_colour": "#f6f4f4",
+   "grew": false
+  },
+  {
+   "text": "Revenue",
+   "t0": 44.0,
+   "t1": 47.4,
+   "dur": 3.4,
+   "box": [
+    0.346,
+    0.163,
+    0.385,
+    0.187
+   ],
+   "h": 0.03,
+   "conf": 0.87,
+   "text_colour": "#7d7c7d",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Bariking",
+   "t0": 44.0,
+   "t1": 47.6,
+   "dur": 3.6,
+   "box": [
+    0.286,
+    0.157,
+    0.326,
+    0.189
+   ],
+   "h": 0.033,
+   "conf": 0.87,
+   "text_colour": "#737066",
+   "bg_colour": "#efece2",
+   "grew": false
+  },
+  {
+   "text": "Expenses",
+   "t0": 44.0,
+   "t1": 48.0,
+   "dur": 4.0,
+   "box": [
+    0.41,
+    0.181,
+    0.453,
+    0.206
+   ],
+   "h": 0.028,
+   "conf": 0.88,
+   "text_colour": "#747374",
+   "bg_colour": "#eeeeee",
+   "grew": false
+  },
+  {
+   "text": "Airbank",
+   "t0": 44.0,
+   "t1": 49.2,
+   "dur": 5.2,
+   "box": [
+    0.287,
+    0.272,
+    0.33,
+    0.298
+   ],
+   "h": 0.041,
+   "conf": 0.87,
+   "text_colour": "#1f1f1f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Treasury",
+   "t0": 44.2,
+   "t1": 47.8,
+   "dur": 3.6,
+   "box": [
+    0.526,
+    0.215,
+    0.562,
+    0.243
+   ],
+   "h": 0.033,
+   "conf": 0.88,
+   "text_colour": "#7f7f7f",
+   "bg_colour": "#f9f7f9",
+   "grew": false
+  },
+  {
+   "text": "Cashfliow",
+   "t0": 44.2,
+   "t1": 48.0,
+   "dur": 3.8,
+   "box": [
+    0.473,
+    0.18,
+    0.512,
+    0.202
+   ],
+   "h": 0.028,
+   "conf": 0.87,
+   "text_colour": "#757474",
+   "bg_colour": "#fafafa",
+   "grew": false
+  },
+  {
+   "text": "IsheetView",
+   "t0": 44.4,
+   "t1": 44.6,
+   "dur": 0.2,
+   "box": [
+    0.322,
+    0.213,
+    0.399,
+    0.244
+   ],
+   "h": 0.031,
+   "conf": 0.86,
+   "text_colour": "#3b3837",
+   "bg_colour": "#fdfbfa",
+   "grew": false
+  },
+  {
+   "text": "+ 11.507,72",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.399,
+    0.344,
+    0.45,
+    0.365
+   ],
+   "h": 0.02,
+   "conf": 0.77,
+   "text_colour": "#777675",
+   "bg_colour": "#fdfdfc",
+   "grew": false
+  },
+  {
+   "text": "- 9.601,13",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.33,
+    0.346,
+    0.376,
+    0.365
+   ],
+   "h": 0.019,
+   "conf": 0.79,
+   "text_colour": "#6a6a67",
+   "bg_colour": "#fcfcfb",
+   "grew": false
+  },
+  {
+   "text": "+89.843,83",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.476,
+    0.346,
+    0.526,
+    0.365
+   ],
+   "h": 0.019,
+   "conf": 0.74,
+   "text_colour": "#4f4d4c",
+   "bg_colour": "#fdfbfb",
+   "grew": false
+  },
+  {
+   "text": "-5.004,82",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.553,
+    0.346,
+    0.598,
+    0.365
+   ],
+   "h": 0.019,
+   "conf": 0.82,
+   "text_colour": "#6b6867",
+   "bg_colour": "#fdfcfa",
+   "grew": false
+  },
+  {
+   "text": "- 9.605,13",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.626,
+    0.346,
+    0.672,
+    0.365
+   ],
+   "h": 0.019,
+   "conf": 0.73,
+   "text_colour": "#646160",
+   "bg_colour": "#fdfcfb",
+   "grew": false
+  },
+  {
+   "text": "- 13.462,79",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.695,
+    0.344,
+    0.746,
+    0.365
+   ],
+   "h": 0.02,
+   "conf": 0.78,
+   "text_colour": "#656562",
+   "bg_colour": "#fdfdfc",
+   "grew": false
+  },
+  {
+   "text": "Net cashfe",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.175,
+    0.348,
+    0.214,
+    0.365
+   ],
+   "h": 0.017,
+   "conf": 0.66,
+   "text_colour": "#514f4f",
+   "bg_colour": "#fdfbfa",
+   "grew": false
+  },
+  {
+   "text": "-10.159,00",
+   "t0": 44.6,
+   "t1": 44.8,
+   "dur": 0.2,
+   "box": [
+    0.771,
+    0.346,
+    0.817,
+    0.365
+   ],
+   "h": 0.019,
+   "conf": 0.84,
+   "text_colour": "#6f6d6c",
+   "bg_colour": "#fdfcfb",
+   "grew": false
+  },
+  {
+   "text": "Spreadsheet View",
+   "t0": 44.6,
+   "t1": 49.2,
+   "dur": 4.6,
+   "box": [
+    0.393,
+    0.33,
+    0.467,
+    0.352
+   ],
+   "h": 0.033,
+   "conf": 0.91,
+   "text_colour": "#3c3a3a",
+   "bg_colour": "#fdfbfa",
+   "grew": false
+  },
+  {
+   "text": "- 11.507,72",
+   "t0": 44.8,
+   "t1": 45.0,
+   "dur": 0.2,
+   "box": [
+    0.4,
+    0.541,
+    0.45,
+    0.559
+   ],
+   "h": 0.019,
+   "conf": 0.83,
+   "text_colour": "#757572",
+   "bg_colour": "#fdfdfc",
+   "grew": false
+  },
+  {
+   "text": "-80.043,83",
+   "t0": 44.8,
+   "t1": 45.0,
+   "dur": 0.2,
+   "box": [
+    0.476,
+    0.541,
+    0.526,
+    0.559
+   ],
+   "h": 0.019,
+   "conf": 0.69,
+   "text_colour": "#585654",
+   "bg_colour": "#fcfbfb",
+   "grew": false
+  },
+  {
+   "text": "- $.004,82",
+   "t0": 44.8,
+   "t1": 45.0,
+   "dur": 0.2,
+   "box": [
+    0.552,
+    0.541,
+    0.598,
+    0.559
+   ],
+   "h": 0.019,
+   "conf": 0.81,
+   "text_colour": "#696766",
+   "bg_colour": "#fdfdfc",
+   "grew": false
+  },
+  {
+   "text": "-9.601,13",
+   "t0": 44.8,
+   "t1": 45.0,
+   "dur": 0.2,
+   "box": [
+    0.625,
+    0.541,
+    0.671,
+    0.559
+   ],
+   "h": 0.019,
+   "conf": 0.61,
+   "text_colour": "#676564",
+   "bg_colour": "#fdfcfb",
+   "grew": false
+  },
+  {
+   "text": "-13.463,79",
+   "t0": 44.8,
+   "t1": 45.0,
+   "dur": 0.2,
+   "box": [
+    0.693,
+    0.541,
+    0.744,
+    0.559
+   ],
+   "h": 0.019,
+   "conf": 0.73,
+   "text_colour": "#5e5e5b",
+   "bg_colour": "#fcfcfb",
+   "grew": false
+  },
+  {
+   "text": "-10.150,00",
+   "t0": 44.8,
+   "t1": 45.0,
+   "dur": 0.2,
+   "box": [
+    0.769,
+    0.541,
+    0.815,
+    0.559
+   ],
+   "h": 0.019,
+   "conf": 0.66,
+   "text_colour": "#6b6867",
+   "bg_colour": "#faf9f7",
+   "grew": false
+  },
+  {
+   "text": "9.005,13",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.34,
+    0.707,
+    0.376,
+    0.726
+   ],
+   "h": 0.019,
+   "conf": 0.78,
+   "text_colour": "#676766",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "+11.507,72",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.405,
+    0.707,
+    0.451,
+    0.726
+   ],
+   "h": 0.019,
+   "conf": 0.74,
+   "text_colour": "#706f6d",
+   "bg_colour": "#fdfcfb",
+   "grew": false
+  },
+  {
+   "text": "- 85.43,83",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.476,
+    0.706,
+    0.524,
+    0.724
+   ],
+   "h": 0.019,
+   "conf": 0.7,
+   "text_colour": "#514f50",
+   "bg_colour": "#fcfafb",
+   "grew": false
+  },
+  {
+   "text": "$.004,82",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.558,
+    0.707,
+    0.597,
+    0.726
+   ],
+   "h": 0.019,
+   "conf": 0.77,
+   "text_colour": "#686665",
+   "bg_colour": "#fdfbfb",
+   "grew": false
+  },
+  {
+   "text": "9.601,13",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.631,
+    0.707,
+    0.669,
+    0.726
+   ],
+   "h": 0.019,
+   "conf": 0.77,
+   "text_colour": "#605e5d",
+   "bg_colour": "#fefcfc",
+   "grew": false
+  },
+  {
+   "text": "+ 13.462,79",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.693,
+    0.707,
+    0.742,
+    0.726
+   ],
+   "h": 0.019,
+   "conf": 0.74,
+   "text_colour": "#626260",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "-10.158,09",
+   "t0": 45.0,
+   "t1": 45.2,
+   "dur": 0.2,
+   "box": [
+    0.769,
+    0.707,
+    0.814,
+    0.726
+   ],
+   "h": 0.019,
+   "conf": 0.68,
+   "text_colour": "#6b6867",
+   "bg_colour": "#fcfbfc",
+   "grew": false
+  },
+  {
+   "text": "-10.155,00",
+   "t0": 45.2,
+   "t1": 46.2,
+   "dur": 1.0,
+   "box": [
+    0.765,
+    0.819,
+    0.809,
+    0.841
+   ],
+   "h": 0.024,
+   "conf": 0.83,
+   "text_colour": "#757374",
+   "bg_colour": "#fefcfd",
+   "grew": false
+  },
+  {
+   "text": "+ 0.601,13",
+   "t0": 45.2,
+   "t1": 46.4,
+   "dur": 1.2,
+   "box": [
+    0.623,
+    0.819,
+    0.667,
+    0.837
+   ],
+   "h": 0.024,
+   "conf": 0.75,
+   "text_colour": "#615f60",
+   "bg_colour": "#fefdfd",
+   "grew": false
+  },
+  {
+   "text": "+ 89.843,83",
+   "t0": 45.2,
+   "t1": 47.6,
+   "dur": 2.4,
+   "box": [
+    0.479,
+    0.793,
+    0.523,
+    0.813
+   ],
+   "h": 0.024,
+   "conf": 0.8,
+   "text_colour": "#575456",
+   "bg_colour": "#fefcfd",
+   "grew": false
+  },
+  {
+   "text": "- 9.605,53",
+   "t0": 45.2,
+   "t1": 47.6,
+   "dur": 2.4,
+   "box": [
+    0.35,
+    0.793,
+    0.391,
+    0.813
+   ],
+   "h": 0.024,
+   "conf": 0.81,
+   "text_colour": "#616161",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "+ 11.507,72",
+   "t0": 45.2,
+   "t1": 47.6,
+   "dur": 2.4,
+   "box": [
+    0.412,
+    0.793,
+    0.456,
+    0.813
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#6d6b69",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "5.004,82",
+   "t0": 45.2,
+   "t1": 47.6,
+   "dur": 2.4,
+   "box": [
+    0.55,
+    0.793,
+    0.588,
+    0.813
+   ],
+   "h": 0.024,
+   "conf": 0.87,
+   "text_colour": "#605e5f",
+   "bg_colour": "#fefcfd",
+   "grew": false
+  },
+  {
+   "text": "+ 15.482,79",
+   "t0": 45.2,
+   "t1": 47.6,
+   "dur": 2.4,
+   "box": [
+    0.673,
+    0.793,
+    0.718,
+    0.813
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#5f5f5f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "25.523,67",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.335,
+    0.413,
+    0.377,
+    0.437
+   ],
+   "h": 0.024,
+   "conf": 0.87,
+   "text_colour": "#969696",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "18.732,48",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.41,
+    0.413,
+    0.452,
+    0.437
+   ],
+   "h": 0.024,
+   "conf": 0.76,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "151.667,11",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.48,
+    0.413,
+    0.526,
+    0.437
+   ],
+   "h": 0.024,
+   "conf": 0.8,
+   "text_colour": "#848483",
+   "bg_colour": "#fdfcfc",
+   "grew": false
+  },
+  {
+   "text": "62.122,03",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.555,
+    0.413,
+    0.598,
+    0.437
+   ],
+   "h": 0.024,
+   "conf": 0.85,
+   "text_colour": "#939292",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "52.603,03",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.626,
+    0.413,
+    0.669,
+    0.437
+   ],
+   "h": 0.024,
+   "conf": 0.83,
+   "text_colour": "#929292",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "61.721,22",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.699,
+    0.413,
+    0.741,
+    0.437
+   ],
+   "h": 0.024,
+   "conf": 0.85,
+   "text_colour": "#979797",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "71.632,01",
+   "t0": 45.4,
+   "t1": 45.6,
+   "dur": 0.2,
+   "box": [
+    0.77,
+    0.417,
+    0.811,
+    0.435
+   ],
+   "h": 0.019,
+   "conf": 0.81,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "J85 2027",
+   "t0": 45.6,
+   "t1": 45.8,
+   "dur": 0.2,
+   "box": [
+    0.56,
+    0.281,
+    0.598,
+    0.304
+   ],
+   "h": 0.022,
+   "conf": 0.65,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#f3f2f3",
+   "grew": false
+  },
+  {
+   "text": "Alre",
+   "t0": 45.6,
+   "t1": 45.8,
+   "dur": 0.2,
+   "box": [
+    0.182,
+    0.341,
+    0.201,
+    0.359
+   ],
+   "h": 0.019,
+   "conf": 0.63,
+   "text_colour": "#898989",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "±39.005.13",
+   "t0": 45.6,
+   "t1": 45.8,
+   "dur": 0.2,
+   "box": [
+    0.767,
+    0.339,
+    0.812,
+    0.363
+   ],
+   "h": 0.024,
+   "conf": 0.73,
+   "text_colour": "#929192",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "-50.558,09",
+   "t0": 45.6,
+   "t1": 45.8,
+   "dur": 0.2,
+   "box": [
+    0.766,
+    0.819,
+    0.811,
+    0.841
+   ],
+   "h": 0.022,
+   "conf": 0.65,
+   "text_colour": "#726f70",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "234.782,47",
+   "t0": 45.6,
+   "t1": 47.4,
+   "dur": 1.8,
+   "box": [
+    0.341,
+    0.417,
+    0.383,
+    0.435
+   ],
+   "h": 0.024,
+   "conf": 0.9,
+   "text_colour": "#919191",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "521.673,26",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.481,
+    0.42,
+    0.524,
+    0.443
+   ],
+   "h": 0.026,
+   "conf": 0.89,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "362.601, 13",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.622,
+    0.409,
+    0.668,
+    0.431
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "25.423.67",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.351,
+    0.513,
+    0.391,
+    0.535
+   ],
+   "h": 0.026,
+   "conf": 0.86,
+   "text_colour": "#979496",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "78.732,06",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.419,
+    0.515,
+    0.456,
+    0.533
+   ],
+   "h": 0.024,
+   "conf": 0.84,
+   "text_colour": "#919191",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "151.667,15",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.482,
+    0.515,
+    0.523,
+    0.533
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#918f8f",
+   "bg_colour": "#fdfdfc",
+   "grew": false
+  },
+  {
+   "text": "62.122.00",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.55,
+    0.515,
+    0.586,
+    0.533
+   ],
+   "h": 0.024,
+   "conf": 0.87,
+   "text_colour": "#949494",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "52.601.09",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.614,
+    0.513,
+    0.653,
+    0.535
+   ],
+   "h": 0.026,
+   "conf": 0.84,
+   "text_colour": "#979797",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "61.721,22",
+   "t0": 45.6,
+   "t1": 47.6,
+   "dur": 2.0,
+   "box": [
+    0.679,
+    0.513,
+    0.718,
+    0.535
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#929292",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Oet 2020",
+   "t0": 45.6,
+   "t1": 47.8,
+   "dur": 2.2,
+   "box": [
+    0.354,
+    0.378,
+    0.391,
+    0.4
+   ],
+   "h": 0.026,
+   "conf": 0.86,
+   "text_colour": "#939393",
+   "bg_colour": "#f3f2f2",
+   "grew": false
+  },
+  {
+   "text": "131. 65,62",
+   "t0": 45.6,
+   "t1": 47.8,
+   "dur": 2.2,
+   "box": [
+    0.425,
+    0.433,
+    0.461,
+    0.452
+   ],
+   "h": 0.024,
+   "conf": 0.86,
+   "text_colour": "#939393",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "58.F11.56",
+   "t0": 45.6,
+   "t1": 47.8,
+   "dur": 2.2,
+   "box": [
+    0.544,
+    0.433,
+    0.578,
+    0.452
+   ],
+   "h": 0.024,
+   "conf": 0.84,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "409.063.08",
+   "t0": 45.6,
+   "t1": 47.8,
+   "dur": 2.2,
+   "box": [
+    0.658,
+    0.433,
+    0.696,
+    0.452
+   ],
+   "h": 0.024,
+   "conf": 0.87,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "71.433,81",
+   "t0": 45.6,
+   "t1": 47.8,
+   "dur": 2.2,
+   "box": [
+    0.718,
+    0.519,
+    0.752,
+    0.537
+   ],
+   "h": 0.026,
+   "conf": 0.89,
+   "text_colour": "#979797",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Der 2020",
+   "t0": 45.6,
+   "t1": 48.0,
+   "dur": 2.4,
+   "box": [
+    0.49,
+    0.407,
+    0.52,
+    0.426
+   ],
+   "h": 0.026,
+   "conf": 0.85,
+   "text_colour": "#8b8b8b",
+   "bg_colour": "#f2f2f2",
+   "grew": false
+  },
+  {
+   "text": "Af upersts",
+   "t0": 45.8,
+   "t1": 46.0,
+   "dur": 0.2,
+   "box": [
+    0.181,
+    0.5,
+    0.225,
+    0.526
+   ],
+   "h": 0.026,
+   "conf": 0.63,
+   "text_colour": "#898989",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Feb 2021",
+   "t0": 45.8,
+   "t1": 47.6,
+   "dur": 1.8,
+   "box": [
+    0.618,
+    0.378,
+    0.653,
+    0.4
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "139.005, 13",
+   "t0": 45.8,
+   "t1": 47.6,
+   "dur": 1.8,
+   "box": [
+    0.753,
+    0.415,
+    0.798,
+    0.437
+   ],
+   "h": 0.022,
+   "conf": 0.87,
+   "text_colour": "#8f8f8f",
+   "bg_colour": "#fdfcfc",
+   "grew": false
+  },
+  {
+   "text": "Nov 2020",
+   "t0": 45.8,
+   "t1": 47.8,
+   "dur": 2.0,
+   "box": [
+    0.42,
+    0.378,
+    0.457,
+    0.4
+   ],
+   "h": 0.024,
+   "conf": 0.88,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Jes 2021",
+   "t0": 45.8,
+   "t1": 47.8,
+   "dur": 2.0,
+   "box": [
+    0.549,
+    0.396,
+    0.579,
+    0.415
+   ],
+   "h": 0.026,
+   "conf": 0.88,
+   "text_colour": "#939393",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Maer 2021",
+   "t0": 45.8,
+   "t1": 47.8,
+   "dur": 2.0,
+   "box": [
+    0.683,
+    0.378,
+    0.719,
+    0.4
+   ],
+   "h": 0.026,
+   "conf": 0.89,
+   "text_colour": "#898888",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Age 2021",
+   "t0": 45.8,
+   "t1": 47.8,
+   "dur": 2.0,
+   "box": [
+    0.722,
+    0.394,
+    0.754,
+    0.417
+   ],
+   "h": 0.028,
+   "conf": 0.89,
+   "text_colour": "#868686",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "Not cashfion",
+   "t0": 46.0,
+   "t1": 46.2,
+   "dur": 0.2,
+   "box": [
+    0.183,
+    0.82,
+    0.226,
+    0.839
+   ],
+   "h": 0.019,
+   "conf": 0.62,
+   "text_colour": "#545454",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "- 9.001,13",
+   "t0": 46.0,
+   "t1": 47.2,
+   "dur": 1.2,
+   "box": [
+    0.621,
+    0.813,
+    0.664,
+    0.833
+   ],
+   "h": 0.024,
+   "conf": 0.79,
+   "text_colour": "#676767",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Export te Excef",
+   "t0": 46.0,
+   "t1": 47.6,
+   "dur": 1.6,
+   "box": [
+    0.734,
+    0.315,
+    0.797,
+    0.339
+   ],
+   "h": 0.028,
+   "conf": 0.85,
+   "text_colour": "#b9b6b7",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "Cashfleow repert (EUR)",
+   "t0": 46.0,
+   "t1": 49.2,
+   "dur": 3.2,
+   "box": [
+    0.286,
+    0.38,
+    0.379,
+    0.404
+   ],
+   "h": 0.031,
+   "conf": 0.92,
+   "text_colour": "#3b3b3b",
+   "bg_colour": "#f6f6f6",
+   "grew": false
+  },
+  {
+   "text": "All erpensrs",
+   "t0": 46.2,
+   "t1": 46.6,
+   "dur": 0.4,
+   "box": [
+    0.184,
+    0.515,
+    0.226,
+    0.533
+   ],
+   "h": 0.019,
+   "conf": 0.72,
+   "text_colour": "#7f7f7f",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "-10.359,09",
+   "t0": 46.2,
+   "t1": 47.4,
+   "dur": 1.2,
+   "box": [
+    0.753,
+    0.806,
+    0.797,
+    0.83
+   ],
+   "h": 0.024,
+   "conf": 0.83,
+   "text_colour": "#6b6b6b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "+ 9.005,13",
+   "t0": 46.4,
+   "t1": 46.6,
+   "dur": 0.2,
+   "box": [
+    0.333,
+    0.817,
+    0.38,
+    0.839
+   ],
+   "h": 0.022,
+   "conf": 0.72,
+   "text_colour": "#616161",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Nut cashfio",
+   "t0": 46.6,
+   "t1": 46.8,
+   "dur": 0.2,
+   "box": [
+    0.186,
+    0.819,
+    0.224,
+    0.837
+   ],
+   "h": 0.019,
+   "conf": 0.65,
+   "text_colour": "#5a5a5a",
+   "bg_colour": "#fefefe",
+   "grew": false
+  },
+  {
+   "text": "e5.721,22",
+   "t0": 47.2,
+   "t1": 47.4,
+   "dur": 0.2,
+   "box": [
+    0.689,
+    0.513,
+    0.729,
+    0.535
+   ],
+   "h": 0.022,
+   "conf": 0.74,
+   "text_colour": "#9a9a9a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "- 0.001,13",
+   "t0": 47.2,
+   "t1": 47.4,
+   "dur": 0.2,
+   "box": [
+    0.34,
+    0.806,
+    0.384,
+    0.83
+   ],
+   "h": 0.024,
+   "conf": 0.68,
+   "text_colour": "#585858",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "- 9.605,33",
+   "t0": 47.2,
+   "t1": 47.4,
+   "dur": 0.2,
+   "box": [
+    0.617,
+    0.806,
+    0.661,
+    0.83
+   ],
+   "h": 0.024,
+   "conf": 0.76,
+   "text_colour": "#626262",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Xpr 2025",
+   "t0": 47.4,
+   "t1": 47.6,
+   "dur": 0.2,
+   "box": [
+    0.749,
+    0.378,
+    0.783,
+    0.4
+   ],
+   "h": 0.022,
+   "conf": 0.72,
+   "text_colour": "#949494",
+   "bg_colour": "#fefefe",
+   "grew": false
+  },
+  {
+   "text": "24.7,47",
+   "t0": 47.4,
+   "t1": 47.6,
+   "dur": 0.2,
+   "box": [
+    0.348,
+    0.42,
+    0.391,
+    0.441
+   ],
+   "h": 0.02,
+   "conf": 0.64,
+   "text_colour": "#939393",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "133.058,62",
+   "t0": 47.4,
+   "t1": 47.6,
+   "dur": 0.2,
+   "box": [
+    0.416,
+    0.42,
+    0.457,
+    0.443
+   ],
+   "h": 0.022,
+   "conf": 0.7,
+   "text_colour": "#989898",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "- 8.005,13",
+   "t0": 47.4,
+   "t1": 47.6,
+   "dur": 0.2,
+   "box": [
+    0.613,
+    0.793,
+    0.652,
+    0.813
+   ],
+   "h": 0.02,
+   "conf": 0.68,
+   "text_colour": "#686868",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Banitirg",
+   "t0": 47.6,
+   "t1": 47.8,
+   "dur": 0.2,
+   "box": [
+    0.319,
+    0.215,
+    0.352,
+    0.243
+   ],
+   "h": 0.028,
+   "conf": 0.62,
+   "text_colour": "#827e76",
+   "bg_colour": "#efece5",
+   "grew": false
+  },
+  {
+   "text": "2.001,13",
+   "t0": 47.6,
+   "t1": 47.8,
+   "dur": 0.2,
+   "box": [
+    0.6,
+    0.433,
+    0.637,
+    0.452
+   ],
+   "h": 0.019,
+   "conf": 0.68,
+   "text_colour": "#9b9b9b",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "19.606.13",
+   "t0": 47.6,
+   "t1": 47.8,
+   "dur": 0.2,
+   "box": [
+    0.716,
+    0.433,
+    0.754,
+    0.452
+   ],
+   "h": 0.019,
+   "conf": 0.72,
+   "text_colour": "#9a9a9a",
+   "bg_colour": "#fefefe",
+   "grew": false
+  },
+  {
+   "text": "181.007,13",
+   "t0": 47.6,
+   "t1": 47.8,
+   "dur": 0.2,
+   "box": [
+    0.484,
+    0.519,
+    0.521,
+    0.535
+   ],
+   "h": 0.017,
+   "conf": 0.65,
+   "text_colour": "#9d9d9d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "62.121.",
+   "t0": 47.6,
+   "t1": 47.8,
+   "dur": 0.2,
+   "box": [
+    0.544,
+    0.515,
+    0.579,
+    0.539
+   ],
+   "h": 0.024,
+   "conf": 0.69,
+   "text_colour": "#969696",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "82.003,58",
+   "t0": 47.6,
+   "t1": 47.8,
+   "dur": 0.2,
+   "box": [
+    0.602,
+    0.519,
+    0.635,
+    0.535
+   ],
+   "h": 0.017,
+   "conf": 0.63,
+   "text_colour": "#999999",
+   "bg_colour": "#fefefe",
+   "grew": false
+  },
+  {
+   "text": "Berkirg",
+   "t0": 47.8,
+   "t1": 48.0,
+   "dur": 0.2,
+   "box": [
+    0.333,
+    0.244,
+    0.365,
+    0.269
+   ],
+   "h": 0.024,
+   "conf": 0.68,
+   "text_colour": "#89857c",
+   "bg_colour": "#efede4",
+   "grew": false
+  },
+  {
+   "text": "Ou 2000",
+   "t0": 47.8,
+   "t1": 48.0,
+   "dur": 0.2,
+   "box": [
+    0.381,
+    0.407,
+    0.41,
+    0.426
+   ],
+   "h": 0.019,
+   "conf": 0.64,
+   "text_colour": "#9a9a9a",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "e1.71,m",
+   "t0": 47.8,
+   "t1": 48.0,
+   "dur": 0.2,
+   "box": [
+    0.646,
+    0.517,
+    0.679,
+    0.539
+   ],
+   "h": 0.022,
+   "conf": 0.63,
+   "text_colour": "#8d8d8d",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "+ 18.4,4",
+   "t0": 48.0,
+   "t1": 48.2,
+   "dur": 0.2,
+   "box": [
+    0.633,
+    0.737,
+    0.67,
+    0.756
+   ],
+   "h": 0.019,
+   "conf": 0.63,
+   "text_colour": "#707070",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "9.70.0",
+   "t0": 48.4,
+   "t1": 48.6,
+   "dur": 0.2,
+   "box": [
+    0.388,
+    0.452,
+    0.418,
+    0.467
+   ],
+   "h": 0.015,
+   "conf": 0.7,
+   "text_colour": "#949494",
+   "bg_colour": "#f7f7f7",
+   "grew": false
+  },
+  {
+   "text": "Seging",
+   "t0": 49.0,
+   "t1": 49.2,
+   "dur": 0.2,
+   "box": [
+    0.351,
+    0.276,
+    0.378,
+    0.296
+   ],
+   "h": 0.02,
+   "conf": 0.67,
+   "text_colour": "#817f76",
+   "bg_colour": "#ecebe4",
+   "grew": false
+  },
+  {
+   "text": "Cash management",
+   "t0": 55.4,
+   "t1": 55.6,
+   "dur": 0.2,
+   "box": [
+    0.172,
+    0.731,
+    0.519,
+    0.822
+   ],
+   "h": 0.091,
+   "conf": 0.9,
+   "text_colour": "#c3c1bd",
+   "bg_colour": "#eeece8",
+   "grew": false
+  },
+  {
+   "text": "Airban k",
+   "t0": 55.4,
+   "t1": 58.0,
+   "dur": 2.6,
+   "box": [
+    0.308,
+    0.367,
+    0.825,
+    0.583
+   ],
+   "h": 0.217,
+   "conf": 0.87,
+   "text_colour": "#000000",
+   "bg_colour": "#efede9",
+   "grew": true,
+   "first_text": "Airba"
+  },
+  {
+   "text": "Cash management for modern birinnaseg",
+   "t0": 55.6,
+   "t1": 55.8,
+   "dur": 0.2,
+   "box": [
+    0.22,
+    0.641,
+    0.827,
+    0.733
+   ],
+   "h": 0.093,
+   "conf": 0.82,
+   "text_colour": "#93918d",
+   "bg_colour": "#eeece9",
+   "grew": false
+  },
+  {
+   "text": "Cash management for modern businesses",
+   "t0": 55.8,
+   "t1": 58.0,
+   "dur": 2.2,
+   "box": [
+    0.254,
+    0.587,
+    0.747,
+    0.635
+   ],
+   "h": 0.067,
+   "conf": 0.93,
+   "text_colour": "#5d5a57",
+   "bg_colour": "#eeece9",
+   "grew": false
+  },
+  {
+   "text": "jol",
+   "t0": 58.0,
+   "t1": 58.2,
+   "dur": 0.2,
+   "box": [
+    0.471,
+    0.457,
+    0.529,
+    0.548
+   ],
+   "h": 0.091,
+   "conf": 0.74,
+   "text_colour": "#020000",
+   "bg_colour": "#efede9",
+   "grew": false
+  },
+  {
+   "text": "joinairbank.com",
+   "t0": 58.2,
+   "t1": 62.0,
+   "dur": 3.8,
+   "box": [
+    0.343,
+    0.465,
+    0.657,
+    0.541
+   ],
+   "h": 0.085,
+   "conf": 0.92,
+   "text_colour": "#000000",
+   "bg_colour": "#efede9",
+   "grew": true,
+   "first_text": "joinal"
+  }
+ ],
+ "density": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  0,
+  0,
+  2,
+  7,
+  12,
+  15,
+  17,
+  19,
+  20,
+  24,
+  24,
+  26,
+  27,
+  27,
+  22,
+  24,
+  3,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  11,
+  16,
+  24,
+  24,
+  25,
+  25,
+  25,
+  24,
+  14,
+  10,
+  7,
+  7,
+  7,
+  8,
+  9,
+  11,
+  11,
+  11,
+  11,
+  11,
+  11,
+  10,
+  11,
+  10,
+  11,
+  5,
+  3,
+  5,
+  7,
+  9,
+  11,
+  13,
+  13,
+  10,
+  10,
+  11,
+  11,
+  11,
+  11,
+  12,
+  12,
+  12,
+  11,
+  12,
+  11,
+  11,
+  10,
+  10,
+  10,
+  12,
+  11,
+  4,
+  2,
+  8,
+  6,
+  7,
+  8,
+  7,
+  7,
+  7,
+  7,
+  7,
+  7,
+  8,
+  7,
+  5,
+  6,
+  5,
+  5,
+  5,
+  5,
+  6,
+  9,
+  9,
+  10,
+  10,
+  10,
+  10,
+  10,
+  8,
+  7,
+  0,
+  0,
+  0,
+  2,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  3,
+  4,
+  6,
+  6,
+  15,
+  13,
+  14,
+  14,
+  21,
+  32,
+  36,
+  38,
+  37,
+  38,
+  35,
+  37,
+  37,
+  35,
+  35,
+  22,
+  9,
+  4,
+  3,
+  4,
+  3,
+  3,
+  4,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1
+ ]
+}

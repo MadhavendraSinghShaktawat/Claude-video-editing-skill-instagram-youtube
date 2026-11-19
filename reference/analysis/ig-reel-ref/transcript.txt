@@ -1,0 +1,12 @@
+[    0.00] Cloud Code can now control your iPhone for you, opening apps and tapping through screens
+[    3.72] just like a real person.
+[    4.92] This is Mirar MCP, and it works through Apple's iPhone mirroring on your Mac, so Cloud can
+[    8.90] read your phone screen and tap, swipe, and type for you.
+[   11.48] To install it, you just run this one command and connect it to Cloud Code or Codex.
+[   14.80] Then you can use it to automate whole workflows, test your own apps or on a real device,
+[   18.18] or just hand off all the boring stuff that you have to do on your phone every
+[   20.90] day.
+[   21.32] Plus you can block it from apps like Wallet or your banking apps, you always stay
+[   24.58] in control.
+[   25.22] If you want the whole setup guide, just comment phone down below and I'll
+[   27.76] send you the links directly.

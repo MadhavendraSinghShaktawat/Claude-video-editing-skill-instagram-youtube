@@ -1,0 +1,223 @@
+{
+ "video": "ref.mp4",
+ "duration_s": 102.333,
+ "fps": 30.0,
+ "title": null,
+ "channel": null,
+ "views": null,
+ "cuts": {
+  "total": 50,
+  "per_min": 29.3,
+  "by_kind": {
+   "punch": 18,
+   "jump": 12,
+   "pop": 7,
+   "hard": 13
+  },
+  "by_kind_per_min": {
+   "punch": 10.6,
+   "jump": 7.0,
+   "pop": 4.1,
+   "hard": 7.6
+  },
+  "shot_len_s": {
+   "median": 1.27,
+   "p10": 0.5,
+   "p90": 4.47,
+   "max": 7.2
+  },
+  "picture_change_every_s": {
+   "median": 0.78,
+   "p90": 29.12,
+   "max": 52.3
+  },
+  "any_cut_every_s": {
+   "median": 1.27,
+   "p90": 4.47,
+   "max": 7.2
+  },
+  "transition_len_s": null
+ },
+ "cut_vs_speech": {
+  "same_picture_cuts_between_words_share": 0.43,
+  "same_picture_cuts_after_sentence_end_share": 0.23,
+  "picture_changes_between_words_share": 0.23,
+  "picture_changes_after_sentence_end_share": 0.0,
+  "same_picture_cuts_inside_voice_pause_share": 0.0,
+  "picture_changes_inside_voice_pause_share": 0.0,
+  "chance_inside_voice_pause_share": 0.03,
+  "timing_words_from": "words.json"
+ },
+ "picture_share_of_runtime": {
+  "speaker": 0.874,
+  "no face (b-roll / screen / graphic)": 0.126
+ },
+ "camera_on_face_shots": {
+  "share_of_face_time_by_move": {
+   "static": 0.95,
+   "slow push in": 0.05
+  },
+  "punch_cut_scale": {
+   "n": 18,
+   "in_median": 1.105,
+   "out_median": 0.906,
+   "in_n": 7,
+   "out_n": 11
+  },
+  "face_height_share": {
+   "median": 0.204,
+   "p10": 0.191,
+   "p90": 0.214
+  },
+  "face_centre": {
+   "x_median": 0.53,
+   "y_median": 0.47
+  },
+  "face_size_step_between_face_shots": {
+   "changed_over_5pct_share": 0.43,
+   "median_step_when_changed": 1.092
+  },
+  "eased_zoom_moves": {
+   "n": 0,
+   "per_min": 0.0,
+   "factor_median": null,
+   "dur_median_s": null,
+   "in_share": null,
+   "peak_position_median": null
+  },
+  "slow_push_pct_per_s_median": 3.57
+ },
+ "text": {
+  "big_tracks": 33,
+  "big_per_min": 19.3,
+  "on_screen_s_median": 1.0,
+  "words_median": 3.0,
+  "words_p90": 5.0,
+  "height_share_median": 0.038,
+  "height_share_p90": 0.043,
+  "repeats_spoken_words_share": 0.85,
+  "appears_vs_word_s": {
+   "median": 0.03,
+   "p10": -0.23,
+   "p90": 0.33
+  },
+  "built_on_share": 0.0,
+  "position_grid_3x3_share": [
+   [
+    0.0,
+    0.94,
+    0.0
+   ],
+   [
+    0.03,
+    0.0,
+    0.03
+   ],
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "text_colours_top": [
+   {
+    "rgb12": "#dff",
+    "share": 0.48
+   },
+   {
+    "rgb12": "#def",
+    "share": 0.42
+   },
+   {
+    "rgb12": "#776",
+    "share": 0.06
+   },
+   {
+    "rgb12": "#bbb",
+    "share": 0.03
+   }
+  ],
+  "dense_text_share_of_runtime": 0.007
+ },
+ "audio": {
+  "loudness": {
+   "integrated_LUFS": -14.2,
+   "LRA_LU": 2.6,
+   "true_peak_dBTP": -0.9
+  },
+  "voice": {
+   "stem_rms_dBFS": -17.2,
+   "active_share": 0.959,
+   "words": 377,
+   "wpm_overall": 220.7,
+   "wpm_while_speaking": 230.2,
+   "wpm_per_30s": [
+    208,
+    238,
+    216,
+    92
+   ]
+  },
+  "pause_stats": {
+   "count": 7,
+   "per_min": 4.1,
+   "total_s": 1.0,
+   "share_of_runtime": 0.01,
+   "median_s": 0.13,
+   "p25_s": 0.12,
+   "p75_s": 0.15,
+   "p90_s": 0.18,
+   "max_s": 0.2,
+   "over_0.5s": 0,
+   "over_1s": 0,
+   "over_2s": 0,
+   "speech_run_s": {
+    "median": 1.1,
+    "p90": 3.53,
+    "max": 15.8
+   }
+  },
+  "word_gaps": {
+   "count": 27,
+   "median_s": 0.2,
+   "p90_s": 0.33,
+   "max_s": 0.44
+  },
+  "bed": {
+   "stems": true,
+   "median_rel_voice_dB": -49.4,
+   "p10_rel_voice_dB": -53.8,
+   "p90_rel_voice_dB": -42.4,
+   "audible_bed_share": 0.08,
+   "while_voice_rel_dB": -49.3,
+   "in_pauses_rel_dB": -30.7,
+   "duck_dB": 18.6,
+   "bed_on_spans": []
+  },
+  "silences_n": 1
+ },
+ "sfx": {
+  "candidates": 10,
+  "per_min": 5.9,
+  "strong": 8,
+  "strong_per_min": 4.7,
+  "strong_on_picture_event_share": 0.25,
+  "strong_chance_share": 0.09,
+  "strong_rel_voice_dB_median": -6.7,
+  "strong_dur_s_median": 0.1,
+  "on_picture_event_share": 0.3,
+  "chance_share": 0.1,
+  "by_kind": {
+   "LOW": 2,
+   "BB": 10
+  },
+  "cuts_with_sfx_share": {
+   "punch": 0.0,
+   "jump": 0.08,
+   "pop": 0.14,
+   "hard": 0.0
+  },
+  "cuts_with_sfx_chance_share": 0.02,
+  "offset_to_cut_s_median": -0.05
+ }
+}

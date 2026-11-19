@@ -1,0 +1,69 @@
+{
+ "video": "vaylens-explainer.mp4",
+ "duration": 72.214059,
+ "source_fps": 30.0,
+ "source_size": [
+  736,
+  414
+ ],
+ "sample_fps": 4.0,
+ "range": [
+  0,
+  72.214059
+ ],
+ "grid": [
+  6,
+  6
+ ],
+ "how_to_read": "Each tile has burned-in time (s) + source frame number. Order is left-to-right, top-to-bottom. Use t_start/t_end to pick the sheet for a moment.",
+ "sheets": [
+  {
+   "file": "sheet_001.jpg",
+   "t_start": 0.0,
+   "t_end": 9.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_002.jpg",
+   "t_start": 9.0,
+   "t_end": 18.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_003.jpg",
+   "t_start": 18.0,
+   "t_end": 27.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_004.jpg",
+   "t_start": 27.0,
+   "t_end": 36.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_005.jpg",
+   "t_start": 36.0,
+   "t_end": 45.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_006.jpg",
+   "t_start": 45.0,
+   "t_end": 54.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_007.jpg",
+   "t_start": 54.0,
+   "t_end": 63.0,
+   "frames": 36
+  },
+  {
+   "file": "sheet_008.jpg",
+   "t_start": 63.0,
+   "t_end": 72.0,
+   "frames": 36
+  }
+ ]
+}

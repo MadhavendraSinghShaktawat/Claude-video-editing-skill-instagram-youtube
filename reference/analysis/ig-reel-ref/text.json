@@ -1,0 +1,6878 @@
+{
+ "video": "ig-reel-ref.mp4",
+ "sampling": "picture events + 1/s",
+ "samples": 59,
+ "tracks": [
+  {
+   "text": "Vous allez",
+   "t0": 0.1,
+   "t1": 1.0,
+   "last_seen": 0.1,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.726,
+    0.365,
+    0.793,
+    0.374
+   ],
+   "h": 0.009,
+   "conf": 0.85,
+   "text_colour": "#6e6f6d",
+   "bg_colour": "#f9f9f7",
+   "grew": false
+  },
+  {
+   "text": "53 min - 17.44",
+   "t0": 0.1,
+   "t1": 1.0,
+   "last_seen": 0.1,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.733,
+    0.382,
+    0.798,
+    0.39
+   ],
+   "h": 0.007,
+   "conf": 0.67,
+   "text_colour": "#929190",
+   "bg_colour": "#fbf9f9",
+   "grew": false
+  },
+  {
+   "text": "Claude Code",
+   "t0": 0.1,
+   "t1": 1.0,
+   "last_seen": 0.1,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.259,
+    0.521,
+    0.744,
+    0.556
+   ],
+   "h": 0.035,
+   "conf": 0.8,
+   "text_colour": "#faf7f4",
+   "bg_colour": "#a53318",
+   "grew": false
+  },
+  {
+   "text": "Claude Code Can Now",
+   "t0": 0.1,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 4.7,
+   "samples": 12,
+   "box": [
+    0.128,
+    0.135,
+    0.878,
+    0.171
+   ],
+   "h": 0.035,
+   "conf": 0.91,
+   "text_colour": "#e0a78f",
+   "bg_colour": "#bd4d27",
+   "grew": true,
+   "first_text": "Claude"
+  },
+  {
+   "text": "can now control",
+   "t0": 1.0,
+   "t1": 1.6,
+   "last_seen": 1.0,
+   "dur": 0.6,
+   "samples": 1,
+   "box": [
+    0.193,
+    0.515,
+    0.822,
+    0.566
+   ],
+   "h": 0.051,
+   "conf": 0.81,
+   "text_colour": "#fbfaf6",
+   "bg_colour": "#a73416",
+   "grew": false
+  },
+  {
+   "text": "53 min",
+   "t0": 1.0,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.659,
+    0.445,
+    0.717,
+    0.457
+   ],
+   "h": 0.013,
+   "conf": 0.81,
+   "text_colour": "#7f7c7d",
+   "bg_colour": "#fbf6f7",
+   "grew": false
+  },
+  {
+   "text": "Control Your iPhone",
+   "t0": 1.0,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 3.8,
+   "samples": 11,
+   "box": [
+    0.206,
+    0.189,
+    0.794,
+    0.221
+   ],
+   "h": 0.032,
+   "conf": 0.92,
+   "text_colour": "#fbfaf5",
+   "bg_colour": "#502217",
+   "grew": false
+  },
+  {
+   "text": "ecuttng",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.126,
+    0.275,
+    0.178,
+    0.282
+   ],
+   "h": 0.007,
+   "conf": 0.84,
+   "text_colour": "#505052",
+   "bg_colour": "#030205",
+   "grew": false
+  },
+  {
+   "text": "iphont-sirroring : lasnch_pe (MCPX(nome:",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.119,
+    0.287,
+    0.37,
+    0.3
+   ],
+   "h": 0.013,
+   "conf": 0.8,
+   "text_colour": "#828182",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Lounched",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.137,
+    0.298,
+    0.189,
+    0.305
+   ],
+   "h": 0.007,
+   "conf": 0.86,
+   "text_colour": "#49484a",
+   "bg_colour": "#030102",
+   "grew": false
+  },
+  {
+   "text": "[Imoge]",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.137,
+    0.351,
+    0.181,
+    0.359
+   ],
+   "h": 0.008,
+   "conf": 0.77,
+   "text_colour": "#484647",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "to expond)",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.263,
+    0.344,
+    0.324,
+    0.351
+   ],
+   "h": 0.007,
+   "conf": 0.74,
+   "text_colour": "#232222",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "top ((P)(x: 263, y: 493)",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.23,
+    0.381,
+    0.394,
+    0.391
+   ],
+   "h": 0.009,
+   "conf": 0.89,
+   "text_colour": "#7d7c7d",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "ighone-eirroring - describe_screes ((r)",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.119,
+    0.402,
+    0.37,
+    0.414
+   ],
+   "h": 0.011,
+   "conf": 0.89,
+   "text_colour": "#7e7e7e",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "Via Aut 15 Sud Mrsbel",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.663,
+    0.456,
+    0.769,
+    0.467
+   ],
+   "h": 0.01,
+   "conf": 0.86,
+   "text_colour": "#949394",
+   "bg_colour": "#fcfbfc",
+   "grew": false
+  },
+  {
+   "text": "(thinking)",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.22,
+    0.457,
+    0.283,
+    0.465
+   ],
+   "h": 0.007,
+   "conf": 0.85,
+   "text_colour": "#3e3e3e",
+   "bg_colour": "#030202",
+   "grew": false
+  },
+  {
+   "text": "60 im",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.857,
+    0.448,
+    0.885,
+    0.456
+   ],
+   "h": 0.008,
+   "conf": 0.67,
+   "text_colour": "#bebebe",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "F1ddle-faddling",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.12,
+    0.458,
+    0.211,
+    0.466
+   ],
+   "h": 0.007,
+   "conf": 0.8,
+   "text_colour": "#482d30",
+   "bg_colour": "#0b0001",
+   "grew": false
+  },
+  {
+   "text": "your iPhone",
+   "t0": 1.6,
+   "t1": 1.8,
+   "last_seen": 1.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.27,
+    0.508,
+    0.737,
+    0.569
+   ],
+   "h": 0.06,
+   "conf": 0.86,
+   "text_colour": "#fbfbf7",
+   "bg_colour": "#a93416",
+   "grew": false
+  },
+  {
+   "text": "65* ot (353,_30),",
+   "t0": 1.6,
+   "t1": 2.1,
+   "last_seen": 1.8,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.152,
+    0.327,
+    0.261,
+    0.338
+   ],
+   "h": 0.01,
+   "conf": 0.87,
+   "text_colour": "#4c4b4c",
+   "bg_colour": "#010002",
+   "grew": false
+  },
+  {
+   "text": "*16:51* ot (69, 38)",
+   "t0": 1.6,
+   "t1": 2.1,
+   "last_seen": 1.8,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.152,
+    0.287,
+    0.278,
+    0.298
+   ],
+   "h": 0.01,
+   "conf": 0.89,
+   "text_colour": "#4c4b4c",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "ou travot1* visibte  53 min, ETA 17;44, Topping Y oller.",
+   "t0": 1.6,
+   "t1": 2.1,
+   "last_seen": 1.8,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.122,
+    0.366,
+    0.474,
+    0.376
+   ],
+   "h": 0.01,
+   "conf": 0.85,
+   "text_colour": "#757576",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "e-wirroring",
+   "t0": 1.6,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.15,
+    0.382,
+    0.228,
+    0.39
+   ],
+   "h": 0.007,
+   "conf": 0.82,
+   "text_colour": "#828182",
+   "bg_colour": "#020102",
+   "grew": false
+  },
+  {
+   "text": "iphone-airroring - describe_screen (ICP)",
+   "t0": 1.6,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 1.0,
+   "samples": 3,
+   "box": [
+    0.119,
+    0.328,
+    0.391,
+    0.34
+   ],
+   "h": 0.011,
+   "conf": 0.9,
+   "text_colour": "#828181",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "Topped ot (263, 493)",
+   "t0": 1.6,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 1.0,
+   "samples": 4,
+   "box": [
+    0.137,
+    0.315,
+    0.276,
+    0.325
+   ],
+   "h": 0.01,
+   "conf": 0.92,
+   "text_colour": "#515051",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "*16:511* ot (79, 38)",
+   "t0": 1.6,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 1.0,
+   "samples": 4,
+   "box": [
+    0.15,
+    0.354,
+    0.291,
+    0.365
+   ],
+   "h": 0.01,
+   "conf": 0.84,
+   "text_colour": "#494849",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "[Inege]",
+   "t0": 1.6,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 2.5,
+   "samples": 5,
+   "box": [
+    0.137,
+    0.436,
+    0.191,
+    0.448
+   ],
+   "h": 0.011,
+   "conf": 0.84,
+   "text_colour": "#4a4a4a",
+   "bg_colour": "#020101",
+   "grew": false
+  },
+  {
+   "text": "[Inege]",
+   "t0": 1.8,
+   "t1": 2.1,
+   "last_seen": 1.8,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.302,
+    0.185,
+    0.315
+   ],
+   "h": 0.013,
+   "conf": 0.68,
+   "text_colour": "#4c4d50",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "9191S1A -110A02) nD,",
+   "t0": 1.8,
+   "t1": 2.1,
+   "last_seen": 1.8,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.122,
+    0.32,
+    0.261,
+    0.329
+   ],
+   "h": 0.009,
+   "conf": 0.65,
+   "text_colour": "#4a4a4b",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "novigoted te home screen",
+   "t0": 1.8,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.231,
+    0.412,
+    0.404,
+    0.425
+   ],
+   "h": 0.013,
+   "conf": 0.89,
+   "text_colour": "#4d4c4c",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "for you",
+   "t0": 1.8,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.354,
+    0.518,
+    0.648,
+    0.565
+   ],
+   "h": 0.047,
+   "conf": 0.77,
+   "text_colour": "#bda096",
+   "bg_colour": "#a73417",
+   "grew": true,
+   "first_text": "for"
+  },
+  {
+   "text": "iphone-mirroring, - tap (KCP)(x: 263, y: 493)",
+   "t0": 1.8,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.117,
+    0.303,
+    0.417,
+    0.317
+   ],
+   "h": 0.014,
+   "conf": 0.89,
+   "text_colour": "#838183",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "\"65* ot (351, 38)",
+   "t0": 1.8,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.8,
+   "samples": 3,
+   "box": [
+    0.152,
+    0.346,
+    0.272,
+    0.356
+   ],
+   "h": 0.01,
+   "conf": 0.89,
+   "text_colour": "#4a494a",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "loute preview; 53 sin, 6e ks, ETA 17:44, Switching to 51ock,",
+   "t0": 1.8,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.8,
+   "samples": 3,
+   "box": [
+    0.124,
+    0.386,
+    0.519,
+    0.399
+   ],
+   "h": 0.013,
+   "conf": 0.92,
+   "text_colour": "#858588",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "Pressed Home",
+   "t0": 1.8,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.8,
+   "samples": 3,
+   "box": [
+    0.133,
+    0.412,
+    0.222,
+    0.422
+   ],
+   "h": 0.009,
+   "conf": 0.89,
+   "text_colour": "#4f4d4d",
+   "bg_colour": "#020101",
+   "grew": false
+  },
+  {
+   "text": "Fiddte-foddltng (33s - 1 282 tokens",
+   "t0": 1.8,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.12,
+    0.455,
+    0.356,
+    0.465
+   ],
+   "h": 0.009,
+   "conf": 0.89,
+   "text_colour": "#443536",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "R10",
+   "t0": 1.8,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 2.3,
+   "samples": 5,
+   "box": [
+    0.687,
+    0.095,
+    0.713,
+    0.104
+   ],
+   "h": 0.009,
+   "conf": 0.71,
+   "text_colour": "#db734a",
+   "bg_colour": "#c65123",
+   "grew": false
+  },
+  {
+   "text": "- thinking)",
+   "t0": 1.8,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 2.3,
+   "samples": 6,
+   "box": [
+    0.365,
+    0.453,
+    0.443,
+    0.464
+   ],
+   "h": 0.01,
+   "conf": 0.87,
+   "text_colour": "#464545",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Screen elements (top coordinetes in polints):",
+   "t0": 1.8,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 3.0,
+   "samples": 8,
+   "box": [
+    0.133,
+    0.339,
+    0.433,
+    0.348
+   ],
+   "h": 0.009,
+   "conf": 0.94,
+   "text_colour": "#4f4c4c",
+   "bg_colour": "#010000",
+   "grew": true,
+   "first_text": "ents (top coordinetes in points):"
+  },
+  {
+   "text": "91415)A 118ASM) ng",
+   "t0": 2.1,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.126,
+    0.29,
+    0.257,
+    0.3
+   ],
+   "h": 0.01,
+   "conf": 0.62,
+   "text_colour": "#4d4c4e",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "- top (MCP)(x: 263, y: 493)",
+   "t0": 2.1,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.233,
+    0.306,
+    0.413,
+    0.317
+   ],
+   "h": 0.01,
+   "conf": 0.85,
+   "text_colour": "#8a8a8b",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "- describe_screen (MCP)",
+   "t0": 2.1,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.233,
+    0.331,
+    0.387,
+    0.341
+   ],
+   "h": 0.009,
+   "conf": 0.89,
+   "text_colour": "#858484",
+   "bg_colour": "#020201",
+   "grew": false
+  },
+  {
+   "text": "1ines (ctr1+o to expend)",
+   "t0": 2.1,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.174,
+    0.365,
+    0.343,
+    0.374
+   ],
+   "h": 0.009,
+   "conf": 0.87,
+   "text_colour": "#272727",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "- 1eunch_opp (MCP)(nome: *SLock*)",
+   "t0": 2.1,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.231,
+    0.428,
+    0.454,
+    0.441
+   ],
+   "h": 0.013,
+   "conf": 0.83,
+   "text_colour": "#858483",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "-(37s",
+   "t0": 2.1,
+   "t1": 2.3,
+   "last_seen": 2.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.222,
+    0.455,
+    0.263,
+    0.463
+   ],
+   "h": 0.007,
+   "conf": 0.75,
+   "text_colour": "#383838",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "- 53 min, ETA 17:44, Topping Y o1ler.",
+   "t0": 2.1,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.259,
+    0.287,
+    0.506,
+    0.3
+   ],
+   "h": 0.013,
+   "conf": 0.86,
+   "text_colour": "#8f8f90",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "ighone-airroring - press_home (MCP)",
+   "t0": 2.1,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.117,
+    0.402,
+    0.357,
+    0.416
+   ],
+   "h": 0.014,
+   "conf": 0.92,
+   "text_colour": "#817e81",
+   "bg_colour": "#020001",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring - press_home (MCP)",
+   "t0": 2.1,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.119,
+    0.345,
+    0.359,
+    0.357
+   ],
+   "h": 0.013,
+   "conf": 0.88,
+   "text_colour": "#80817f",
+   "bg_colour": "#0a0a0a",
+   "grew": true,
+   "first_text": "iphon"
+  },
+  {
+   "text": "- 301 tokens",
+   "t0": 2.1,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 2.0,
+   "samples": 4,
+   "box": [
+    0.272,
+    0.453,
+    0.37,
+    0.464
+   ],
+   "h": 0.01,
+   "conf": 0.82,
+   "text_colour": "#3c3c3d",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "Cattn Ug",
+   "t0": 2.3,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.656,
+    0.269,
+    0.696,
+    0.277
+   ],
+   "h": 0.008,
+   "conf": 0.64,
+   "text_colour": "#b0b0b3",
+   "bg_colour": "#faf7fb",
+   "grew": false
+  },
+  {
+   "text": "μ trovei1* visible -",
+   "t0": 2.3,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.287,
+    0.269,
+    0.299
+   ],
+   "h": 0.011,
+   "conf": 0.75,
+   "text_colour": "#515051",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "493)",
+   "t0": 2.3,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.243,
+    0.315,
+    0.276,
+    0.323
+   ],
+   "h": 0.008,
+   "conf": 0.8,
+   "text_colour": "#535050",
+   "bg_colour": "#020000",
+   "grew": false
+  },
+  {
+   "text": "otifcation",
+   "t0": 2.3,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.735,
+    0.318,
+    0.789,
+    0.325
+   ],
+   "h": 0.007,
+   "conf": 0.78,
+   "text_colour": "#767675",
+   "bg_colour": "#f9f7f7",
+   "grew": false
+  },
+  {
+   "text": "w61110ds 01A ,x2015, paung1",
+   "t0": 2.3,
+   "t1": 2.6,
+   "last_seen": 2.3,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.438,
+    0.343,
+    0.448
+   ],
+   "h": 0.01,
+   "conf": 0.64,
+   "text_colour": "#4b494a",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "ruddies",
+   "t0": 2.3,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.6,
+   "samples": 2,
+   "box": [
+    0.8,
+    0.269,
+    0.839,
+    0.277
+   ],
+   "h": 0.008,
+   "conf": 0.8,
+   "text_colour": "#b3b2b0",
+   "bg_colour": "#fcfaf9",
+   "grew": false
+  },
+  {
+   "text": "Add channel",
+   "t0": 2.3,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.6,
+   "samples": 2,
+   "box": [
+    0.665,
+    0.35,
+    0.735,
+    0.359
+   ],
+   "h": 0.009,
+   "conf": 0.88,
+   "text_colour": "#babab9",
+   "bg_colour": "#fcfcfb",
+   "grew": false
+  },
+  {
+   "text": "opening apps",
+   "t0": 2.3,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.6,
+   "samples": 2,
+   "box": [
+    0.233,
+    0.518,
+    0.772,
+    0.568
+   ],
+   "h": 0.05,
+   "conf": 0.87,
+   "text_colour": "#e6d9d6",
+   "bg_colour": "#a63113",
+   "grew": true,
+   "first_text": "opening"
+  },
+  {
+   "text": "lean-Francois 1325",
+   "t0": 2.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 1.8,
+   "samples": 4,
+   "box": [
+    0.68,
+    0.448,
+    0.77,
+    0.456
+   ],
+   "h": 0.008,
+   "conf": 0.85,
+   "text_colour": "#bebebd",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Latth Up",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.656,
+    0.269,
+    0.698,
+    0.277
+   ],
+   "h": 0.008,
+   "conf": 0.69,
+   "text_colour": "#b3b1b3",
+   "bg_colour": "#fcfafc",
+   "grew": false
+  },
+  {
+   "text": "2 new",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.656,
+    0.275,
+    0.683,
+    0.283
+   ],
+   "h": 0.008,
+   "conf": 0.72,
+   "text_colour": "#cccacc",
+   "bg_colour": "#fbf9fa",
+   "grew": false
+  },
+  {
+   "text": "0 new",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.728,
+    0.275,
+    0.754,
+    0.283
+   ],
+   "h": 0.008,
+   "conf": 0.67,
+   "text_colour": "#c5c5c5",
+   "bg_colour": "#fbfafb",
+   "grew": false
+  },
+  {
+   "text": "Screen elesents (top coordinotes in points):",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.139,
+    0.28,
+    0.433,
+    0.291
+   ],
+   "h": 0.01,
+   "conf": 0.95,
+   "text_colour": "#505050",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "*16:511* ot (79, 38)",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.15,
+    0.295,
+    0.289,
+    0.306
+   ],
+   "h": 0.011,
+   "conf": 0.86,
+   "text_colour": "#4f4f4f",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "[Inege]",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.141,
+    0.314,
+    0.187,
+    0.323
+   ],
+   "h": 0.009,
+   "conf": 0.8,
+   "text_colour": "#4c4c4e",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "sthub-neeshcation",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.696,
+    0.318,
+    0.791,
+    0.325
+   ],
+   "h": 0.007,
+   "conf": 0.75,
+   "text_colour": "#7b7b78",
+   "bg_colour": "#fcfbfa",
+   "grew": false
+  },
+  {
+   "text": "Route preview: 53 min, 6e ks, ETA 17:44. Saitching to Sleck",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.115,
+    0.328,
+    0.517,
+    0.341
+   ],
+   "h": 0.013,
+   "conf": 0.92,
+   "text_colour": "#858586",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Pressed Home",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.133,
+    0.355,
+    0.226,
+    0.365
+   ],
+   "h": 0.009,
+   "conf": 0.86,
+   "text_colour": "#4d4c4d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "(_x2o15, :utu)(d)w) ddo~punp1 - buuouesuoqd)",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.119,
+    0.37,
+    0.457,
+    0.382
+   ],
+   "h": 0.012,
+   "conf": 0.63,
+   "text_colour": "#868585",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "Lounched *Stock' vio Spot1ight",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.137,
+    0.379,
+    0.343,
+    0.39
+   ],
+   "h": 0.01,
+   "conf": 0.86,
+   "text_colour": "#535151",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "Screen elements_(tep coordinotes in points):",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.403,
+    0.437,
+    0.416
+   ],
+   "h": 0.013,
+   "conf": 0.89,
+   "text_colour": "#4f4c4d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "is tyou",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.73,
+    0.406,
+    0.763,
+    0.415
+   ],
+   "h": 0.008,
+   "conf": 0.8,
+   "text_colour": "#bbbbbb",
+   "bg_colour": "#fafafb",
+   "grew": false
+  },
+  {
+   "text": "\"esyncio -\"",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.15,
+    0.421,
+    0.222,
+    0.43
+   ],
+   "h": 0.009,
+   "conf": 0.74,
+   "text_colour": "#464847",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "* ot (129, 128)",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.22,
+    0.42,
+    0.324,
+    0.43
+   ],
+   "h": 0.01,
+   "conf": 0.84,
+   "text_colour": "#525051",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "[Inege]",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.133,
+    0.435,
+    0.191,
+    0.448
+   ],
+   "h": 0.013,
+   "conf": 0.69,
+   "text_colour": "#464747",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "lectures",
+   "t0": 2.6,
+   "t1": 2.9,
+   "last_seen": 2.6,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.667,
+    0.479,
+    0.711,
+    0.486
+   ],
+   "h": 0.007,
+   "conf": 0.78,
+   "text_colour": "#c0bdbf",
+   "bg_colour": "#fbfafa",
+   "grew": false
+  },
+  {
+   "text": "nevigoted to hone screen",
+   "t0": 2.6,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.7,
+   "samples": 3,
+   "box": [
+    0.235,
+    0.297,
+    0.402,
+    0.307
+   ],
+   "h": 0.01,
+   "conf": 0.92,
+   "text_colour": "#4f4e4e",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "Fiddte-foddt ing- (SSs -",
+   "t0": 2.6,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.119,
+    0.452,
+    0.272,
+    0.465
+   ],
+   "h": 0.013,
+   "conf": 0.82,
+   "text_colour": "#493033",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring - describe_screen (MCP)",
+   "t0": 2.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 2.2,
+   "samples": 5,
+   "box": [
+    0.117,
+    0.305,
+    0.391,
+    0.315
+   ],
+   "h": 0.009,
+   "conf": 0.92,
+   "text_colour": "#898889",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "-16:52* ot (67, 28)",
+   "t0": 2.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 2.2,
+   "samples": 6,
+   "box": [
+    0.15,
+    0.32,
+    0.287,
+    0.332
+   ],
+   "h": 0.013,
+   "conf": 0.89,
+   "text_colour": "#525151",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "11nes (ctrl+0 te expend)",
+   "t0": 2.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 2.2,
+   "samples": 6,
+   "box": [
+    0.176,
+    0.34,
+    0.341,
+    0.347
+   ],
+   "h": 0.007,
+   "conf": 0.87,
+   "text_colour": "#222222",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "R18",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.683,
+    0.093,
+    0.707,
+    0.101
+   ],
+   "h": 0.008,
+   "conf": 0.69,
+   "text_colour": "#db7652",
+   "bg_colour": "#c5532c",
+   "grew": false
+  },
+  {
+   "text": "53 min, 68 km",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.217,
+    0.289,
+    0.307,
+    0.297
+   ],
+   "h": 0.008,
+   "conf": 0.83,
+   "text_colour": "#81817e",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "ETA 17;44.",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.315,
+    0.289,
+    0.385,
+    0.298
+   ],
+   "h": 0.009,
+   "conf": 0.83,
+   "text_colour": "#8c8b8c",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Saitching to Slock",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.389,
+    0.29,
+    0.513,
+    0.297
+   ],
+   "h": 0.007,
+   "conf": 0.9,
+   "text_colour": "#4d4c4d",
+   "bg_colour": "#010001",
+   "grew": false
+  },
+  {
+   "text": "- press_hone (MCP)",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.228,
+    0.305,
+    0.356,
+    0.315
+   ],
+   "h": 0.009,
+   "conf": 0.88,
+   "text_colour": "#838382",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "*Stock*)",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.394,
+    0.328,
+    0.457,
+    0.341
+   ],
+   "h": 0.013,
+   "conf": 0.6,
+   "text_colour": "#4d4b4c",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "\"osycio -~ ot (129, 120)",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.15,
+    0.376,
+    0.326,
+    0.391
+   ],
+   "h": 0.015,
+   "conf": 0.81,
+   "text_colour": "#4d4d4d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Fiddte-fodding- (52s - + 301 tokers - thinking)",
+   "t0": 2.9,
+   "t1": 3.1,
+   "last_seen": 2.9,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.119,
+    0.452,
+    0.444,
+    0.465
+   ],
+   "h": 0.013,
+   "conf": 0.86,
+   "text_colour": "#443a3b",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring : 1ounch_opp (MCP)(nane:",
+   "t0": 2.9,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.4,
+   "samples": 2,
+   "box": [
+    0.119,
+    0.311,
+    0.398,
+    0.324
+   ],
+   "h": 0.013,
+   "conf": 0.9,
+   "text_colour": "#818282",
+   "bg_colour": "#000000",
+   "grew": true,
+   "first_text": "iphone-mirroring"
+  },
+  {
+   "text": "iphone-mirroring - 1ounch_epp (MCP)(nane:",
+   "t0": 2.9,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.4,
+   "samples": 2,
+   "box": [
+    0.119,
+    0.329,
+    0.396,
+    0.34
+   ],
+   "h": 0.01,
+   "conf": 0.88,
+   "text_colour": "#7e7c7d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "pourp abessu",
+   "t0": 2.9,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.4,
+   "samples": 2,
+   "box": [
+    0.643,
+    0.346,
+    0.733,
+    0.357
+   ],
+   "h": 0.011,
+   "conf": 0.71,
+   "text_colour": "#bcbbbb",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "S1eck is open, Tepping fmirror-messogt.",
+   "t0": 2.9,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 1.2,
+   "samples": 3,
+   "box": [
+    0.119,
+    0.354,
+    0.378,
+    0.365
+   ],
+   "h": 0.01,
+   "conf": 0.89,
+   "text_colour": "#525152",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "s older than 90 das are hidden. Leam",
+   "t0": 2.9,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 1.2,
+   "samples": 3,
+   "box": [
+    0.691,
+    0.409,
+    0.859,
+    0.417
+   ],
+   "h": 0.007,
+   "conf": 0.79,
+   "text_colour": "#a5a6ac",
+   "bg_colour": "#dedfe2",
+   "grew": false
+  },
+  {
+   "text": "and tapping",
+   "t0": 2.9,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.4,
+   "samples": 2,
+   "box": [
+    0.261,
+    0.515,
+    0.737,
+    0.566
+   ],
+   "h": 0.051,
+   "conf": 0.9,
+   "text_colour": "#c4aba4",
+   "bg_colour": "#a73518",
+   "grew": false
+  },
+  {
+   "text": "Today",
+   "t0": 2.9,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 1.7,
+   "samples": 3,
+   "box": [
+    0.637,
+    0.415,
+    0.676,
+    0.427
+   ],
+   "h": 0.012,
+   "conf": 0.81,
+   "text_colour": "#696969",
+   "bg_colour": "#fafafa",
+   "grew": false
+  },
+  {
+   "text": "#mirror-message",
+   "t0": 2.9,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 1.9,
+   "samples": 5,
+   "box": [
+    0.643,
+    0.271,
+    0.791,
+    0.286
+   ],
+   "h": 0.016,
+   "conf": 0.93,
+   "text_colour": "#4b4b4a",
+   "bg_colour": "#fdfcfc",
+   "grew": false
+  },
+  {
+   "text": "This is the very beginning of the aniror-",
+   "t0": 2.9,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 1.9,
+   "samples": 5,
+   "box": [
+    0.644,
+    0.29,
+    0.85,
+    0.302
+   ],
+   "h": 0.012,
+   "conf": 0.87,
+   "text_colour": "#b6b6b6",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "Ade bescription",
+   "t0": 2.9,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 1.9,
+   "samples": 4,
+   "box": [
+    0.659,
+    0.328,
+    0.748,
+    0.34
+   ],
+   "h": 0.011,
+   "conf": 0.92,
+   "text_colour": "#84878b",
+   "bg_colour": "#fafafb",
+   "grew": false
+  },
+  {
+   "text": "Add people",
+   "t0": 2.9,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 1.9,
+   "samples": 5,
+   "box": [
+    0.794,
+    0.328,
+    0.859,
+    0.34
+   ],
+   "h": 0.011,
+   "conf": 0.9,
+   "text_colour": "#828282",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring, - tap (MCP)(x: 159, y: 765)",
+   "t0": 2.9,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 1.9,
+   "samples": 5,
+   "box": [
+    0.119,
+    0.402,
+    0.419,
+    0.415
+   ],
+   "h": 0.013,
+   "conf": 0.91,
+   "text_colour": "#818181",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Tepped ot (159, 765)",
+   "t0": 2.9,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 1.9,
+   "samples": 5,
+   "box": [
+    0.135,
+    0.386,
+    0.278,
+    0.398
+   ],
+   "h": 0.011,
+   "conf": 0.92,
+   "text_colour": "#4d4d4d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Pressed Home",
+   "t0": 3.1,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.137,
+    0.298,
+    0.224,
+    0.305
+   ],
+   "h": 0.007,
+   "conf": 0.86,
+   "text_colour": "#4f4f4f",
+   "bg_colour": "#010101",
+   "grew": false
+  },
+  {
+   "text": "w5113ods eyA ,xpe15, paypung1",
+   "t0": 3.1,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.137,
+    0.321,
+    0.344,
+    0.333
+   ],
+   "h": 0.012,
+   "conf": 0.66,
+   "text_colour": "#4d4c4c",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "\"esyncio -",
+   "t0": 3.1,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.152,
+    0.362,
+    0.222,
+    0.373
+   ],
+   "h": 0.01,
+   "conf": 0.79,
+   "text_colour": "#4d4d4d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "gt (129, 120)",
+   "t0": 3.1,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.222,
+    0.362,
+    0.324,
+    0.373
+   ],
+   "h": 0.01,
+   "conf": 0.82,
+   "text_colour": "#4e4e4f",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Add de",
+   "t0": 3.1,
+   "t1": 3.3,
+   "last_seen": 3.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.663,
+    0.376,
+    0.707,
+    0.386
+   ],
+   "h": 0.01,
+   "conf": 0.76,
+   "text_colour": "#89898a",
+   "bg_colour": "#fcfcfd",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring - describe_screen (MCP)",
+   "t0": 3.1,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 1.0,
+   "samples": 2,
+   "box": [
+    0.12,
+    0.396,
+    0.391,
+    0.405
+   ],
+   "h": 0.009,
+   "conf": 0.92,
+   "text_colour": "#7e7e7f",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "describe_screen (MCP)",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.237,
+    0.297,
+    0.389,
+    0.306
+   ],
+   "h": 0.009,
+   "conf": 0.89,
+   "text_colour": "#888989",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "*esycio -\" st (129, 128)",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.152,
+    0.32,
+    0.324,
+    0.331
+   ],
+   "h": 0.011,
+   "conf": 0.83,
+   "text_colour": "#4f4f50",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "[(Inege]",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.141,
+    0.34,
+    0.189,
+    0.347
+   ],
+   "h": 0.007,
+   "conf": 0.67,
+   "text_colour": "#494848",
+   "bg_colour": "#010101",
+   "grew": false
+  },
+  {
+   "text": "message channel.",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.644,
+    0.347,
+    0.733,
+    0.356
+   ],
+   "h": 0.009,
+   "conf": 0.89,
+   "text_colour": "#bbbbbb",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "26",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.011,
+    0.365,
+    0.024,
+    0.371
+   ],
+   "h": 0.006,
+   "conf": 0.6,
+   "text_colour": "#a4492b",
+   "bg_colour": "#bc5f42",
+   "grew": false
+  },
+  {
+   "text": "Screen elements_ (tep, coordinotes in points):",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.13,
+    0.403,
+    0.437,
+    0.416
+   ],
+   "h": 0.013,
+   "conf": 0.9,
+   "text_colour": "#4f4d4d",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "*16:52* ot (67, 28)",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.15,
+    0.41,
+    0.283,
+    0.422
+   ],
+   "h": 0.011,
+   "conf": 0.89,
+   "text_colour": "#515151",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "\"65* ot (357, 30)",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.148,
+    0.419,
+    0.272,
+    0.43
+   ],
+   "h": 0.011,
+   "conf": 0.84,
+   "text_colour": "#4f4f4f",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "1ines (ctrl+6 to expond)",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.174,
+    0.429,
+    0.343,
+    0.439
+   ],
+   "h": 0.009,
+   "conf": 0.84,
+   "text_colour": "#232222",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "ror-message",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.731,
+    0.457,
+    0.796,
+    0.465
+   ],
+   "h": 0.007,
+   "conf": 0.8,
+   "text_colour": "#bdbdbd",
+   "bg_colour": "#fafafa",
+   "grew": false
+  },
+  {
+   "text": "through",
+   "t0": 3.3,
+   "t1": 4.1,
+   "last_seen": 3.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.174,
+    0.517,
+    0.494,
+    0.564
+   ],
+   "h": 0.047,
+   "conf": 0.85,
+   "text_colour": "#fbfaf7",
+   "bg_colour": "#a12f12",
+   "grew": false
+  },
+  {
+   "text": "Slock is open.",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.119,
+    0.289,
+    0.22,
+    0.298
+   ],
+   "h": 0.009,
+   "conf": 0.86,
+   "text_colour": "#525252",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Topping Remirror-messoge",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.213,
+    0.289,
+    0.378,
+    0.299
+   ],
+   "h": 0.01,
+   "conf": 0.82,
+   "text_colour": "#504f51",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "puuep adessaul",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.644,
+    0.329,
+    0.733,
+    0.34
+   ],
+   "h": 0.01,
+   "conf": 0.69,
+   "text_colour": "#b5b5b5",
+   "bg_colour": "#fdfcfd",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring -",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.12,
+    0.428,
+    0.243,
+    0.439
+   ],
+   "h": 0.01,
+   "conf": 0.86,
+   "text_colour": "#7c7a7a",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "- type_text (MCP)(text: *0n my woy1 53 min to the office (E",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.231,
+    0.427,
+    0.631,
+    0.44
+   ],
+   "h": 0.013,
+   "conf": 0.89,
+   "text_colour": "#828282",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "25",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.011,
+    0.486,
+    0.024,
+    0.494
+   ],
+   "h": 0.007,
+   "conf": 0.66,
+   "text_colour": "#a0462c",
+   "bg_colour": "#bb644a",
+   "grew": false
+  },
+  {
+   "text": "25",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.974,
+    0.485,
+    0.993,
+    0.495
+   ],
+   "h": 0.009,
+   "conf": 0.67,
+   "text_colour": "#c2583e",
+   "bg_colour": "#a5351b",
+   "grew": false
+  },
+  {
+   "text": "just like",
+   "t0": 4.1,
+   "t1": 4.6,
+   "last_seen": 4.1,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.224,
+    0.514,
+    0.535,
+    0.564
+   ],
+   "h": 0.05,
+   "conf": 0.83,
+   "text_colour": "#fcfbf9",
+   "bg_colour": "#a12f12",
+   "grew": false
+  },
+  {
+   "text": "iphone-mirroring - top (MCP)(x: 1e1, y: 541)",
+   "t0": 4.1,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.119,
+    0.28,
+    0.417,
+    0.291
+   ],
+   "h": 0.01,
+   "conf": 0.9,
+   "text_colour": "#858488",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "L Topped ot (te1, 541)",
+   "t0": 4.1,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.124,
+    0.287,
+    0.278,
+    0.299
+   ],
+   "h": 0.011,
+   "conf": 0.9,
+   "text_colour": "#525154",
+   "bg_colour": "#000001",
+   "grew": false
+  },
+  {
+   "text": "*65* ot (357, 38)",
+   "t0": 4.1,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.15,
+    0.329,
+    0.272,
+    0.34
+   ],
+   "h": 0.01,
+   "conf": 0.84,
+   "text_colour": "#535254",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "In fmirror-sessoge, Topping the sessoge field.",
+   "t0": 4.1,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.117,
+    0.362,
+    0.428,
+    0.373
+   ],
+   "h": 0.01,
+   "conf": 0.91,
+   "text_colour": "#4f4f4f",
+   "bg_colour": "#000000",
+   "grew": true,
+   "first_text": "rmirror-sessope, Topping the sessoge field."
+  },
+  {
+   "text": "Fiddle-foddting- (1m 22s : ↑ 336 tokens · thinking)",
+   "t0": 4.1,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.12,
+    0.453,
+    0.461,
+    0.464
+   ],
+   "h": 0.01,
+   "conf": 0.89,
+   "text_colour": "#443838",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "message channel.",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.644,
+    0.299,
+    0.733,
+    0.308
+   ],
+   "h": 0.009,
+   "conf": 0.87,
+   "text_colour": "#b7b7b7",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "[Inege]",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.137,
+    0.346,
+    0.191,
+    0.356
+   ],
+   "h": 0.01,
+   "conf": 0.8,
+   "text_colour": "#4c4c4c",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "Jean-Francols 13.25",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.676,
+    0.399,
+    0.772,
+    0.411
+   ],
+   "h": 0.012,
+   "conf": 0.8,
+   "text_colour": "#777777",
+   "bg_colour": "#fbfcfb",
+   "grew": false
+  },
+  {
+   "text": "Typed 43 cherecters",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.133,
+    0.412,
+    0.267,
+    0.422
+   ],
+   "h": 0.009,
+   "conf": 0.92,
+   "text_colour": "#565556",
+   "bg_colour": "#010000",
+   "grew": false
+  },
+  {
+   "text": "oined eniror-message.",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.68,
+    0.408,
+    0.798,
+    0.419
+   ],
+   "h": 0.01,
+   "conf": 0.85,
+   "text_colour": "#b3b3b3",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "On my way, 53 min to the offce (ETA",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.674,
+    0.43,
+    0.867,
+    0.443
+   ],
+   "h": 0.012,
+   "conf": 0.87,
+   "text_colour": "#929293",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Jean-Francols ts52",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.678,
+    0.422,
+    0.77,
+    0.431
+   ],
+   "h": 0.009,
+   "conf": 0.82,
+   "text_colour": "#6b6b6b",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Pressed return",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.438,
+    0.235,
+    0.448
+   ],
+   "h": 0.01,
+   "conf": 0.89,
+   "text_colour": "#4a4a49",
+   "bg_colour": "#000000",
+   "grew": false
+  },
+  {
+   "text": "17:44)",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.678,
+    0.439,
+    0.713,
+    0.448
+   ],
+   "h": 0.009,
+   "conf": 0.81,
+   "text_colour": "#98989a",
+   "bg_colour": "#f7f7f9",
+   "grew": false
+  },
+  {
+   "text": "person",
+   "t0": 4.6,
+   "t1": 4.8,
+   "last_seen": 4.6,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.383,
+    0.521,
+    0.63,
+    0.568
+   ],
+   "h": 0.047,
+   "conf": 0.84,
+   "text_colour": "#fcfaf6",
+   "bg_colour": "#ae3414",
+   "grew": false
+  },
+  {
+   "text": "mirroir-mcp",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.087,
+    0.169,
+    0.239,
+    0.189
+   ],
+   "h": 0.02,
+   "conf": 0.91,
+   "text_colour": "#e7dedb",
+   "bg_colour": "#160d0b",
+   "grew": false
+  },
+  {
+   "text": "Install",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.548,
+    0.171,
+    0.615,
+    0.186
+   ],
+   "h": 0.016,
+   "conf": 0.87,
+   "text_colour": "#979188",
+   "bg_colour": "#160f0a",
+   "grew": false
+  },
+  {
+   "text": "Skills",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.644,
+    0.17,
+    0.702,
+    0.186
+   ],
+   "h": 0.017,
+   "conf": 0.84,
+   "text_colour": "#969188",
+   "bg_colour": "#160f06",
+   "grew": false
+  },
+  {
+   "text": "Docs",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.731,
+    0.171,
+    0.791,
+    0.186
+   ],
+   "h": 0.016,
+   "conf": 0.79,
+   "text_colour": "#948c84",
+   "bg_colour": "#140d08",
+   "grew": false
+  },
+  {
+   "text": "GitHub",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.819,
+    0.17,
+    0.898,
+    0.186
+   ],
+   "h": 0.017,
+   "conf": 0.84,
+   "text_colour": "#91887f",
+   "bg_colour": "#170f08",
+   "grew": false
+  },
+  {
+   "text": "mirroir-mcp",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.296,
+    0.344,
+    0.704,
+    0.386
+   ],
+   "h": 0.043,
+   "conf": 0.87,
+   "text_colour": "#f7ede7",
+   "bg_colour": "#180f05",
+   "grew": false
+  },
+  {
+   "text": "Let your agent use your real iPhone, then replay whatl",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.104,
+    0.394,
+    0.907,
+    0.417
+   ],
+   "h": 0.023,
+   "conf": 0.92,
+   "text_colour": "#e7dad3",
+   "bg_colour": "#1a0d06",
+   "grew": false
+  },
+  {
+   "text": "it did without an LLM.",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.331,
+    0.423,
+    0.665,
+    0.441
+   ],
+   "h": 0.018,
+   "conf": 0.89,
+   "text_colour": "#dbcdc8",
+   "bg_colour": "#1b0d06",
+   "grew": true,
+   "first_text": "itdidwithoutanLLM."
+  },
+  {
+   "text": "iPhone automation for Al agents: drive a real, stock iPhone",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.117,
+    0.46,
+    0.88,
+    0.481
+   ],
+   "h": 0.021,
+   "conf": 0.94,
+   "text_colour": "#998c83",
+   "bg_colour": "#1a0d06",
+   "grew": true,
+   "first_text": "iPhoneautomationforAlagents:driveareal,stock iPhone"
+  },
+  {
+   "text": "fromanyMCP client, with noDeveloperMode,noXcode,no",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.098,
+    0.489,
+    0.904,
+    0.506
+   ],
+   "h": 0.018,
+   "conf": 0.92,
+   "text_colour": "#b7ab9e",
+   "bg_colour": "#1b0d05",
+   "grew": true,
+   "first_text": "fromanyMCPclient,withnoDeveloperMode,noXcode,no"
+  },
+  {
+   "text": "WebDriverAgent and no jailbreak.It works through macOS",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.085,
+    0.514,
+    0.917,
+    0.533
+   ],
+   "h": 0.02,
+   "conf": 0.91,
+   "text_colour": "#b3a699",
+   "bg_colour": "#1b0d05",
+   "grew": true,
+   "first_text": "WebDriverAgent andno jailbreak.It worksthroughmacOs"
+  },
+  {
+   "text": "iPhone Mirroring, so it reaches any app on your phone,",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.124,
+    0.541,
+    0.872,
+    0.561
+   ],
+   "h": 0.021,
+   "conf": 0.91,
+   "text_colour": "#9b8d84",
+   "bg_colour": "#1a0d05",
+   "grew": false
+  },
+  {
+   "text": "including App Store apps you could never build.",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.185,
+    0.562,
+    0.811,
+    0.584
+   ],
+   "h": 0.022,
+   "conf": 0.9,
+   "text_colour": "#a99b92",
+   "bg_colour": "#1b0d05",
+   "grew": false
+  },
+  {
+   "text": "Install",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.328,
+    0.615,
+    0.402,
+    0.631
+   ],
+   "h": 0.017,
+   "conf": 0.85,
+   "text_colour": "#014912",
+   "bg_colour": "#4bd97e",
+   "grew": false
+  },
+  {
+   "text": "View on GitHub",
+   "t0": 4.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 1.6,
+   "samples": 3,
+   "box": [
+    0.493,
+    0.621,
+    0.678,
+    0.639
+   ],
+   "h": 0.018,
+   "conf": 0.92,
+   "text_colour": "#a09389",
+   "bg_colour": "#1b0f08",
+   "grew": false
+  },
+  {
+   "text": "mirroir.dev",
+   "t0": 4.8,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 3.7,
+   "samples": 8,
+   "box": [
+    0.437,
+    0.145,
+    0.565,
+    0.16
+   ],
+   "h": 0.016,
+   "conf": 0.9,
+   "text_colour": "#3c3638",
+   "bg_colour": "#fffbfc",
+   "grew": false
+  },
+  {
+   "text": "mirroir-mcp",
+   "t0": 4.8,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 3.7,
+   "samples": 8,
+   "box": [
+    0.294,
+    0.233,
+    0.707,
+    0.277
+   ],
+   "h": 0.044,
+   "conf": 0.91,
+   "text_colour": "#8dad8f",
+   "bg_colour": "#291c11",
+   "grew": true,
+   "first_text": "miARoir"
+  },
+  {
+   "text": "this",
+   "t0": 5.0,
+   "t1": 5.8,
+   "last_seen": 5.0,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.243,
+    0.71,
+    0.402,
+    0.754
+   ],
+   "h": 0.044,
+   "conf": 0.74,
+   "text_colour": "#fafaf7",
+   "bg_colour": "#10110b",
+   "grew": false
+  },
+  {
+   "text": "MCP",
+   "t0": 5.8,
+   "t1": 6.4,
+   "last_seen": 5.8,
+   "dur": 0.6,
+   "samples": 1,
+   "box": [
+    0.32,
+    0.715,
+    0.515,
+    0.754
+   ],
+   "h": 0.04,
+   "conf": 0.72,
+   "text_colour": "#e0e0de",
+   "bg_colour": "#0d0b06",
+   "grew": false
+  },
+  {
+   "text": "it works",
+   "t0": 6.4,
+   "t1": 6.8,
+   "last_seen": 6.4,
+   "dur": 0.4,
+   "samples": 1,
+   "box": [
+    0.337,
+    0.71,
+    0.663,
+    0.755
+   ],
+   "h": 0.045,
+   "conf": 0.84,
+   "text_colour": "#f5f4f3",
+   "bg_colour": "#0c0904",
+   "grew": false
+  },
+  {
+   "text": "Let your agent useyour real iPhone, then replay what",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.094,
+    0.286,
+    0.911,
+    0.308
+   ],
+   "h": 0.022,
+   "conf": 0.94,
+   "text_colour": "#9f968d",
+   "bg_colour": "#1a1108",
+   "grew": true,
+   "first_text": "Letyouragentuseyourreal iPhone,thenreplaywhat"
+  },
+  {
+   "text": "it did without an LLM.",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.331,
+    0.314,
+    0.667,
+    0.331
+   ],
+   "h": 0.018,
+   "conf": 0.89,
+   "text_colour": "#a79f96",
+   "bg_colour": "#1f160d",
+   "grew": true,
+   "first_text": "itdidwithoutanLLM,"
+  },
+  {
+   "text": "iPhone automationforAl agents:drive areal, stock iPhone",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.115,
+    0.353,
+    0.885,
+    0.372
+   ],
+   "h": 0.019,
+   "conf": 0.91,
+   "text_colour": "#71665b",
+   "bg_colour": "#1f1309",
+   "grew": true,
+   "first_text": "iPhoneautomationforAlagents:drivea real,stockiPhone"
+  },
+  {
+   "text": "from anyMCPclient,withnoDeveloperMode,noXcode,no",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.1,
+    0.435,
+    0.902,
+    0.453
+   ],
+   "h": 0.018,
+   "conf": 0.93,
+   "text_colour": "#8b7e71",
+   "bg_colour": "#22180c",
+   "grew": false
+  },
+  {
+   "text": "WebDriverAgentand nojailbreak.Itworks throughmacOs",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.104,
+    0.459,
+    0.898,
+    0.479
+   ],
+   "h": 0.02,
+   "conf": 0.93,
+   "text_colour": "#897c6f",
+   "bg_colour": "#21160b",
+   "grew": false
+  },
+  {
+   "text": "iPhoneMirroring,so it reaches anyapp on yourphone",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 4,
+   "box": [
+    0.139,
+    0.441,
+    0.857,
+    0.461
+   ],
+   "h": 0.021,
+   "conf": 0.94,
+   "text_colour": "#74685e",
+   "bg_colour": "#1b1006",
+   "grew": false
+  },
+  {
+   "text": "including App Store apps you could never build.",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.181,
+    0.456,
+    0.813,
+    0.478
+   ],
+   "h": 0.022,
+   "conf": 0.91,
+   "text_colour": "#766b60",
+   "bg_colour": "#1b1006",
+   "grew": false
+  },
+  {
+   "text": "Install",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.326,
+    0.507,
+    0.402,
+    0.526
+   ],
+   "h": 0.019,
+   "conf": 0.87,
+   "text_colour": "#197534",
+   "bg_colour": "#49d47b",
+   "grew": false
+  },
+  {
+   "text": "View on GitHub",
+   "t0": 6.4,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 2.1,
+   "samples": 5,
+   "box": [
+    0.493,
+    0.509,
+    0.67,
+    0.527
+   ],
+   "h": 0.018,
+   "conf": 0.88,
+   "text_colour": "#7b6e62",
+   "bg_colour": "#1e130a",
+   "grew": false
+  },
+  {
+   "text": "through Apple's",
+   "t0": 6.8,
+   "t1": 7.2,
+   "last_seen": 6.8,
+   "dur": 0.4,
+   "samples": 1,
+   "box": [
+    0.193,
+    0.714,
+    0.811,
+    0.757
+   ],
+   "h": 0.044,
+   "conf": 0.85,
+   "text_colour": "#fcfbfa",
+   "bg_colour": "#0c0a05",
+   "grew": false
+  },
+  {
+   "text": "migRoir",
+   "t0": 6.8,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 1.7,
+   "samples": 4,
+   "box": [
+    0.461,
+    0.194,
+    0.539,
+    0.206
+   ],
+   "h": 0.012,
+   "conf": 0.79,
+   "text_colour": "#829777",
+   "bg_colour": "#291c0c",
+   "grew": false
+  },
+  {
+   "text": "Needs macoOs 15 or later and an iPhone connected through iPhone Mirroring.",
+   "t0": 6.8,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 1.7,
+   "samples": 4,
+   "box": [
+    0.12,
+    0.561,
+    0.876,
+    0.581
+   ],
+   "h": 0.02,
+   "conf": 0.92,
+   "text_colour": "#7a7174",
+   "bg_colour": "#191006",
+   "grew": false
+  },
+  {
+   "text": "you\"open Weather and tell me if it rains tomorrow\"",
+   "t0": 6.8,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 1.7,
+   "samples": 4,
+   "box": [
+    0.128,
+    0.608,
+    0.704,
+    0.623
+   ],
+   "h": 0.015,
+   "conf": 0.9,
+   "text_colour": "#afa69a",
+   "bg_colour": "#20170a",
+   "grew": true,
+   "first_text": "\"open Weather and tell me if it rains tomorrow\""
+  },
+  {
+   "text": "you@example.com",
+   "t0": 6.8,
+   "t1": 11.3,
+   "last_seen": 10.4,
+   "dur": 4.5,
+   "samples": 7,
+   "box": [
+    0.2,
+    0.596,
+    0.467,
+    0.616
+   ],
+   "h": 0.02,
+   "conf": 0.92,
+   "text_colour": "#a89f93",
+   "bg_colour": "#201709",
+   "grew": true,
+   "first_text": "you:"
+  },
+  {
+   "text": "iphone Mirroring",
+   "t0": 7.2,
+   "t1": 7.8,
+   "last_seen": 7.2,
+   "dur": 0.6,
+   "samples": 1,
+   "box": [
+    0.237,
+    0.717,
+    0.763,
+    0.758
+   ],
+   "h": 0.042,
+   "conf": 0.88,
+   "text_colour": "#fcfcfa",
+   "bg_colour": "#0c0905",
+   "grew": false
+  },
+  {
+   "text": "describe_screen →\"weather\"at (71,149)",
+   "t0": 7.2,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 1.3,
+   "samples": 3,
+   "box": [
+    0.126,
+    0.648,
+    0.572,
+    0.66
+   ],
+   "h": 0.012,
+   "conf": 0.9,
+   "text_colour": "#bcb3a9",
+   "bg_colour": "#20170b",
+   "grew": false
+  },
+  {
+   "text": "on your Mac",
+   "t0": 8.3,
+   "t1": 8.5,
+   "last_seen": 8.3,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.252,
+    0.717,
+    0.75,
+    0.756
+   ],
+   "h": 0.04,
+   "conf": 0.83,
+   "text_colour": "#fcfbfa",
+   "bg_colour": "#0d0905",
+   "grew": false
+  },
+  {
+   "text": "so Claude",
+   "t0": 8.5,
+   "t1": 8.7,
+   "last_seen": 8.5,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.306,
+    0.714,
+    0.694,
+    0.754
+   ],
+   "h": 0.041,
+   "conf": 0.83,
+   "text_colour": "#e2e0e2",
+   "bg_colour": "#080509",
+   "grew": false
+  },
+  {
+   "text": "13:124",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.135,
+    0.104,
+    0.276,
+    0.126
+   ],
+   "h": 0.022,
+   "conf": 0.82,
+   "text_colour": "#c9c8cf",
+   "bg_colour": "#1c1c22",
+   "grew": false
+  },
+  {
+   "text": "89",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.798,
+    0.119,
+    0.854,
+    0.139
+   ],
+   "h": 0.02,
+   "conf": 0.66,
+   "text_colour": "#45444b",
+   "bg_colour": "#e1e1e6",
+   "grew": false
+  },
+  {
+   "text": "WelcometoPierre",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.33,
+    0.47,
+    0.667,
+    0.492
+   ],
+   "h": 0.022,
+   "conf": 0.92,
+   "text_colour": "#d0cfd7",
+   "bg_colour": "#080610",
+   "grew": false
+  },
+  {
+   "text": "Your Al-powered fitness intelligence companion",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.194,
+    0.503,
+    0.804,
+    0.522
+   ],
+   "h": 0.019,
+   "conf": 0.92,
+   "text_colour": "#4b4a54",
+   "bg_colour": "#05040d",
+   "grew": false
+  },
+  {
+   "text": "Email",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.163,
+    0.552,
+    0.241,
+    0.571
+   ],
+   "h": 0.019,
+   "conf": 0.83,
+   "text_colour": "#5a5964",
+   "bg_colour": "#080611",
+   "grew": false
+  },
+  {
+   "text": "Password",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.163,
+    0.646,
+    0.294,
+    0.666
+   ],
+   "h": 0.02,
+   "conf": 0.89,
+   "text_colour": "#464350",
+   "bg_colour": "#050310",
+   "grew": false
+  },
+  {
+   "text": "Enteryourpassword",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.198,
+    0.69,
+    0.491,
+    0.709
+   ],
+   "h": 0.02,
+   "conf": 0.92,
+   "text_colour": "#1b191e",
+   "bg_colour": "#0a080d",
+   "grew": true,
+   "first_text": "Enter"
+  },
+  {
+   "text": "Show",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.728,
+    0.688,
+    0.802,
+    0.704
+   ],
+   "h": 0.017,
+   "conf": 0.79,
+   "text_colour": "#162738",
+   "bg_colour": "#080612",
+   "grew": false
+  },
+  {
+   "text": "Sign In",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.443,
+    0.773,
+    0.554,
+    0.799
+   ],
+   "h": 0.026,
+   "conf": 0.81,
+   "text_colour": "#251b29",
+   "bg_colour": "#170c21",
+   "grew": false
+  },
+  {
+   "text": "cr continaewith",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.391,
+    0.839,
+    0.6,
+    0.854
+   ],
+   "h": 0.016,
+   "conf": 0.87,
+   "text_colour": "#0f0a0b",
+   "bg_colour": "#080303",
+   "grew": false
+  },
+  {
+   "text": "Continue with Google",
+   "t0": 8.5,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 3.0,
+   "samples": 5,
+   "box": [
+    0.365,
+    0.902,
+    0.687,
+    0.924
+   ],
+   "h": 0.022,
+   "conf": 0.92,
+   "text_colour": "#181314",
+   "bg_colour": "#0a0506",
+   "grew": false
+  },
+  {
+   "text": "can",
+   "t0": 8.7,
+   "t1": 9.4,
+   "last_seen": 8.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.324,
+    0.723,
+    0.478,
+    0.757
+   ],
+   "h": 0.034,
+   "conf": 0.74,
+   "text_colour": "#a8a5a8",
+   "bg_colour": "#0b080b",
+   "grew": false
+  },
+  {
+   "text": "your phone",
+   "t0": 9.4,
+   "t1": 10.4,
+   "last_seen": 9.4,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.272,
+    0.713,
+    0.73,
+    0.76
+   ],
+   "h": 0.048,
+   "conf": 0.87,
+   "text_colour": "#fdfbfd",
+   "bg_colour": "#080409",
+   "grew": false
+  },
+  {
+   "text": "swipe",
+   "t0": 10.4,
+   "t1": 11.3,
+   "last_seen": 10.4,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.406,
+    0.715,
+    0.607,
+    0.766
+   ],
+   "h": 0.051,
+   "conf": 0.75,
+   "text_colour": "#fbf7fb",
+   "bg_colour": "#0a0509",
+   "grew": false
+  },
+  {
+   "text": "mobiletest@pierre.dev",
+   "t0": 11.3,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.198,
+    0.598,
+    0.517,
+    0.618
+   ],
+   "h": 0.02,
+   "conf": 0.91,
+   "text_colour": "#9191a1",
+   "bg_colour": "#0c0c1b",
+   "grew": false
+  },
+  {
+   "text": "and",
+   "t0": 11.3,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.185,
+    0.714,
+    0.352,
+    0.755
+   ],
+   "h": 0.042,
+   "conf": 0.65,
+   "text_colour": "#fdfbfe",
+   "bg_colour": "#080306",
+   "grew": false
+  },
+  {
+   "text": "type for you",
+   "t0": 11.3,
+   "t1": 11.5,
+   "last_seen": 11.3,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.356,
+    0.714,
+    0.819,
+    0.766
+   ],
+   "h": 0.052,
+   "conf": 0.9,
+   "text_colour": "#fcfafc",
+   "bg_colour": "#090409",
+   "grew": false
+  },
+  {
+   "text": "R18",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.817,
+    0.132,
+    0.841,
+    0.141
+   ],
+   "h": 0.008,
+   "conf": 0.67,
+   "text_colour": "#da6f48",
+   "bg_colour": "#c04f25",
+   "grew": false
+  },
+  {
+   "text": "mirroir.dev",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.331,
+    0.253,
+    0.422,
+    0.266
+   ],
+   "h": 0.013,
+   "conf": 0.89,
+   "text_colour": "#636064",
+   "bg_colour": "#fbfcfd",
+   "grew": false
+  },
+  {
+   "text": "R15",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.743,
+    0.266,
+    0.765,
+    0.274
+   ],
+   "h": 0.008,
+   "conf": 0.72,
+   "text_colour": "#ca6948",
+   "bg_colour": "#af4a28",
+   "grew": false
+  },
+  {
+   "text": "$ brewtapjfarcand/tap &&brewinstall",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.283,
+    0.644,
+    0.297
+   ],
+   "h": 0.014,
+   "conf": 0.89,
+   "text_colour": "#ccc1b6",
+   "bg_colour": "#22170b",
+   "grew": false
+  },
+  {
+   "text": "or via npx:",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.507,
+    0.336,
+    0.63,
+    0.357
+   ],
+   "h": 0.021,
+   "conf": 0.78,
+   "text_colour": "#6f7e89",
+   "bg_colour": "#1e1106",
+   "grew": false
+  },
+  {
+   "text": "$ npx -y mirroir-mcp install",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.382,
+    0.498,
+    0.398
+   ],
+   "h": 0.016,
+   "conf": 0.9,
+   "text_colour": "#cdc4b9",
+   "bg_colour": "#20170a",
+   "grew": false
+  },
+  {
+   "text": "orvia shell script",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.472,
+    0.436,
+    0.661,
+    0.454
+   ],
+   "h": 0.018,
+   "conf": 0.87,
+   "text_colour": "#647f92",
+   "bg_colour": "#1f1209",
+   "grew": false
+  },
+  {
+   "text": "$ /bin/bash-c\"s(curl -fsSL https://mirr",
+   "t0": 11.5,
+   "t1": 11.8,
+   "last_seen": 11.5,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.133,
+    0.478,
+    0.663,
+    0.495
+   ],
+   "h": 0.017,
+   "conf": 0.89,
+   "text_colour": "#cbc2b6",
+   "bg_colour": "#201709",
+   "grew": false
+  },
+  {
+   "text": "to install it",
+   "t0": 11.5,
+   "t1": 12.0,
+   "last_seen": 11.8,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.296,
+    0.52,
+    0.709,
+    0.558
+   ],
+   "h": 0.039,
+   "conf": 0.82,
+   "text_colour": "#e6ded9",
+   "bg_colour": "#b43617",
+   "grew": true,
+   "first_text": "to install"
+  },
+  {
+   "text": "$brewtapjfarcand/tap&&brewinstallr",
+   "t0": 11.8,
+   "t1": 13.3,
+   "last_seen": 12.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.152,
+    0.185,
+    0.902,
+    0.206
+   ],
+   "h": 0.021,
+   "conf": 0.94,
+   "text_colour": "#cdc3b9",
+   "bg_colour": "#20170a",
+   "grew": false
+  },
+  {
+   "text": "orvia npx:",
+   "t0": 11.8,
+   "t1": 13.3,
+   "last_seen": 12.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.691,
+    0.265,
+    0.859,
+    0.289
+   ],
+   "h": 0.024,
+   "conf": 0.84,
+   "text_colour": "#758b94",
+   "bg_colour": "#1e1106",
+   "grew": false
+  },
+  {
+   "text": "$npx-y mirroir-mcp install",
+   "t0": 11.8,
+   "t1": 13.3,
+   "last_seen": 12.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.154,
+    0.328,
+    0.672,
+    0.351
+   ],
+   "h": 0.023,
+   "conf": 0.92,
+   "text_colour": "#d2c9bd",
+   "bg_colour": "#201709",
+   "grew": false
+  },
+  {
+   "text": "orvia shell script:",
+   "t0": 11.8,
+   "t1": 13.3,
+   "last_seen": 12.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.639,
+    0.406,
+    0.909,
+    0.429
+   ],
+   "h": 0.023,
+   "conf": 0.86,
+   "text_colour": "#688cab",
+   "bg_colour": "#1f120a",
+   "grew": false
+  },
+  {
+   "text": "25",
+   "t0": 11.8,
+   "t1": 12.4,
+   "last_seen": 12.0,
+   "dur": 0.6,
+   "samples": 2,
+   "box": [
+    0.97,
+    0.424,
+    0.993,
+    0.433
+   ],
+   "h": 0.009,
+   "conf": 0.66,
+   "text_colour": "#c35f42",
+   "bg_colour": "#a53d21",
+   "grew": false
+  },
+  {
+   "text": "$/bin/bash-c\"$(curl-fsSL https://mirr",
+   "t0": 11.8,
+   "t1": 13.3,
+   "last_seen": 12.4,
+   "dur": 1.5,
+   "samples": 3,
+   "box": [
+    0.152,
+    0.468,
+    0.915,
+    0.487
+   ],
+   "h": 0.02,
+   "conf": 0.89,
+   "text_colour": "#cac1b5",
+   "bg_colour": "#20170a",
+   "grew": false
+  },
+  {
+   "text": "mirroir.dev",
+   "t0": 11.8,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 2.9,
+   "samples": 6,
+   "box": [
+    0.437,
+    0.145,
+    0.565,
+    0.16
+   ],
+   "h": 0.016,
+   "conf": 0.9,
+   "text_colour": "#515151",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "you",
+   "t0": 12.0,
+   "t1": 12.4,
+   "last_seen": 12.0,
+   "dur": 0.4,
+   "samples": 1,
+   "box": [
+    0.259,
+    0.522,
+    0.42,
+    0.566
+   ],
+   "h": 0.044,
+   "conf": 0.73,
+   "text_colour": "#f6f4f3",
+   "bg_colour": "#b03516",
+   "grew": false
+  },
+  {
+   "text": "this",
+   "t0": 12.4,
+   "t1": 13.3,
+   "last_seen": 12.4,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.354,
+    0.518,
+    0.511,
+    0.559
+   ],
+   "h": 0.042,
+   "conf": 0.73,
+   "text_colour": "#e8d9d1",
+   "bg_colour": "#b2361e",
+   "grew": false
+  },
+  {
+   "text": "45*",
+   "t0": 12.4,
+   "t1": 13.9,
+   "last_seen": 13.3,
+   "dur": 1.5,
+   "samples": 2,
+   "box": [
+    0.206,
+    0.664,
+    0.228,
+    0.673
+   ],
+   "h": 0.009,
+   "conf": 0.71,
+   "text_colour": "#c45d42",
+   "bg_colour": "#a13317",
+   "grew": false
+  },
+  {
+   "text": "and connect",
+   "t0": 13.3,
+   "t1": 13.9,
+   "last_seen": 13.3,
+   "dur": 0.6,
+   "samples": 1,
+   "box": [
+    0.22,
+    0.52,
+    0.715,
+    0.558
+   ],
+   "h": 0.039,
+   "conf": 0.84,
+   "text_colour": "#fcfbf7",
+   "bg_colour": "#ae3519",
+   "grew": false
+  },
+  {
+   "text": "th:paste this into your coding agent(Claude CodeCodex,Cursor,..)",
+   "t0": 13.9,
+   "t1": 14.4,
+   "last_seen": 13.9,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.083,
+    0.226,
+    0.865,
+    0.248
+   ],
+   "h": 0.022,
+   "conf": 0.85,
+   "text_colour": "#938a7f",
+   "bg_colour": "#1e1309",
+   "grew": false
+  },
+  {
+   "text": "to Claude Code",
+   "t0": 13.9,
+   "t1": 14.4,
+   "last_seen": 13.9,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.202,
+    0.519,
+    0.798,
+    0.558
+   ],
+   "h": 0.04,
+   "conf": 0.82,
+   "text_colour": "#fbfbf9",
+   "bg_colour": "#ad3619",
+   "grew": false
+  },
+  {
+   "text": "Install mirroir-mcp",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.148,
+    0.182,
+    0.526,
+    0.212
+   ],
+   "h": 0.03,
+   "conf": 0.94,
+   "text_colour": "#dfd4cc",
+   "bg_colour": "#1c1109",
+   "grew": false
+  },
+  {
+   "text": "v0.45.0",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.546,
+    0.192,
+    0.63,
+    0.207
+   ],
+   "h": 0.016,
+   "conf": 0.84,
+   "text_colour": "#9d8978",
+   "bg_colour": "#493727",
+   "grew": false
+  },
+  {
+   "text": "and let it do the setup.",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.267,
+    0.253,
+    0.519,
+    0.272
+   ],
+   "h": 0.019,
+   "conf": 0.89,
+   "text_colour": "#978d82",
+   "bg_colour": "#1e1209",
+   "grew": false
+  },
+  {
+   "text": "oir-mcp so you can drive my iPhone:follow",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.094,
+    0.307,
+    0.657,
+    0.323
+   ],
+   "h": 0.016,
+   "conf": 0.89,
+   "text_colour": "#ada49a",
+   "bg_colour": "#20170b",
+   "grew": false
+  },
+  {
+   "text": "thub.com/jfarcand/mirroir-",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.087,
+    0.331,
+    0.428,
+    0.347
+   ],
+   "h": 0.016,
+   "conf": 0.89,
+   "text_colour": "#ada599",
+   "bg_colour": "#231a10",
+   "grew": false
+  },
+  {
+   "text": "ain/docs/onboarding.md step by step,andfinish",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.087,
+    0.349,
+    0.713,
+    0.368
+   ],
+   "h": 0.019,
+   "conf": 0.93,
+   "text_colour": "#b0a79b",
+   "bg_colour": "#20170b",
+   "grew": false
+  },
+  {
+   "text": "Copy",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.756,
+    0.342,
+    0.82,
+    0.362
+   ],
+   "h": 0.021,
+   "conf": 0.79,
+   "text_colour": "#c1b9b0",
+   "bg_colour": "#423a2f",
+   "grew": false
+  },
+  {
+   "text": "back what my iPhone screen shows.",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.094,
+    0.376,
+    0.53,
+    0.39
+   ],
+   "h": 0.014,
+   "conf": 0.89,
+   "text_colour": "#a89f93",
+   "bg_colour": "#20170c",
+   "grew": false
+  },
+  {
+   "text": "Or install it yourself:",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.28,
+    0.427,
+    0.507,
+    0.446
+   ],
+   "h": 0.019,
+   "conf": 0.9,
+   "text_colour": "#817469",
+   "bg_colour": "#1e1109",
+   "grew": false
+  },
+  {
+   "text": "jfarcand/tap &&brew install mirroir-mcp",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.094,
+    0.487,
+    0.626,
+    0.502
+   ],
+   "h": 0.015,
+   "conf": 0.93,
+   "text_colour": "#aaa196",
+   "bg_colour": "#20170c",
+   "grew": false
+  },
+  {
+   "text": "Copy",
+   "t0": 13.9,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.8,
+   "samples": 2,
+   "box": [
+    0.757,
+    0.485,
+    0.82,
+    0.506
+   ],
+   "h": 0.021,
+   "conf": 0.76,
+   "text_colour": "#b9b0a8",
+   "bg_colour": "#42382f",
+   "grew": false
+  },
+  {
+   "text": "th:paste this into your coding agentKClaude Code",
+   "t0": 14.4,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.083,
+    0.229,
+    0.656,
+    0.251
+   ],
+   "h": 0.022,
+   "conf": 0.88,
+   "text_colour": "#a19a91",
+   "bg_colour": "#1b1208",
+   "grew": false
+  },
+  {
+   "text": "Codex,",
+   "t0": 14.4,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.661,
+    0.231,
+    0.737,
+    0.248
+   ],
+   "h": 0.017,
+   "conf": 0.8,
+   "text_colour": "#839196",
+   "bg_colour": "#18252d",
+   "grew": false
+  },
+  {
+   "text": "Cursor, ..)",
+   "t0": 14.4,
+   "t1": 14.7,
+   "last_seen": 14.4,
+   "dur": 0.3,
+   "samples": 1,
+   "box": [
+    0.741,
+    0.231,
+    0.856,
+    0.249
+   ],
+   "h": 0.018,
+   "conf": 0.77,
+   "text_colour": "#9e9184",
+   "bg_colour": "#1e1106",
+   "grew": false
+  },
+  {
+   "text": "or Codex",
+   "t0": 14.4,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.5,
+   "samples": 2,
+   "box": [
+    0.322,
+    0.518,
+    0.678,
+    0.56
+   ],
+   "h": 0.043,
+   "conf": 0.81,
+   "text_colour": "#fcfbf9",
+   "bg_colour": "#b23518",
+   "grew": false
+  },
+  {
+   "text": "16:52",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.174,
+    0.211,
+    0.272,
+    0.233
+   ],
+   "h": 0.022,
+   "conf": 0.77,
+   "text_colour": "#4c4a4c",
+   "bg_colour": "#e6e4e7",
+   "grew": false
+  },
+  {
+   "text": "65",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.811,
+    0.215,
+    0.863,
+    0.231
+   ],
+   "h": 0.017,
+   "conf": 0.61,
+   "text_colour": "#201b20",
+   "bg_colour": "#999499",
+   "grew": false
+  },
+  {
+   "text": "asyncio",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.248,
+    0.272,
+    0.452,
+    0.3
+   ],
+   "h": 0.028,
+   "conf": 0.85,
+   "text_colour": "#3c3b3f",
+   "bg_colour": "#e4e1e6",
+   "grew": false
+  },
+  {
+   "text": "CatchUp",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.161,
+    0.388,
+    0.3,
+    0.41
+   ],
+   "h": 0.023,
+   "conf": 0.82,
+   "text_colour": "#847f83",
+   "bg_colour": "#e2dfe1",
+   "grew": false
+  },
+  {
+   "text": "Threads",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.393,
+    0.388,
+    0.509,
+    0.409
+   ],
+   "h": 0.022,
+   "conf": 0.76,
+   "text_colour": "#89868a",
+   "bg_colour": "#e1dfe2",
+   "grew": false
+  },
+  {
+   "text": "Huddles",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.62,
+    0.389,
+    0.743,
+    0.409
+   ],
+   "h": 0.021,
+   "conf": 0.84,
+   "text_colour": "#848285",
+   "bg_colour": "#dfdde0",
+   "grew": false
+  },
+  {
+   "text": "Late",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.848,
+    0.39,
+    0.915,
+    0.409
+   ],
+   "h": 0.02,
+   "conf": 0.79,
+   "text_colour": "#6b686c",
+   "bg_colour": "#dad8db",
+   "grew": false
+  },
+  {
+   "text": "2new",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.159,
+    0.411,
+    0.257,
+    0.434
+   ],
+   "h": 0.023,
+   "conf": 0.79,
+   "text_colour": "#8d898c",
+   "bg_colour": "#bebbbe",
+   "grew": false
+  },
+  {
+   "text": "Onew",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.389,
+    0.411,
+    0.487,
+    0.434
+   ],
+   "h": 0.023,
+   "conf": 0.77,
+   "text_colour": "#868488",
+   "bg_colour": "#bbb9bc",
+   "grew": false
+  },
+  {
+   "text": "O live",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.619,
+    0.412,
+    0.704,
+    0.433
+   ],
+   "h": 0.021,
+   "conf": 0.72,
+   "text_colour": "#8a888b",
+   "bg_colour": "#b9b6ba",
+   "grew": false
+  },
+  {
+   "text": "Oite",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.848,
+    0.414,
+    0.917,
+    0.433
+   ],
+   "h": 0.02,
+   "conf": 0.68,
+   "text_colour": "#040205",
+   "bg_colour": "#b4b2b3",
+   "grew": false
+  },
+  {
+   "text": "Channels>",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.133,
+    0.494,
+    0.294,
+    0.515
+   ],
+   "h": 0.021,
+   "conf": 0.86,
+   "text_colour": "#1f1a1a",
+   "bg_colour": "#3b3536",
+   "grew": false
+  },
+  {
+   "text": "dev-gi",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.202,
+    0.547,
+    0.315,
+    0.567
+   ],
+   "h": 0.02,
+   "conf": 0.7,
+   "text_colour": "#16100d",
+   "bg_colour": "#282321",
+   "grew": false
+  },
+  {
+   "text": "issues",
+   "t0": 14.7,
+   "t1": 14.9,
+   "last_seen": 14.7,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.204,
+    0.597,
+    0.311,
+    0.621
+   ],
+   "h": 0.024,
+   "conf": 0.83,
+   "text_colour": "#130f0b",
+   "bg_colour": "#27211e",
+   "grew": false
+  },
+  {
+   "text": "16:52",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.176,
+    0.157,
+    0.272,
+    0.178
+   ],
+   "h": 0.021,
+   "conf": 0.73,
+   "text_colour": "#4b4c4b",
+   "bg_colour": "#e5e5e5",
+   "grew": false
+  },
+  {
+   "text": "asyncio v",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.248,
+    0.218,
+    0.454,
+    0.246
+   ],
+   "h": 0.028,
+   "conf": 0.81,
+   "text_colour": "#3e3e3e",
+   "bg_colour": "#e2e2e2",
+   "grew": false
+  },
+  {
+   "text": "Catch Up",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.161,
+    0.332,
+    0.3,
+    0.356
+   ],
+   "h": 0.024,
+   "conf": 0.82,
+   "text_colour": "#8f8d8f",
+   "bg_colour": "#fbfbfc",
+   "grew": false
+  },
+  {
+   "text": "Threads",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.393,
+    0.333,
+    0.511,
+    0.354
+   ],
+   "h": 0.021,
+   "conf": 0.87,
+   "text_colour": "#8a8a8a",
+   "bg_colour": "#fafafa",
+   "grew": false
+  },
+  {
+   "text": "Huddles",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.619,
+    0.332,
+    0.744,
+    0.355
+   ],
+   "h": 0.023,
+   "conf": 0.86,
+   "text_colour": "#898989",
+   "bg_colour": "#fcfbfc",
+   "grew": false
+  },
+  {
+   "text": "Late",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.848,
+    0.334,
+    0.915,
+    0.354
+   ],
+   "h": 0.02,
+   "conf": 0.79,
+   "text_colour": "#646464",
+   "bg_colour": "#f7f7f7",
+   "grew": false
+  },
+  {
+   "text": "2new",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.159,
+    0.357,
+    0.259,
+    0.38
+   ],
+   "h": 0.023,
+   "conf": 0.79,
+   "text_colour": "#b2b2b4",
+   "bg_colour": "#fbfafc",
+   "grew": false
+  },
+  {
+   "text": "Onew",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.389,
+    0.356,
+    0.487,
+    0.38
+   ],
+   "h": 0.024,
+   "conf": 0.68,
+   "text_colour": "#acabac",
+   "bg_colour": "#fbfafb",
+   "grew": false
+  },
+  {
+   "text": "Olive",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.619,
+    0.357,
+    0.704,
+    0.379
+   ],
+   "h": 0.022,
+   "conf": 0.73,
+   "text_colour": "#aeacaf",
+   "bg_colour": "#faf9fb",
+   "grew": false
+  },
+  {
+   "text": "Oite",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.848,
+    0.358,
+    0.915,
+    0.378
+   ],
+   "h": 0.02,
+   "conf": 0.68,
+   "text_colour": "#020003",
+   "bg_colour": "#f7f6f7",
+   "grew": false
+  },
+  {
+   "text": "25",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.972,
+    0.401,
+    0.993,
+    0.41
+   ],
+   "h": 0.009,
+   "conf": 0.66,
+   "text_colour": "#a65237",
+   "bg_colour": "#8a2d13",
+   "grew": false
+  },
+  {
+   "text": "Channels >",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.131,
+    0.438,
+    0.296,
+    0.458
+   ],
+   "h": 0.021,
+   "conf": 0.82,
+   "text_colour": "#3b3635",
+   "bg_colour": "#939190",
+   "grew": false
+  },
+  {
+   "text": "#dev-github-notification",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.141,
+    0.487,
+    0.589,
+    0.514
+   ],
+   "h": 0.026,
+   "conf": 0.91,
+   "text_colour": "#231f1e",
+   "bg_colour": "#4b4645",
+   "grew": false
+  },
+  {
+   "text": "then you",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.32,
+    0.517,
+    0.681,
+    0.569
+   ],
+   "h": 0.052,
+   "conf": 0.85,
+   "text_colour": "#e7e2e1",
+   "bg_colour": "#2a2521",
+   "grew": false
+  },
+  {
+   "text": "issues",
+   "t0": 14.9,
+   "t1": 15.7,
+   "last_seen": 14.9,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.204,
+    0.545,
+    0.307,
+    0.564
+   ],
+   "h": 0.019,
+   "conf": 0.75,
+   "text_colour": "#130f0b",
+   "bg_colour": "#282320",
+   "grew": false
+  },
+  {
+   "text": "#mirror-message",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.133,
+    0.247,
+    0.589,
+    0.281
+   ],
+   "h": 0.034,
+   "conf": 0.87,
+   "text_colour": "#282828",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "This is the very beginning of the #mirror-",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.139,
+    0.307,
+    0.78,
+    0.329
+   ],
+   "h": 0.022,
+   "conf": 0.88,
+   "text_colour": "#909090",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "messagechannel.",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.13,
+    0.332,
+    0.409,
+    0.354
+   ],
+   "h": 0.022,
+   "conf": 0.81,
+   "text_colour": "#939393",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Add description",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.191,
+    0.426,
+    0.45,
+    0.451
+   ],
+   "h": 0.025,
+   "conf": 0.9,
+   "text_colour": "#3b3635",
+   "bg_colour": "#9b9897",
+   "grew": false
+  },
+  {
+   "text": "Addpeople",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.617,
+    0.426,
+    0.804,
+    0.45
+   ],
+   "h": 0.024,
+   "conf": 0.89,
+   "text_colour": "#3a3635",
+   "bg_colour": "#9e9a99",
+   "grew": false
+  },
+  {
+   "text": "it to automate",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.22,
+    0.519,
+    0.783,
+    0.558
+   ],
+   "h": 0.04,
+   "conf": 0.89,
+   "text_colour": "#fefaf9",
+   "bg_colour": "#231f1c",
+   "grew": false
+  },
+  {
+   "text": "Today",
+   "t0": 15.7,
+   "t1": 16.4,
+   "last_seen": 15.7,
+   "dur": 0.7,
+   "samples": 1,
+   "box": [
+    0.122,
+    0.605,
+    0.224,
+    0.63
+   ],
+   "h": 0.025,
+   "conf": 0.81,
+   "text_colour": "#140f0a",
+   "bg_colour": "#251f19",
+   "grew": false
+  },
+  {
+   "text": "#mirror-message",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.131,
+    0.085,
+    0.587,
+    0.119
+   ],
+   "h": 0.033,
+   "conf": 0.88,
+   "text_colour": "#282828",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "This is the very beginning of the #mirror-",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.139,
+    0.146,
+    0.78,
+    0.167
+   ],
+   "h": 0.021,
+   "conf": 0.9,
+   "text_colour": "#8c8c8c",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "messagechannel.",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.131,
+    0.171,
+    0.409,
+    0.192
+   ],
+   "h": 0.021,
+   "conf": 0.9,
+   "text_colour": "#909090",
+   "bg_colour": "#fbfbfb",
+   "grew": false
+  },
+  {
+   "text": "Add description",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.191,
+    0.264,
+    0.45,
+    0.289
+   ],
+   "h": 0.025,
+   "conf": 0.89,
+   "text_colour": "#454545",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "Add people",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.617,
+    0.265,
+    0.804,
+    0.289
+   ],
+   "h": 0.024,
+   "conf": 0.82,
+   "text_colour": "#494949",
+   "bg_colour": "#fcfcfc",
+   "grew": false
+  },
+  {
+   "text": "OnthefreeversionofSlack,messagesand",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.23,
+    0.345,
+    0.83,
+    0.367
+   ],
+   "h": 0.022,
+   "conf": 0.94,
+   "text_colour": "#898989",
+   "bg_colour": "#e5e5e5",
+   "grew": false
+  },
+  {
+   "text": "files olderthan 90 days arehidden.Learn",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.231,
+    0.368,
+    0.807,
+    0.388
+   ],
+   "h": 0.02,
+   "conf": 0.88,
+   "text_colour": "#828488",
+   "bg_colour": "#e2e1e2",
+   "grew": false
+  },
+  {
+   "text": "more",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.231,
+    0.393,
+    0.311,
+    0.408
+   ],
+   "h": 0.016,
+   "conf": 0.8,
+   "text_colour": "#61748a",
+   "bg_colour": "#c2c4ca",
+   "grew": false
+  },
+  {
+   "text": "Today",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.119,
+    0.443,
+    0.226,
+    0.47
+   ],
+   "h": 0.027,
+   "conf": 0.82,
+   "text_colour": "#2f2c2a",
+   "bg_colour": "#817d7c",
+   "grew": false
+  },
+  {
+   "text": "Jean-Francois",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.239,
+    0.493,
+    0.457,
+    0.511
+   ],
+   "h": 0.019,
+   "conf": 0.91,
+   "text_colour": "#1a1613",
+   "bg_colour": "#3c3736",
+   "grew": false
+  },
+  {
+   "text": "workflows",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.293,
+    0.52,
+    0.711,
+    0.558
+   ],
+   "h": 0.039,
+   "conf": 0.85,
+   "text_colour": "#fffbfa",
+   "bg_colour": "#282120",
+   "grew": false
+  },
+  {
+   "text": "Onimyw",
+   "t0": 16.4,
+   "t1": 16.6,
+   "last_seen": 16.4,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.135,
+    0.576,
+    0.289,
+    0.604
+   ],
+   "h": 0.028,
+   "conf": 0.73,
+   "text_colour": "#181311",
+   "bg_colour": "#282320",
+   "grew": false
+  },
+  {
+   "text": "Enteryourpassword",
+   "t0": 16.6,
+   "t1": 17.1,
+   "last_seen": 16.6,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.211,
+    0.318,
+    0.493,
+    0.335
+   ],
+   "h": 0.018,
+   "conf": 0.87,
+   "text_colour": "#413f4f",
+   "bg_colour": "#191927",
+   "grew": false
+  },
+  {
+   "text": "25",
+   "t0": 16.6,
+   "t1": 17.1,
+   "last_seen": 16.6,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.972,
+    0.388,
+    0.993,
+    0.396
+   ],
+   "h": 0.008,
+   "conf": 0.67,
+   "text_colour": "#ae543a",
+   "bg_colour": "#96341a",
+   "grew": false
+  },
+  {
+   "text": "test your",
+   "t0": 16.6,
+   "t1": 17.1,
+   "last_seen": 16.6,
+   "dur": 0.5,
+   "samples": 1,
+   "box": [
+    0.315,
+    0.517,
+    0.685,
+    0.571
+   ],
+   "h": 0.054,
+   "conf": 0.81,
+   "text_colour": "#b9adad",
+   "bg_colour": "#110809",
+   "grew": false
+  },
+  {
+   "text": "WelcometoPierre",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.335,
+    0.075,
+    0.661,
+    0.098
+   ],
+   "h": 0.023,
+   "conf": 0.9,
+   "text_colour": "#cdccd8",
+   "bg_colour": "#100f1a",
+   "grew": false
+  },
+  {
+   "text": "YourAl-powered fitness intelligence companion",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.207,
+    0.109,
+    0.789,
+    0.126
+   ],
+   "h": 0.017,
+   "conf": 0.92,
+   "text_colour": "#53525d",
+   "bg_colour": "#11101a",
+   "grew": false
+  },
+  {
+   "text": "Email",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.174,
+    0.154,
+    0.254,
+    0.176
+   ],
+   "h": 0.022,
+   "conf": 0.77,
+   "text_colour": "#5f5e68",
+   "bg_colour": "#14131e",
+   "grew": false
+  },
+  {
+   "text": "mobiletest@pierre.dev",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.211,
+    0.201,
+    0.52,
+    0.219
+   ],
+   "h": 0.018,
+   "conf": 0.93,
+   "text_colour": "#9898a6",
+   "bg_colour": "#191826",
+   "grew": false
+  },
+  {
+   "text": "Password",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.178,
+    0.247,
+    0.304,
+    0.263
+   ],
+   "h": 0.016,
+   "conf": 0.89,
+   "text_colour": "#5b5a67",
+   "bg_colour": "#11101e",
+   "grew": false
+  },
+  {
+   "text": "Show",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.713,
+    0.281,
+    0.791,
+    0.301
+   ],
+   "h": 0.02,
+   "conf": 0.79,
+   "text_colour": "#2f5e83",
+   "bg_colour": "#141727",
+   "grew": false
+  },
+  {
+   "text": "Sign in",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.443,
+    0.364,
+    0.552,
+    0.388
+   ],
+   "h": 0.024,
+   "conf": 0.81,
+   "text_colour": "#bca1d9",
+   "bg_colour": "#6f46bd",
+   "grew": false
+  },
+  {
+   "text": "or continue with",
+   "t0": 16.6,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.7,
+   "samples": 2,
+   "box": [
+    0.396,
+    0.426,
+    0.596,
+    0.442
+   ],
+   "h": 0.016,
+   "conf": 0.91,
+   "text_colour": "#2d272d",
+   "bg_colour": "#100b12",
+   "grew": false
+  },
+  {
+   "text": "ContinuewithGoogle",
+   "t0": 17.1,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.374,
+    0.481,
+    0.678,
+    0.499
+   ],
+   "h": 0.018,
+   "conf": 0.84,
+   "text_colour": "#373436",
+   "bg_colour": "#130f12",
+   "grew": false
+  },
+  {
+   "text": "sdde umo",
+   "t0": 17.1,
+   "t1": 17.3,
+   "last_seen": 17.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.304,
+    0.525,
+    0.696,
+    0.562
+   ],
+   "h": 0.037,
+   "conf": 0.81,
+   "text_colour": "#fffaf9",
+   "bg_colour": "#110606",
+   "grew": false
+  },
+  {
+   "text": "learn",
+   "t0": 17.3,
+   "t1": 18.2,
+   "last_seen": 17.3,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.361,
+    0.519,
+    0.57,
+    0.559
+   ],
+   "h": 0.041,
+   "conf": 0.82,
+   "text_colour": "#fefaf9",
+   "bg_colour": "#110905",
+   "grew": false
+  },
+  {
+   "text": "c63.d4",
+   "t0": 17.3,
+   "t1": 18.2,
+   "last_seen": 17.3,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.23,
+    0.559,
+    0.413,
+    0.578
+   ],
+   "h": 0.019,
+   "conf": 0.74,
+   "text_colour": "#221c1a",
+   "bg_colour": "#0c0804",
+   "grew": false
+  },
+  {
+   "text": "exd4",
+   "t0": 17.3,
+   "t1": 18.2,
+   "last_seen": 17.3,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.444,
+    0.56,
+    0.526,
+    0.579
+   ],
+   "h": 0.019,
+   "conf": 0.8,
+   "text_colour": "#251f1b",
+   "bg_colour": "#110a08",
+   "grew": false
+  },
+  {
+   "text": "real device",
+   "t0": 18.2,
+   "t1": 18.4,
+   "last_seen": 18.2,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.287,
+    0.518,
+    0.713,
+    0.558
+   ],
+   "h": 0.041,
+   "conf": 0.81,
+   "text_colour": "#fefbf9",
+   "bg_colour": "#110905",
+   "grew": false
+  },
+  {
+   "text": "Option",
+   "t0": 18.2,
+   "t1": 18.4,
+   "last_seen": 18.2,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.156,
+    0.613,
+    0.244,
+    0.628
+   ],
+   "h": 0.016,
+   "conf": 0.85,
+   "text_colour": "#19120f",
+   "bg_colour": "#100906",
+   "grew": false
+  },
+  {
+   "text": "Annuler",
+   "t0": 18.2,
+   "t1": 18.4,
+   "last_seen": 18.2,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.735,
+    0.611,
+    0.831,
+    0.629
+   ],
+   "h": 0.018,
+   "conf": 0.86,
+   "text_colour": "#1b1310",
+   "bg_colour": "#110a05",
+   "grew": false
+  },
+  {
+   "text": "orjust",
+   "t0": 18.4,
+   "t1": 19.3,
+   "last_seen": 18.4,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.259,
+    0.516,
+    0.524,
+    0.566
+   ],
+   "h": 0.05,
+   "conf": 0.85,
+   "text_colour": "#fcfaf7",
+   "bg_colour": "#a73013",
+   "grew": false
+  },
+  {
+   "text": "Ask your agent",
+   "t0": 18.4,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.9,
+   "samples": 4,
+   "box": [
+    0.187,
+    0.155,
+    0.53,
+    0.18
+   ],
+   "h": 0.025,
+   "conf": 0.92,
+   "text_colour": "#fdfdff",
+   "bg_colour": "#0d0d11",
+   "grew": false
+  },
+  {
+   "text": "mirroir.dlev·paste into Claucle Code,Codlex, Cursor",
+   "t0": 18.4,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.9,
+   "samples": 4,
+   "box": [
+    0.113,
+    0.189,
+    0.719,
+    0.204
+   ],
+   "h": 0.016,
+   "conf": 0.9,
+   "text_colour": "#828288",
+   "bg_colour": "#0d0d12",
+   "grew": false
+  },
+  {
+   "text": "\"OpenCalenclarcreateaDentist",
+   "t0": 18.4,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.9,
+   "samples": 4,
+   "box": [
+    0.256,
+    0.24,
+    0.806,
+    0.26
+   ],
+   "h": 0.021,
+   "conf": 0.91,
+   "text_colour": "#2d2d30",
+   "bg_colour": "#0f0f12",
+   "grew": false
+  },
+  {
+   "text": "event next Tuesday at 2pm\"",
+   "t0": 18.4,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.9,
+   "samples": 4,
+   "box": [
+    0.244,
+    0.253,
+    0.739,
+    0.283
+   ],
+   "h": 0.03,
+   "conf": 0.93,
+   "text_colour": "#2e2e31",
+   "bg_colour": "#100f12",
+   "grew": true,
+   "first_text": "eventnextTuesdayat2pm"
+  },
+  {
+   "text": "11",
+   "t0": 19.3,
+   "t1": 20.3,
+   "last_seen": 19.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.161,
+    0.255,
+    0.206,
+    0.278
+   ],
+   "h": 0.023,
+   "conf": 0.67,
+   "text_colour": "#2e2e2d",
+   "bg_colour": "#fbfbfc",
+   "grew": false
+  },
+  {
+   "text": "offall the boring",
+   "t0": 19.3,
+   "t1": 20.3,
+   "last_seen": 19.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.181,
+    0.51,
+    0.82,
+    0.568
+   ],
+   "h": 0.057,
+   "conf": 0.86,
+   "text_colour": "#fbfaf6",
+   "bg_colour": "#a43314",
+   "grew": false
+  },
+  {
+   "text": "R15",
+   "t0": 19.3,
+   "t1": 20.3,
+   "last_seen": 19.3,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.019,
+    0.707,
+    0.043,
+    0.716
+   ],
+   "h": 0.008,
+   "conf": 0.71,
+   "text_colour": "#c15f43",
+   "bg_colour": "#a13b20",
+   "grew": false
+  },
+  {
+   "text": "TUESDAY",
+   "t0": 19.3,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.15,
+    0.246,
+    0.215,
+    0.256
+   ],
+   "h": 0.01,
+   "conf": 0.82,
+   "text_colour": "#cd999a",
+   "bg_colour": "#fbf7f6",
+   "grew": false
+  },
+  {
+   "text": "Launches Calendar, taps +, fills it in, saves",
+   "t0": 19.3,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.252,
+    0.314,
+    0.746,
+    0.327
+   ],
+   "h": 0.014,
+   "conf": 0.91,
+   "text_colour": "#8b8b8d",
+   "bg_colour": "#1a1a1c",
+   "grew": false
+  },
+  {
+   "text": "\"OpenMessages,findAlice,and",
+   "t0": 19.3,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.252,
+    0.371,
+    0.798,
+    0.393
+   ],
+   "h": 0.022,
+   "conf": 0.89,
+   "text_colour": "#848486",
+   "bg_colour": "#0f0f11",
+   "grew": false
+  },
+  {
+   "text": "send'running10minlate\"",
+   "t0": 19.3,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.248,
+    0.394,
+    0.693,
+    0.415
+   ],
+   "h": 0.021,
+   "conf": 0.9,
+   "text_colour": "#848486",
+   "bg_colour": "#0f0f11",
+   "grew": false
+  },
+  {
+   "text": "Finds the chat, types the message,hits Send",
+   "t0": 19.3,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 2.0,
+   "samples": 3,
+   "box": [
+    0.248,
+    0.449,
+    0.787,
+    0.465
+   ],
+   "h": 0.016,
+   "conf": 0.92,
+   "text_colour": "#434345",
+   "bg_colour": "#0f0f11",
+   "grew": false
+  },
+  {
+   "text": "every day",
+   "t0": 21.1,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.302,
+    0.518,
+    0.694,
+    0.567
+   ],
+   "h": 0.049,
+   "conf": 0.84,
+   "text_colour": "#fcfbf9",
+   "bg_colour": "#a73314",
+   "grew": false
+  },
+  {
+   "text": "35",
+   "t0": 21.1,
+   "t1": 21.3,
+   "last_seen": 21.1,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.009,
+    0.607,
+    0.028,
+    0.618
+   ],
+   "h": 0.01,
+   "conf": 0.63,
+   "text_colour": "#cc6043",
+   "bg_colour": "#ad3b20",
+   "grew": false
+  },
+  {
+   "text": "11",
+   "t0": 21.3,
+   "t1": 22.2,
+   "last_seen": 21.3,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.283,
+    0.155,
+    0.369,
+    0.203
+   ],
+   "h": 0.048,
+   "conf": 0.62,
+   "text_colour": "#1e1e1f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "9:41",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.296,
+    0.093,
+    0.354,
+    0.109
+   ],
+   "h": 0.017,
+   "conf": 0.76,
+   "text_colour": "#dff2ff",
+   "bg_colour": "#6086e0",
+   "grew": false
+  },
+  {
+   "text": "TUESDAY",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.304,
+    0.154,
+    0.402,
+    0.169
+   ],
+   "h": 0.015,
+   "conf": 0.79,
+   "text_colour": "#cc6e6f",
+   "bg_colour": "#fdfcf9",
+   "grew": false
+  },
+  {
+   "text": "Dentist",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.476,
+    0.164,
+    0.561,
+    0.179
+   ],
+   "h": 0.016,
+   "conf": 0.87,
+   "text_colour": "#2c323c",
+   "bg_colour": "#e0eefa",
+   "grew": false
+  },
+  {
+   "text": "2:00  3:00 PM",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.476,
+    0.164,
+    0.619,
+    0.177
+   ],
+   "h": 0.014,
+   "conf": 0.86,
+   "text_colour": "#84909a",
+   "bg_colour": "#e0effb",
+   "grew": false
+  },
+  {
+   "text": "Team sync",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.478,
+    0.199,
+    0.606,
+    0.215
+   ],
+   "h": 0.016,
+   "conf": 0.86,
+   "text_colour": "#1f291e",
+   "bg_colour": "#e8f5e8",
+   "grew": false
+  },
+  {
+   "text": "2 events",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.3,
+    0.228,
+    0.383,
+    0.244
+   ],
+   "h": 0.016,
+   "conf": 0.89,
+   "text_colour": "#aba8ab",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "4:30  5:00 PM",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.476,
+    0.226,
+    0.611,
+    0.24
+   ],
+   "h": 0.014,
+   "conf": 0.89,
+   "text_colour": "#838d84",
+   "bg_colour": "#e8f5e8",
+   "grew": false
+  },
+  {
+   "text": "TUESDAY",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.409,
+    0.294,
+    0.476,
+    0.305
+   ],
+   "h": 0.011,
+   "conf": 0.87,
+   "text_colour": "#c38a87",
+   "bg_colour": "#fdfbf9",
+   "grew": false
+  },
+  {
+   "text": "Messages",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.272,
+    0.34,
+    0.374,
+    0.357
+   ],
+   "h": 0.018,
+   "conf": 0.89,
+   "text_colour": "#c5d8fa",
+   "bg_colour": "#203ea0",
+   "grew": false
+  },
+  {
+   "text": "Calendar",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.398,
+    0.341,
+    0.483,
+    0.356
+   ],
+   "h": 0.016,
+   "conf": 0.89,
+   "text_colour": "#c3d9fa",
+   "bg_colour": "#203a9a",
+   "grew": false
+  },
+  {
+   "text": "Photos",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.522,
+    0.341,
+    0.594,
+    0.357
+   ],
+   "h": 0.017,
+   "conf": 0.81,
+   "text_colour": "#c9cdf9",
+   "bg_colour": "#4144b7",
+   "grew": false
+  },
+  {
+   "text": "Camera",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.641,
+    0.343,
+    0.717,
+    0.355
+   ],
+   "h": 0.013,
+   "conf": 0.83,
+   "text_colour": "#ded4ff",
+   "bg_colour": "#6b54e1",
+   "grew": false
+  },
+  {
+   "text": "Maps",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.411,
+    0.423,
+    0.472,
+    0.441
+   ],
+   "h": 0.018,
+   "conf": 0.79,
+   "text_colour": "#d1dffa",
+   "bg_colour": "#183089",
+   "grew": false
+  },
+  {
+   "text": "Weather",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.517,
+    0.423,
+    0.6,
+    0.439
+   ],
+   "h": 0.016,
+   "conf": 0.84,
+   "text_colour": "#cbd3f0",
+   "bg_colour": "#353ba0",
+   "grew": false
+  },
+  {
+   "text": "Mail",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.302,
+    0.424,
+    0.346,
+    0.438
+   ],
+   "h": 0.014,
+   "conf": 0.77,
+   "text_colour": "#c8d4ef",
+   "bg_colour": "#193188",
+   "grew": false
+  },
+  {
+   "text": "Clock",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.65,
+    0.424,
+    0.707,
+    0.438
+   ],
+   "h": 0.014,
+   "conf": 0.83,
+   "text_colour": "#d9dafc",
+   "bg_colour": "#5046c3",
+   "grew": false
+  },
+  {
+   "text": "Notes",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.293,
+    0.504,
+    0.354,
+    0.52
+   ],
+   "h": 0.016,
+   "conf": 0.8,
+   "text_colour": "#c6d0eb",
+   "bg_colour": "#14287b",
+   "grew": false
+  },
+  {
+   "text": "Slack",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.415,
+    0.506,
+    0.47,
+    0.519
+   ],
+   "h": 0.013,
+   "conf": 0.83,
+   "text_colour": "#c3d0ef",
+   "bg_colour": "#16287b",
+   "grew": false
+  },
+  {
+   "text": "Wallet",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.526,
+    0.504,
+    0.591,
+    0.52
+   ],
+   "h": 0.016,
+   "conf": 0.85,
+   "text_colour": "#c9d3f1",
+   "bg_colour": "#162778",
+   "grew": false
+  },
+  {
+   "text": "Bank",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.652,
+    0.507,
+    0.702,
+    0.519
+   ],
+   "h": 0.011,
+   "conf": 0.8,
+   "text_colour": "#d2dafa",
+   "bg_colour": "#212d7f",
+   "grew": false
+  },
+  {
+   "text": "Q Search",
+   "t0": 21.3,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 3.8,
+   "samples": 5,
+   "box": [
+    0.454,
+    0.573,
+    0.548,
+    0.589
+   ],
+   "h": 0.016,
+   "conf": 0.82,
+   "text_colour": "#d6def3",
+   "bg_colour": "#3f4c90",
+   "grew": false
+  },
+  {
+   "text": "11",
+   "t0": 22.2,
+   "t1": 23.2,
+   "last_seen": 22.2,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.417,
+    0.303,
+    0.467,
+    0.33
+   ],
+   "h": 0.027,
+   "conf": 0.66,
+   "text_colour": "#141515",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "it from",
+   "t0": 22.2,
+   "t1": 23.2,
+   "last_seen": 22.2,
+   "dur": 1.0,
+   "samples": 1,
+   "box": [
+    0.256,
+    0.713,
+    0.53,
+    0.756
+   ],
+   "h": 0.044,
+   "conf": 0.81,
+   "text_colour": "#e6e0df",
+   "bg_colour": "#772616",
+   "grew": false
+  },
+  {
+   "text": "11",
+   "t0": 23.2,
+   "t1": 24.0,
+   "last_seen": 23.2,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.298,
+    0.172,
+    0.376,
+    0.216
+   ],
+   "h": 0.044,
+   "conf": 0.61,
+   "text_colour": "#1f1f1f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "or your",
+   "t0": 23.2,
+   "t1": 24.0,
+   "last_seen": 23.2,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.356,
+    0.72,
+    0.646,
+    0.758
+   ],
+   "h": 0.039,
+   "conf": 0.81,
+   "text_colour": "#fbf5f2",
+   "bg_colour": "#7c2813",
+   "grew": false
+  },
+  {
+   "text": "11",
+   "t0": 24.0,
+   "t1": 24.2,
+   "last_seen": 24.0,
+   "dur": 0.2,
+   "samples": 1,
+   "box": [
+    0.417,
+    0.303,
+    0.467,
+    0.33
+   ],
+   "h": 0.027,
+   "conf": 0.66,
+   "text_colour": "#171717",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "you always",
+   "t0": 24.0,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 1.1,
+   "samples": 2,
+   "box": [
+    0.272,
+    0.714,
+    0.728,
+    0.76
+   ],
+   "h": 0.047,
+   "conf": 0.82,
+   "text_colour": "#b9a7a1",
+   "bg_colour": "#822e1a",
+   "grew": true,
+   "first_text": "you"
+  },
+  {
+   "text": "11",
+   "t0": 24.2,
+   "t1": 25.1,
+   "last_seen": 24.2,
+   "dur": 0.9,
+   "samples": 1,
+   "box": [
+    0.298,
+    0.172,
+    0.376,
+    0.216
+   ],
+   "h": 0.044,
+   "conf": 0.61,
+   "text_colour": "#1f1f1f",
+   "bg_colour": "#fdfdfd",
+   "grew": false
+  },
+  {
+   "text": "if you",
+   "t0": 25.3,
+   "t1": 26.1,
+   "last_seen": 25.3,
+   "dur": 0.8,
+   "samples": 1,
+   "box": [
+    0.269,
+    0.709,
+    0.509,
+    0.762
+   ],
+   "h": 0.053,
+   "conf": 0.77,
+   "text_colour": "#190c0b",
+   "bg_colour": "#ca9788",
+   "grew": false
+  },
+  {
+   "text": "setup guide",
+   "t0": 26.1,
+   "t1": 26.5,
+   "last_seen": 26.1,
+   "dur": 0.4,
+   "samples": 1,
+   "box": [
+    0.261,
+    0.714,
+    0.735,
+    0.761
+   ],
+   "h": 0.048,
+   "conf": 0.89,
+   "text_colour": "#57433e",
+   "bg_colour": "#ded3cf",
+   "grew": false
+  },
+  {
+   "text": "comment",
+   "t0": 26.5,
+   "t1": 28.9,
+   "last_seen": 28.8,
+   "dur": 2.4,
+   "samples": 7,
+   "box": [
+    0.322,
+    0.719,
+    0.698,
+    0.76
+   ],
+   "h": 0.042,
+   "conf": 0.84,
+   "text_colour": "#e5d8d2",
+   "bg_colour": "#886258",
+   "grew": false
+  },
+  {
+   "text": "\"Phone\"",
+   "t0": 27.1,
+   "t1": 28.9,
+   "last_seen": 28.8,
+   "dur": 1.8,
+   "samples": 5,
+   "box": [
+    0.28,
+    0.765,
+    0.722,
+    0.823
+   ],
+   "h": 0.058,
+   "conf": 0.83,
+   "text_colour": "#fcf9f6",
+   "bg_colour": "#8a3e26",
+   "grew": false
+  }
+ ],
+ "density": [
+  [
+   0.1,
+   4
+  ],
+  [
+   1.0,
+   4
+  ],
+  [
+   1.6,
+   23
+  ],
+  [
+   1.8,
+   21
+  ],
+  [
+   2.1,
+   23
+  ],
+  [
+   2.3,
+   24
+  ],
+  [
+   2.6,
+   31
+  ],
+  [
+   2.9,
+   30
+  ],
+  [
+   3.1,
+   30
+  ],
+  [
+   3.3,
+   31
+  ],
+  [
+   4.1,
+   26
+  ],
+  [
+   4.6,
+   27
+  ],
+  [
+   4.8,
+   17
+  ],
+  [
+   5.0,
+   18
+  ],
+  [
+   5.8,
+   18
+  ],
+  [
+   6.4,
+   12
+  ],
+  [
+   6.8,
+   16
+  ],
+  [
+   7.2,
+   15
+  ],
+  [
+   7.8,
+   16
+  ],
+  [
+   8.3,
+   17
+  ],
+  [
+   8.5,
+   13
+  ],
+  [
+   8.7,
+   13
+  ],
+  [
+   9.4,
+   13
+  ],
+  [
+   10.4,
+   13
+  ],
+  [
+   11.3,
+   14
+  ],
+  [
+   11.5,
+   9
+  ],
+  [
+   11.8,
+   8
+  ],
+  [
+   12.0,
+   8
+  ],
+  [
+   12.4,
+   8
+  ],
+  [
+   13.3,
+   3
+  ],
+  [
+   13.9,
+   14
+  ],
+  [
+   14.4,
+   16
+  ],
+  [
+   14.7,
+   15
+  ],
+  [
+   14.9,
+   15
+  ],
+  [
+   15.7,
+   7
+  ],
+  [
+   16.4,
+   12
+  ],
+  [
+   16.6,
+   11
+  ],
+  [
+   17.1,
+   10
+  ],
+  [
+   17.3,
+   3
+  ],
+  [
+   18.2,
+   3
+  ],
+  [
+   18.4,
+   5
+  ],
+  [
+   19.3,
+   12
+  ],
+  [
+   20.3,
+   9
+  ],
+  [
+   21.1,
+   11
+  ],
+  [
+   21.3,
+   22
+  ],
+  [
+   22.2,
+   23
+  ],
+  [
+   23.2,
+   23
+  ],
+  [
+   24.0,
+   23
+  ],
+  [
+   24.2,
+   23
+  ],
+  [
+   25.1,
+   0
+  ],
+  [
+   25.3,
+   1
+  ],
+  [
+   26.1,
+   1
+  ],
+  [
+   26.5,
+   1
+  ],
+  [
+   26.7,
+   1
+  ],
+  [
+   27.1,
+   2
+  ],
+  [
+   27.9,
+   2
+  ],
+  [
+   28.1,
+   2
+  ],
+  [
+   28.5,
+   2
+  ],
+  [
+   28.8,
+   2
+  ]
+ ]
+}

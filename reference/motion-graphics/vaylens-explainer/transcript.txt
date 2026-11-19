@@ -1,0 +1,16 @@
+[    0.05] Managing electric car charging stations shouldn't be rocket science.
+[    4.73] Yet often, that's exactly how it feels.
+[    7.91] It looks complicated and intimidating.
+[   10.75] That's why we built Valens.
+[   20.36] It's a charging management software that's compatible with every business.
+[   27.17] We know many of them don't feel they have the resources to invest in electric mobility.
+[   31.91] Even worse, they fear being stuck with an unreliable product or partner.
+[   36.81] But as the need to use electric cars becomes the norm,
+[   40.62] the way we recharge them shouldn't be a headache.
+[   43.96] At Valens, we provide straightforward tools and services
+[   47.28] to make it as easy as possible to buy, use and monetize charging infrastructure,
+[   53.28] helping thousands of companies feel confident managing charging stations
+[   57.36] and freeing up time for what they do best.
+[   60.52] We make sure everyone's investment is worthwhile
+[   63.82] so electric mobility becomes accessible to all.
+[   68.61] This is Valens.

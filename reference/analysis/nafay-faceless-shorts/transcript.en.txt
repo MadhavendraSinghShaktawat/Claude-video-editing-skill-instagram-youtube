@@ -1,0 +1,329 @@
+[    0.00] If you want to make shorts like these, but you don't have a cloud subscription
+[    2.82] or if you use the free version of Claude where you hit your limit super fast,
+[    6.16] then today's video is going to be perfect for you because in this video,
+[    9.00] I'll teach you how to make shorts like this without using Claude.
+[   11.90] We're going to use open code for this, which is a free alternative to Claude code.
+[   15.24] Plus, I'm going to give you an open code skill that lets you generate
+[   18.10] and automatically post videos like this every single day.
+[   20.60] So drop a like on this video and let's get started.
+[   22.54] All right, our very first step will be downloading an AI agent.
+[   25.22] For that, we're going to use open code, which is a free alternative to Claude code.
+[   29.04] So you just head over to this website, opencode.ai,
+[   31.84] and you can simply download it from here.
+[   33.76] Let's click this download button right here.
+[   36.00] And then depending on whatever operating system you're running,
+[   38.18] go ahead and download the right one for you.
+[   39.98] I'm on Windows, so I'll go with the Windows version.
+[   41.96] After that, you just simply install open code.
+[   43.90] I already have it installed, so I can't reinstall it,
+[   45.94] but it's a super simple process.
+[   47.52] You just keep clicking next next and get it installed.
+[   50.14] Next, you want to head over to naf3d.com, which is my own website.
+[   53.36] And this is where you can grab the free skill to make these shorts and stuff.
+[   55.96] To do that, just scroll down a bit and right here,
+[   58.56] you'll see the faceless short skill.
+[   60.02] You just simply download this, downloaded it right here,
+[   62.84] just like that.
+[   63.66] It's about a 10 megabyte download, so it shouldn't take that long.
+[   66.12] After that, open up open code.
+[   67.44] And basically the first thing we need to do here is select our model.
+[   69.88] Now inside open code, you'll see quite a few model options,
+[   72.66] and most of them are paid options.
+[   74.50] But today I'm going to show you a free option,
+[   76.40] and that's GLM 5.3 Flash.
+[   79.22] This model is provided completely free right by open code itself.
+[   83.02] All you have to do for this is select the model right here,
+[   87.34] click on it, search for GLM, and then select GLM 5.3 Flash, the free one.
+[   93.78] Now this won't work right out of the box.
+[   95.84] You'll need to do one more step.
+[   97.68] Click the settings icon right here, click on connect and integrations,
+[  101.40] and then we want to click on the open code console option.
+[  104.04] And after that, simply select personal.
+[  106.80] Now I already have this connected, but when you click it,
+[  109.02] it'll take you to the open code website,
+[  110.64] where you just need to create an account.
+[  112.88] No need to enter any payment details or anything.
+[  115.98] You just enter your email, password, and stuff.
+[  118.16] Your account will be created,
+[  119.42] and after that you'll get access to it completely for free.
+[  122.77] Once that's done, your model is connected.
+[  125.53] Now what you need to do is take that zip file you got,
+[  127.69] the one you downloaded from my website.
+[  129.21] You can see my downloaded file right here.
+[  131.29] We just drag it right into open code like this.
+[  133.57] And also by the way, before doing that,
+[  135.17] make sure the effort level is set to high.
+[  137.05] If you want, you can set it to max too.
+[  138.95] You'll get better results that way.
+[  140.17] But at the same time, your usage limit will run out faster.
+[  143.57] So personally, I'm going to keep it on high.
+[  145.49] I think it should be good enough.
+[  146.89] But anyway, you just add the zip file here, like this,
+[  150.19] and tell it, install this skill.
+[  153.25] And it'll automatically install your skill.
+[  155.91] Now along with that, I'm going to tell it,
+[  157.43] and make a 20-second short.
+[  159.61] Choose any topic that you like.
+[  161.93] That way it'll install the skill,
+[  163.25] and we can also test it out to see if it's actually working.
+[  165.89] And we told it to pick any topic on its own.
+[  168.53] So now I'm going to hit send, and it's already started working.
+[  171.27] Right here, you can see it installed the skill,
+[  173.07] and then it came up with an idea.
+[  174.75] But then I scrolled down and told it again,
+[  176.83] make the short in the tall-tail style.
+[  178.75] Now, this is the exact style you saw in the intro of this video.
+[  181.75] So I want to make the video in that style.
+[  183.37] But again, you can pick any style you want from the entire library.
+[  186.39] By the way, I thought I'd quickly show you
+[  187.73] what styles you actually get with this skill.
+[  189.57] So this is our first style, right?
+[  191.33] It's kind of an old-school style.
+[  192.71] If you want to make history videos,
+[  193.93] you can make them with this.
+[  195.45] Besides that, this one is a 2D sort of explainer style.
+[  198.87] Okay.
+[  199.37] Then there's the one we saw in the intro.
+[  201.17] This is that style.
+[  202.09] It's inspired by Rick's Clips.
+[  203.99] And besides that, there's this kind of style
+[  205.67] where you can make, you know, mystery videos
+[  207.67] or investigation videos and things like that.
+[  209.87] Then we have this style,
+[  210.95] which is sort of inspired by Zack D films.
+[  213.35] So that's available to you too.
+[  214.67] And finally, we have the Stickman style as well.
+[  216.69] So you have all these styles available.
+[  218.51] All you have to do is tell Claude the name,
+[  220.13] like make this video in Stick Story style,
+[  221.95] or in Deep Dive 3D.
+[  223.19] And it'll make your video in that exact style.
+[  225.31] And then after that, it picked a topic
+[  226.79] and laid out the whole plan for me,
+[  228.67] showing what kind of video we're going to get.
+[  230.81] And after that, it asked me if everything looks good,
+[  233.27] let me know, and we'll build it.
+[  235.03] So I said build it.
+[  236.03] And right now our video is being generated.
+[  237.91] Also, by the way, speaking of voice, that reminds me,
+[  240.37] let me tell you how it's generating the voice.
+[  241.97] Basically, it's downloading a local model
+[  243.65] onto your computer,
+[  244.41] which will then handle the voice generation for you.
+[  246.69] So keep that in mind as well.
+[  247.97] You won't need an 11 Labs API
+[  249.31] or any kind of API or subscription for this.
+[  252.03] The entire process is completely free.
+[  253.85] So let's wait for it to finish,
+[  255.29] and I'll catch up with you then.
+[  256.67] And just like that, after a little bit, our video is ready.
+[  259.37] You can see it even gave us a cover frame,
+[  261.37] which will basically be our thumbnail.
+[  262.77] The text seems to have a tiny issue, I think.
+[  264.85] You can just tell it to make the text a little smaller.
+[  267.03] But if I show you the video,
+[  268.25] overall, it turned out really good.
+[  273.69] So as you can see, it made a really interesting video.
+[  285.29] And I don't think that's the way that it added
+[  286.75] the whole voiceover and everything.
+[  288.17] And we did it all on a free model, by the way.
+[  290.19] So I think it's pretty insane that not too long ago,
+[  291.99] you couldn't even do this on Labs.
+[  293.93] They used to have models,
+[  295.19] and now you can do it on a free model.
+[  296.85] Personally, I think it's awesome
+[  298.01] seeing how fast AI is progressing.
+[  300.35] But yeah, so it gave us the caption and everything,
+[  302.09] and now you'd basically post it on YouTube.
+[  304.45] Now I want to show you something really interesting.
+[  306.91] How you can automate this entire process
+[  310.39] from brainstorming the idea to making the video,
+[  313.11] generating the title, description, thumbnail, voiceover,
+[  316.07] everything.
+[  317.17] And finally, we'll look at automating
+[  318.69] posting the video to YouTube.
+[  320.17] Okay, first you need to go to Zapier.
+[  321.67] Link's in the description.
+[  322.89] And by the way, you don't have to pay for this either.
+[  325.43] You can just start out using their free plan.
+[  327.19] So head over to zapier.com.
+[  328.69] And first off, you'll need to create an account.
+[  330.89] You only need to put in your email and password.
+[  332.93] Nothing like no payment details are required.
+[  335.69] After that, click the sidebar right here.
+[  337.73] Scroll down to MCP servers.
+[  339.61] And this is basically the MCP server
+[  341.23] we'll need to get access to.
+[  343.19] Upload our video to YouTube.
+[  344.95] Because by default, OpenCode doesn't have
+[  346.89] a YouTube connection available.
+[  348.71] And neither does Claude Code or any other AI agent,
+[  351.61] you know, to let us upload directly to YouTube.
+[  353.97] But Zapier has connections to over 10,000 apps.
+[  356.81] So if I show you right here,
+[  358.19] they have tons of apps available.
+[  359.83] And pretty much any app you'd want to connect,
+[  361.87] you can connect to your AI using Zapier.
+[  364.29] So once you're on this site,
+[  365.49] just simply click create server right here.
+[  367.79] Then scroll down and select your AI agent.
+[  370.89] Now again, like I said,
+[  371.69] you can use this inside any AI agent,
+[  373.43] but we're going to use it inside OpenCode.
+[  375.75] So we'll click that.
+[  377.48] And then it'll basically show us
+[  379.36] the instructions on how to install OpenCode.
+[  381.58] So first you want to copy this config,
+[  383.76] head back over to OpenCode,
+[  385.18] and open up a new chat.
+[  387.14] Basically start a new session
+[  388.34] and tell it add this to OpenCode config.
+[  394.20] And then on the line below,
+[  395.90] paste that in, then hit send.
+[  397.96] After that, as you can see,
+[  399.52] it says it has added Zapier MCP.
+[  401.28] Now, there's one more thing we need to do here.
+[  403.58] We'll tell it add it to the global
+[  406.95] user config.
+[  408.44] What that'll do is add Zapier MCP
+[  410.80] across all your OpenCode sessions,
+[  412.66] not just this one.
+[  413.82] That way, even if you hop into a fresh chat
+[  415.80] and tell it, hey,
+[  417.18] make my video and upload it,
+[  418.80] it'll automatically do it
+[  419.88] because every chat will have access to the Zapier MCP.
+[  423.58] And boom, done.
+[  425.34] Next, we'll go up here.
+[  426.46] You'll see this icon.
+[  427.52] Click that.
+[  428.50] Go into MCP.
+[  430.00] And you can see Zapier is connected.
+[  431.90] Now, if it doesn't show up here initially,
+[  433.40] just click manage MCP server.
+[  435.36] And then all your MCPs will pop up.
+[  437.34] Early on, you might see a sign in or login button here.
+[  439.90] Just click that and authorize Zapier.
+[  442.02] A window will open in Chrome
+[  443.36] where you just have to click authorize.
+[  445.34] Super simple.
+[  446.38] And after that, your Zapier will be enabled.
+[  448.48] All right.
+[  449.04] Our OpenCode setup is done.
+[  450.86] Now, we need to connect the YouTube app to it.
+[  452.74] And for that, we'll go into our MCP server.
+[  456.53] And you'll see an apps button right here.
+[  458.19] Let's click that.
+[  459.07] Hit add apps here and search for YouTube.
+[  462.03] Okay.
+[  462.75] Search for YouTube.
+[  463.73] Let's click it.
+[  464.27] And then give it access to all tools.
+[  467.07] Because these are all the things, you know,
+[  468.93] our AI agent will be able to perform on our channel.
+[  471.93] Let's connect it.
+[  472.71] And you'll see a connect account option
+[  473.99] where you sign into your Google account
+[  475.71] and select your channel.
+[  477.57] I've already done that.
+[  478.65] So you can see my YouTube is connected.
+[  481.86] Then we'll click add six tools.
+[  483.88] And our entire setup is complete.
+[  485.46] Now, simply head back to OpenCode
+[  486.68] and tell it using the faceless short skill,
+[  489.04] upload the video to YouTube.
+[  490.54] Now, anytime you tell it to upload a video to YouTube,
+[  492.94] it already has all the instructions
+[  494.22] baked into the skill on how to use Zapier MCP
+[  497.10] and how to upload the video to YouTube.
+[  498.98] All the instructions are already in the skill.
+[  500.88] So you don't have to explain anything.
+[  502.40] You just tell it, you know, assuming Zapier is installed,
+[  504.94] you just tell it, hey, upload the video to YouTube
+[  506.84] and your video will get uploaded.
+[  508.44] Now, the automation works like this.
+[  509.96] Unfortunately, OpenCode doesn't have a scheduled task feature.
+[  512.82] Like I told you with Claude code,
+[  514.44] you could set up a scheduled task.
+[  516.12] So every morning at 8am or 9am, whenever you want,
+[  519.32] a video is automatically generated and automatically uploaded.
+[  522.10] Unfortunately, you can't do that inside OpenCode.
+[  524.74] By default, I think there are some plugins and stuff,
+[  526.96] but that gets a bit too advanced.
+[  528.38] So here's the workflow I'm going to show you.
+[  531.24] Every morning, you know, whenever you want at whatever time,
+[  534.62] you just open up OpenCode and you tell OpenCode,
+[  537.20] hey, using the faceless short skill,
+[  539.22] first come up with an idea for the video.
+[  541.26] Okay, make a video on that idea
+[  542.36] and then upload the video to YouTube.
+[  544.34] And it'll handle that entire process all by itself.
+[  547.68] You won't have to do anything manually.
+[  549.50] I would recommend generating the video once
+[  551.32] and giving it a look to make sure there are no issues
+[  553.72] and that the idea is actually interesting
+[  555.46] because your own creativity is that one crucial thing
+[  558.76] that'll actually get your channel monetized.
+[  561.62] Because if you don't inject any creativity
+[  563.64] and just upload generic content,
+[  565.56] monetization chances on YouTube,
+[  567.24] you know, TikTok and all are a bit lower.
+[  569.06] Make videos with this daily.
+[  570.32] The daily limit is enough to get you one short made for free.
+[  573.84] Obviously, if you want to make more shorts per day,
+[  576.06] you might have to buy their paid plan
+[  577.84] because when I was generating that first short,
+[  579.94] one short went through fine.
+[  581.68] But right after that, I hit my limit.
+[  583.90] So keep that in mind.
+[  584.82] You might not be able to generate
+[  585.90] more than one video in a single session.
+[  588.18] And right here, you can see it's asking
+[  589.64] what the shorts visibility should be,
+[  591.92] public, unlisted or private.
+[  593.40] Let's tell it to set it to unlisted for now
+[  595.24] because I don't want to make the video public yet.
+[  597.34] Next, which category should we set?
+[  600.23] Let's go with comedy and then hit submit.
+[  603.15] And now our video should actually get uploaded.
+[  605.41] And look, it uploaded the video
+[  606.63] and at the same time,
+[  607.53] it opened its internal browser
+[  608.83] to preview the video for us.
+[  610.67] I don't know why the video isn't playing in this browser.
+[  613.05] Oh, now it is, I think.
+[  614.07] Okay, perfect.
+[  614.85] So our video has been uploaded to our channel
+[  616.77] and yeah, everything looks great.
+[  618.87] We got the video link right here.
+[  620.45] And that was pretty much the entire automation.
+[  623.33] I hope you guys learned something from this video.
+[  625.33] If you have any questions, suggestions
+[  626.93] or run into any issues,
+[  628.69] definitely let me know down in the comments.
+[  630.15] Also, one more thing.
+[  631.77] Using this exact same setup,
+[  633.57] you can have it make long form videos too.
+[  635.79] You just tell the skill,
+[  637.21] when you tell it to make shorts and stuff,
+[  638.81] instead of shorts, tell it to make long videos
+[  640.99] and set it to a 16 by 9 aspect ratio,
+[  643.51] meaning horizontal videos.
+[  645.01] And it'll do that using the exact same skill.
+[  647.13] Obviously, it'll take longer.
+[  648.49] And if you're on the free plan,
+[  649.63] you might hit your limit sooner.
+[  651.05] So you might have to wait across multiple days
+[  652.97] to finish a video.
+[  654.19] But the method, the process is exactly the same.
+[  657.73] Go download that skill.
+[  659.03] That's the most important part.
+[  660.29] Aside from that, whatever you want it to do,
+[  662.07] you just tell your AI agent
+[  663.21] and it'll handle it automatically for you.
+[  665.31] So yeah, that's pretty much it.
+[  666.55] Thank you so much for watching.
+[  667.47] I hope you guys learned something.
+[  669.01] I hope you go check out Zapier too.
+[  670.47] And I will see you guys in the next one.
+[  672.03] Goodbye.

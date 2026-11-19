@@ -1,0 +1,57 @@
+{
+ "video": "launch-video.mp4",
+ "duration": 35.062132,
+ "source_fps": 30.0,
+ "source_size": [
+  720,
+  1280
+ ],
+ "sample_fps": 5.0,
+ "range": [
+  0,
+  35.062132
+ ],
+ "grid": [
+  8,
+  4
+ ],
+ "how_to_read": "Each tile has burned-in time (s) + source frame number. Order is left-to-right, top-to-bottom. Use t_start/t_end to pick the sheet for a moment.",
+ "sheets": [
+  {
+   "file": "sheet_001.jpg",
+   "t_start": 0.0,
+   "t_end": 6.4,
+   "frames": 32
+  },
+  {
+   "file": "sheet_002.jpg",
+   "t_start": 6.4,
+   "t_end": 12.8,
+   "frames": 32
+  },
+  {
+   "file": "sheet_003.jpg",
+   "t_start": 12.8,
+   "t_end": 19.2,
+   "frames": 32
+  },
+  {
+   "file": "sheet_004.jpg",
+   "t_start": 19.2,
+   "t_end": 25.6,
+   "frames": 32
+  },
+  {
+   "file": "sheet_005.jpg",
+   "t_start": 25.6,
+   "t_end": 32.0,
+   "frames": 32
+  },
+  {
+   "file": "sheet_006.jpg",
+   "t_start": 32.0,
+   "t_end": 34.8,
+   "frames": 14
+  }
+ ]
+}

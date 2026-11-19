@@ -1,0 +1,217 @@
+{
+ "video": "clean-icons.mp4",
+ "fps": 30.0,
+ "content_fps": 30.0,
+ "duplicate_frame_share": 0.025,
+ "frames": 280,
+ "duration": 9.333,
+ "cuts": [
+  {
+   "frame": 134,
+   "t": 4.467,
+   "kind": "hard",
+   "d": 85.3,
+   "hist": 0.936
+  },
+  {
+   "frame": 197,
+   "t": 6.567,
+   "kind": "transition",
+   "start": 6.233,
+   "end": 6.7,
+   "frames": 14,
+   "hist": 0.299
+  }
+ ],
+ "shots": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 4.467,
+   "dur": 4.467,
+   "f0": 0,
+   "f1": 134,
+   "cut_in": "start",
+   "camera": {
+    "zoom_total": 0.2877,
+    "zoom_pct_per_s": -15.95,
+    "pan_x": -0.0015,
+    "pan_y": -0.3275,
+    "jitter": 0.00084,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 0.033,
+     "end": 1.167,
+     "factor": 0.312,
+     "peak_at": 0.03,
+     "peak_pct_per_s": 268274.6
+    }
+   ],
+   "move": "eased zoom out",
+   "motion_events": [
+    {
+     "start": 0.733,
+     "end": 0.767,
+     "peak": 0.013,
+     "box": [
+      0.3,
+      0.44,
+      0.71,
+      0.66
+     ]
+    },
+    {
+     "start": 2.9,
+     "end": 2.933,
+     "peak": 0.012,
+     "box": [
+      0.58,
+      0.46,
+      0.78,
+      0.63
+     ]
+    }
+   ],
+   "activity": 0.0008,
+   "still_share": 0.0,
+   "face_share": 0.0,
+   "flat_share": 0.83,
+   "palette": [
+    {
+     "hex": "#f4edfb",
+     "share": 0.27
+    },
+    {
+     "hex": "#ead2f6",
+     "share": 0.21
+    },
+    {
+     "hex": "#d0aff6",
+     "share": 0.11
+    },
+    {
+     "hex": "#e9b0eb",
+     "share": 0.1
+    }
+   ],
+   "sat": 0.23,
+   "luma": 0.81,
+   "picture": "flat graphic"
+  },
+  {
+   "i": 1,
+   "start": 4.467,
+   "end": 6.567,
+   "dur": 2.1,
+   "f0": 134,
+   "f1": 197,
+   "cut_in": "hard",
+   "camera": {
+    "zoom_total": 0.7186,
+    "zoom_pct_per_s": -13.4,
+    "pan_x": -0.0003,
+    "pan_y": -0.0274,
+    "jitter": 0.00043,
+    "tracked_share": 0.92
+   },
+   "zoom_moves": [
+    {
+     "start": 4.567,
+     "end": 4.733,
+     "factor": 1.029,
+     "peak_at": 0.2,
+     "peak_pct_per_s": 38.4
+    },
+    {
+     "start": 5.867,
+     "end": 6.367,
+     "factor": 0.784,
+     "peak_at": 0.93,
+     "peak_pct_per_s": 491.3
+    }
+   ],
+   "move": "eased zoom out",
+   "activity": 0.0004,
+   "still_share": 0.0,
+   "face_share": 0.25,
+   "face": {
+    "h": 0.144,
+    "cx": 0.386,
+    "cy": 0.532,
+    "count": 1
+   },
+   "flat_share": 0.87,
+   "palette": [
+    {
+     "hex": "#0d0b1a",
+     "share": 0.36
+    },
+    {
+     "hex": "#160e27",
+     "share": 0.27
+    },
+    {
+     "hex": "#270f35",
+     "share": 0.13
+    },
+    {
+     "hex": "#32134a",
+     "share": 0.11
+    }
+   ],
+   "sat": 0.63,
+   "luma": 0.11,
+   "picture": "flat graphic"
+  },
+  {
+   "i": 2,
+   "start": 6.567,
+   "end": 9.333,
+   "dur": 2.767,
+   "f0": 197,
+   "f1": 280,
+   "cut_in": "transition",
+   "camera": {
+    "zoom_total": 0.7935,
+    "zoom_pct_per_s": -7.46,
+    "pan_x": 0.0012,
+    "pan_y": -0.0388,
+    "jitter": 0.00028,
+    "tracked_share": 0.99
+   },
+   "zoom_moves": [
+    {
+     "start": 6.633,
+     "end": 7.1,
+     "factor": 0.838,
+     "peak_at": 0.07,
+     "peak_pct_per_s": 124.6
+    }
+   ],
+   "move": "eased zoom out",
+   "activity": 0.0,
+   "still_share": 0.08,
+   "face_share": 0.0,
+   "flat_share": 0.95,
+   "palette": [
+    {
+     "hex": "#170a28",
+     "share": 0.46
+    },
+    {
+     "hex": "#0d0a1b",
+     "share": 0.4
+    },
+    {
+     "hex": "#230a38",
+     "share": 0.11
+    }
+   ],
+   "sat": 0.68,
+   "luma": 0.07,
+   "picture": "flat graphic"
+  }
+ ]
+}

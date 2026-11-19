@@ -1,0 +1,1400 @@
+{
+ "video": "ig-reel-ref.mp4",
+ "fps": 30.0,
+ "duration": 28.867,
+ "rows": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 1.7,
+   "dur": 1.7,
+   "cut_in": "start",
+   "move": "static",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 0.9973,
+    "zoom_pct_per_s": -0.16,
+    "pan_x": -0.0009,
+    "pan_y": -0.0108,
+    "jitter": 0.00026,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.414,
+    "cx": 0.539,
+    "cy": 0.763,
+    "count": 1,
+    "h_end_over_start": 1.043
+   },
+   "face_share": 0.86,
+   "flat_share": 0.36,
+   "palette": [
+    {
+     "hex": "#050406",
+     "share": 0.23
+    },
+    {
+     "hex": "#b24729",
+     "share": 0.14
+    },
+    {
+     "hex": "#922819",
+     "share": 0.09
+    },
+    {
+     "hex": "#a83722",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0174,
+   "said": "Cloud Code can now control your iPhone for",
+   "words": 8,
+   "text_lines_new": 14,
+   "text": [
+    {
+     "text": "can now control",
+     "t0": 1.0,
+     "t0_exact": null,
+     "dur": 0.6,
+     "h": 0.051,
+     "box": [
+      0.193,
+      0.515,
+      0.822,
+      0.566
+     ],
+     "text_colour": "#fbfaf6",
+     "bg_colour": "#a73416",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.4
+    },
+    {
+     "text": "Claude Code Can Now",
+     "t0": 0.1,
+     "t0_exact": null,
+     "dur": 4.7,
+     "h": 0.036,
+     "box": [
+      0.128,
+      0.135,
+      0.878,
+      0.171
+     ],
+     "text_colour": "#e0a78f",
+     "bg_colour": "#bd4d27",
+     "grew": true,
+     "spoken_share": 0.75,
+     "appears_vs_word_s": -0.2
+    },
+    {
+     "text": "Claude Code",
+     "t0": 0.1,
+     "t0_exact": null,
+     "dur": 0.9,
+     "h": 0.035,
+     "box": [
+      0.259,
+      0.521,
+      0.744,
+      0.556
+     ],
+     "text_colour": "#faf7f4",
+     "bg_colour": "#a53318",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Control Your iPhone",
+     "t0": 1.0,
+     "t0_exact": null,
+     "dur": 3.8,
+     "h": 0.032,
+     "box": [
+      0.206,
+      0.189,
+      0.794,
+      0.221
+     ],
+     "text_colour": "#fbfaf5",
+     "bg_colour": "#502217",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.11
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 1,
+   "start": 1.7,
+   "end": 2.133,
+   "dur": 0.433,
+   "cut_in": "jump",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "cut_in_scale": 1.001,
+   "camera": {
+    "zoom_total": 0.9992,
+    "zoom_pct_per_s": -0.19,
+    "pan_x": 0.0023,
+    "pan_y": -0.0002,
+    "jitter": 0.00019,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.38,
+   "palette": [
+    {
+     "hex": "#060507",
+     "share": 0.21
+    },
+    {
+     "hex": "#b24729",
+     "share": 0.14
+    },
+    {
+     "hex": "#932919",
+     "share": 0.1
+    },
+    {
+     "hex": "#aa2f19",
+     "share": 0.08
+    }
+   ],
+   "activity": 0.0089,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.26,
+    "gap_after": 0.26,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "you,",
+   "words": 1,
+   "text_lines_new": 14,
+   "text": [
+    {
+     "text": "for you",
+     "t0": 1.8,
+     "t0_exact": 1.7,
+     "dur": 0.5,
+     "h": 0.047,
+     "box": [
+      0.354,
+      0.518,
+      0.648,
+      0.565
+     ],
+     "text_colour": "#bda096",
+     "bg_colour": "#a73417",
+     "grew": true,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.06
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 2,
+   "start": 2.133,
+   "end": 4.833,
+   "dur": 2.7,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.0035,
+    "zoom_pct_per_s": 0.13,
+    "pan_x": -0.0037,
+    "pan_y": -0.0013,
+    "jitter": 0.00033,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.419,
+    "cx": 0.555,
+    "cy": 0.78,
+    "count": 1,
+    "h_end_over_start": 0.949
+   },
+   "face_share": 0.82,
+   "flat_share": 0.37,
+   "palette": [
+    {
+     "hex": "#060507",
+     "share": 0.21
+    },
+    {
+     "hex": "#b24729",
+     "share": 0.14
+    },
+    {
+     "hex": "#922919",
+     "share": 0.1
+    },
+    {
+     "hex": "#a93823",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0111,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.01,
+    "gap_after": 0.09,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "opening apps and tapping through screens just like a real person.",
+   "words": 11,
+   "text_lines_new": 55,
+   "text": [
+    {
+     "text": "opening apps",
+     "t0": 2.3,
+     "t0_exact": 2.267,
+     "dur": 0.6,
+     "h": 0.05,
+     "box": [
+      0.233,
+      0.518,
+      0.772,
+      0.568
+     ],
+     "text_colour": "#e6d9d6",
+     "bg_colour": "#a63113",
+     "grew": true,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.05
+    },
+    {
+     "text": "just like",
+     "t0": 4.1,
+     "t0_exact": null,
+     "dur": 0.5,
+     "h": 0.05,
+     "box": [
+      0.224,
+      0.514,
+      0.535,
+      0.564
+     ],
+     "text_colour": "#fcfbf9",
+     "bg_colour": "#a12f12",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.25
+    },
+    {
+     "text": "through",
+     "t0": 3.3,
+     "t0_exact": 3.167,
+     "dur": 0.8,
+     "h": 0.047,
+     "box": [
+      0.174,
+      0.517,
+      0.494,
+      0.564
+     ],
+     "text_colour": "#fbfaf7",
+     "bg_colour": "#a12f12",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.01
+    },
+    {
+     "text": "mirroir-mcp",
+     "t0": 4.8,
+     "t0_exact": 4.833,
+     "dur": 3.7,
+     "h": 0.044,
+     "box": [
+      0.294,
+      0.233,
+      0.707,
+      0.277
+     ],
+     "text_colour": "#8dad8f",
+     "bg_colour": "#291c11",
+     "grew": true,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "mirroir-mcp",
+     "t0": 4.8,
+     "t0_exact": 4.833,
+     "dur": 1.6,
+     "h": 0.042,
+     "box": [
+      0.296,
+      0.344,
+      0.704,
+      0.386
+     ],
+     "text_colour": "#f7ede7",
+     "bg_colour": "#180f05",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 4,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 3,
+   "start": 4.833,
+   "end": 8.367,
+   "dur": 3.533,
+   "cut_in": "hard",
+   "move": "eased zoom out",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.8718,
+    "zoom_pct_per_s": -3.63,
+    "pan_x": -0.0008,
+    "pan_y": -0.0939,
+    "jitter": 0.0003,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 4.867,
+     "end": 5.367,
+     "factor": 0.875,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 91.4
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.55,
+   "palette": [
+    {
+     "hex": "#0f0a04",
+     "share": 0.79
+    },
+    {
+     "hex": "#22190d",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0047,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.03,
+    "gap_after": 0.09,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "This is Mirar MCP, and it works through Apple's iPhone mirroring on your Mac,",
+   "words": 14,
+   "text_lines_new": 17,
+   "text": [
+    {
+     "text": "this",
+     "t0": 5.0,
+     "t0_exact": 4.833,
+     "dur": 0.8,
+     "h": 0.044,
+     "box": [
+      0.243,
+      0.71,
+      0.402,
+      0.754
+     ],
+     "text_colour": "#fafaf7",
+     "bg_colour": "#10110b",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.09
+    },
+    {
+     "text": "iphone Mirroring",
+     "t0": 7.2,
+     "t0_exact": null,
+     "dur": 0.6,
+     "h": 0.041,
+     "box": [
+      0.237,
+      0.717,
+      0.763,
+      0.758
+     ],
+     "text_colour": "#fcfcfa",
+     "bg_colour": "#0c0905",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.0
+    },
+    {
+     "text": "MCP",
+     "t0": 5.8,
+     "t0_exact": null,
+     "dur": 0.6,
+     "h": 0.039,
+     "box": [
+      0.32,
+      0.715,
+      0.515,
+      0.754
+     ],
+     "text_colour": "#e0e0de",
+     "bg_colour": "#0d0b06",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.17
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 4,
+   "start": 8.367,
+   "end": 11.4,
+   "dur": 3.033,
+   "cut_in": "hard",
+   "move": "eased zoom out",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.8694,
+    "zoom_pct_per_s": -4.31,
+    "pan_x": -0.0008,
+    "pan_y": -0.0368,
+    "jitter": 0.00018,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 8.4,
+     "end": 8.9,
+     "factor": 0.878,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 89.3
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.63,
+   "palette": [
+    {
+     "hex": "#08050b",
+     "share": 0.69
+    },
+    {
+     "hex": "#111226",
+     "share": 0.08
+    },
+    {
+     "hex": "#b04728",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0034,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.09,
+    "gap_after": 0.09,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "so Cloud can read your phone screen and tap, swipe, and type for you.",
+   "words": 14,
+   "text_lines_new": 13,
+   "text": [
+    {
+     "text": "swipe",
+     "t0": 10.4,
+     "t0_exact": 10.3,
+     "dur": 0.9,
+     "h": 0.051,
+     "box": [
+      0.406,
+      0.715,
+      0.607,
+      0.766
+     ],
+     "text_colour": "#fbf7fb",
+     "bg_colour": "#0a0509",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.0
+    },
+    {
+     "text": "your phone",
+     "t0": 9.4,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.047,
+     "box": [
+      0.272,
+      0.713,
+      0.73,
+      0.76
+     ],
+     "text_colour": "#fdfbfd",
+     "bg_colour": "#080409",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.21
+    },
+    {
+     "text": "can",
+     "t0": 8.7,
+     "t0_exact": 8.5,
+     "dur": 0.7,
+     "h": 0.034,
+     "box": [
+      0.324,
+      0.723,
+      0.478,
+      0.757
+     ],
+     "text_colour": "#a8a5a8",
+     "bg_colour": "#0b080b",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.22
+    }
+   ],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 5,
+   "start": 11.4,
+   "end": 14.733,
+   "dur": 3.333,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.0802,
+    "zoom_pct_per_s": 2.4,
+    "pan_x": 0.0087,
+    "pan_y": 0.009,
+    "jitter": 0.00072,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 11.8,
+     "end": 11.967,
+     "factor": 1.08,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 163.0
+    }
+   ],
+   "face": {
+    "h": 0.391,
+    "cx": 0.534,
+    "cy": 0.769,
+    "count": 1,
+    "h_end_over_start": 1.031
+   },
+   "face_share": 0.54,
+   "flat_share": 0.35,
+   "palette": [
+    {
+     "hex": "#130c09",
+     "share": 0.2
+    },
+    {
+     "hex": "#21180c",
+     "share": 0.13
+    },
+    {
+     "hex": "#b14729",
+     "share": 0.1
+    },
+    {
+     "hex": "#922819",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0159,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.0,
+    "gap_after": 0.08,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "To install it, you just run this one command and connect it to Cloud Code or Codex.",
+   "words": 17,
+   "text_lines_new": 24,
+   "text": [
+    {
+     "text": "or Codex",
+     "t0": 14.4,
+     "t0_exact": null,
+     "dur": 0.5,
+     "h": 0.042,
+     "box": [
+      0.322,
+      0.518,
+      0.678,
+      0.56
+     ],
+     "text_colour": "#fcfbf9",
+     "bg_colour": "#b23518",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.28
+    },
+    {
+     "text": "this",
+     "t0": 12.4,
+     "t0_exact": null,
+     "dur": 0.9,
+     "h": 0.041,
+     "box": [
+      0.354,
+      0.518,
+      0.511,
+      0.559
+     ],
+     "text_colour": "#e8d9d1",
+     "bg_colour": "#b2361e",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.02
+    },
+    {
+     "text": "to Claude Code",
+     "t0": 13.9,
+     "t0_exact": null,
+     "dur": 0.5,
+     "h": 0.039,
+     "box": [
+      0.202,
+      0.519,
+      0.798,
+      0.558
+     ],
+     "text_colour": "#fbfbf9",
+     "bg_colour": "#ad3619",
+     "grew": false,
+     "spoken_share": 0.67,
+     "appears_vs_word_s": 0.31
+    },
+    {
+     "text": "to install it",
+     "t0": 11.5,
+     "t0_exact": 11.4,
+     "dur": 0.5,
+     "h": 0.038,
+     "box": [
+      0.296,
+      0.52,
+      0.709,
+      0.558
+     ],
+     "text_colour": "#e6ded9",
+     "bg_colour": "#b43617",
+     "grew": true,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.08
+    },
+    {
+     "text": "and connect",
+     "t0": 13.3,
+     "t0_exact": 13.167,
+     "dur": 0.6,
+     "h": 0.038,
+     "box": [
+      0.22,
+      0.52,
+      0.715,
+      0.558
+     ],
+     "text_colour": "#fcfbf7",
+     "bg_colour": "#ae3519",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.27
+    },
+    {
+     "text": "Install mirroir-mcp",
+     "t0": 13.9,
+     "t0_exact": null,
+     "dur": 0.8,
+     "h": 0.03,
+     "box": [
+      0.148,
+      0.182,
+      0.526,
+      0.212
+     ],
+     "text_colour": "#dfd4cc",
+     "bg_colour": "#1c1109",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 3,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 6,
+   "start": 14.733,
+   "end": 16.467,
+   "dur": 1.733,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.2133,
+    "zoom_pct_per_s": 12.31,
+    "pan_x": 0.0055,
+    "pan_y": -0.2244,
+    "jitter": 0.00181,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 15.333,
+     "end": 15.467,
+     "factor": 1.031,
+     "peak_at": 0.25,
+     "peak_pct_per_s": 68.2
+    },
+    {
+     "start": 15.5,
+     "end": 16.267,
+     "factor": 1.097,
+     "peak_at": 0.13,
+     "peak_pct_per_s": 28.5
+    }
+   ],
+   "face": {
+    "h": 0.425,
+    "cx": 0.563,
+    "cy": 0.773,
+    "count": 1,
+    "h_end_over_start": 1.081
+   },
+   "face_share": 1.0,
+   "flat_share": 0.46,
+   "palette": [
+    {
+     "hex": "#110807",
+     "share": 0.32
+    },
+    {
+     "hex": "#fafafa",
+     "share": 0.31
+    },
+    {
+     "hex": "#2d2827",
+     "share": 0.05
+    },
+    {
+     "hex": "#241917",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0479,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.05,
+    "gap_after": 0.07,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "Then you can use it to automate whole workflows,",
+   "words": 9,
+   "text_lines_new": 19,
+   "text": [
+    {
+     "text": "then you",
+     "t0": 14.9,
+     "t0_exact": 14.733,
+     "dur": 0.8,
+     "h": 0.052,
+     "box": [
+      0.32,
+      0.517,
+      0.681,
+      0.569
+     ],
+     "text_colour": "#e7e2e1",
+     "bg_colour": "#2a2521",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.07
+    },
+    {
+     "text": "it to automate",
+     "t0": 15.7,
+     "t0_exact": null,
+     "dur": 0.7,
+     "h": 0.039,
+     "box": [
+      0.22,
+      0.519,
+      0.783,
+      0.558
+     ],
+     "text_colour": "#fefaf9",
+     "bg_colour": "#231f1c",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.31
+    },
+    {
+     "text": "#mirror-message",
+     "t0": 15.7,
+     "t0_exact": null,
+     "dur": 0.7,
+     "h": 0.034,
+     "box": [
+      0.133,
+      0.247,
+      0.589,
+      0.281
+     ],
+     "text_colour": "#282828",
+     "bg_colour": "#fcfcfc",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 7,
+   "start": 16.467,
+   "end": 17.167,
+   "dur": 0.7,
+   "cut_in": "hard",
+   "move": "slow push in",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.0236,
+    "zoom_pct_per_s": 3.37,
+    "pan_x": 0.003,
+    "pan_y": -0.029,
+    "jitter": 0.00071,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.422,
+    "cx": 0.56,
+    "cy": 0.777,
+    "count": 1
+   },
+   "face_share": 1.0,
+   "flat_share": 0.49,
+   "palette": [
+    {
+     "hex": "#0f090c",
+     "share": 0.66
+    },
+    {
+     "hex": "#171525",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0152,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.19,
+    "gap_after": 0.03,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "test your own apps",
+   "words": 4,
+   "text_lines_new": 10,
+   "text": [
+    {
+     "text": "test your",
+     "t0": 16.6,
+     "t0_exact": 16.467,
+     "dur": 0.5,
+     "h": 0.054,
+     "box": [
+      0.315,
+      0.517,
+      0.685,
+      0.571
+     ],
+     "text_colour": "#b9adad",
+     "bg_colour": "#110809",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.03
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 8,
+   "start": 17.167,
+   "end": 18.267,
+   "dur": 1.1,
+   "cut_in": "hard",
+   "move": "pan/slide",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.0097,
+    "zoom_pct_per_s": 0.88,
+    "pan_x": -0.0066,
+    "pan_y": -0.0213,
+    "jitter": 0.00023,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.401,
+    "cx": 0.536,
+    "cy": 0.784,
+    "count": 1
+   },
+   "face_share": 1.0,
+   "flat_share": 0.38,
+   "palette": [
+    {
+     "hex": "#100806",
+     "share": 0.42
+    },
+    {
+     "hex": "#ebedd3",
+     "share": 0.11
+    },
+    {
+     "hex": "#7b985d",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0095,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.01,
+    "gap_after": 0.01,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "or on a real device, or",
+   "words": 6,
+   "text_lines_new": 3,
+   "text": [
+    {
+     "text": "learn",
+     "t0": 17.3,
+     "t0_exact": 17.167,
+     "dur": 0.9,
+     "h": 0.04,
+     "box": [
+      0.361,
+      0.519,
+      0.57,
+      0.559
+     ],
+     "text_colour": "#fefaf9",
+     "bg_colour": "#110905",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 9,
+   "start": 18.267,
+   "end": 21.2,
+   "dur": 2.933,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.0102,
+    "zoom_pct_per_s": 0.35,
+    "pan_x": 0.0066,
+    "pan_y": -0.0058,
+    "jitter": 0.00025,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.415,
+    "cx": 0.544,
+    "cy": 0.774,
+    "count": 1,
+    "h_end_over_start": 1.0
+   },
+   "face_share": 0.82,
+   "flat_share": 0.36,
+   "palette": [
+    {
+     "hex": "#0e0e11",
+     "share": 0.3
+    },
+    {
+     "hex": "#b04729",
+     "share": 0.1
+    },
+    {
+     "hex": "#922819",
+     "share": 0.09
+    },
+    {
+     "hex": "#ab2f19",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0127,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.07,
+    "gap_after": 0.07,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "just hand off all the boring stuff that you have to do on your phone every day.",
+   "words": 17,
+   "text_lines_new": 12,
+   "text": [
+    {
+     "text": "offall the boring",
+     "t0": 19.3,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.058,
+     "box": [
+      0.181,
+      0.51,
+      0.82,
+      0.568
+     ],
+     "text_colour": "#fbfaf6",
+     "bg_colour": "#a43314",
+     "grew": false,
+     "spoken_share": 0.67,
+     "appears_vs_word_s": 0.21
+    },
+    {
+     "text": "orjust",
+     "t0": 18.4,
+     "t0_exact": 18.267,
+     "dur": 0.9,
+     "h": 0.05,
+     "box": [
+      0.259,
+      0.516,
+      0.524,
+      0.566
+     ],
+     "text_colour": "#fcfaf7",
+     "bg_colour": "#a73013",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "event next Tuesday at 2pm\"",
+     "t0": 18.4,
+     "t0_exact": 18.267,
+     "dur": 2.9,
+     "h": 0.03,
+     "box": [
+      0.244,
+      0.253,
+      0.739,
+      0.283
+     ],
+     "text_colour": "#2e2e31",
+     "bg_colour": "#100f12",
+     "grew": true,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 10,
+   "start": 21.2,
+   "end": 25.133,
+   "dur": 3.933,
+   "cut_in": "hard",
+   "move": "eased zoom out",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.8661,
+    "zoom_pct_per_s": -3.4,
+    "pan_x": 0.0001,
+    "pan_y": -0.028,
+    "jitter": 0.00012,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 21.233,
+     "end": 21.733,
+     "factor": 0.875,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 93.1
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.65,
+   "palette": [
+    {
+     "hex": "#8f2719",
+     "share": 0.26
+    },
+    {
+     "hex": "#b14527",
+     "share": 0.1
+    },
+    {
+     "hex": "#953122",
+     "share": 0.1
+    },
+    {
+     "hex": "#a93923",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0017,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.02,
+    "gap_after": 0.12,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "Plus you can block it from apps like Wallet or your banking apps, you always stay in control.",
+   "words": 18,
+   "text_lines_new": 24,
+   "text": [
+    {
+     "text": "you always",
+     "t0": 24.0,
+     "t0_exact": 23.933,
+     "dur": 1.1,
+     "h": 0.046,
+     "box": [
+      0.272,
+      0.714,
+      0.728,
+      0.76
+     ],
+     "text_colour": "#b9a7a1",
+     "bg_colour": "#822e1a",
+     "grew": true,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.13
+    },
+    {
+     "text": "it from",
+     "t0": 22.2,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.043,
+     "box": [
+      0.256,
+      0.713,
+      0.53,
+      0.756
+     ],
+     "text_colour": "#e6e0df",
+     "bg_colour": "#772616",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.13
+    },
+    {
+     "text": "or your",
+     "t0": 23.2,
+     "t0_exact": null,
+     "dur": 0.8,
+     "h": 0.038,
+     "box": [
+      0.356,
+      0.72,
+      0.646,
+      0.758
+     ],
+     "text_colour": "#fbf5f2",
+     "bg_colour": "#7c2813",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.0
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 11,
+   "start": 25.133,
+   "end": 28.867,
+   "dur": 3.733,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.0476,
+    "zoom_pct_per_s": 1.28,
+    "pan_x": -0.0489,
+    "pan_y": 0.0491,
+    "jitter": 0.00212,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 25.7,
+     "end": 26.0,
+     "factor": 1.034,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 19.1
+    },
+    {
+     "start": 27.9,
+     "end": 28.067,
+     "factor": 1.028,
+     "peak_at": 0.6,
+     "peak_pct_per_s": 48.4
+    },
+    {
+     "start": 28.133,
+     "end": 28.3,
+     "factor": 1.027,
+     "peak_at": 0.8,
+     "peak_pct_per_s": 35.3
+    }
+   ],
+   "face": {
+    "h": 0.872,
+    "cx": 0.603,
+    "cy": 0.499,
+    "count": 1
+   },
+   "face_share": 0.36,
+   "flat_share": 0.32,
+   "palette": [
+    {
+     "hex": "#100d11",
+     "share": 0.28
+    },
+    {
+     "hex": "#a99397",
+     "share": 0.1
+    },
+    {
+     "hex": "#ca938c",
+     "share": 0.07
+    },
+    {
+     "hex": "#ac756e",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0318,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 0.15,
+    "gap_after": 0.09,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "If you want the whole setup guide, just comment phone down below and I'll send you the links directly.",
+   "words": 19,
+   "text_lines_new": 3,
+   "text": [
+    {
+     "text": "\"Phone\"",
+     "t0": 27.1,
+     "t0_exact": null,
+     "dur": 1.8,
+     "h": 0.058,
+     "box": [
+      0.28,
+      0.765,
+      0.722,
+      0.823
+     ],
+     "text_colour": "#fcf9f6",
+     "bg_colour": "#8a3e26",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.32
+    },
+    {
+     "text": "if you",
+     "t0": 25.3,
+     "t0_exact": 25.133,
+     "dur": 0.8,
+     "h": 0.053,
+     "box": [
+      0.269,
+      0.709,
+      0.509,
+      0.762
+     ],
+     "text_colour": "#190c0b",
+     "bg_colour": "#ca9788",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.09
+    },
+    {
+     "text": "comment",
+     "t0": 26.5,
+     "t0_exact": 26.367,
+     "dur": 2.4,
+     "h": 0.041,
+     "box": [
+      0.322,
+      0.719,
+      0.698,
+      0.76
+     ],
+     "text_colour": "#e5d8d2",
+     "bg_colour": "#886258",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.07
+    }
+   ],
+   "motion_events": 3,
+   "sfx": [],
+   "sfx_weak": 0
+  }
+ ]
+}

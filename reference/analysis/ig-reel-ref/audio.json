@@ -1,0 +1,81 @@
+{
+ "source": "ig-reel-ref.mp4",
+ "duration": 28.89,
+ "stems": true,
+ "loudness": {
+  "integrated_LUFS": -14.2,
+  "LRA_LU": 2.6,
+  "true_peak_dBTP": -0.2
+ },
+ "voice": {
+  "stem_rms_dBFS": -17.0,
+  "active_share": 0.977,
+  "words": 138,
+  "wpm_overall": 286.7,
+  "wpm_while_speaking": 293.5,
+  "wpm_per_30s": [
+   276
+  ]
+ },
+ "pause_stats": {
+  "count": 1,
+  "per_min": 2.1,
+  "total_s": 0.1,
+  "share_of_runtime": 0.004,
+  "median_s": 0.12,
+  "p25_s": 0.12,
+  "p75_s": 0.12,
+  "p90_s": 0.12,
+  "max_s": 0.12,
+  "over_0.5s": 0,
+  "over_1s": 0,
+  "over_2s": 0,
+  "speech_run_s": {
+   "median": 2.33,
+   "p90": 6.6,
+   "max": 8.2
+  }
+ },
+ "word_gaps": {
+  "count": 5,
+  "median_s": 0.22,
+  "p90_s": 0.24,
+  "max_s": 0.24
+ },
+ "bed": {
+  "summary": {
+   "stems": true,
+   "median_rel_voice_dB": -42.5,
+   "p10_rel_voice_dB": -50.0,
+   "p90_rel_voice_dB": -32.8,
+   "audible_bed_share": 0.36,
+   "while_voice_rel_dB": -42.6,
+   "in_pauses_rel_dB": null,
+   "bed_on_spans": [
+    [
+     5,
+     10
+    ],
+    [
+     20,
+     25
+    ]
+   ]
+  },
+  "per_30s": [
+   {
+    "t": 0,
+    "level_dBFS": -59.5,
+    "rel_voice_dB": -42.5
+   }
+  ]
+ },
+ "silences": [],
+ "sfx_candidates": [],
+ "pauses": [
+  {
+   "t": 25.11,
+   "dur": 0.12
+  }
+ ]
+}

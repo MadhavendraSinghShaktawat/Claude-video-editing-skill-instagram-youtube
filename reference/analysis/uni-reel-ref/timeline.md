@@ -1,0 +1,204 @@
+# Timeline: ref.mp4
+
+One row per shot. `cut` = how the shot starts (hard = new picture, punch = same picture instant zoom with its scale, jump = same picture instant shift, pop = a graphic appears instantly in part of the frame, transition = multi-frame).
+`move` = camera movement measured inside the shot. `T:` on-screen text that first appears in this shot (height as % of frame; `=said` when it repeats spoken words, with seconds text leads(-)/lags(+) the word). `S:` sound-event candidates (★ = lands within 0.12 s of a cut or motion event).
+
+- **#0** 0:00.00 +2.87s | start | speaker 21%@0.53,0.47 | slow push in x1.108
+  - “Lately, everyone's been obsessed with writing the perfect hook,”
+  - T: “obsessed with writing” 3.8% @0.50,0.21 0.8s #daefff =said +0.95s
+  - T: “lately everyone's been” 3.4% @0.49,0.21 1.9s #daedfe =said -0.02s
+- **#1** 0:02.87 +1.10s | punch x0.906 | speaker 21%@0.52,0.47 | static
+  - “but they're forgetting that”
+  - T: “but they're forgetting” 3.9% @0.50,0.21 1.1s #d9efff =said -0.21s
+- **#2** 0:03.97 +1.50s | jump x1.0 | speaker 19%@0.53,0.47 | static
+  - “each hook has two parts,”
+  - T: “visual hook” 4.8% @0.75,0.46 1.5s #76766b
+  - T: “verbal hook” 4.4% @0.31,0.40 1.5s #767569
+  - T: “that each hook has two parts” 3.3% @0.51,0.21 1.5s #d9efff =said +0.25s
+- **#3** 0:05.47 +0.97s | pop | speaker 20%@0.53,0.46 | static
+  - “and your content is”
+  - T: “probably forgetting one of them” 3.9% @0.50,0.21 1.6s #ddf2ff =said -0.11s
+  - T: “and your content is” 3.3% @0.50,0.21 0.8s #ddf0ff =said -0.23s
+- **#4** 0:06.43 +1.43s | punch x1.101 | speaker 22%@0.53,0.47 | static
+  - “probably forgetting one of them.”
+- **#5** 0:07.87 +0.47s | punch x0.907 | speaker 20%@0.53,0.47 | static
+  - “Welcome to”
+  - T: “Content Camp” 4.3% @0.51,0.21 1.0s #d8f0ff =said -0.09s
+- **#6** 0:08.33 +7.23s | jump x1.0 | speaker 19%@0.51,0.47 | static
+  - “Content Camp, your eight -week crash course in storytelling, filming, and editing so that by the end of the summer, you'll be creating content that”
+  - T: “storytelling,” 4.4% @0.50,0.21 1.0s #daefff =said +0.10s
+  - T: “and editing” 4.2% @0.50,0.21 1.0s #daf1ff =said -0.24s
+  - T: “your 8-week” 3.6% @0.49,0.21 1.0s #d6edff
+  - T: “so that by the” 3.4% @0.49,0.21 1.0s #def2ff =said +0.36s
+  - T: “you'll be creating content” 3.3% @0.49,0.21 1.4s #d9f0ff =said -0.18s
+  - T: “crash course in” 3.2% @0.50,0.21 1.0s #def0ff =said +0.16s
+- **#7** 0:15.57 +1.17s | punch x1.105 | speaker 20%@0.51,0.47 | static
+  - “actually performs.”
+  - T: “that actually performs” 3.4% @0.50,0.21 1.2s #def4ff =said +0.23s
+- **#8** 0:16.73 +4.47s | punch x0.905 | speaker 20%@0.53,0.47 | static
+  - “If we break down the anatomy of a great video, you'll see that there are almost always two”
+  - T: “there are almost always” 3.8% @0.50,0.21 0.6s #def0ff =said +0.71s
+  - T: “a great video” 3.7% @0.50,0.21 1.0s #dbf2ff =said +0.15s
+  - T: “if we break down” 3.6% @0.49,0.20 0.8s #d9efff =said -0.19s
+  - T: “the anatomy of” 3.5% @0.50,0.21 1.0s #d9eeff =said +0.05s
+  - T: “you'll see that” 3.4% @0.50,0.21 1.0s #d9efff =said +0.25s
+- **#9** 0:21.20 +0.53s | punch x1.095 | speaker 19%@0.51,0.47 | static
+  - “parts.”
+  - T: “the visual hook” 3.1% @0.49,0.20 1.0s #d9efff =said -0.19s
+  - (+2 more/smaller text lines)
+- **#10** 0:21.73 +2.20s | punch x0.913 | speaker 20%@0.52,0.46 | static
+  - “The visual hook, which is what people see,”
+  - T: “which is what people see” 3.4% @0.50,0.21 1.2s #d8edff =said -0.29s
+  - (+2 more/smaller text lines)
+- **#11** 0:23.93 +2.00s | jump x1.0 | speaker 19%@0.52,0.47 | static
+  - “and the verbal hook, which is what people hear.”
+  - T: “which is what people hear” 3.4% @0.50,0.21 1.0s #daf0ff =said -0.27s
+  - (+1 more/smaller text lines)
+  - S: ★BB@24.04(+4dB)
+- **#12** 0:25.93 +5.57s | jump x1.001 | speaker 21%@0.53,0.47 | static
+  - “It's estimated that 80 to 85 % of social media is consumed without sound,”
+  - T: “80 to 85% of social media” 3.2% @0.50,0.21 2.0s #d7edff =said +0.89s
+  - T: “is consumed without sound” 3.0% @0.50,0.21 1.7s #d9eeff =said +0.33s
+  - S: BB+LOW@26.66(-4dB)
+- **#13** 0:31.50 +1.77s | punch x0.908 | speaker 18%@0.52,0.47 | static
+  - “and even when the sound is on,”
+  - T: “the sound is on” 3.5% @0.50,0.20 0.9s #ddf3ff =said +0.09s
+  - T: “and even when” 3.2% @0.49,0.21 0.9s #d8edff =said -0.08s
+- **#14** 0:33.27 +0.87s | jump x1.0 | speaker 21%@0.53,0.47 | static
+  - “people are usually only”
+  - T: “people are usually” 3.9% @0.49,0.21 0.7s #daf0ff =said -0.19s
+  - T: “only half listening” 3.9% @0.50,0.21 1.0s #d7eeff =said +0.07s
+- **#15** 0:34.13 +0.87s | punch x1.093 | speaker 20%@0.53,0.47 | static
+  - “half listening.”
+- **#16** 0:35.00 +2.10s | punch x0.915 | speaker 19%@0.53,0.47 | static
+  - “What this means is that your visual hook has”
+  - T: “is that your visual hook” 3.4% @0.50,0.21 1.2s #daefff =said +0.13s
+  - T: “what this means” 3.2% @0.50,0.21 0.9s #daedfe =said -0.18s
+- **#17** 0:37.10 +1.40s | punch x1.114 | speaker 19%@0.52,0.46 | static
+  - “to land with no audio, and”
+  - T: “has to land with no visual” 3.1% @0.50,0.20 3.8s #dbefff =said +0.06s
+- **#18** 0:38.50 +1.03s | punch x0.897 | speaker 19%@0.53,0.47 | static
+  - “your verbal hook”
+  - T: “and your verbal hook” 3.4% @0.50,0.21 0.9s #dff3ff =said +0.10s
+- **#19** 0:39.53 +1.33s | punch x1.113 | speaker 20%@0.53,0.46 | static
+  - “has to land with no visual.”
+- **#20** 0:40.87 +2.77s | punch x0.897 | speaker 19%@0.52,0.46 | static
+  - “If either of those depend on the other to make sense,”
+  - T: “depend on the other” 3.5% @0.50,0.21 1.0s #d9f0ff =said +0.07s
+  - T: “then you've already lost” 3.4% @0.50,0.21 1.0s #daefff =said -0.11s
+  - T: “if either of those” 3.2% @0.49,0.21 0.9s #d8ebff =said -0.19s
+  - T: “to make sense” 3.1% @0.50,0.20 0.7s #dbefff =said +0.27s
+- **#21** 0:43.63 +2.43s | punch x0.922 | speaker 20%@0.53,0.47 | static
+  - “then you've already lost the great majority of your audience.”
+  - T: “the great majority” 3.6% @0.49,0.21 1.0s #d9efff =said -0.27s
+  - T: “of your audience” 3.4% @0.50,0.21 0.6s #d9edff =said +0.12s
+- **#22** 0:46.07 +4.30s | jump x0.993 | speaker 20%@0.53,0.47 | static
+  - “The biggest mistake I see when it comes to hooks are when both hooks say the same thing.”
+  - T: “the biggest mistake I see” 3.4% @0.50,0.21 1.9s #d9f0ff =said -0.15s
+  - T: “are when both hooks” 3.2% @0.49,0.21 1.0s #def0ff =said +0.77s
+  - (+1 more/smaller text lines)
+- **#23** 0:50.37 +1.90s | jump x1.001 | speaker 20%@0.53,0.47 | static
+  - “So for example, let's say you're filming a”
+  - T: “let's say you're filming” 3.9% @0.49,0.21 1.0s #dbf0ff =said +0.05s
+  - T: “so for example” 3.8% @0.50,0.21 0.9s #def0ff =said -0.17s
+- **#24** 0:52.27 +0.70s | hard | no face (b-roll / screen / graphic) | slow pull out x0.983
+  - “workday”
+  - T: “a work day in my life vlog” 3.8% @0.50,0.21 1.5s #b4b5b3
+- **#25** 0:52.97 +1.00s | hard | speaker 21%@0.32,0.36 | slow push in x1.034
+  - “in my life vlog, and”
+  - (+1 more/smaller text lines)
+- **#26** 0:53.97 +0.83s | hard | no face (b-roll / screen / graphic) | slow push in x1.048
+  - “you do your morning”
+- **#27** 0:54.80 +0.50s | jump x0.998 | speaker 16%@0.67,0.51 | slow push in x1.038
+  - “routine,”
+- **#28** 0:55.30 +1.27s | hard | no face (b-roll / screen / graphic) | pan/slide x1.008
+  - “then you commute to the office,”
+  - T: “ithen you commute to the office” 3.4% @0.50,0.21 2.3s #dff3fd =said -0.28s
+- **#29** 0:56.57 +1.00s | hard | no face (b-roll / screen / graphic) | static
+  - “then you get to the office,”
+- **#30** 0:57.57 +0.87s | hard | no face (b-roll / screen / graphic) | static
+  - “and you start your work.”
+  - T: “if your voice over just” 3.6% @0.49,0.21 2.0s #d9eeff =said -0.23s
+  - (+38 more/smaller text lines)
+- **#31** 0:58.43 +4.67s | hard | speaker 20%@0.52,0.46 | static
+  - “If your voiceover just narrates what you're doing on screen, then it's not as engaging for the viewer, and”
+  - T: “engaging for the viewer” 3.9% @0.50,0.21 0.8s #d9eeff =said +0.23s
+  - T: “then it's not as” 3.2% @0.50,0.21 1.0s #d9f0ff =said -0.02s
+  - T: “narrates what you're” 3.0% @0.49,0.21 1.0s #def2ff =said +0.63s
+- **#32** 1:03.10 +4.83s | punch x0.904 | speaker 20%@0.53,0.47 | static
+  - “instead you want them to do different jobs. So for example, you could say something like,”
+  - T: “so for example” 3.9% @0.49,0.20 1.0s #ddf2ff =said +0.03s
+  - T: “you could say something like” 3.6% @0.50,0.21 0.8s #d8efff =said +0.16s
+  - T: “them to do different jobs” 3.4% @0.50,0.21 1.0s #def0ff =said +0.55s
+  - T: “and instead you want” 3.3% @0.50,0.21 1.9s #d9eeff =said +0.08s
+  - T: “I deleted my first 100 videos” 3.2% @0.50,0.21 2.0s #d8f2ff =said -0.31s
+  - (+3 more/smaller text lines)
+- **#33** 1:07.93 +3.77s | punch x1.107 | speaker 19%@0.52,0.47 | static
+  - “I deleted my first 100 videos before I ever posted my first,”
+  - T: “posted my first” 4.0% @0.50,0.21 0.9s #daf2ff =said -0.14s
+  - T: “before Iever” 3.7% @0.50,0.20 1.0s #d7eeff
+  - S: BB@68.20(-7dB)
+- **#34** 1:11.70 +3.23s | jump x1.0 | speaker 21%@0.52,0.46 | static
+  - “or this is how Blank got me my dream job,”
+  - T: “got me my dream job” 3.8% @0.50,0.21 1.2s #ddf2ff =said +0.03s
+  - T: “and you can insert” 3.3% @0.50,0.21 1.0s #dbeefe =said -0.11s
+  - T: “this is how blank” 3.0% @0.50,0.20 1.0s #d9ebfe =said +0.45s
+- **#35** 1:14.93 +2.37s | punch x0.905 | speaker 20%@0.52,0.47 | static
+  - “and you can insert something crazy or captivating.”
+  - T: “something crazy or captivating” 3.3% @0.50,0.21 1.5s #daf2ff =said +0.12s
+- **#36** 1:17.30 +4.27s | jump x1.001 | speaker 19%@0.53,0.47 | static
+  - “That way your visuals give context, but the main focus is the story that you're trying to tell.”
+  - T: “is the story that” 3.4% @0.50,0.21 1.0s #dbeeff =said +0.19s
+  - T: “that way your visuals give context” 3.3% @0.50,0.21 1.9s #d8eeff =said -0.20s
+  - T: “but the main focus” 3.1% @0.50,0.20 1.0s #ddf0ff =said -0.03s
+- **#37** 1:21.57 +5.97s | jump x1.001 | speaker 20%@0.53,0.47 | static | 1 motion ev
+  - “A few hook formulas we found the most success with are the bold claim, the result, and the call out.”
+  - T: “the result,” 3.8% @0.50,0.21 1.0s #dbf0ff =said -0.09s
+  - T: “but if you want” 3.8% @0.50,0.21 1.0s #d4e9ff =said -0.25s
+  - T: “the bold claim,” 3.4% @0.50,0.21 1.0s #d4e9ff =said +0.23s
+  - T: “a few hook formulas” 3.1% @0.50,0.20 1.9s #d8f2ff =said -0.33s
+  - T: “we found the most” 3.1% @0.50,0.20 1.0s #ddf2ff =said +0.73s
+  - T: “and the call out” 3.0% @0.51,0.21 0.9s #daefff =said +0.19s
+  - (+3 more/smaller text lines)
+  - S: BB@84.76(-9dB), BB@85.60(-8dB), BB@86.40(-8dB)
+- **#38** 1:27.53 +1.10s | pop | no face (b-roll / screen / graphic) | static
+  - “But if you want our full”
+  - T: “our full hook breakdown” 3.0% @0.50,0.21 1.1s #d8edff =said +0.14s
+  - S: ★BB@87.51(-4dB)
+- **#39** 1:28.63 +1.10s | pop | no face (b-roll / screen / graphic) | static | 1 motion ev
+  - “hook breakdown with”
+  - T: “with specific examples” 3.6% @0.49,0.21 1.1s #d8efff =said +0.02s
+- **#40** 1:29.73 +1.10s | pop | no face (b-roll / screen / graphic) | static
+  - “specific examples you”
+  - T: “you can implement” 3.7% @0.50,0.21 1.1s #daefff =said -0.11s
+- **#41** 1:30.83 +1.10s | pop | no face (b-roll / screen / graphic) | static
+  - “can implement into your”
+  - T: “into your own content” 3.0% @0.51,0.21 1.2s #d9eeff =said +0.30s
+- **#42** 1:31.93 +0.93s | pop | no face (b-roll / screen / graphic) | static
+  - “own content,”
+- **#43** 1:32.87 +3.17s | pop | speaker 20%@0.54,0.47 | static
+  - “then you can comment camper and I'll send it straight to your email inbox.”
+  - T: “"cal” 5.8% @0.41,0.26 1.0s #e7fbff
+  - T: “and I'll send it straight” 3.5% @0.50,0.21 1.0s #def0ff =said +0.56s
+  - T: “then you can comment” 3.3% @0.50,0.21 1.9s #d8ecff =said -0.05s
+  - S: BB@95.40(-7dB)
+- **#44** 1:36.03 +3.43s | jump x1.0 | speaker 20%@0.54,0.47 | static
+  - “Next week, we're going to get behind the camera to talk about equipment essentials you”
+  - T: “going to get behind the camera” 4.1% @0.50,0.21 1.0s #dbf0ff =said +0.14s
+  - T: “to talk about equipment essentials” 3.3% @0.50,0.21 1.6s #dbf0ff =said -0.05s
+  - T: “next week we're” 3.1% @0.50,0.20 0.8s #d8eeff =said -0.15s
+- **#45** 1:39.47 +0.50s | hard | no face (b-roll / screen / graphic) | slow push in x1.028
+  - “need to”
+  - T: “you need to create the” 3.4% @0.50,0.21 1.0s #2c2a23 =said +0.13s
+- **#46** 1:39.97 +0.50s | hard | no face (b-roll / screen / graphic) | static
+  - “create the”
+- **#47** 1:40.47 +0.50s | hard | no face (b-roll / screen / graphic) | static
+  - “absolute”
+  - T: “SET” 4.3% @0.84,0.71 0.5s #e1deed
+  - T: “absolute best quality of content” 3.0% @0.50,0.21 1.7s #2e2734 =said -0.11s
+- **#48** 1:40.97 +0.50s | hard | no face (b-roll / screen / graphic) | static
+  - “best”
+- **#49** 1:41.47 +0.57s | hard | no face (b-roll / screen / graphic) | slow push in x1.014
+  - “quality of”
+- **#50** 1:42.03 +0.30s | hard | no face (b-roll / screen / graphic) | static
+  - “content.”

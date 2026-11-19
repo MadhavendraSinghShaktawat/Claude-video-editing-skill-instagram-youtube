@@ -1,0 +1,493 @@
+{
+ "name": "joseph-clean-canvas",
+ "description": "Dense light-canvas graphics, blur-and-scale camera, music and effects throughout (Joseph | Video Editing)",
+ "made": "2026-11-15",
+ "sources": [
+  {
+   "dir": "reference/analysis/joseph-learn-editing",
+   "video": "joseph-learn-editing.mp4",
+   "title": "How I’d Learn Video Editing in 2026 (Before AI Replaces You)",
+   "channel": "Joseph | Video Editing",
+   "duration_s": 846.3
+  }
+ ],
+ "cut": {
+  "cuts_per_min": {
+   "median": 20.9,
+   "per_video": [
+    20.9
+   ]
+  },
+  "hard_per_min": {
+   "median": 7.1,
+   "per_video": [
+    7.1
+   ]
+  },
+  "jump_per_min": {
+   "median": 3.1,
+   "per_video": [
+    3.1
+   ]
+  },
+  "punch_per_min": {
+   "median": 0.6,
+   "per_video": [
+    0.6
+   ]
+  },
+  "pop_per_min": {
+   "median": 5.0,
+   "per_video": [
+    5.0
+   ]
+  },
+  "transition_per_min": {
+   "median": 5.2,
+   "per_video": [
+    5.2
+   ]
+  },
+  "shot_len_median_s": {
+   "median": 2.18,
+   "per_video": [
+    2.18
+   ]
+  },
+  "shot_len_p90_s": {
+   "median": 5.93,
+   "per_video": [
+    5.93
+   ]
+  },
+  "picture_change_every_median_s": {
+   "median": 3.83,
+   "per_video": [
+    3.83
+   ]
+  },
+  "picture_change_every_p90_s": {
+   "median": 9.77,
+   "per_video": [
+    9.77
+   ]
+  },
+  "longest_without_picture_change_s": {
+   "median": 21.0,
+   "per_video": [
+    21.0
+   ]
+  },
+  "transition_len_median_s": {
+   "median": 0.73,
+   "per_video": [
+    0.73
+   ]
+  },
+  "same_picture_cuts_inside_voice_pause": {
+   "median": 0.08,
+   "per_video": [
+    0.08
+   ]
+  },
+  "picture_changes_inside_voice_pause": {
+   "median": 0.08,
+   "per_video": [
+    0.08
+   ]
+  },
+  "chance_inside_voice_pause": {
+   "median": 0.02,
+   "per_video": [
+    0.02
+   ]
+  },
+  "picture_changes_after_sentence_end": {
+   "median": 0.33,
+   "per_video": [
+    0.33
+   ]
+  }
+ },
+ "speech": {
+  "wpm": {
+   "median": 264.3,
+   "per_video": [
+    264.3
+   ]
+  },
+  "wpm_while_speaking": {
+   "median": 278.0,
+   "per_video": [
+    278.0
+   ]
+  },
+  "voice_active_share": {
+   "median": 0.95,
+   "per_video": [
+    0.951
+   ]
+  },
+  "pauses_per_min": {
+   "median": 5.5,
+   "per_video": [
+    5.5
+   ]
+  },
+  "pause_median_s": {
+   "median": 0.14,
+   "per_video": [
+    0.14
+   ]
+  },
+  "pause_p90_s": {
+   "median": 0.19,
+   "per_video": [
+    0.19
+   ]
+  },
+  "pause_max_s": {
+   "median": 0.22,
+   "per_video": [
+    0.22
+   ]
+  },
+  "speech_run_median_s": {
+   "median": 1.12,
+   "per_video": [
+    1.12
+   ]
+  },
+  "pauses_share_of_runtime": {
+   "median": 0.01,
+   "per_video": [
+    0.014
+   ]
+  }
+ },
+ "camera": {
+  "face_height_share_median": {
+   "median": 0.37,
+   "per_video": [
+    0.372
+   ]
+  },
+  "face_centre_x": {
+   "median": 0.5,
+   "per_video": [
+    0.5
+   ]
+  },
+  "face_centre_y": {
+   "median": 0.38,
+   "per_video": [
+    0.38
+   ]
+  },
+  "punch_in_scale": {
+   "median": 1.18,
+   "per_video": [
+    1.181
+   ]
+  },
+  "punch_out_scale": {
+   "median": 0.87,
+   "per_video": [
+    0.869
+   ]
+  },
+  "face_size_changes_between_shots_share": {
+   "median": 0.66,
+   "per_video": [
+    0.66
+   ]
+  },
+  "face_size_step_median": {
+   "median": 1.13,
+   "per_video": [
+    1.134
+   ]
+  },
+  "eased_zooms_per_min": {
+   "median": 19.9,
+   "per_video": [
+    19.9
+   ]
+  },
+  "eased_zoom_factor": {
+   "median": 1.09,
+   "per_video": [
+    1.094
+   ]
+  },
+  "eased_zoom_dur_s": {
+   "median": 0.33,
+   "per_video": [
+    0.33
+   ]
+  },
+  "slow_push_pct_per_s": {
+   "median": 1.1,
+   "per_video": [
+    1.1
+   ]
+  }
+ },
+ "text": {
+  "big_text_per_min": {
+   "median": 30.6,
+   "per_video": [
+    30.6
+   ]
+  },
+  "on_screen_s": {
+   "median": 1.4,
+   "per_video": [
+    1.4
+   ]
+  },
+  "words": {
+   "median": 2.0,
+   "per_video": [
+    2.0
+   ]
+  },
+  "words_p90": {
+   "median": 7.0,
+   "per_video": [
+    7.0
+   ]
+  },
+  "height_share": {
+   "median": 0.05,
+   "per_video": [
+    0.049
+   ]
+  },
+  "repeats_spoken_words_share": {
+   "median": 0.35,
+   "per_video": [
+    0.35
+   ]
+  },
+  "appears_vs_word_s": {
+   "median": 0.35,
+   "per_video": [
+    0.35
+   ]
+  },
+  "built_on_share": {
+   "median": 0.2,
+   "per_video": [
+    0.2
+   ]
+  },
+  "position_grid_3x3_share": {
+   "per_video": [
+    [
+     [
+      0.07,
+      0.19,
+      0.05
+     ],
+     [
+      0.07,
+      0.25,
+      0.12
+     ],
+     [
+      0.07,
+      0.14,
+      0.04
+     ]
+    ]
+   ]
+  },
+  "colours": {
+   "per_video": [
+    [
+     {
+      "rgb12": "#555",
+      "share": 0.05
+     },
+     {
+      "rgb12": "#222",
+      "share": 0.04
+     },
+     {
+      "rgb12": "#888",
+      "share": 0.03
+     },
+     {
+      "rgb12": "#ddd",
+      "share": 0.03
+     },
+     {
+      "rgb12": "#bbb",
+      "share": 0.03
+     },
+     {
+      "rgb12": "#ccc",
+      "share": 0.03
+     }
+    ]
+   ]
+  }
+ },
+ "sound": {
+  "integrated_LUFS": {
+   "median": -18.0,
+   "per_video": [
+    -18.0
+   ]
+  },
+  "true_peak_dBTP": {
+   "median": -1.4,
+   "per_video": [
+    -1.4
+   ]
+  },
+  "LRA_LU": {
+   "median": 4.3,
+   "per_video": [
+    4.3
+   ]
+  },
+  "bed_rel_voice_dB": {
+   "median": -24.7,
+   "per_video": [
+    -24.7
+   ]
+  },
+  "bed_audible_share": {
+   "median": 0.98,
+   "per_video": [
+    0.98
+   ]
+  },
+  "bed_duck_dB": {
+   "median": 5.3,
+   "per_video": [
+    5.3
+   ]
+  },
+  "strong_sfx_per_min": {
+   "median": 26.1,
+   "per_video": [
+    26.1
+   ]
+  },
+  "strong_sfx_on_picture_event_share": {
+   "median": 0.37,
+   "per_video": [
+    0.37
+   ]
+  },
+  "strong_sfx_chance_share": {
+   "median": 0.18,
+   "per_video": [
+    0.18
+   ]
+  },
+  "strong_sfx_rel_voice_dB": {
+   "median": -7.8,
+   "per_video": [
+    -7.8
+   ]
+  },
+  "hard_cuts_with_sfx": {
+   "median": 0.44,
+   "per_video": [
+    0.44
+   ]
+  },
+  "transitions_with_sfx": {
+   "median": 0.22,
+   "per_video": [
+    0.22
+   ]
+  },
+  "pops_with_sfx": {
+   "median": 0.21,
+   "per_video": [
+    0.21
+   ]
+  },
+  "any_moment_with_sfx_chance": {
+   "median": 0.1,
+   "per_video": [
+    0.1
+   ]
+  }
+ },
+ "picture_share_of_runtime": {
+  "flat graphic": {
+   "median": 0.273,
+   "per_video": [
+    0.273
+   ]
+  },
+  "no face (b-roll / screen / graphic)": {
+   "median": 0.003,
+   "per_video": [
+    0.003
+   ]
+  },
+  "page with a face on it": {
+   "median": 0.288,
+   "per_video": [
+    0.288
+   ]
+  },
+  "small face (inset / wide shot)": {
+   "median": 0.03,
+   "per_video": [
+    0.03
+   ]
+  },
+  "speaker": {
+   "median": 0.407,
+   "per_video": [
+    0.407
+   ]
+  }
+ },
+ "face_time_by_camera_move": {
+  "eased zoom in": {
+   "median": 0.68,
+   "per_video": [
+    0.68
+   ]
+  },
+  "eased zoom out": {
+   "median": 0.12,
+   "per_video": [
+    0.12
+   ]
+  },
+  "pan/slide": {
+   "median": 0.04,
+   "per_video": [
+    0.04
+   ]
+  },
+  "slow pull out": {
+   "median": 0.0,
+   "per_video": [
+    0.0
+   ]
+  },
+  "slow push in": {
+   "median": 0.09,
+   "per_video": [
+    0.09
+   ]
+  },
+  "static": {
+   "median": 0.06,
+   "per_video": [
+    0.06
+   ]
+  }
+ }
+}

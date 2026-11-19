@@ -1,0 +1,45 @@
+{
+ "about": "Everything a video editor asks before touching a timeline. tools/memory.py stores the answers in memory/brand.json so they are asked once, not every video. 'per_video': true means ask again each time.",
+ "questions": [
+  {"id": "brand.name", "group": "Brand", "q": "What is the channel or brand name, and the handle to show on screen?"},
+  {"id": "brand.logo", "group": "Brand", "q": "Where are the logo files (path to SVG or PNG, light and dark versions)?", "optional": true},
+  {"id": "brand.colors", "group": "Brand", "q": "Brand colours as hex: background, surface, primary text, accent, second accent. Or say 'take them from my old videos' and give the files.", "shape": {"background": "#", "surface": "#", "text": "#", "accent": "#", "accent2": "#"}},
+  {"id": "brand.fonts", "group": "Brand", "q": "Fonts: one for headings, one for body, one for captions. Free fonts only (Google Fonts or files you own).", "shape": {"heading": "", "body": "", "caption": ""}},
+  {"id": "brand.graphics_mode", "group": "Brand", "q": "Are your graphics light (white cards and canvases) or dark?", "options": ["light", "dark", "both"]},
+
+  {"id": "format.aspect", "group": "Format", "q": "Aspect ratio and size?", "options": ["16:9 1920x1080", "16:9 3840x2160", "9:16 1080x1920"]},
+  {"id": "format.fps", "group": "Format", "q": "Frame rate to deliver?", "options": ["24", "25", "30", "60", "same as source"]},
+  {"id": "format.platform", "group": "Format", "q": "Where does it go (YouTube long form, Shorts, Reels, course)?"},
+
+  {"id": "footage.graded", "group": "Footage", "q": "Is the footage already colour graded? This skill never grades; grading happens before the edit.", "options": ["yes", "no - I will grade first"], "per_video": true},
+  {"id": "footage.source_resolution", "group": "Footage", "q": "What resolution was the camera footage shot in? (4K source on a 1080p timeline allows 2x punch-ins without softness.)"},
+  {"id": "footage.cameras", "group": "Footage", "q": "One camera or several angles? If several, how are they synced?", "options": ["one camera", "two angles", "more"]},
+  {"id": "footage.extras", "group": "Footage", "q": "Do you supply screen recordings, b-roll or screenshots, and where are they? May the editor use free stock or screenshots of pages you mention?", "per_video": true},
+
+  {"id": "cut.pace", "group": "Cut", "q": "How tight should the cut be?", "options": ["very tight - no visible pauses", "tight - short breaths between sentences", "natural - keep thinking pauses"]},
+  {"id": "cut.fillers", "group": "Cut", "q": "Remove every filler word (um, uh, like, you know) or only the distracting ones?", "options": ["all", "only distracting ones", "leave them"]},
+  {"id": "cut.retakes", "group": "Cut", "q": "When a line was said more than once, keep the last take unless told otherwise?", "options": ["keep last take", "ask me each time"]},
+  {"id": "cut.keep", "group": "Cut", "q": "Anything that must never be cut (jokes, tangents, sponsor reads, disclaimers)?", "optional": true},
+
+  {"id": "camera.motion", "group": "Camera", "q": "How much camera movement on the talking head?", "options": ["always moving - slow push on every shot plus punch-ins", "punch-ins on emphasis only", "minimal"]},
+  {"id": "camera.max_zoom", "group": "Camera", "q": "Largest punch-in allowed (for example 1.3 = 130 %)?"},
+
+  {"id": "graphics.style", "group": "Motion graphics", "q": "What kind of motion graphics do you use?", "options": ["clean flat 2D UI style", "kinetic typography", "glass / gradient / soft shadow", "hand drawn / paper / collage", "3D objects", "mixed - follow my references"]},
+  {"id": "graphics.three_d", "group": "Motion graphics", "q": "Do you use 3D?", "options": ["no", "sometimes, for hero moments", "yes, as the main look"]},
+  {"id": "graphics.layout", "group": "Motion graphics", "q": "Where do graphics sit?", "options": ["full screen, replacing the speaker", "beside or over the speaker", "both, depending on the point"]},
+  {"id": "graphics.density", "group": "Motion graphics", "q": "How often? (roughly how many seconds of pure talking head before something appears)"},
+  {"id": "graphics.avoid", "group": "Motion graphics", "q": "Anything you never want (memes, stock footage, emojis, AI images, particular colours)?", "optional": true},
+
+  {"id": "captions.mode", "group": "Captions", "q": "Captions?", "options": ["none - YouTube captions only", "key phrases only", "always on, word by word", "always on, full line"]},
+  {"id": "captions.style", "group": "Captions", "q": "If captions are on: position, upper or lower case, highlight colour for the active or key word?", "optional": true},
+
+  {"id": "audio.music", "group": "Sound", "q": "Background music?", "options": ["none", "quiet bed all the way through", "only under intros, graphics and transitions"]},
+  {"id": "audio.music_mood", "group": "Sound", "q": "What mood or genre, or a track you already use? (Free libraries only unless you supply the file.)", "optional": true},
+  {"id": "audio.sfx", "group": "Sound", "q": "Sound effects?", "options": ["none", "subtle - soft clicks and whooshes on graphics", "punchy - every cut and pop is heard"]},
+  {"id": "audio.loudness", "group": "Sound", "q": "Loudness target (YouTube normalises to -14 LUFS)?", "default": "-14 LUFS, true peak -1 dBTP"},
+
+  {"id": "recurring.elements", "group": "Recurring", "q": "Recurring pieces: intro sting, lower third with your name, chapter title cards, subscribe prompt, end screen. Which do you want and do you have assets?", "optional": true},
+  {"id": "references.style", "group": "References", "q": "Which saved style should this follow (see memory/styles), or do you have new reference videos or old videos of your own to learn from?"},
+  {"id": "references.never", "group": "References", "q": "Three things you have hated in past edits?", "optional": true}
+ ]
+}

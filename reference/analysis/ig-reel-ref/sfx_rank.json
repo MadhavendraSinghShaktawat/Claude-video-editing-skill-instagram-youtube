@@ -1,0 +1,106 @@
+{
+ "sub": [
+  {
+   "path": "assets/sfx/earshot-bank/pro_sub_drop__low.ogg",
+   "text_z": 2.39,
+   "ref_z": 1.51,
+   "score": 3.9
+  },
+  {
+   "path": "assets/sfx/earshot-bank/pro_sub_drop__bright.ogg",
+   "text_z": 1.91,
+   "ref_z": 1.77,
+   "score": 3.68
+  },
+  {
+   "path": "assets/sfx/kenney-ui-audio/rollover6.ogg",
+   "text_z": 1.66,
+   "ref_z": 1.88,
+   "score": 3.55
+  },
+  {
+   "path": "assets/sfx/earshot-bank/pro_sub_drop__soft.ogg",
+   "text_z": 2.9,
+   "ref_z": 0.47,
+   "score": 3.38
+  }
+ ],
+ "whoosh": [
+  {
+   "path": "assets/sfx/earshot-bank/pro_glitch__fastroll.ogg",
+   "text_z": 1.25,
+   "ref_z": 3.05,
+   "score": 4.3
+  },
+  {
+   "path": "assets/sfx/earshot-bank/swish__stick.ogg",
+   "text_z": 3.33,
+   "ref_z": 0.71,
+   "score": 4.04
+  },
+  {
+   "path": "assets/sfx/earshot-bank/whoosh_fast__whistle.ogg",
+   "text_z": 3.15,
+   "ref_z": 0.71,
+   "score": 3.86
+  },
+  {
+   "path": "assets/sfx/earshot-bank/pro_riser__air_gate.ogg",
+   "text_z": 0.88,
+   "ref_z": 2.97,
+   "score": 3.85
+  }
+ ],
+ "ding": [
+  {
+   "path": "assets/sfx/earshot-bank/pro_shimmer__m2.ogg",
+   "text_z": 2.6,
+   "ref_z": 2.98,
+   "score": 5.58
+  },
+  {
+   "path": "assets/sfx/kenney-interface-sounds/confirmation_001.ogg",
+   "text_z": 1.88,
+   "ref_z": 2.55,
+   "score": 4.43
+  },
+  {
+   "path": "assets/sfx/kenney-interface-sounds/question_003.ogg",
+   "text_z": 2.05,
+   "ref_z": 2.37,
+   "score": 4.41
+  },
+  {
+   "path": "assets/sfx/kenney-interface-sounds/maximize_007.ogg",
+   "text_z": 1.87,
+   "ref_z": 2.51,
+   "score": 4.38
+  }
+ ],
+ "click": [
+  {
+   "path": "assets/sfx/earshot-bank/pro_typing_key__glass.ogg",
+   "text_z": 1.94,
+   "ref_z": 2.98,
+   "score": 4.92
+  },
+  {
+   "path": "assets/sfx/earshot-bank/pro_typing_run__standard.ogg",
+   "text_z": 2.04,
+   "ref_z": 2.77,
+   "score": 4.81
+  },
+  {
+   "path": "assets/sfx/kenney-ui-audio/click1.ogg",
+   "text_z": 2.33,
+   "ref_z": 2.33,
+   "score": 4.66
+  },
+  {
+   "path": "assets/sfx/earshot-bank/pro_typing_key__blip.ogg",
+   "text_z": 1.76,
+   "ref_z": 2.74,
+   "score": 4.5
+  }
+ ]
+}

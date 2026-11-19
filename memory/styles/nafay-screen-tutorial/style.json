@@ -1,0 +1,469 @@
+{
+ "name": "nafay-screen-tutorial",
+ "description": "Designed 22 s intro, then an untreated full-frame screen recording with waiting cut out (Nafay 3D)",
+ "made": "2026-11-15",
+ "sources": [
+  {
+   "dir": "reference/analysis/nafay-faceless-shorts",
+   "video": "nafay-faceless-shorts.mp4",
+   "title": "I Found a way To Make Faceless YouTube Shorts for free (No subscription)",
+   "channel": "Nafay 3D",
+   "duration_s": 672.633
+  }
+ ],
+ "cut": {
+  "cuts_per_min": {
+   "median": 6.1,
+   "per_video": [
+    6.1
+   ]
+  },
+  "hard_per_min": {
+   "median": 2.3,
+   "per_video": [
+    2.3
+   ]
+  },
+  "jump_per_min": {
+   "median": 1.2,
+   "per_video": [
+    1.2
+   ]
+  },
+  "punch_per_min": {
+   "median": 0.1,
+   "per_video": [
+    0.1
+   ]
+  },
+  "pop_per_min": {
+   "median": 1.8,
+   "per_video": [
+    1.8
+   ]
+  },
+  "transition_per_min": {
+   "median": 0.6,
+   "per_video": [
+    0.6
+   ]
+  },
+  "shot_len_median_s": {
+   "median": 4.97,
+   "per_video": [
+    4.97
+   ]
+  },
+  "shot_len_p90_s": {
+   "median": 21.98,
+   "per_video": [
+    21.98
+   ]
+  },
+  "picture_change_every_median_s": {
+   "median": 9.23,
+   "per_video": [
+    9.23
+   ]
+  },
+  "picture_change_every_p90_s": {
+   "median": 45.78,
+   "per_video": [
+    45.78
+   ]
+  },
+  "longest_without_picture_change_s": {
+   "median": 121.6,
+   "per_video": [
+    121.6
+   ]
+  },
+  "transition_len_median_s": {
+   "median": 0.38,
+   "per_video": [
+    0.38
+   ]
+  },
+  "same_picture_cuts_inside_voice_pause": {
+   "median": 0.13,
+   "per_video": [
+    0.13
+   ]
+  },
+  "picture_changes_inside_voice_pause": {
+   "median": 0.18,
+   "per_video": [
+    0.18
+   ]
+  },
+  "chance_inside_voice_pause": {
+   "median": 0.14,
+   "per_video": [
+    0.14
+   ]
+  },
+  "picture_changes_after_sentence_end": {
+   "median": 0.15,
+   "per_video": [
+    0.15
+   ]
+  }
+ },
+ "speech": {
+  "wpm": {
+   "median": 76.9,
+   "per_video": [
+    76.9
+   ]
+  },
+  "wpm_while_speaking": {
+   "median": 88.8,
+   "per_video": [
+    88.8
+   ]
+  },
+  "voice_active_share": {
+   "median": 0.87,
+   "per_video": [
+    0.866
+   ]
+  },
+  "pauses_per_min": {
+   "median": 20.4,
+   "per_video": [
+    20.4
+   ]
+  },
+  "pause_median_s": {
+   "median": 0.33,
+   "per_video": [
+    0.33
+   ]
+  },
+  "pause_p90_s": {
+   "median": 0.43,
+   "per_video": [
+    0.43
+   ]
+  },
+  "pause_max_s": {
+   "median": 0.89,
+   "per_video": [
+    0.89
+   ]
+  },
+  "speech_run_median_s": {
+   "median": 0.92,
+   "per_video": [
+    0.92
+   ]
+  },
+  "pauses_share_of_runtime": {
+   "median": 0.11,
+   "per_video": [
+    0.11
+   ]
+  }
+ },
+ "camera": {
+  "face_height_share_median": {
+   "median": 0.41,
+   "per_video": [
+    0.41
+   ]
+  },
+  "face_centre_x": {
+   "median": 0.53,
+   "per_video": [
+    0.53
+   ]
+  },
+  "face_centre_y": {
+   "median": 0.4,
+   "per_video": [
+    0.4
+   ]
+  },
+  "punch_in_scale": {
+   "median": null,
+   "per_video": [
+    null
+   ]
+  },
+  "punch_out_scale": {
+   "median": 0.98,
+   "per_video": [
+    0.977
+   ]
+  },
+  "face_size_changes_between_shots_share": {
+   "median": 1.0,
+   "per_video": [
+    1.0
+   ]
+  },
+  "face_size_step_median": {
+   "median": 1.92,
+   "per_video": [
+    1.921
+   ]
+  },
+  "eased_zooms_per_min": {
+   "median": 2.1,
+   "per_video": [
+    2.1
+   ]
+  },
+  "eased_zoom_factor": {
+   "median": 1.17,
+   "per_video": [
+    1.172
+   ]
+  },
+  "eased_zoom_dur_s": {
+   "median": 0.28,
+   "per_video": [
+    0.28
+   ]
+  },
+  "slow_push_pct_per_s": {
+   "median": null,
+   "per_video": [
+    null
+   ]
+  }
+ },
+ "text": {
+  "big_text_per_min": {
+   "median": 1.2,
+   "per_video": [
+    1.2
+   ]
+  },
+  "on_screen_s": {
+   "median": 2.3,
+   "per_video": [
+    2.3
+   ]
+  },
+  "words": {
+   "median": 2.0,
+   "per_video": [
+    2.0
+   ]
+  },
+  "words_p90": {
+   "median": 3.0,
+   "per_video": [
+    3.0
+   ]
+  },
+  "height_share": {
+   "median": 0.05,
+   "per_video": [
+    0.05
+   ]
+  },
+  "repeats_spoken_words_share": {
+   "median": 0.38,
+   "per_video": [
+    0.38
+   ]
+  },
+  "appears_vs_word_s": {
+   "median": 0.29,
+   "per_video": [
+    0.29
+   ]
+  },
+  "built_on_share": {
+   "median": 0.15,
+   "per_video": [
+    0.15
+   ]
+  },
+  "position_grid_3x3_share": {
+   "per_video": [
+    [
+     [
+      0.0,
+      0.38,
+      0.0
+     ],
+     [
+      0.23,
+      0.0,
+      0.0
+     ],
+     [
+      0.0,
+      0.38,
+      0.0
+     ]
+    ]
+   ]
+  },
+  "colours": {
+   "per_video": [
+    [
+     {
+      "rgb12": "#111",
+      "share": 0.15
+     },
+     {
+      "rgb12": "#333",
+      "share": 0.15
+     },
+     {
+      "rgb12": "#ccc",
+      "share": 0.15
+     },
+     {
+      "rgb12": "#bbb",
+      "share": 0.08
+     },
+     {
+      "rgb12": "#888",
+      "share": 0.08
+     },
+     {
+      "rgb12": "#e88",
+      "share": 0.08
+     }
+    ]
+   ]
+  }
+ },
+ "sound": {
+  "integrated_LUFS": {
+   "median": -18.5,
+   "per_video": [
+    -18.5
+   ]
+  },
+  "true_peak_dBTP": {
+   "median": 0.0,
+   "per_video": [
+    0.0
+   ]
+  },
+  "LRA_LU": {
+   "median": 4.7,
+   "per_video": [
+    4.7
+   ]
+  },
+  "bed_rel_voice_dB": {
+   "median": -48.9,
+   "per_video": [
+    -48.9
+   ]
+  },
+  "bed_audible_share": {
+   "median": 0.05,
+   "per_video": [
+    0.05
+   ]
+  },
+  "bed_duck_dB": {
+   "median": -18.9,
+   "per_video": [
+    -18.9
+   ]
+  },
+  "strong_sfx_per_min": {
+   "median": 0.3,
+   "per_video": [
+    0.3
+   ]
+  },
+  "strong_sfx_on_picture_event_share": {
+   "median": 0.33,
+   "per_video": [
+    0.33
+   ]
+  },
+  "strong_sfx_chance_share": {
+   "median": 0.25,
+   "per_video": [
+    0.25
+   ]
+  },
+  "strong_sfx_rel_voice_dB": {
+   "median": -12.1,
+   "per_video": [
+    -12.1
+   ]
+  },
+  "hard_cuts_with_sfx": {
+   "median": 0.0,
+   "per_video": [
+    0.0
+   ]
+  },
+  "transitions_with_sfx": {
+   "median": 0.0,
+   "per_video": [
+    0.0
+   ]
+  },
+  "pops_with_sfx": {
+   "median": 0.0,
+   "per_video": [
+    0.0
+   ]
+  },
+  "any_moment_with_sfx_chance": {
+   "median": 0.0,
+   "per_video": [
+    0.0
+   ]
+  }
+ },
+ "picture_share_of_runtime": {
+  "flat graphic": {
+   "median": 0.782,
+   "per_video": [
+    0.782
+   ]
+  },
+  "no face (b-roll / screen / graphic)": {
+   "median": 0.114,
+   "per_video": [
+    0.114
+   ]
+  },
+  "page with a face on it": {
+   "median": 0.049,
+   "per_video": [
+    0.049
+   ]
+  },
+  "small face (inset / wide shot)": {
+   "median": 0.042,
+   "per_video": [
+    0.042
+   ]
+  },
+  "speaker": {
+   "median": 0.014,
+   "per_video": [
+    0.014
+   ]
+  }
+ },
+ "face_time_by_camera_move": {
+  "eased zoom in": {
+   "median": 0.16,
+   "per_video": [
+    0.16
+   ]
+  },
+  "eased zoom out": {
+   "median": 0.84,
+   "per_video": [
+    0.84
+   ]
+  }
+ }
+}

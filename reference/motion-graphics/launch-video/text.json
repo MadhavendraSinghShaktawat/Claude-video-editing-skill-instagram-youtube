@@ -1,0 +1,1365 @@
+{
+ "video": "launch-video.mp4",
+ "sample_fps": 5.0,
+ "samples": 174,
+ "tracks": [
+  {
+   "text": "Video Created by",
+   "t0": 0.0,
+   "t1": 34.8,
+   "dur": 34.8,
+   "box": [
+    0.43,
+    0.738,
+    0.561,
+    0.753
+   ],
+   "h": 0.017,
+   "conf": 0.94,
+   "text_colour": "#6d7374",
+   "bg_colour": "#161c1c",
+   "grew": false
+  },
+  {
+   "text": "Bijoy Chandra",
+   "t0": 0.0,
+   "t1": 34.8,
+   "dur": 34.8,
+   "box": [
+    0.426,
+    0.751,
+    0.6,
+    0.772
+   ],
+   "h": 0.021,
+   "conf": 0.92,
+   "text_colour": "#d4dadd",
+   "bg_colour": "#181e20",
+   "grew": false
+  },
+  {
+   "text": "This Video",
+   "t0": 0.8,
+   "t1": 2.2,
+   "dur": 1.4,
+   "box": [
+    0.298,
+    0.465,
+    0.415,
+    0.48
+   ],
+   "h": 0.02,
+   "conf": 0.89,
+   "text_colour": "#5a7a00",
+   "bg_colour": "#d2fc3d",
+   "grew": false
+  },
+  {
+   "text": "Exactly",
+   "t0": 1.4,
+   "t1": 2.2,
+   "dur": 0.8,
+   "box": [
+    0.615,
+    0.539,
+    0.687,
+    0.551
+   ],
+   "h": 0.016,
+   "conf": 0.87,
+   "text_colour": "#698d07",
+   "bg_colour": "#d2fb3d",
+   "grew": false
+  },
+  {
+   "text": "Why that is happening",
+   "t0": 2.2,
+   "t1": 3.4,
+   "dur": 1.2,
+   "box": [
+    0.213,
+    0.46,
+    0.783,
+    0.494
+   ],
+   "h": 0.034,
+   "conf": 0.9,
+   "text_colour": "#d7f57b",
+   "bg_colour": "#f5fdc1",
+   "grew": true,
+   "first_text": "Why"
+  },
+  {
+   "text": "Importantly",
+   "t0": 3.4,
+   "t1": 8.2,
+   "dur": 4.8,
+   "box": [
+    0.426,
+    0.548,
+    0.57,
+    0.566
+   ],
+   "h": 0.019,
+   "conf": 0.91,
+   "text_colour": "#d3e590",
+   "bg_colour": "#f2fbda",
+   "grew": true,
+   "first_text": "portan"
+  },
+  {
+   "text": "Howyoucan acti",
+   "t0": 3.8,
+   "t1": 4.0,
+   "dur": 0.2,
+   "box": [
+    0.322,
+    0.58,
+    0.53,
+    0.599
+   ],
+   "h": 0.019,
+   "conf": 0.82,
+   "text_colour": "#6c812d",
+   "bg_colour": "#526226",
+   "grew": false
+  },
+  {
+   "text": "How you can actually get rich",
+   "t0": 4.0,
+   "t1": 8.0,
+   "dur": 4.0,
+   "box": [
+    0.322,
+    0.578,
+    0.68,
+    0.596
+   ],
+   "h": 0.021,
+   "conf": 0.91,
+   "text_colour": "#859d36",
+   "bg_colour": "#62752a",
+   "grew": false
+  },
+  {
+   "text": "with an + Al agency",
+   "t0": 4.2,
+   "t1": 8.0,
+   "dur": 3.8,
+   "box": [
+    0.38,
+    0.593,
+    0.619,
+    0.613
+   ],
+   "h": 0.023,
+   "conf": 0.9,
+   "text_colour": "#accb3f",
+   "bg_colour": "#8fac34",
+   "grew": false
+  },
+  {
+   "text": "20",
+   "t0": 6.8,
+   "t1": 7.4,
+   "dur": 0.6,
+   "box": [
+    0.17,
+    0.356,
+    0.454,
+    0.506
+   ],
+   "h": 0.16,
+   "conf": 0.63,
+   "text_colour": "#5d5943",
+   "bg_colour": "#c8ee5f",
+   "grew": false
+  },
+  {
+   "text": "26",
+   "t0": 7.0,
+   "t1": 7.6,
+   "dur": 0.6,
+   "box": [
+    0.544,
+    0.358,
+    0.878,
+    0.515
+   ],
+   "h": 0.181,
+   "conf": 0.66,
+   "text_colour": "#c8e85b",
+   "bg_colour": "#574c42",
+   "grew": false
+  },
+  {
+   "text": "20",
+   "t0": 7.8,
+   "t1": 8.2,
+   "dur": 0.4,
+   "box": [
+    0.157,
+    0.353,
+    0.635,
+    0.515
+   ],
+   "h": 0.161,
+   "conf": 0.64,
+   "text_colour": "#675844",
+   "bg_colour": "#c8d966",
+   "grew": false
+  },
+  {
+   "text": "26",
+   "t0": 8.0,
+   "t1": 8.2,
+   "dur": 0.2,
+   "box": [
+    0.543,
+    0.358,
+    0.874,
+    0.508
+   ],
+   "h": 0.15,
+   "conf": 0.65,
+   "text_colour": "#5f5146",
+   "bg_colour": "#c8ee46",
+   "grew": false
+  },
+  {
+   "text": "Howvcucana",
+   "t0": 8.0,
+   "t1": 8.2,
+   "dur": 0.2,
+   "box": [
+    0.304,
+    0.578,
+    0.489,
+    0.596
+   ],
+   "h": 0.018,
+   "conf": 0.62,
+   "text_colour": "#97b050",
+   "bg_colour": "#778c34",
+   "grew": false
+  },
+  {
+   "text": "Breakthrough",
+   "t0": 10.0,
+   "t1": 10.6,
+   "dur": 0.6,
+   "box": [
+    0.246,
+    0.451,
+    0.75,
+    0.499
+   ],
+   "h": 0.083,
+   "conf": 0.88,
+   "text_colour": "#697e1c",
+   "bg_colour": "#d2f561",
+   "grew": false
+  },
+  {
+   "text": "7.17",
+   "t0": 13.4,
+   "t1": 13.6,
+   "dur": 0.2,
+   "box": [
+    0.819,
+    0.518,
+    0.896,
+    0.54
+   ],
+   "h": 0.022,
+   "conf": 0.67,
+   "text_colour": "#758b27",
+   "bg_colour": "#9bb643",
+   "grew": false
+  },
+  {
+   "text": "permonth",
+   "t0": 13.4,
+   "t1": 14.4,
+   "dur": 1.0,
+   "box": [
+    0.802,
+    0.542,
+    0.924,
+    0.56
+   ],
+   "h": 0.02,
+   "conf": 0.83,
+   "text_colour": "#b9cc7b",
+   "bg_colour": "#7c8c3f",
+   "grew": false
+  },
+  {
+   "text": "$9,9",
+   "t0": 13.6,
+   "t1": 13.8,
+   "dur": 0.2,
+   "box": [
+    0.776,
+    0.515,
+    0.891,
+    0.545
+   ],
+   "h": 0.03,
+   "conf": 0.6,
+   "text_colour": "#3b4c0b",
+   "bg_colour": "#91a945",
+   "grew": false
+  },
+  {
+   "text": "permonth",
+   "t0": 14.4,
+   "t1": 15.0,
+   "dur": 0.6,
+   "box": [
+    0.072,
+    0.541,
+    0.196,
+    0.558
+   ],
+   "h": 0.019,
+   "conf": 0.83,
+   "text_colour": "#7e8f7e",
+   "bg_colour": "#d4e2dd",
+   "grew": false
+  },
+  {
+   "text": "$49,92",
+   "t0": 14.6,
+   "t1": 14.8,
+   "dur": 0.2,
+   "box": [
+    0.028,
+    0.512,
+    0.206,
+    0.543
+   ],
+   "h": 0.03,
+   "conf": 0.72,
+   "text_colour": "#596d20",
+   "bg_colour": "#c2da60",
+   "grew": false
+  },
+  {
+   "text": "$50,000",
+   "t0": 14.8,
+   "t1": 15.0,
+   "dur": 0.2,
+   "box": [
+    0.028,
+    0.512,
+    0.239,
+    0.543
+   ],
+   "h": 0.03,
+   "conf": 0.73,
+   "text_colour": "#293d06",
+   "bg_colour": "#c5e167",
+   "grew": false
+  },
+  {
+   "text": "$86.629",
+   "t0": 15.4,
+   "t1": 15.6,
+   "dur": 0.2,
+   "box": [
+    0.681,
+    0.382,
+    0.937,
+    0.421
+   ],
+   "h": 0.039,
+   "conf": 0.67,
+   "text_colour": "#576820",
+   "bg_colour": "#afc364",
+   "grew": false
+  },
+  {
+   "text": "permonth",
+   "t0": 15.4,
+   "t1": 16.2,
+   "dur": 0.8,
+   "box": [
+    0.776,
+    0.412,
+    0.898,
+    0.43
+   ],
+   "h": 0.018,
+   "conf": 0.88,
+   "text_colour": "#6d8127",
+   "bg_colour": "#adc25f",
+   "grew": false
+  },
+  {
+   "text": "$100,000",
+   "t0": 15.6,
+   "t1": 16.2,
+   "dur": 0.6,
+   "box": [
+    0.724,
+    0.388,
+    0.946,
+    0.414
+   ],
+   "h": 0.026,
+   "conf": 0.8,
+   "text_colour": "#303e09",
+   "bg_colour": "#b4c567",
+   "grew": false
+  },
+  {
+   "text": "009others",
+   "t0": 16.2,
+   "t1": 18.4,
+   "dur": 2.2,
+   "box": [
+    0.437,
+    0.548,
+    0.589,
+    0.566
+   ],
+   "h": 0.018,
+   "conf": 0.82,
+   "text_colour": "#414b13",
+   "bg_colour": "#cbee4a",
+   "grew": false
+  },
+  {
+   "text": "Can't even get",
+   "t0": 16.2,
+   "t1": 18.4,
+   "dur": 2.2,
+   "box": [
+    0.415,
+    0.58,
+    0.589,
+    0.595
+   ],
+   "h": 0.022,
+   "conf": 0.88,
+   "text_colour": "#758830",
+   "bg_colour": "#596b26",
+   "grew": true,
+   "first_text": "Can't eveng"
+  },
+  {
+   "text": "their first client?",
+   "t0": 16.4,
+   "t1": 18.4,
+   "dur": 2.0,
+   "box": [
+    0.4,
+    0.597,
+    0.6,
+    0.613
+   ],
+   "h": 0.02,
+   "conf": 0.92,
+   "text_colour": "#748c27",
+   "bg_colour": "#859f31",
+   "grew": true,
+   "first_text": "their fir"
+  },
+  {
+   "text": "actually",
+   "t0": 21.2,
+   "t1": 21.4,
+   "dur": 0.2,
+   "box": [
+    0.4,
+    0.506,
+    0.498,
+    0.55
+   ],
+   "h": 0.044,
+   "conf": 0.77,
+   "text_colour": "#d3fc42",
+   "bg_colour": "#13161a",
+   "grew": false
+  },
+  {
+   "text": "not",
+   "t0": 21.8,
+   "t1": 22.0,
+   "dur": 0.2,
+   "box": [
+    0.198,
+    0.458,
+    0.328,
+    0.497
+   ],
+   "h": 0.039,
+   "conf": 0.75,
+   "text_colour": "#203408",
+   "bg_colour": "#c9ee44",
+   "grew": false
+  },
+  {
+   "text": "abol",
+   "t0": 21.8,
+   "t1": 22.0,
+   "dur": 0.2,
+   "box": [
+    0.646,
+    0.456,
+    0.811,
+    0.497
+   ],
+   "h": 0.041,
+   "conf": 0.72,
+   "text_colour": "#233406",
+   "bg_colour": "#c8ee46",
+   "grew": false
+  },
+  {
+   "text": "bout",
+   "t0": 22.0,
+   "t1": 22.2,
+   "dur": 0.2,
+   "box": [
+    0.0,
+    0.457,
+    0.183,
+    0.497
+   ],
+   "h": 0.04,
+   "conf": 0.76,
+   "text_colour": "#223106",
+   "bg_colour": "#c8ee44",
+   "grew": false
+  },
+  {
+   "text": "the",
+   "t0": 22.0,
+   "t1": 22.2,
+   "dur": 0.2,
+   "box": [
+    0.426,
+    0.455,
+    0.556,
+    0.497
+   ],
+   "h": 0.042,
+   "conf": 0.73,
+   "text_colour": "#233403",
+   "bg_colour": "#c8ee44",
+   "grew": false
+  },
+  {
+   "text": "the",
+   "t0": 22.2,
+   "t1": 22.4,
+   "dur": 0.2,
+   "box": [
+    0.113,
+    0.455,
+    0.243,
+    0.497
+   ],
+   "h": 0.042,
+   "conf": 0.75,
+   "text_colour": "#233109",
+   "bg_colour": "#c8ee44",
+   "grew": false
+  },
+  {
+   "text": "opportunity",
+   "t0": 22.2,
+   "t1": 22.4,
+   "dur": 0.2,
+   "box": [
+    0.354,
+    0.46,
+    0.769,
+    0.499
+   ],
+   "h": 0.039,
+   "conf": 0.9,
+   "text_colour": "#233105",
+   "bg_colour": "#c8ee44",
+   "grew": false
+  },
+  {
+   "text": "opportunity",
+   "t0": 22.4,
+   "t1": 22.8,
+   "dur": 0.4,
+   "box": [
+    0.083,
+    0.458,
+    0.5,
+    0.499
+   ],
+   "h": 0.041,
+   "conf": 0.88,
+   "text_colour": "#233103",
+   "bg_colour": "#c8ee44",
+   "grew": false
+  },
+  {
+   "text": "anymore",
+   "t0": 22.6,
+   "t1": 22.8,
+   "dur": 0.2,
+   "box": [
+    0.493,
+    0.464,
+    0.789,
+    0.497
+   ],
+   "h": 0.033,
+   "conf": 0.79,
+   "text_colour": "#233403",
+   "bg_colour": "#c9ee45",
+   "grew": false
+  },
+  {
+   "text": "anymore",
+   "t0": 22.8,
+   "t1": 23.6,
+   "dur": 0.8,
+   "box": [
+    0.339,
+    0.442,
+    0.646,
+    0.475
+   ],
+   "h": 0.035,
+   "conf": 0.87,
+   "text_colour": "#253302",
+   "bg_colour": "#c8ee45",
+   "grew": false
+  },
+  {
+   "text": "It'sabout",
+   "t0": 23.6,
+   "t1": 23.8,
+   "dur": 0.2,
+   "box": [
+    0.059,
+    0.467,
+    0.915,
+    0.592
+   ],
+   "h": 0.125,
+   "conf": 0.8,
+   "text_colour": "#d7f46f",
+   "bg_colour": "#f3fccc",
+   "grew": false
+  },
+  {
+   "text": "It's abou",
+   "t0": 23.6,
+   "t1": 25.2,
+   "dur": 1.6,
+   "box": [
+    0.072,
+    0.324,
+    0.978,
+    0.423
+   ],
+   "h": 0.122,
+   "conf": 0.81,
+   "text_colour": "#dbf47a",
+   "bg_colour": "#f0fbc2",
+   "grew": false
+  },
+  {
+   "text": "it Focus",
+   "t0": 23.8,
+   "t1": 24.0,
+   "dur": 0.2,
+   "box": [
+    0.02,
+    0.483,
+    0.874,
+    0.607
+   ],
+   "h": 0.124,
+   "conf": 0.77,
+   "text_colour": "#3f4822",
+   "bg_colour": "#f4fdd2",
+   "grew": false
+  },
+  {
+   "text": "It Focus It",
+   "t0": 24.0,
+   "t1": 25.2,
+   "dur": 1.2,
+   "box": [
+    0.0,
+    0.427,
+    0.998,
+    0.536
+   ],
+   "h": 0.145,
+   "conf": 0.87,
+   "text_colour": "#29330c",
+   "bg_colour": "#f5fdd4",
+   "grew": true,
+   "first_text": "t Focus"
+  },
+  {
+   "text": "about F",
+   "t0": 25.0,
+   "t1": 25.2,
+   "dur": 0.2,
+   "box": [
+    0.074,
+    0.54,
+    0.896,
+    0.642
+   ],
+   "h": 0.102,
+   "conf": 0.78,
+   "text_colour": "#0b0b0c",
+   "bg_colour": "#f4fcd2",
+   "grew": false
+  },
+  {
+   "text": "Most",
+   "t0": 26.2,
+   "t1": 26.4,
+   "dur": 0.2,
+   "box": [
+    0.359,
+    0.444,
+    0.702,
+    0.507
+   ],
+   "h": 0.064,
+   "conf": 0.68,
+   "text_colour": "#575e3b",
+   "bg_colour": "#f2fbd1",
+   "grew": false
+  },
+  {
+   "text": "Most pcople",
+   "t0": 26.4,
+   "t1": 27.2,
+   "dur": 0.8,
+   "box": [
+    0.057,
+    0.442,
+    0.876,
+    0.514
+   ],
+   "h": 0.079,
+   "conf": 0.87,
+   "text_colour": "#627422",
+   "bg_colour": "#f3fdcd",
+   "grew": false
+  },
+  {
+   "text": "One",
+   "t0": 27.2,
+   "t1": 27.4,
+   "dur": 0.2,
+   "box": [
+    0.624,
+    0.432,
+    0.965,
+    0.517
+   ],
+   "h": 0.084,
+   "conf": 0.75,
+   "text_colour": "#5d663e",
+   "bg_colour": "#f3fccc",
+   "grew": false
+  },
+  {
+   "text": "thing",
+   "t0": 27.4,
+   "t1": 28.0,
+   "dur": 0.6,
+   "box": [
+    0.443,
+    0.422,
+    0.889,
+    0.533
+   ],
+   "h": 0.111,
+   "conf": 0.77,
+   "text_colour": "#414c14",
+   "bg_colour": "#f0fccd",
+   "grew": false
+  },
+  {
+   "text": "One",
+   "t0": 27.4,
+   "t1": 28.2,
+   "dur": 0.8,
+   "box": [
+    0.061,
+    0.433,
+    0.394,
+    0.518
+   ],
+   "h": 0.084,
+   "conf": 0.74,
+   "text_colour": "#414c19",
+   "bg_colour": "#f2fbc4",
+   "grew": false
+  },
+  {
+   "text": "*Crypto",
+   "t0": 27.6,
+   "t1": 27.8,
+   "dur": 0.2,
+   "box": [
+    0.704,
+    0.367,
+    0.88,
+    0.394
+   ],
+   "h": 0.027,
+   "conf": 0.87,
+   "text_colour": "#bdd354",
+   "bg_colour": "#283109",
+   "grew": false
+  },
+  {
+   "text": "米AmazonFBA",
+   "t0": 27.6,
+   "t1": 27.8,
+   "dur": 0.2,
+   "box": [
+    0.598,
+    0.497,
+    0.883,
+    0.522
+   ],
+   "h": 0.025,
+   "conf": 0.8,
+   "text_colour": "#76931a",
+   "bg_colour": "#d1f93c",
+   "grew": false
+  },
+  {
+   "text": "Bloa Wehnit",
+   "t0": 27.6,
+   "t1": 27.8,
+   "dur": 0.2,
+   "box": [
+    0.487,
+    0.621,
+    0.681,
+    0.639
+   ],
+   "h": 0.018,
+   "conf": 0.78,
+   "text_colour": "#889e2f",
+   "bg_colour": "#293408",
+   "grew": false
+  },
+  {
+   "text": "*NFTFlipping",
+   "t0": 27.8,
+   "t1": 28.0,
+   "dur": 0.2,
+   "box": [
+    0.583,
+    0.388,
+    0.835,
+    0.414
+   ],
+   "h": 0.026,
+   "conf": 0.84,
+   "text_colour": "#2d4900",
+   "bg_colour": "#d2fc3d",
+   "grew": false
+  },
+  {
+   "text": "*Crypto",
+   "t0": 27.8,
+   "t1": 28.0,
+   "dur": 0.2,
+   "box": [
+    0.563,
+    0.499,
+    0.739,
+    0.525
+   ],
+   "h": 0.026,
+   "conf": 0.81,
+   "text_colour": "#a1ba3c",
+   "bg_colour": "#28310a",
+   "grew": false
+  },
+  {
+   "text": "*Amazon FBA",
+   "t0": 27.8,
+   "t1": 28.0,
+   "dur": 0.2,
+   "box": [
+    0.387,
+    0.596,
+    0.644,
+    0.623
+   ],
+   "h": 0.027,
+   "conf": 0.78,
+   "text_colour": "#375200",
+   "bg_colour": "#d1fc3c",
+   "grew": false
+  },
+  {
+   "text": "*ShopifyStore",
+   "t0": 28.0,
+   "t1": 28.2,
+   "dur": 0.2,
+   "box": [
+    0.528,
+    0.379,
+    0.787,
+    0.402
+   ],
+   "h": 0.023,
+   "conf": 0.81,
+   "text_colour": "#b6cc50",
+   "bg_colour": "#273109",
+   "grew": false
+  },
+  {
+   "text": "* NFT Flipping",
+   "t0": 28.0,
+   "t1": 28.2,
+   "dur": 0.2,
+   "box": [
+    0.48,
+    0.475,
+    0.746,
+    0.505
+   ],
+   "h": 0.03,
+   "conf": 0.87,
+   "text_colour": "#486000",
+   "bg_colour": "#d2fd3b",
+   "grew": false
+  },
+  {
+   "text": "米 Crypto",
+   "t0": 28.0,
+   "t1": 28.2,
+   "dur": 0.2,
+   "box": [
+    0.413,
+    0.576,
+    0.58,
+    0.603
+   ],
+   "h": 0.027,
+   "conf": 0.79,
+   "text_colour": "#bfd751",
+   "bg_colour": "#27300a",
+   "grew": false
+  },
+  {
+   "text": "米EtsyShop",
+   "t0": 28.2,
+   "t1": 28.4,
+   "dur": 0.2,
+   "box": [
+    0.448,
+    0.388,
+    0.65,
+    0.41
+   ],
+   "h": 0.023,
+   "conf": 0.82,
+   "text_colour": "#436000",
+   "bg_colour": "#d2fc3d",
+   "grew": false
+  },
+  {
+   "text": "*ShopifyStore",
+   "t0": 28.2,
+   "t1": 28.4,
+   "dur": 0.2,
+   "box": [
+    0.361,
+    0.481,
+    0.631,
+    0.504
+   ],
+   "h": 0.023,
+   "conf": 0.91,
+   "text_colour": "#c1d75a",
+   "bg_colour": "#273109",
+   "grew": false
+  },
+  {
+   "text": "米NFTFlipping",
+   "t0": 28.2,
+   "t1": 28.4,
+   "dur": 0.2,
+   "box": [
+    0.263,
+    0.573,
+    0.511,
+    0.595
+   ],
+   "h": 0.022,
+   "conf": 0.9,
+   "text_colour": "#304b00",
+   "bg_colour": "#d3fc3d",
+   "grew": false
+  },
+  {
+   "text": "*Crypto",
+   "t0": 28.2,
+   "t1": 28.4,
+   "dur": 0.2,
+   "box": [
+    0.2,
+    0.615,
+    0.352,
+    0.639
+   ],
+   "h": 0.024,
+   "conf": 0.81,
+   "text_colour": "#7a8c31",
+   "bg_colour": "#283309",
+   "grew": false
+  },
+  {
+   "text": "They dont lack",
+   "t0": 30.8,
+   "t1": 31.2,
+   "dur": 0.4,
+   "box": [
+    0.604,
+    0.516,
+    0.681,
+    0.527
+   ],
+   "h": 0.011,
+   "conf": 0.83,
+   "text_colour": "#8ba82c",
+   "bg_colour": "#caee45",
+   "grew": false
+  },
+  {
+   "text": "Talent Active",
+   "t0": 30.8,
+   "t1": 31.4,
+   "dur": 0.6,
+   "box": [
+    0.306,
+    0.431,
+    0.428,
+    0.447
+   ],
+   "h": 0.016,
+   "conf": 0.89,
+   "text_colour": "#557402",
+   "bg_colour": "#c9ee48",
+   "grew": true,
+   "first_text": "Talent"
+  },
+  {
+   "text": "Talent",
+   "t0": 30.8,
+   "t1": 31.4,
+   "dur": 0.6,
+   "box": [
+    0.57,
+    0.521,
+    0.637,
+    0.536
+   ],
+   "h": 0.016,
+   "conf": 0.79,
+   "text_colour": "#506c02",
+   "bg_colour": "#caee4b",
+   "grew": false
+  },
+  {
+   "text": "They don't lack",
+   "t0": 32.2,
+   "t1": 33.2,
+   "dur": 1.0,
+   "box": [
+    0.591,
+    0.519,
+    0.672,
+    0.529
+   ],
+   "h": 0.015,
+   "conf": 0.9,
+   "text_colour": "#8cac2e",
+   "bg_colour": "#caee4c",
+   "grew": false
+  },
+  {
+   "text": "Hard work",
+   "t0": 32.2,
+   "t1": 33.2,
+   "dur": 1.0,
+   "box": [
+    0.589,
+    0.527,
+    0.696,
+    0.541
+   ],
+   "h": 0.016,
+   "conf": 0.88,
+   "text_colour": "#5a6e13",
+   "bg_colour": "#cdee5f",
+   "grew": true,
+   "first_text": "Hard"
+  },
+  {
+   "text": "Wiark Mode",
+   "t0": 32.4,
+   "t1": 33.4,
+   "dur": 1.0,
+   "box": [
+    0.328,
+    0.429,
+    0.419,
+    0.444
+   ],
+   "h": 0.016,
+   "conf": 0.88,
+   "text_colour": "#577102",
+   "bg_colour": "#c9ee45",
+   "grew": true,
+   "first_text": "Work"
+  },
+  {
+   "text": "They lack",
+   "t0": 34.0,
+   "t1": 34.6,
+   "dur": 0.6,
+   "box": [
+    0.6,
+    0.519,
+    0.648,
+    0.527
+   ],
+   "h": 0.011,
+   "conf": 0.87,
+   "text_colour": "#86a425",
+   "bg_colour": "#c8ee4a",
+   "grew": false
+  },
+  {
+   "text": "Consistency",
+   "t0": 34.0,
+   "t1": 34.8,
+   "dur": 0.8,
+   "box": [
+    0.596,
+    0.525,
+    0.722,
+    0.541
+   ],
+   "h": 0.018,
+   "conf": 0.91,
+   "text_colour": "#506818",
+   "bg_colour": "#cbee64",
+   "grew": false
+  },
+  {
+   "text": "Consistency",
+   "t0": 34.2,
+   "t1": 34.8,
+   "dur": 0.6,
+   "box": [
+    0.302,
+    0.427,
+    0.424,
+    0.444
+   ],
+   "h": 0.017,
+   "conf": 0.89,
+   "text_colour": "#65820e",
+   "bg_colour": "#caee4a",
+   "grew": true,
+   "first_text": "Consiste"
+  }
+ ],
+ "density": [
+  2,
+  2,
+  2,
+  2,
+  3,
+  3,
+  3,
+  4,
+  4,
+  4,
+  4,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  4,
+  4,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  6,
+  6,
+  7,
+  6,
+  5,
+  6,
+  6,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  3,
+  3,
+  3,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  4,
+  4,
+  3,
+  3,
+  3,
+  3,
+  4,
+  4,
+  2,
+  2,
+  4,
+  4,
+  4,
+  4,
+  4,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  5,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  3,
+  2,
+  2,
+  4,
+  4,
+  4,
+  3,
+  4,
+  3,
+  3,
+  3,
+  3,
+  4,
+  4,
+  4,
+  4,
+  4,
+  4,
+  3,
+  5,
+  2,
+  2,
+  2,
+  2,
+  2,
+  3,
+  3,
+  3,
+  3,
+  3,
+  3,
+  4,
+  7,
+  7,
+  6,
+  6,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+  5,
+  5,
+  4,
+  2,
+  2,
+  2,
+  2,
+  4,
+  5,
+  5,
+  5,
+  5,
+  3,
+  2,
+  2,
+  2,
+  4,
+  5,
+  5,
+  4
+ ]
+}

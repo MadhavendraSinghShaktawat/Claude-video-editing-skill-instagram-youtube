@@ -1,0 +1,2387 @@
+{
+ "source": "ref.mp4",
+ "language": "en",
+ "model": "small",
+ "verbatim": false,
+ "words": [
+  {
+   "w": "Lately,",
+   "start": 0.0,
+   "end": 0.38,
+   "p": 0.783
+  },
+  {
+   "w": "everyone's",
+   "start": 0.52,
+   "end": 0.82,
+   "p": 0.894
+  },
+  {
+   "w": "been",
+   "start": 0.82,
+   "end": 0.92,
+   "p": 0.997
+  },
+  {
+   "w": "obsessed",
+   "start": 0.92,
+   "end": 1.28,
+   "p": 0.995
+  },
+  {
+   "w": "with",
+   "start": 1.28,
+   "end": 1.6,
+   "p": 0.997
+  },
+  {
+   "w": "writing",
+   "start": 1.6,
+   "end": 1.82,
+   "p": 0.995
+  },
+  {
+   "w": "the",
+   "start": 1.82,
+   "end": 2.06,
+   "p": 0.896
+  },
+  {
+   "w": "perfect",
+   "start": 2.06,
+   "end": 2.48,
+   "p": 0.905
+  },
+  {
+   "w": "hook,",
+   "start": 2.48,
+   "end": 2.88,
+   "p": 0.951
+  },
+  {
+   "w": "but",
+   "start": 3.08,
+   "end": 3.2,
+   "p": 0.993
+  },
+  {
+   "w": "they're",
+   "start": 3.2,
+   "end": 3.36,
+   "p": 0.993
+  },
+  {
+   "w": "forgetting",
+   "start": 3.36,
+   "end": 3.72,
+   "p": 0.998
+  },
+  {
+   "w": "that",
+   "start": 3.72,
+   "end": 4.14,
+   "p": 0.976
+  },
+  {
+   "w": "each",
+   "start": 4.14,
+   "end": 4.38,
+   "p": 0.998
+  },
+  {
+   "w": "hook",
+   "start": 4.38,
+   "end": 4.66,
+   "p": 0.994
+  },
+  {
+   "w": "has",
+   "start": 4.66,
+   "end": 4.88,
+   "p": 0.996
+  },
+  {
+   "w": "two",
+   "start": 4.88,
+   "end": 5.16,
+   "p": 0.943
+  },
+  {
+   "w": "parts,",
+   "start": 5.16,
+   "end": 5.48,
+   "p": 0.993
+  },
+  {
+   "w": "and",
+   "start": 5.7,
+   "end": 5.78,
+   "p": 0.995
+  },
+  {
+   "w": "your",
+   "start": 5.78,
+   "end": 5.9,
+   "p": 0.991
+  },
+  {
+   "w": "content",
+   "start": 5.9,
+   "end": 6.22,
+   "p": 0.998
+  },
+  {
+   "w": "is",
+   "start": 6.22,
+   "end": 6.54,
+   "p": 0.994
+  },
+  {
+   "w": "probably",
+   "start": 6.54,
+   "end": 7.06,
+   "p": 0.989
+  },
+  {
+   "w": "forgetting",
+   "start": 7.06,
+   "end": 7.42,
+   "p": 0.993
+  },
+  {
+   "w": "one",
+   "start": 7.42,
+   "end": 7.64,
+   "p": 0.996
+  },
+  {
+   "w": "of",
+   "start": 7.64,
+   "end": 7.76,
+   "p": 0.991
+  },
+  {
+   "w": "them.",
+   "start": 7.76,
+   "end": 7.92,
+   "p": 0.997
+  },
+  {
+   "w": "Welcome",
+   "start": 8.04,
+   "end": 8.2,
+   "p": 0.982
+  },
+  {
+   "w": "to",
+   "start": 8.2,
+   "end": 8.42,
+   "p": 0.997
+  },
+  {
+   "w": "Content",
+   "start": 8.42,
+   "end": 8.8,
+   "p": 0.602
+  },
+  {
+   "w": "Camp,",
+   "start": 8.8,
+   "end": 9.12,
+   "p": 0.925
+  },
+  {
+   "w": "your",
+   "start": 9.32,
+   "end": 9.5,
+   "p": 0.983
+  },
+  {
+   "w": "eight",
+   "start": 9.5,
+   "end": 9.84,
+   "p": 0.731
+  },
+  {
+   "w": "-week",
+   "start": 9.84,
+   "end": 10.02,
+   "p": 0.848
+  },
+  {
+   "w": "crash",
+   "start": 10.02,
+   "end": 10.36,
+   "p": 0.896
+  },
+  {
+   "w": "course",
+   "start": 10.36,
+   "end": 10.74,
+   "p": 0.995
+  },
+  {
+   "w": "in",
+   "start": 10.74,
+   "end": 11.08,
+   "p": 0.987
+  },
+  {
+   "w": "storytelling,",
+   "start": 11.08,
+   "end": 11.56,
+   "p": 0.988
+  },
+  {
+   "w": "filming,",
+   "start": 11.88,
+   "end": 12.1,
+   "p": 0.98
+  },
+  {
+   "w": "and",
+   "start": 12.42,
+   "end": 12.5,
+   "p": 0.998
+  },
+  {
+   "w": "editing",
+   "start": 12.5,
+   "end": 12.82,
+   "p": 0.999
+  },
+  {
+   "w": "so",
+   "start": 12.82,
+   "end": 13.16,
+   "p": 0.404
+  },
+  {
+   "w": "that",
+   "start": 13.16,
+   "end": 13.3,
+   "p": 0.993
+  },
+  {
+   "w": "by",
+   "start": 13.3,
+   "end": 13.42,
+   "p": 0.978
+  },
+  {
+   "w": "the",
+   "start": 13.42,
+   "end": 13.54,
+   "p": 0.999
+  },
+  {
+   "w": "end",
+   "start": 13.54,
+   "end": 13.7,
+   "p": 0.999
+  },
+  {
+   "w": "of",
+   "start": 13.7,
+   "end": 13.82,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 13.82,
+   "end": 13.9,
+   "p": 0.981
+  },
+  {
+   "w": "summer,",
+   "start": 13.9,
+   "end": 14.16,
+   "p": 0.988
+  },
+  {
+   "w": "you'll",
+   "start": 14.36,
+   "end": 14.52,
+   "p": 0.997
+  },
+  {
+   "w": "be",
+   "start": 14.52,
+   "end": 14.64,
+   "p": 0.997
+  },
+  {
+   "w": "creating",
+   "start": 14.64,
+   "end": 14.9,
+   "p": 0.998
+  },
+  {
+   "w": "content",
+   "start": 14.9,
+   "end": 15.34,
+   "p": 0.999
+  },
+  {
+   "w": "that",
+   "start": 15.34,
+   "end": 15.62,
+   "p": 0.999
+  },
+  {
+   "w": "actually",
+   "start": 15.62,
+   "end": 16.1,
+   "p": 0.997
+  },
+  {
+   "w": "performs.",
+   "start": 16.1,
+   "end": 16.58,
+   "p": 0.993
+  },
+  {
+   "w": "If",
+   "start": 16.92,
+   "end": 17.04,
+   "p": 0.993
+  },
+  {
+   "w": "we",
+   "start": 17.04,
+   "end": 17.18,
+   "p": 0.998
+  },
+  {
+   "w": "break",
+   "start": 17.18,
+   "end": 17.34,
+   "p": 0.987
+  },
+  {
+   "w": "down",
+   "start": 17.34,
+   "end": 17.52,
+   "p": 0.998
+  },
+  {
+   "w": "the",
+   "start": 17.52,
+   "end": 17.66,
+   "p": 0.999
+  },
+  {
+   "w": "anatomy",
+   "start": 17.66,
+   "end": 17.98,
+   "p": 0.998
+  },
+  {
+   "w": "of",
+   "start": 17.98,
+   "end": 18.28,
+   "p": 0.999
+  },
+  {
+   "w": "a",
+   "start": 18.28,
+   "end": 18.42,
+   "p": 0.998
+  },
+  {
+   "w": "great",
+   "start": 18.42,
+   "end": 18.74,
+   "p": 0.996
+  },
+  {
+   "w": "video,",
+   "start": 18.74,
+   "end": 19.16,
+   "p": 0.999
+  },
+  {
+   "w": "you'll",
+   "start": 19.32,
+   "end": 19.54,
+   "p": 0.998
+  },
+  {
+   "w": "see",
+   "start": 19.54,
+   "end": 19.68,
+   "p": 0.999
+  },
+  {
+   "w": "that",
+   "start": 19.68,
+   "end": 19.86,
+   "p": 0.994
+  },
+  {
+   "w": "there",
+   "start": 19.86,
+   "end": 20.0,
+   "p": 0.992
+  },
+  {
+   "w": "are",
+   "start": 20.0,
+   "end": 20.12,
+   "p": 0.995
+  },
+  {
+   "w": "almost",
+   "start": 20.12,
+   "end": 20.46,
+   "p": 0.996
+  },
+  {
+   "w": "always",
+   "start": 20.46,
+   "end": 20.94,
+   "p": 0.996
+  },
+  {
+   "w": "two",
+   "start": 20.94,
+   "end": 21.32,
+   "p": 0.995
+  },
+  {
+   "w": "parts.",
+   "start": 21.32,
+   "end": 21.7,
+   "p": 0.998
+  },
+  {
+   "w": "The",
+   "start": 21.92,
+   "end": 22.04,
+   "p": 0.964
+  },
+  {
+   "w": "visual",
+   "start": 22.04,
+   "end": 22.44,
+   "p": 0.961
+  },
+  {
+   "w": "hook,",
+   "start": 22.44,
+   "end": 22.74,
+   "p": 0.997
+  },
+  {
+   "w": "which",
+   "start": 22.86,
+   "end": 22.98,
+   "p": 0.999
+  },
+  {
+   "w": "is",
+   "start": 22.98,
+   "end": 23.1,
+   "p": 1.0
+  },
+  {
+   "w": "what",
+   "start": 23.1,
+   "end": 23.24,
+   "p": 0.999
+  },
+  {
+   "w": "people",
+   "start": 23.24,
+   "end": 23.44,
+   "p": 0.999
+  },
+  {
+   "w": "see,",
+   "start": 23.44,
+   "end": 23.86,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 24.04,
+   "end": 24.24,
+   "p": 0.996
+  },
+  {
+   "w": "the",
+   "start": 24.24,
+   "end": 24.38,
+   "p": 0.997
+  },
+  {
+   "w": "verbal",
+   "start": 24.38,
+   "end": 24.64,
+   "p": 0.998
+  },
+  {
+   "w": "hook,",
+   "start": 24.64,
+   "end": 24.94,
+   "p": 0.999
+  },
+  {
+   "w": "which",
+   "start": 25.04,
+   "end": 25.12,
+   "p": 0.999
+  },
+  {
+   "w": "is",
+   "start": 25.12,
+   "end": 25.22,
+   "p": 1.0
+  },
+  {
+   "w": "what",
+   "start": 25.22,
+   "end": 25.34,
+   "p": 0.999
+  },
+  {
+   "w": "people",
+   "start": 25.34,
+   "end": 25.56,
+   "p": 0.999
+  },
+  {
+   "w": "hear.",
+   "start": 25.56,
+   "end": 25.98,
+   "p": 0.998
+  },
+  {
+   "w": "It's",
+   "start": 26.12,
+   "end": 26.28,
+   "p": 0.994
+  },
+  {
+   "w": "estimated",
+   "start": 26.28,
+   "end": 26.6,
+   "p": 0.999
+  },
+  {
+   "w": "that",
+   "start": 26.6,
+   "end": 26.88,
+   "p": 0.24
+  },
+  {
+   "w": "80",
+   "start": 26.88,
+   "end": 27.24,
+   "p": 0.912
+  },
+  {
+   "w": "to",
+   "start": 27.24,
+   "end": 27.44,
+   "p": 0.743
+  },
+  {
+   "w": "85",
+   "start": 27.44,
+   "end": 28.02,
+   "p": 0.99
+  },
+  {
+   "w": "%",
+   "start": 28.02,
+   "end": 28.56,
+   "p": 0.476
+  },
+  {
+   "w": "of",
+   "start": 28.56,
+   "end": 28.86,
+   "p": 0.988
+  },
+  {
+   "w": "social",
+   "start": 28.86,
+   "end": 29.1,
+   "p": 0.987
+  },
+  {
+   "w": "media",
+   "start": 29.1,
+   "end": 29.44,
+   "p": 0.999
+  },
+  {
+   "w": "is",
+   "start": 29.44,
+   "end": 29.74,
+   "p": 0.995
+  },
+  {
+   "w": "consumed",
+   "start": 29.74,
+   "end": 30.14,
+   "p": 0.994
+  },
+  {
+   "w": "without",
+   "start": 30.14,
+   "end": 30.6,
+   "p": 0.991
+  },
+  {
+   "w": "sound,",
+   "start": 30.6,
+   "end": 31.3,
+   "p": 0.99
+  },
+  {
+   "w": "and",
+   "start": 31.58,
+   "end": 31.86,
+   "p": 0.987
+  },
+  {
+   "w": "even",
+   "start": 31.86,
+   "end": 32.12,
+   "p": 0.986
+  },
+  {
+   "w": "when",
+   "start": 32.12,
+   "end": 32.28,
+   "p": 0.997
+  },
+  {
+   "w": "the",
+   "start": 32.28,
+   "end": 32.38,
+   "p": 0.996
+  },
+  {
+   "w": "sound",
+   "start": 32.38,
+   "end": 32.64,
+   "p": 0.996
+  },
+  {
+   "w": "is",
+   "start": 32.64,
+   "end": 32.96,
+   "p": 0.995
+  },
+  {
+   "w": "on,",
+   "start": 32.96,
+   "end": 33.3,
+   "p": 0.994
+  },
+  {
+   "w": "people",
+   "start": 33.46,
+   "end": 33.62,
+   "p": 0.994
+  },
+  {
+   "w": "are",
+   "start": 33.62,
+   "end": 33.8,
+   "p": 0.996
+  },
+  {
+   "w": "usually",
+   "start": 33.8,
+   "end": 34.06,
+   "p": 0.997
+  },
+  {
+   "w": "only",
+   "start": 34.06,
+   "end": 34.32,
+   "p": 0.99
+  },
+  {
+   "w": "half",
+   "start": 34.32,
+   "end": 34.66,
+   "p": 0.992
+  },
+  {
+   "w": "listening.",
+   "start": 34.66,
+   "end": 34.96,
+   "p": 0.878
+  },
+  {
+   "w": "What",
+   "start": 35.18,
+   "end": 35.26,
+   "p": 0.982
+  },
+  {
+   "w": "this",
+   "start": 35.26,
+   "end": 35.46,
+   "p": 0.997
+  },
+  {
+   "w": "means",
+   "start": 35.46,
+   "end": 35.74,
+   "p": 0.999
+  },
+  {
+   "w": "is",
+   "start": 35.74,
+   "end": 36.04,
+   "p": 0.987
+  },
+  {
+   "w": "that",
+   "start": 36.04,
+   "end": 36.26,
+   "p": 0.987
+  },
+  {
+   "w": "your",
+   "start": 36.26,
+   "end": 36.42,
+   "p": 0.975
+  },
+  {
+   "w": "visual",
+   "start": 36.42,
+   "end": 36.74,
+   "p": 0.996
+  },
+  {
+   "w": "hook",
+   "start": 36.74,
+   "end": 37.04,
+   "p": 0.962
+  },
+  {
+   "w": "has",
+   "start": 37.04,
+   "end": 37.22,
+   "p": 0.998
+  },
+  {
+   "w": "to",
+   "start": 37.22,
+   "end": 37.38,
+   "p": 1.0
+  },
+  {
+   "w": "land",
+   "start": 37.38,
+   "end": 37.56,
+   "p": 0.992
+  },
+  {
+   "w": "with",
+   "start": 37.56,
+   "end": 37.76,
+   "p": 0.996
+  },
+  {
+   "w": "no",
+   "start": 37.76,
+   "end": 38.0,
+   "p": 0.997
+  },
+  {
+   "w": "audio,",
+   "start": 38.0,
+   "end": 38.4,
+   "p": 0.999
+  },
+  {
+   "w": "and",
+   "start": 38.4,
+   "end": 38.82,
+   "p": 0.997
+  },
+  {
+   "w": "your",
+   "start": 38.82,
+   "end": 38.96,
+   "p": 0.994
+  },
+  {
+   "w": "verbal",
+   "start": 38.96,
+   "end": 39.22,
+   "p": 0.997
+  },
+  {
+   "w": "hook",
+   "start": 39.22,
+   "end": 39.58,
+   "p": 0.992
+  },
+  {
+   "w": "has",
+   "start": 39.58,
+   "end": 39.8,
+   "p": 0.997
+  },
+  {
+   "w": "to",
+   "start": 39.8,
+   "end": 39.92,
+   "p": 0.999
+  },
+  {
+   "w": "land",
+   "start": 39.92,
+   "end": 40.08,
+   "p": 0.996
+  },
+  {
+   "w": "with",
+   "start": 40.08,
+   "end": 40.3,
+   "p": 0.998
+  },
+  {
+   "w": "no",
+   "start": 40.3,
+   "end": 40.48,
+   "p": 0.999
+  },
+  {
+   "w": "visual.",
+   "start": 40.48,
+   "end": 40.82,
+   "p": 0.998
+  },
+  {
+   "w": "If",
+   "start": 41.06,
+   "end": 41.18,
+   "p": 0.99
+  },
+  {
+   "w": "either",
+   "start": 41.18,
+   "end": 41.44,
+   "p": 0.996
+  },
+  {
+   "w": "of",
+   "start": 41.44,
+   "end": 41.56,
+   "p": 0.998
+  },
+  {
+   "w": "those",
+   "start": 41.56,
+   "end": 41.7,
+   "p": 0.997
+  },
+  {
+   "w": "depend",
+   "start": 41.7,
+   "end": 41.94,
+   "p": 0.993
+  },
+  {
+   "w": "on",
+   "start": 41.94,
+   "end": 42.14,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 42.14,
+   "end": 42.26,
+   "p": 0.995
+  },
+  {
+   "w": "other",
+   "start": 42.26,
+   "end": 42.5,
+   "p": 0.998
+  },
+  {
+   "w": "to",
+   "start": 42.5,
+   "end": 42.86,
+   "p": 0.973
+  },
+  {
+   "w": "make",
+   "start": 42.86,
+   "end": 43.22,
+   "p": 0.992
+  },
+  {
+   "w": "sense,",
+   "start": 43.22,
+   "end": 43.68,
+   "p": 0.999
+  },
+  {
+   "w": "then",
+   "start": 43.74,
+   "end": 43.9,
+   "p": 0.993
+  },
+  {
+   "w": "you've",
+   "start": 43.9,
+   "end": 44.16,
+   "p": 0.957
+  },
+  {
+   "w": "already",
+   "start": 44.16,
+   "end": 44.42,
+   "p": 0.999
+  },
+  {
+   "w": "lost",
+   "start": 44.42,
+   "end": 44.74,
+   "p": 0.997
+  },
+  {
+   "w": "the",
+   "start": 44.74,
+   "end": 44.9,
+   "p": 0.996
+  },
+  {
+   "w": "great",
+   "start": 44.9,
+   "end": 45.06,
+   "p": 0.991
+  },
+  {
+   "w": "majority",
+   "start": 45.06,
+   "end": 45.36,
+   "p": 0.999
+  },
+  {
+   "w": "of",
+   "start": 45.36,
+   "end": 45.54,
+   "p": 1.0
+  },
+  {
+   "w": "your",
+   "start": 45.54,
+   "end": 45.66,
+   "p": 0.997
+  },
+  {
+   "w": "audience.",
+   "start": 45.66,
+   "end": 46.02,
+   "p": 0.999
+  },
+  {
+   "w": "The",
+   "start": 46.22,
+   "end": 46.3,
+   "p": 0.992
+  },
+  {
+   "w": "biggest",
+   "start": 46.3,
+   "end": 46.5,
+   "p": 0.999
+  },
+  {
+   "w": "mistake",
+   "start": 46.5,
+   "end": 46.84,
+   "p": 0.963
+  },
+  {
+   "w": "I",
+   "start": 46.84,
+   "end": 47.04,
+   "p": 0.979
+  },
+  {
+   "w": "see",
+   "start": 47.04,
+   "end": 47.22,
+   "p": 0.999
+  },
+  {
+   "w": "when",
+   "start": 47.22,
+   "end": 47.4,
+   "p": 0.999
+  },
+  {
+   "w": "it",
+   "start": 47.4,
+   "end": 47.5,
+   "p": 1.0
+  },
+  {
+   "w": "comes",
+   "start": 47.5,
+   "end": 47.7,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 47.7,
+   "end": 47.9,
+   "p": 0.999
+  },
+  {
+   "w": "hooks",
+   "start": 47.9,
+   "end": 48.2,
+   "p": 0.99
+  },
+  {
+   "w": "are",
+   "start": 48.2,
+   "end": 48.5,
+   "p": 0.825
+  },
+  {
+   "w": "when",
+   "start": 48.5,
+   "end": 48.7,
+   "p": 0.997
+  },
+  {
+   "w": "both",
+   "start": 48.7,
+   "end": 49.0,
+   "p": 0.999
+  },
+  {
+   "w": "hooks",
+   "start": 49.0,
+   "end": 49.36,
+   "p": 0.994
+  },
+  {
+   "w": "say",
+   "start": 49.36,
+   "end": 49.66,
+   "p": 0.997
+  },
+  {
+   "w": "the",
+   "start": 49.66,
+   "end": 49.82,
+   "p": 1.0
+  },
+  {
+   "w": "same",
+   "start": 49.82,
+   "end": 50.1,
+   "p": 1.0
+  },
+  {
+   "w": "thing.",
+   "start": 50.1,
+   "end": 50.42,
+   "p": 0.997
+  },
+  {
+   "w": "So",
+   "start": 50.54,
+   "end": 50.64,
+   "p": 0.916
+  },
+  {
+   "w": "for",
+   "start": 50.64,
+   "end": 50.74,
+   "p": 0.777
+  },
+  {
+   "w": "example,",
+   "start": 50.74,
+   "end": 51.04,
+   "p": 1.0
+  },
+  {
+   "w": "let's",
+   "start": 51.22,
+   "end": 51.4,
+   "p": 0.994
+  },
+  {
+   "w": "say",
+   "start": 51.4,
+   "end": 51.56,
+   "p": 1.0
+  },
+  {
+   "w": "you're",
+   "start": 51.56,
+   "end": 51.8,
+   "p": 0.992
+  },
+  {
+   "w": "filming",
+   "start": 51.8,
+   "end": 52.06,
+   "p": 0.999
+  },
+  {
+   "w": "a",
+   "start": 52.06,
+   "end": 52.38,
+   "p": 0.994
+  },
+  {
+   "w": "workday",
+   "start": 52.38,
+   "end": 52.92,
+   "p": 0.631
+  },
+  {
+   "w": "in",
+   "start": 52.92,
+   "end": 53.02,
+   "p": 0.855
+  },
+  {
+   "w": "my",
+   "start": 53.02,
+   "end": 53.1,
+   "p": 0.994
+  },
+  {
+   "w": "life",
+   "start": 53.1,
+   "end": 53.32,
+   "p": 0.973
+  },
+  {
+   "w": "vlog,",
+   "start": 53.32,
+   "end": 53.58,
+   "p": 0.966
+  },
+  {
+   "w": "and",
+   "start": 53.58,
+   "end": 54.06,
+   "p": 0.997
+  },
+  {
+   "w": "you",
+   "start": 54.06,
+   "end": 54.4,
+   "p": 0.997
+  },
+  {
+   "w": "do",
+   "start": 54.4,
+   "end": 54.6,
+   "p": 0.999
+  },
+  {
+   "w": "your",
+   "start": 54.6,
+   "end": 54.7,
+   "p": 0.998
+  },
+  {
+   "w": "morning",
+   "start": 54.7,
+   "end": 54.92,
+   "p": 0.998
+  },
+  {
+   "w": "routine,",
+   "start": 54.92,
+   "end": 55.32,
+   "p": 0.701
+  },
+  {
+   "w": "then",
+   "start": 55.52,
+   "end": 55.58,
+   "p": 0.902
+  },
+  {
+   "w": "you",
+   "start": 55.58,
+   "end": 55.68,
+   "p": 0.983
+  },
+  {
+   "w": "commute",
+   "start": 55.68,
+   "end": 55.88,
+   "p": 0.991
+  },
+  {
+   "w": "to",
+   "start": 55.88,
+   "end": 56.04,
+   "p": 0.996
+  },
+  {
+   "w": "the",
+   "start": 56.04,
+   "end": 56.14,
+   "p": 0.998
+  },
+  {
+   "w": "office,",
+   "start": 56.14,
+   "end": 56.46,
+   "p": 0.997
+  },
+  {
+   "w": "then",
+   "start": 56.72,
+   "end": 56.86,
+   "p": 0.983
+  },
+  {
+   "w": "you",
+   "start": 56.86,
+   "end": 57.08,
+   "p": 0.995
+  },
+  {
+   "w": "get",
+   "start": 57.08,
+   "end": 57.28,
+   "p": 0.993
+  },
+  {
+   "w": "to",
+   "start": 57.28,
+   "end": 57.4,
+   "p": 0.995
+  },
+  {
+   "w": "the",
+   "start": 57.4,
+   "end": 57.48,
+   "p": 0.998
+  },
+  {
+   "w": "office,",
+   "start": 57.48,
+   "end": 57.72,
+   "p": 0.999
+  },
+  {
+   "w": "and",
+   "start": 57.84,
+   "end": 57.94,
+   "p": 0.933
+  },
+  {
+   "w": "you",
+   "start": 57.94,
+   "end": 58.02,
+   "p": 0.976
+  },
+  {
+   "w": "start",
+   "start": 58.02,
+   "end": 58.16,
+   "p": 0.999
+  },
+  {
+   "w": "your",
+   "start": 58.16,
+   "end": 58.32,
+   "p": 0.996
+  },
+  {
+   "w": "work.",
+   "start": 58.32,
+   "end": 58.54,
+   "p": 0.996
+  },
+  {
+   "w": "If",
+   "start": 58.66,
+   "end": 58.74,
+   "p": 0.951
+  },
+  {
+   "w": "your",
+   "start": 58.74,
+   "end": 58.88,
+   "p": 0.987
+  },
+  {
+   "w": "voiceover",
+   "start": 58.88,
+   "end": 59.36,
+   "p": 0.912
+  },
+  {
+   "w": "just",
+   "start": 59.36,
+   "end": 59.64,
+   "p": 0.994
+  },
+  {
+   "w": "narrates",
+   "start": 59.64,
+   "end": 60.18,
+   "p": 0.998
+  },
+  {
+   "w": "what",
+   "start": 60.18,
+   "end": 60.32,
+   "p": 0.998
+  },
+  {
+   "w": "you're",
+   "start": 60.32,
+   "end": 60.46,
+   "p": 0.994
+  },
+  {
+   "w": "doing",
+   "start": 60.46,
+   "end": 60.64,
+   "p": 0.999
+  },
+  {
+   "w": "on",
+   "start": 60.64,
+   "end": 60.86,
+   "p": 0.999
+  },
+  {
+   "w": "screen,",
+   "start": 60.86,
+   "end": 61.22,
+   "p": 0.743
+  },
+  {
+   "w": "then",
+   "start": 61.3,
+   "end": 61.5,
+   "p": 0.993
+  },
+  {
+   "w": "it's",
+   "start": 61.5,
+   "end": 61.7,
+   "p": 0.991
+  },
+  {
+   "w": "not",
+   "start": 61.7,
+   "end": 61.84,
+   "p": 0.998
+  },
+  {
+   "w": "as",
+   "start": 61.84,
+   "end": 62.04,
+   "p": 0.998
+  },
+  {
+   "w": "engaging",
+   "start": 62.04,
+   "end": 62.4,
+   "p": 0.999
+  },
+  {
+   "w": "for",
+   "start": 62.4,
+   "end": 62.64,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 62.64,
+   "end": 62.76,
+   "p": 0.999
+  },
+  {
+   "w": "viewer,",
+   "start": 62.76,
+   "end": 63.0,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 63.02,
+   "end": 63.54,
+   "p": 0.998
+  },
+  {
+   "w": "instead",
+   "start": 63.54,
+   "end": 64.0,
+   "p": 0.991
+  },
+  {
+   "w": "you",
+   "start": 64.0,
+   "end": 64.28,
+   "p": 0.741
+  },
+  {
+   "w": "want",
+   "start": 64.28,
+   "end": 64.42,
+   "p": 0.999
+  },
+  {
+   "w": "them",
+   "start": 64.42,
+   "end": 64.54,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 64.54,
+   "end": 64.68,
+   "p": 0.998
+  },
+  {
+   "w": "do",
+   "start": 64.68,
+   "end": 64.88,
+   "p": 0.998
+  },
+  {
+   "w": "different",
+   "start": 64.88,
+   "end": 65.3,
+   "p": 0.99
+  },
+  {
+   "w": "jobs.",
+   "start": 65.3,
+   "end": 65.78,
+   "p": 0.998
+  },
+  {
+   "w": "So",
+   "start": 65.94,
+   "end": 66.16,
+   "p": 0.939
+  },
+  {
+   "w": "for",
+   "start": 66.16,
+   "end": 66.32,
+   "p": 0.749
+  },
+  {
+   "w": "example,",
+   "start": 66.32,
+   "end": 66.7,
+   "p": 0.999
+  },
+  {
+   "w": "you",
+   "start": 66.82,
+   "end": 66.94,
+   "p": 0.996
+  },
+  {
+   "w": "could",
+   "start": 66.94,
+   "end": 67.08,
+   "p": 0.994
+  },
+  {
+   "w": "say",
+   "start": 67.08,
+   "end": 67.26,
+   "p": 0.999
+  },
+  {
+   "w": "something",
+   "start": 67.26,
+   "end": 67.5,
+   "p": 0.983
+  },
+  {
+   "w": "like,",
+   "start": 67.5,
+   "end": 67.98,
+   "p": 0.985
+  },
+  {
+   "w": "I",
+   "start": 68.18,
+   "end": 68.24,
+   "p": 0.237
+  },
+  {
+   "w": "deleted",
+   "start": 68.24,
+   "end": 68.54,
+   "p": 0.995
+  },
+  {
+   "w": "my",
+   "start": 68.54,
+   "end": 68.8,
+   "p": 0.998
+  },
+  {
+   "w": "first",
+   "start": 68.8,
+   "end": 69.04,
+   "p": 0.998
+  },
+  {
+   "w": "100",
+   "start": 69.04,
+   "end": 69.66,
+   "p": 0.936
+  },
+  {
+   "w": "videos",
+   "start": 69.66,
+   "end": 70.12,
+   "p": 0.997
+  },
+  {
+   "w": "before",
+   "start": 70.12,
+   "end": 70.52,
+   "p": 0.983
+  },
+  {
+   "w": "I",
+   "start": 70.52,
+   "end": 70.68,
+   "p": 0.993
+  },
+  {
+   "w": "ever",
+   "start": 70.68,
+   "end": 70.92,
+   "p": 0.997
+  },
+  {
+   "w": "posted",
+   "start": 70.92,
+   "end": 71.28,
+   "p": 0.998
+  },
+  {
+   "w": "my",
+   "start": 71.28,
+   "end": 71.48,
+   "p": 0.997
+  },
+  {
+   "w": "first,",
+   "start": 71.48,
+   "end": 71.72,
+   "p": 0.997
+  },
+  {
+   "w": "or",
+   "start": 71.9,
+   "end": 72.12,
+   "p": 0.996
+  },
+  {
+   "w": "this",
+   "start": 72.12,
+   "end": 72.58,
+   "p": 0.691
+  },
+  {
+   "w": "is",
+   "start": 72.58,
+   "end": 72.8,
+   "p": 0.993
+  },
+  {
+   "w": "how",
+   "start": 72.8,
+   "end": 73.02,
+   "p": 0.998
+  },
+  {
+   "w": "Blank",
+   "start": 73.02,
+   "end": 73.54,
+   "p": 0.709
+  },
+  {
+   "w": "got",
+   "start": 73.54,
+   "end": 73.88,
+   "p": 0.99
+  },
+  {
+   "w": "me",
+   "start": 73.88,
+   "end": 74.02,
+   "p": 0.998
+  },
+  {
+   "w": "my",
+   "start": 74.02,
+   "end": 74.2,
+   "p": 0.997
+  },
+  {
+   "w": "dream",
+   "start": 74.2,
+   "end": 74.52,
+   "p": 0.981
+  },
+  {
+   "w": "job,",
+   "start": 74.52,
+   "end": 74.94,
+   "p": 1.0
+  },
+  {
+   "w": "and",
+   "start": 75.04,
+   "end": 75.2,
+   "p": 0.998
+  },
+  {
+   "w": "you",
+   "start": 75.2,
+   "end": 75.3,
+   "p": 0.999
+  },
+  {
+   "w": "can",
+   "start": 75.3,
+   "end": 75.42,
+   "p": 0.998
+  },
+  {
+   "w": "insert",
+   "start": 75.42,
+   "end": 75.66,
+   "p": 0.895
+  },
+  {
+   "w": "something",
+   "start": 75.66,
+   "end": 75.98,
+   "p": 0.998
+  },
+  {
+   "w": "crazy",
+   "start": 75.98,
+   "end": 76.48,
+   "p": 0.994
+  },
+  {
+   "w": "or",
+   "start": 76.48,
+   "end": 76.72,
+   "p": 0.758
+  },
+  {
+   "w": "captivating.",
+   "start": 76.72,
+   "end": 77.3,
+   "p": 0.998
+  },
+  {
+   "w": "That",
+   "start": 77.5,
+   "end": 77.6,
+   "p": 0.994
+  },
+  {
+   "w": "way",
+   "start": 77.6,
+   "end": 77.72,
+   "p": 0.998
+  },
+  {
+   "w": "your",
+   "start": 77.72,
+   "end": 77.86,
+   "p": 0.825
+  },
+  {
+   "w": "visuals",
+   "start": 77.86,
+   "end": 78.2,
+   "p": 0.997
+  },
+  {
+   "w": "give",
+   "start": 78.2,
+   "end": 78.44,
+   "p": 0.995
+  },
+  {
+   "w": "context,",
+   "start": 78.44,
+   "end": 79.06,
+   "p": 0.998
+  },
+  {
+   "w": "but",
+   "start": 79.2,
+   "end": 79.34,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 79.34,
+   "end": 79.46,
+   "p": 0.999
+  },
+  {
+   "w": "main",
+   "start": 79.46,
+   "end": 79.64,
+   "p": 0.998
+  },
+  {
+   "w": "focus",
+   "start": 79.64,
+   "end": 79.98,
+   "p": 0.999
+  },
+  {
+   "w": "is",
+   "start": 79.98,
+   "end": 80.28,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 80.28,
+   "end": 80.44,
+   "p": 0.998
+  },
+  {
+   "w": "story",
+   "start": 80.44,
+   "end": 80.7,
+   "p": 0.999
+  },
+  {
+   "w": "that",
+   "start": 80.7,
+   "end": 80.88,
+   "p": 0.993
+  },
+  {
+   "w": "you're",
+   "start": 80.88,
+   "end": 81.0,
+   "p": 0.997
+  },
+  {
+   "w": "trying",
+   "start": 81.0,
+   "end": 81.24,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 81.24,
+   "end": 81.44,
+   "p": 1.0
+  },
+  {
+   "w": "tell.",
+   "start": 81.44,
+   "end": 81.64,
+   "p": 0.999
+  },
+  {
+   "w": "A",
+   "start": 81.78,
+   "end": 81.9,
+   "p": 0.992
+  },
+  {
+   "w": "few",
+   "start": 81.9,
+   "end": 82.1,
+   "p": 0.999
+  },
+  {
+   "w": "hook",
+   "start": 82.1,
+   "end": 82.3,
+   "p": 0.929
+  },
+  {
+   "w": "formulas",
+   "start": 82.3,
+   "end": 82.74,
+   "p": 0.814
+  },
+  {
+   "w": "we",
+   "start": 82.74,
+   "end": 82.98,
+   "p": 0.946
+  },
+  {
+   "w": "found",
+   "start": 82.98,
+   "end": 83.2,
+   "p": 0.859
+  },
+  {
+   "w": "the",
+   "start": 83.2,
+   "end": 83.32,
+   "p": 0.991
+  },
+  {
+   "w": "most",
+   "start": 83.32,
+   "end": 83.48,
+   "p": 0.998
+  },
+  {
+   "w": "success",
+   "start": 83.48,
+   "end": 83.78,
+   "p": 0.96
+  },
+  {
+   "w": "with",
+   "start": 83.78,
+   "end": 84.12,
+   "p": 0.989
+  },
+  {
+   "w": "are",
+   "start": 84.12,
+   "end": 84.4,
+   "p": 0.944
+  },
+  {
+   "w": "the",
+   "start": 84.4,
+   "end": 84.56,
+   "p": 0.991
+  },
+  {
+   "w": "bold",
+   "start": 84.56,
+   "end": 84.9,
+   "p": 0.984
+  },
+  {
+   "w": "claim,",
+   "start": 84.9,
+   "end": 85.34,
+   "p": 0.976
+  },
+  {
+   "w": "the",
+   "start": 85.56,
+   "end": 85.7,
+   "p": 0.994
+  },
+  {
+   "w": "result,",
+   "start": 85.7,
+   "end": 86.08,
+   "p": 0.96
+  },
+  {
+   "w": "and",
+   "start": 86.28,
+   "end": 86.6,
+   "p": 0.995
+  },
+  {
+   "w": "the",
+   "start": 86.6,
+   "end": 86.76,
+   "p": 0.995
+  },
+  {
+   "w": "call",
+   "start": 86.76,
+   "end": 87.06,
+   "p": 0.993
+  },
+  {
+   "w": "out.",
+   "start": 87.06,
+   "end": 87.34,
+   "p": 0.557
+  },
+  {
+   "w": "But",
+   "start": 87.78,
+   "end": 87.82,
+   "p": 0.972
+  },
+  {
+   "w": "if",
+   "start": 87.82,
+   "end": 87.94,
+   "p": 0.982
+  },
+  {
+   "w": "you",
+   "start": 87.94,
+   "end": 88.06,
+   "p": 0.999
+  },
+  {
+   "w": "want",
+   "start": 88.06,
+   "end": 88.24,
+   "p": 0.999
+  },
+  {
+   "w": "our",
+   "start": 88.24,
+   "end": 88.4,
+   "p": 0.99
+  },
+  {
+   "w": "full",
+   "start": 88.4,
+   "end": 88.72,
+   "p": 0.994
+  },
+  {
+   "w": "hook",
+   "start": 88.72,
+   "end": 89.0,
+   "p": 0.942
+  },
+  {
+   "w": "breakdown",
+   "start": 89.0,
+   "end": 89.48,
+   "p": 0.968
+  },
+  {
+   "w": "with",
+   "start": 89.48,
+   "end": 89.8,
+   "p": 0.813
+  },
+  {
+   "w": "specific",
+   "start": 89.8,
+   "end": 90.2,
+   "p": 0.997
+  },
+  {
+   "w": "examples",
+   "start": 90.2,
+   "end": 90.68,
+   "p": 0.995
+  },
+  {
+   "w": "you",
+   "start": 90.68,
+   "end": 90.94,
+   "p": 0.821
+  },
+  {
+   "w": "can",
+   "start": 90.94,
+   "end": 91.06,
+   "p": 0.998
+  },
+  {
+   "w": "implement",
+   "start": 91.06,
+   "end": 91.38,
+   "p": 0.994
+  },
+  {
+   "w": "into",
+   "start": 91.38,
+   "end": 91.74,
+   "p": 0.99
+  },
+  {
+   "w": "your",
+   "start": 91.74,
+   "end": 91.98,
+   "p": 0.999
+  },
+  {
+   "w": "own",
+   "start": 91.98,
+   "end": 92.24,
+   "p": 0.997
+  },
+  {
+   "w": "content,",
+   "start": 92.24,
+   "end": 92.72,
+   "p": 0.997
+  },
+  {
+   "w": "then",
+   "start": 92.92,
+   "end": 93.22,
+   "p": 0.99
+  },
+  {
+   "w": "you",
+   "start": 93.22,
+   "end": 93.48,
+   "p": 0.989
+  },
+  {
+   "w": "can",
+   "start": 93.48,
+   "end": 93.6,
+   "p": 0.999
+  },
+  {
+   "w": "comment",
+   "start": 93.6,
+   "end": 93.82,
+   "p": 0.989
+  },
+  {
+   "w": "camper",
+   "start": 93.82,
+   "end": 94.22,
+   "p": 0.514
+  },
+  {
+   "w": "and",
+   "start": 94.22,
+   "end": 94.5,
+   "p": 0.849
+  },
+  {
+   "w": "I'll",
+   "start": 94.5,
+   "end": 94.62,
+   "p": 0.987
+  },
+  {
+   "w": "send",
+   "start": 94.62,
+   "end": 94.76,
+   "p": 0.998
+  },
+  {
+   "w": "it",
+   "start": 94.76,
+   "end": 94.88,
+   "p": 0.996
+  },
+  {
+   "w": "straight",
+   "start": 94.88,
+   "end": 95.06,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 95.06,
+   "end": 95.22,
+   "p": 0.997
+  },
+  {
+   "w": "your",
+   "start": 95.22,
+   "end": 95.34,
+   "p": 0.996
+  },
+  {
+   "w": "email",
+   "start": 95.34,
+   "end": 95.58,
+   "p": 0.979
+  },
+  {
+   "w": "inbox.",
+   "start": 95.58,
+   "end": 95.84,
+   "p": 0.893
+  },
+  {
+   "w": "Next",
+   "start": 96.18,
+   "end": 96.32,
+   "p": 0.98
+  },
+  {
+   "w": "week,",
+   "start": 96.32,
+   "end": 96.56,
+   "p": 0.998
+  },
+  {
+   "w": "we're",
+   "start": 96.62,
+   "end": 96.74,
+   "p": 0.997
+  },
+  {
+   "w": "going",
+   "start": 96.74,
+   "end": 96.86,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 96.86,
+   "end": 97.0,
+   "p": 1.0
+  },
+  {
+   "w": "get",
+   "start": 97.0,
+   "end": 97.1,
+   "p": 0.999
+  },
+  {
+   "w": "behind",
+   "start": 97.1,
+   "end": 97.5,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 97.5,
+   "end": 97.62,
+   "p": 0.998
+  },
+  {
+   "w": "camera",
+   "start": 97.62,
+   "end": 97.92,
+   "p": 0.998
+  },
+  {
+   "w": "to",
+   "start": 97.92,
+   "end": 98.18,
+   "p": 0.988
+  },
+  {
+   "w": "talk",
+   "start": 98.18,
+   "end": 98.4,
+   "p": 0.999
+  },
+  {
+   "w": "about",
+   "start": 98.4,
+   "end": 98.62,
+   "p": 1.0
+  },
+  {
+   "w": "equipment",
+   "start": 98.62,
+   "end": 98.92,
+   "p": 0.957
+  },
+  {
+   "w": "essentials",
+   "start": 98.92,
+   "end": 99.34,
+   "p": 0.961
+  },
+  {
+   "w": "you",
+   "start": 99.34,
+   "end": 99.7,
+   "p": 0.982
+  },
+  {
+   "w": "need",
+   "start": 99.7,
+   "end": 99.88,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 99.88,
+   "end": 100.1,
+   "p": 0.998
+  },
+  {
+   "w": "create",
+   "start": 100.1,
+   "end": 100.4,
+   "p": 0.998
+  },
+  {
+   "w": "the",
+   "start": 100.4,
+   "end": 100.58,
+   "p": 0.999
+  },
+  {
+   "w": "absolute",
+   "start": 100.58,
+   "end": 101.08,
+   "p": 0.998
+  },
+  {
+   "w": "best",
+   "start": 101.08,
+   "end": 101.48,
+   "p": 0.997
+  },
+  {
+   "w": "quality",
+   "start": 101.48,
+   "end": 101.86,
+   "p": 0.999
+  },
+  {
+   "w": "of",
+   "start": 101.86,
+   "end": 102.02,
+   "p": 0.998
+  },
+  {
+   "w": "content.",
+   "start": 102.02,
+   "end": 102.28,
+   "p": 0.991
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.38,
+   "text": "Lately, everyone's been obsessed with writing the perfect hook, but they're forgetting that each"
+  },
+  {
+   "start": 4.38,
+   "end": 9.12,
+   "text": "hook has two parts, and your content is probably forgetting one of them. Welcome to Content Camp,"
+  },
+  {
+   "start": 9.32,
+   "end": 13.82,
+   "text": "your eight-week crash course in storytelling, filming, and editing so that by the end of"
+  },
+  {
+   "start": 13.82,
+   "end": 17.98,
+   "text": "the summer, you'll be creating content that actually performs. If we break down the anatomy"
+  },
+  {
+   "start": 17.98,
+   "end": 22.74,
+   "text": "of a great video, you'll see that there are almost always two parts. The visual hook,"
+  },
+  {
+   "start": 22.86,
+   "end": 26.6,
+   "text": "which is what people see, and the verbal hook, which is what people hear. It's estimated"
+  },
+  {
+   "start": 26.6,
+   "end": 33.3,
+   "text": "that 80 to 85% of social media is consumed without sound, and even when the sound is on,"
+  },
+  {
+   "start": 33.46,
+   "end": 37.38,
+   "text": "people are usually only half listening. What this means is that your visual hook has to"
+  },
+  {
+   "start": 37.38,
+   "end": 42.14,
+   "text": "land with no audio, and your verbal hook has to land with no visual. If either of those depend on"
+  },
+  {
+   "start": 42.14,
+   "end": 46.02,
+   "text": "the other to make sense, then you've already lost the great majority of your audience."
+  },
+  {
+   "start": 46.22,
+   "end": 50.42,
+   "text": "The biggest mistake I see when it comes to hooks are when both hooks say the same thing."
+  },
+  {
+   "start": 50.54,
+   "end": 54.92,
+   "text": "So for example, let's say you're filming a workday in my life vlog, and you do your morning"
+  },
+  {
+   "start": 54.92,
+   "end": 58.54,
+   "text": "routine, then you commute to the office, then you get to the office, and you start your work."
+  },
+  {
+   "start": 58.66,
+   "end": 63.0,
+   "text": "If your voiceover just narrates what you're doing on screen, then it's not as engaging for the viewer,"
+  },
+  {
+   "start": 63.02,
+   "end": 67.98,
+   "text": "and instead you want them to do different jobs. So for example, you could say something like,"
+  },
+  {
+   "start": 68.18,
+   "end": 74.02,
+   "text": "I deleted my first 100 videos before I ever posted my first, or this is how Blank got me"
+  },
+  {
+   "start": 74.02,
+   "end": 78.2,
+   "text": "my dream job, and you can insert something crazy or captivating. That way your visuals"
+  },
+  {
+   "start": 78.2,
+   "end": 82.3,
+   "text": "give context, but the main focus is the story that you're trying to tell. A few hook"
+  },
+  {
+   "start": 82.3,
+   "end": 87.34,
+   "text": "formulas we found the most success with are the bold claim, the result, and the call out."
+  },
+  {
+   "start": 87.78,
+   "end": 91.98,
+   "text": "But if you want our full hook breakdown with specific examples you can implement into your"
+  },
+  {
+   "start": 91.98,
+   "end": 95.84,
+   "text": "own content, then you can comment camper and I'll send it straight to your email inbox."
+  },
+  {
+   "start": 96.18,
+   "end": 100.1,
+   "text": "Next week, we're going to get behind the camera to talk about equipment essentials you need to"
+  },
+  {
+   "start": 100.1,
+   "end": 102.28,
+   "text": "create the absolute best quality of content."
+  }
+ ]
+}

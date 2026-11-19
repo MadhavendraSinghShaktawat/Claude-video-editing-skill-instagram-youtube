@@ -1,0 +1,11 @@
+{
+ "name": "director-capture",
+ "version": "1.0.0",
+ "description": "Capture web pages at 2x with element boxes, for the director's browser scenes",
+ "license": "MIT",
+ "type": "commonjs",
+ "dependencies": {
+  "puppeteer-core": "^25.17.0"
+ },
+ "private": true
+}

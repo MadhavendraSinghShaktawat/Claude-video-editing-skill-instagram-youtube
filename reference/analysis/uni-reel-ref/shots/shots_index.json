@@ -1,0 +1,50 @@
+{
+ "how_to_read": "tiles left-to-right, top-to-bottom; label = #shot index and time in seconds",
+ "sheets": [
+  {
+   "file": "shots_001.jpg",
+   "shots": [
+    0,
+    12
+   ],
+   "t_start": 0.07,
+   "t_end": 28.7
+  },
+  {
+   "file": "shots_002.jpg",
+   "shots": [
+    12,
+    24
+   ],
+   "t_start": 31.4,
+   "t_end": 52.6
+  },
+  {
+   "file": "shots_003.jpg",
+   "shots": [
+    24,
+    36
+   ],
+   "t_start": 52.87,
+   "t_end": 79.4
+  },
+  {
+   "file": "shots_004.jpg",
+   "shots": [
+    36,
+    48
+   ],
+   "t_start": 81.47,
+   "t_end": 101.2
+  },
+  {
+   "file": "shots_005.jpg",
+   "shots": [
+    48,
+    50
+   ],
+   "t_start": 101.37,
+   "t_end": 102.17
+  }
+ ]
+}

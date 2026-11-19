@@ -1,0 +1,733 @@
+# Timeline: kallaway-dopamine-ladders.mp4
+
+One row per shot. `cut` = how the shot starts (hard = new picture, punch = same picture instant zoom with its scale, jump = same picture instant shift, pop = a graphic appears instantly in part of the frame, transition = multi-frame).
+`move` = camera movement measured inside the shot. `T:` on-screen text that first appears in this shot (height as % of frame; `=said` when it repeats spoken words, with seconds text leads(-)/lags(+) the word). `S:` sound-event candidates (★ = lands within 0.12 s of a cut or motion event).
+
+
+## 0:00.00 Intro
+
+- **#0** 0:00.00 +0.67s | start | speaker 29%@0.49,0.36 | eased zoom out x0.799
+  - “If you want to get people”
+- **#1** 0:00.67 +3.00s | transition | page with a face on it 14%@0.49,0.47 | eased zoom out x0.675
+  - “truly addicted to watching your content, there's one”
+  - S: LOW@0.78(-10dB)
+- **#2** 0:03.67 +5.05s | transition | flat graphic | eased zoom in x1.377 | 1 motion ev
+  - “trick you should be using every single time. It's called the dopamine ladder. And if you can understand”
+  - T: “Dopamine” 5.0% @0.15,0.49 1.3s #b6b6b9 =said +0.46s
+  - T: “Ladder” 4.7% @0.84,0.50 1.1s #b5b5b7 =said +0.21s
+  - T: “There's one trick you should be using every single time.” 3.9% @0.50,0.33 2.0s #c0bdc1 =said +1.24s
+  - S: LOW@3.60(-6dB), BB+LOW@4.63(-10dB), BB+LOW@7.26(+3dB)
+- **#3** 0:08.72 +15.43s | hard | speaker 33%@0.50,0.38 | eased zoom in x1.050 | 5 motion ev
+  - “this one framework, you'll become a master of attention overnight. Now, I know this works because content is all I do all day long. I have a million followers. I've done billions of views and I've spent years studying exactly how to use psychology to grow faster on social media and YouTube.”
+  - T: “999B+” 5.7% @0.85,0.41 1.0s #e5e9f7
+  - T: “You'll become amaster” 5.2% @0.13,0.51 1.2s #827e88 built =said +0.24s
+  - T: “208M” 5.2% @0.15,0.41 1.0s #664688
+  - T: “You'll become a master of attention overnight.” 3.4% @0.23,0.50 2.0s #c9c9ca =said +1.47s
+  - (+6 more/smaller text lines)
+  - S: ★LOW@10.40(-4dB), LOW@18.43(-5dB)
+- **#4** 0:24.15 +0.67s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+  - “So in this video,”
+- **#5** 0:24.82 +4.00s | transition | flat graphic | eased zoom out x0.260
+  - “I'm going to break down the six levels of the dopamine ladder. How it”
+  - T: “DopamineLadder” 4.1% @0.50,0.51 0.9s #f5f5f6
+  - T: “6Levelsof” 3.1% @0.50,0.47 1.9s #d0cfd0
+  - S: LOW@28.37(-3dB)
+- **#6** 0:28.82 +1.00s | jump x1.0 | flat graphic | pan/slide x1.006
+  - “works, why it”
+  - T: “DopamineLadder” 7.3% @0.74,0.23 1.0s #676768
+  - T: “6Leveisdf” 6.3% @0.74,0.17 1.0s #c8c8c8
+  - T: “Howit” 5.6% @0.37,0.53 0.8s #b2b2b4
+- **#7** 0:29.82 +1.54s | jump x1.0 | flat graphic | slow push in x1.019
+  - “works, and most importantly, the”
+  - T: “Dopamine Ladder” 7.0% @0.20,0.72 1.4s #686475 =said +2.54s
+  - T: “Why itworks” 5.0% @0.59,0.50 1.4s #9e9e9e built
+  - T: “6 Levels of” 5.0% @0.20,0.66 1.4s #b7b5bb =said +3.54s
+  - S: ★LOW@29.79(-4dB)
+- **#8** 0:31.36 +9.68s | jump x0.807 | flat graphic | slow pull out x0.987 | 1 motion ev
+  - “specific tactics for how you can use it to your advantage. Now, before I explain the dopamine ladder, it's critical to understand the psychology of how attention actually works.”
+  - T: “to your advantage” 5.0% @0.50,0.57 3.7s #939396 built =said -2.06s
+  - T: “Dopamine Ladder?” 5.0% @0.50,0.52 2.6s #f7f7f7 =said +2.39s
+  - T: “Tactics to use it” 4.8% @0.50,0.52 3.7s #d2d2d2 =said -0.38s
+  - T: “Whatisthe” 3.3% @0.50,0.48 3.6s #a4a4a5 built
+  - S: ★LOW@31.33(-3dB), ★LOW@35.08(-4dB)
+- **#9** 0:41.04 +5.88s | hard | speaker 32%@0.49,0.38 | static | 2 motion ev
+  - “Like what is really going on in a viewer's brain when they watch a video? And this alone will be a huge unlock for you.”
+  - T: “REPRESEN” 4.4% @0.61,0.86 1.0s #1b191a
+- **#10** 0:46.92 +10.68s | hard | flat graphic | eased zoom in x0.589 | 2 motion ev
+  - “There are six stages of a viewer's journey when watching content that release increasing amounts of dopamine. And if you can ascend them through all six stages, they will have watched your entire video and want to come back to watch more. Now,”
+  - T: “Dopamine” 5.4% @0.15,0.51 0.9s #d6d3d7
+  - T: “Ladder” 5.2% @0.85,0.51 0.9s #dbd9de
+  - T: “Level 3” 4.6% @0.32,0.76 3.2s #89858d
+  - T: “Level 2” 4.5% @0.32,0.97 2.3s #817690
+  - T: “Level1” 4.4% @0.50,0.85 1.0s #747178
+  - T: “Level 1” 4.3% @0.50,0.63 2.0s #cfcdd2
+  - (+18 more/smaller text lines)
+  - S: ★LOW@46.85(-6dB), LOW@48.80(-4dB), ★LOW@52.52(-5dB), ★LOW@55.68(-4dB)
+
+## 0:48.00 What is The Dopamine Ladder
+
+- **#11** 0:57.60 +5.09s | hard | speaker 35%@0.52,0.33 | eased zoom out x0.917 | 1 motion ev
+  - “eventually, if you get them to the end of the dopamine ladder and you do that consistently, you will create a Pavlovian”
+  - S: LOW@62.52(-4dB)
+- **#12** 1:02.69 +1.71s | pop | speaker 30%@0.50,0.36 | static | 2 motion ev
+  - “effect. And this really”
+  - T: “PAVL” 16.3% @0.28,0.36 1.5s #7a716e
+- **#13** 1:04.40 +2.79s | pop | speaker 31%@0.50,0.37 | static | 2 motion ev
+  - “is the ultimate goal if you're making content.”
+- **#14** 1:07.19 +12.01s | hard | flat graphic | eased zoom in x2.264 | 3 motion ev
+  - “Pavlov is the famous scientist that proved classical conditioning. Every time he rang this bell, he gave a dog food so that eventually whenever the bell rang, the dog's mouth would water because it represented that sound with getting food.”
+  - T: “Ivan Pavlov” 6.1% @0.50,0.85 1.0s #fdfbff
+  - T: “Ivan Pavlov” 5.7% @0.25,0.85 3.0s #e7e4ed
+  - T: “healthline” 3.4% @0.50,0.11 1.5s #bab9be
+  - T: “Wereall exposed” 3.2% @0.33,0.04 1.0s #5b5b5d
+  - T: “Classical conditioning definltlon” 3.1% @0.61,0.18 1.5s #cba6e0 =said -0.05s
+  - (+22 more/smaller text lines)
+  - S: BB+LOW@69.03(-8dB), LOW@71.68(+1dB), LOW@76.77(-4dB)
+- **#15** 1:19.20 +2.96s | hard | speaker 34%@0.50,0.38 | static | 1 motion ev
+  - “You're really going after this same thing when it comes to content because”
+- **#16** 1:22.17 +14.85s | punch x0.954 | speaker 30%@0.51,0.36 | static | 3 motion ev
+  - “the ultimate sign of attention mastery is when you can make dopamine release in the brain of a viewer just by seeing your name or face without actually watching any of your content. And if you can do that, you've basically created a super fan that will watch every single thing you make.”
+  - T: “The ultimate level of attention mastery is triggering dopamine in viewers” 5.4% @0.37,0.85 10.0s #868486 =said +0.73s
+- **#17** 1:37.01 +2.92s | punch x1.048 | speaker 33%@0.50,0.38 | static | 1 motion ev
+  - “This is when you reach King status in attention land.”
+- **#18** 1:39.93 +5.17s | punch x1.046 | speaker 35%@0.49,0.37 | static | 3 motion ev
+  - “Now, if you can learn to do this on command, you can pretty much build any business as big as you want. It's that powerful.”
+- **#19** 1:45.11 +0.46s | transition | speaker 36%@0.48,0.36 | static | 1 motion ev
+  - “Okay,”
+- **#20** 1:45.56 +1.04s | transition | speaker 35%@0.49,0.37 | eased zoom out x0.966
+  - “so the question is, what”
+  - T: “What are the six levels? and how do you make your content” 3.6% @0.50,0.50 8.8s #c8c1c0 built =said -0.02s
+- **#21** 1:46.61 +7.72s | transition | page with a face on it 24%@0.51,0.33 | eased zoom out x0.980 | 1 motion ev
+  - “are the six levels and how do you make your content so that the viewer ascends through the dopamine ladder and you instill the Pavlovian response? And”
+  - T: “so thattheviewerascendsthroughthedopamineladder” 3.0% @0.50,0.54 5.7s #b9b5b6 built
+  - T: “andyouinstillthePavlovianresponse?” 3.0% @0.50,0.57 2.7s #d4d3d3
+  - S: LOW@106.70(-10dB)
+- **#22** 1:54.32 +1.71s | transition | speaker 35%@0.48,0.34 | eased zoom in x1.084
+  - “that's what we're going to break down right now.”
+  - S: LOW@114.42(-6dB)
+
+## 1:55.00 Level 1: Stimulation
+
+- **#23** 1:56.03 +0.83s | hard | flat graphic | pan/slide x1.008
+  - “All right, the very first rung”
+- **#24** 1:56.87 +8.97s | jump x1.175 | flat graphic | slow push in x1.127
+  - “in the dopamine ladder is the exact same for all visual content, whether it's short form or long form, it applies the same. And this first rung is called stimulation.”
+  - T: “Stimulation” 5.2% @0.50,0.51 2.9s #a86ee5 =said -1.91s
+  - T: “Level 1” 3.8% @0.50,0.56 7.9s #b3b3b8
+  - S: ★LOW@116.83(-4dB)
+- **#25** 2:05.83 +4.50s | hard | speaker 31%@0.50,0.38 | static | 2 motion ev
+  - “Okay, the stimulation step is what happens in the very first one to two seconds of the video.”
+  - T: “Happens in the first 1-2 seconds. giving enough subconscious” 5.7% @0.34,0.85 1.0s #9f9da4
+  - T: “Stimulation step” 4.6% @0.18,0.79 3.5s #d6d4db =said +0.55s
+  - T: “Happensinthefirst1-2seconds,givingenoughsubconscioussparktopulltheviewer'sfocus.” 3.2% @0.46,0.84 1.5s #acabae
+- **#26** 2:10.34 +12.93s | jump x1.0 | speaker 30%@0.49,0.40 | static | 5 motion ev
+  - “Think of stimulation like a visual stun gun that gets someone to stop and lock in on one thing. It's like a deer in the woods noticing something out of the corner of their eye and they can't resist the urge but to pick up their head, look and lock in on that one spot. Now,”
+- **#27** 2:23.27 +18.98s | punch x1.044 | speaker 34%@0.50,0.37 | eased zoom in x1.071 | 4 motion ev
+  - “dopamine from stimulation comes from colors, motion and brightness that is picked up initially from the eye. So literally, if you show a combination of colors, motion, contrast and brightness that is different from what the viewer typically sees, they're going to get a hit of dopamine and they will pause for a split second. And this is all you need to earn the space to get them to level two.”
+  - T: “Colors” 3.7% @0.25,0.79 5.0s #949197 =said -0.26s
+  - T: “Motion” 3.7% @0.50,0.79 5.0s #e9e5e5 =said -0.04s
+  - T: “Brightness” 3.1% @0.75,0.79 4.0s #e7e5e8 =said +0.36s
+  - S: LOW@156.15(-6dB)
+- **#28** 2:42.25 +1.71s | punch x0.958 | speaker 36%@0.49,0.37 | static | 1 motion ev
+  - “Now to prove this is how it works, I'm going to show”
+- **#29** 2:43.96 +0.83s | hard | flat graphic | eased zoom in x1.648 | 1 motion ev
+  - “eight 9x16”
+- **#30** 2:44.79 +21.23s | transition | flat graphic | slow push in x1.034 | 1 motion ev
+  - “images on the screen with colors and motion, but I'm going to blur it out so you don't know exactly what they are. I want you to look at these and tell me exactly which one your attention goes to first. All right, now for most people, these were the two that they noticed and visually focused on. See, your eyes go to the ones that have more motion color and brightness, that's just how your subconscious brain works. You can't override it.”
+  - T: “More motion” 3.9% @0.17,0.45 4.3s #d0b6e1 =said +0.44s
+  - T: “More brightness” 3.5% @0.19,0.55 3.3s #cfb2e5 =said +1.44s
+  - T: “More color” 3.2% @0.17,0.50 3.3s #d7bde4 =said +1.44s
+- **#31** 3:06.02 +7.63s | hard | speaker 34%@0.50,0.36 | static | 4 motion ev
+  - “And again, to prove it to you in another way, if you were to watch your social media on grayscale or black and white, I guarantee it just wouldn't be as interesting to you.”
+- **#32** 3:13.65 +41.38s | punch x0.956 | speaker 34%@0.50,0.37 | static | 12 motion ev
+  - “What's really happening under the hood here in your neurochemistry is that your brain is processing things in two stages. The first stage is the rapid subconscious processing stage. It's called bottoms up processing. And this processing happens so fast in like 200 milliseconds that your eye and brain are just catching vivid colors and motion. They're not actually comprehending what they're seeing. But knowing this is how you hack people on the treadmill to pause and pay attention for a split second. So for you, the tactical tip is that when you're making your own content, you need enough color, motion and contrast to be able to visually stun them for the first one to two seconds. But here's the thing, if everybody copies the exact same motion color contrast pattern, the viewer will become desensitized because the whole feed will have it and then that will stop working.”
+  - T: “When creating content, pack in enough color, movement, and contrast to visually grab” 6.5% @0.43,0.85 7.0s #8d8b8f =said +0.29s
+  - T: “Bottoms-up Processing” 3.9% @0.50,0.87 12.0s #caacee
+  - T: “Tactical tip” 3.9% @0.15,0.79 8.0s #cdcbd7 =said +0.11s
+  - T: “REPRESEN” 3.0% @0.62,0.85 1.0s #221f20
+  - (+1 more/smaller text lines)
+- **#33** 3:55.03 +10.84s | punch x0.954 | speaker 30%@0.50,0.38 | static | 3 motion ev
+  - “This is why coming up with your own unique visuals, your unique color palette, the motion, the aesthetic that you want is really critical because it helps you cut through the feed and trigger this subconscious stimulation.”
+- **#34** 4:05.87 +10.55s | punch x1.047 | speaker 34%@0.50,0.38 | static | 3 motion ev
+  - “Okay, so that's level one. Now stimulation is the weakest and the shortest of the dopamine releases, but it's a very important precursor, like we said, because if you don't trigger the focus, the rest of the levels don't even matter.”
+
+## 4:16.00 Level 2: Captivation
+
+- **#35** 4:16.42 +3.34s | hard | flat graphic | eased zoom in x1.321
+  - “All right, level two in the dopamine ladder is called captivation.”
+  - T: “Captivation” 6.3% @0.50,0.50 1.5s #5d3892 =said -0.29s
+  - T: “Stimulation” 5.7% @0.50,0.57 1.0s #b57af0
+  - T: “Stimulation” 5.2% @0.50,0.51 0.9s #b476f2
+  - T: “Level 2” 5.0% @0.50,0.56 1.5s #dedee2
+  - T: “Level 1” 4.8% @0.50,0.86 1.5s #c5bbdb
+  - T: “Level” 4.2% @0.49,0.37 1.0s #7e7e82 =said +0.61s
+  - (+2 more/smaller text lines)
+- **#36** 4:19.76 +4.21s | hard | speaker 29%@0.49,0.38 | static | 2 motion ev
+  - “And this is where the comprehension of what you say and how you say it really starts mattering.”
+- **#37** 4:23.97 +16.23s | punch x1.05 | speaker 33%@0.50,0.38 | eased zoom out x0.952 | 7 motion ev
+  - “The first step was literally just visual brain hacking, but here, this is where the sauce really starts coming in. Now, captivation is the curiosity stage. Massive amounts of dopamine are released in the viewer's brain as soon as they are captivated by an open question that they ask in their own head. Many people call this a”
+  - S: ★LOW@279.44(-5dB)
+- **#38** 4:40.20 +1.58s | pop | speaker 29%@0.50,0.40 | static | 1 motion ev
+  - “curiosity loop. Your video”
+  - T: “LCOP” 9.5% @0.13,0.65 0.7s #f0edfc
+  - T: “CURIOSITY” 7.6% @0.20,0.54 6.9s #78787a =said +0.04s
+  - T: “Yourvideomustdrive an” 3.7% @0.14,0.73 1.1s #2c3041 built
+- **#39** 4:41.78 +5.25s | transition | speaker 29%@0.52,0.36 | static
+  - “must drive an open question that puts the viewer into a loop so that they hunt for the answer. Now,”
+  - T: “intoa loop sothat theyhunt fortheanswer:” 4.8% @0.20,0.75 4.2s #7b7c81
+  - (+1 more/smaller text lines)
+- **#40** 4:47.04 +6.51s | transition | speaker 31%@0.51,0.36 | eased zoom in x1.088 | 2 motion ev
+  - “the reason curiosity loops work so well for triggering dopamine is because the human brain is a problem -solving machine.”
+  - S: LOW@287.13(-3dB)
+- **#41** 4:53.54 +17.10s | punch x1.045 | speaker 30%@0.50,0.37 | eased zoom out x0.901 | 4 motion ev
+  - “It evolved to be really good at thinking critically and taking open, complex questions and solving them. The bigger and more non -obvious the question, the bigger the curiosity, the higher the stakes, and the more dopamine that gets released. The more relevant the question to the viewer, the bigger the curiosity, the higher the stakes, and the more dopamine that gets released.”
+  - T: “Bigger curiosity” 4.1% @0.82,0.49 9.3s #cac1bd =said +0.68s
+  - T: “Bigger +More” 3.9% @0.17,0.49 6.0s #9b74d0 =said +0.51s
+  - T: “non-obvious question” 3.9% @0.21,0.53 6.0s #c2bcbe built
+  - T: “+Higher stakes” 3.9% @0.82,0.53 9.3s #e0dbdd =said -0.49s
+  - T: “+More dopamine” 3.9% @0.81,0.57 9.3s #c6c4c8 =said -1.56s
+  - T: “questilon” 3.9% @0.27,0.52 1.0s #b2a099
+  - (+2 more/smaller text lines)
+  - S: LOW@299.06(-6dB)
+- **#42** 5:10.64 +14.81s | hard | flat graphic | eased zoom in x1.733
+  - “For example, if you made a video that got a viewer to ask the question to themselves, hmm, I wonder when the aliens are visiting Earth? Well, this is a pretty huge question so it could be very curiosity -inducing, but if they don't care about aliens, then it's not going to be relevant at all and they're going to churn. They won't be captivated. So,”
+  - T: “Curiosity” 7.8% @0.28,0.20 1.0s #fdfdfd
+  - T: “Inducing” 7.8% @0.27,0.28 1.0s #fdfdfd
+  - T: “Curiosity” 6.3% @0.42,0.35 1.0s #c4c4c4
+  - T: “Inducing” 6.1% @0.42,0.42 1.0s #c5c5c5 =said +3.70s
+  - T: “Inducing” 5.4% @0.52,0.51 3.0s #e7e6e8 =said +0.70s
+  - T: “Curiosity” 5.2% @0.72,0.48 2.0s #d4d3d7 =said -0.86s
+  - (+20 more/smaller text lines)
+  - S: LOW@323.39(-7dB)
+- **#43** 5:25.45 +49.05s | hard | speaker 31%@0.51,0.37 | eased zoom out x0.978 | 17 motion ev
+  - “tactically, it's important to ask yourself these couple questions as you're structuring the hook to make sure you're setting up the best possible question. First, what is the most curiosity -inducing question that I could ask about this topic to trigger in the viewer's mind? And second, how well will that question map to something the viewer cares about given the ideal avatar I think I'm attracting? And then you have to figure out what words you say and visuals you show to try to get that question to pop in their head. Now, there's two ways to get a question to implant in a viewer's mind. You could literally ask it, like rhetorically the way I just did, or you can imply it with details and try to get them to put it in their own head. Either way, as quickly as possible in the video, you need the viewer to pop a very interesting question in their mind or they're not going to be captivated. And if the question doesn't pop or it's just not that interesting, then they're going to bounce and you have no chance.”
+  - T: “Literally ask the question” 3.9% @0.83,0.54 7.0s #c9b7ae built =said +0.79s
+  - T: “lmplyitwithdetails” 3.4% @0.20,0.54 4.0s #bcb2ad built
+  - T: “that I could ask about thistopic” 3.1% @0.18,0.53 17.0s #b396d7 =said -0.23s
+  - T: “What is the most curiosity inducing question” 3.0% @0.18,0.50 18.0s #8461b4 built =said +0.85s
+  - (+5 more/smaller text lines)
+  - S: ★LOW@332.86(-5dB), LOW@352.02(-4dB), LOW@362.65(-6dB), ★LOW@372.75(-5dB)
+- **#44** 6:14.50 +25.40s | hard | flat graphic | eased zoom in x1.176
+  - “So for example, let's say I was scrolling the feed and I saw this really attractive person with this red and orange vivid graphic behind them that was moving. I might be stimulated enough from level one to pause for a second and see what they have to say. But then if that person starts the video saying, here's how you do your makeup for the holidays, the questions that are going to pop into my mind are the following. How does she do her makeup? Why is she doing it like that? These are the types of questions that pop into a curious mind regardless of who it is.”
+  - T: “How does she do her makeup?” 4.6% @0.24,0.47 5.5s #b6b6b6 =said +0.42s
+  - T: “Whydoesshedoing” 4.4% @0.71,0.48 1.0s #b4b4b4
+  - T: “Why does she doing it like that?” 3.7% @0.76,0.47 3.5s #cbcbcc =said +1.12s
+  - T: “"Here'showyou” 3.2% @0.50,0.59 8.5s #b5a2b5
+  - T: “"Here's how you” 3.0% @0.50,0.38 2.0s #b4a0a5 =said +0.44s
+  - T: “forthe holidays"” 3.0% @0.50,0.42 1.0s #a9a4b7
+  - (+3 more/smaller text lines)
+- **#45** 6:39.90 +5.50s | hard | speaker 35%@0.52,0.36 | static | 1 motion ev
+  - “But for me, I don't obviously care about the topic of makeup at all and so that's not relevant to me and I'm churning immediately.”
+- **#46** 6:45.40 +16.23s | punch x0.956 | speaker 30%@0.51,0.37 | eased zoom out x0.904 | 7 motion ev
+  - “Basically, she got me on the stimulation and bought me into the first kind of question -posing period but then she didn't get me on the captivation. The reality is if your hooks are not hooking, it means that the question that popped in the viewer's mind is either not relevant to them or just not interesting enough to hold them.”
+  - T: “Not interesting enough” 3.9% @0.84,0.54 2.0s #d1d8df =said +0.53s
+  - T: “Not relevant to them” 3.3% @0.16,0.54 4.0s #c1afae =said +0.41s
+  - (+1 more/smaller text lines)
+  - S: ★BB+LOW@413.11(-3dB)
+- **#47** 7:01.63 +2.54s | jump x1.0 | speaker 29%@0.51,0.37 | static | 2 motion ev
+  - “So that's level two of the dopamine ladder.”
+- **#48** 7:04.17 +9.01s | punch x1.04 | speaker 30%@0.52,0.36 | static | 4 motion ev
+  - “If you want to captivate the viewer and get them to keep watching, you have to pop a curiosity -based loop in their mind from the question. The act of opening that loop will release dopamine.”
+- **#49** 7:13.18 +20.85s | punch x1.047 | speaker 32%@0.51,0.36 | pan/slide x1.000 | 3 motion ev
+  - “Now, here's a few pro tips for triggering a massive amount of curiosity in this process. For one, you can use contrast where you compare a known thing to an unknown thing or two, you can frame a super shocking or weird premise that they've never seen or heard before. Typically, unknown things pop curiosity better than anything else because curious people want to know what the thing is they've never seen. All”
+  - T: “Captivation” 7.0% @0.50,0.50 1.0s #b575f3
+  - T: “Level 1” 4.9% @0.50,0.87 1.0s #d1c3e9
+  - T: “Level 2” 4.8% @0.50,0.56 1.0s #d1cae0
+  - T: “REPRESEIT” 4.6% @0.62,0.87 13.0s #1f1b1e
+  - T: “Use contrast by comparing something” 3.9% @0.26,0.50 10.0s #8d8383 built
+  - T: “Deliver a shocking, never-seen-” 3.9% @0.78,0.50 5.0s #ac9a98
+  - (+2 more/smaller text lines)
+
+## 7:33.00 Level 3: Anticipation
+
+- **#50** 7:34.04 +11.35s | hard | flat graphic | slow pull out x0.941
+  - “right, level three in the dopamine ladder is anticipation. So far, you've stimulated them initially to get them to give you a chance and then you've captivated them by opening a curiosity -based question in their head.”
+  - T: “Captivation” 6.9% @0.50,0.78 2.0s #b777f5
+  - T: “Anticipation” 6.7% @0.50,0.48 1.0s #b97af4 =said +0.75s
+  - T: “Stimulation” 6.6% @0.50,0.94 1.0s #a970e1
+  - T: “Stimulation” 6.5% @0.50,0.93 1.0s #b677f4
+  - T: “Stimulation” 6.5% @0.50,0.47 6.5s #b97af3
+  - T: “Captivation” 6.3% @0.50,0.18 6.5s #b677f3
+  - (+8 more/smaller text lines)
+- **#51** 7:45.38 +17.77s | hard | speaker 30%@0.51,0.37 | static | 5 motion ev
+  - “This next step, anticipation is super powerful and this is really where people get locked in into the video. Anticipation is what happens when a viewer begins to guess in their head what the answer might be to the question you just posed in level two. This is essentially a mystery novel playing out in their head in real time as they watch the video. Typically,”
+  - (+1 more/smaller text lines)
+- **#52** 8:03.15 +8.93s | hard | flat graphic | static
+  - “what happens is as soon as a question pops in someone's head, they immediately are trying to anticipate what the answer might be. It's kind of like this subconscious guessing game that goes on.”
+  - S: LOW@483.93(-8dB)
+- **#53** 8:12.07 +3.88s | hard | speaker 31%@0.50,0.37 | static
+  - “Now, the more information you give someone that helps them anticipate what the answer might be,”
+  - T: “REPRES!” 3.0% @0.61,0.84 1.0s #1e1a1c
+- **#54** 8:15.95 +1.54s | jump x1.0 | speaker 33%@0.51,0.38 | static
+  - “the more curious they're going to become right”
+- **#55** 8:17.50 +2.13s | jump x1.0 | speaker 31%@0.51,0.35 | static | 1 motion ev
+  - “up until the answer is revealed.”
+- **#56** 8:19.62 +89.30s | punch x1.046 | speaker 30%@0.50,0.37 | eased zoom out x0.898 | 32 motion ev
+  - “The highest level of dopamine is achieved just before the answer comes. So what you want to do is give them details to get that anticipation close, ratchet up that curiosity and then just before you deliver the answer, yank it away and head fake them in another direction. Typically, adding misdirections, non -obvious twists and head fakes is a great way to reset the curiosity -based anticipation loop. And this will make them guess the answer or get distracted, pop a new question and then restart the process. This is why it's called a curiosity loop. The loop is them see -sawing between question, anticipation and answer. Or if you don't want to yank away the answer, you could give them the answer and then pop a second question right after that. Either way, this looping game of new questions and new answers is how you build anticipation. Now here's a big pro tip on anticipation. The viewer is only able to anticipate what the answer might be if they're clear on the facts that you're giving them. If you throw a bunch of rogue details in that don't really make sense with the question or they can't understand the facts that you're presenting, they're going to get confused and bounce. So tactically for you, as you develop your story, if you want to ratchet up anticipation, you want to ask yourself this. Based on the question the viewer should have in their head from level two, what should they be anticipating the answer to be? And based on that answer, what additional facts or context can we give them to get them closer to it? From there, should we give them the answer or is there a way you head fake or tease them away from it to reset that curiosity loop? This curiosity anticipation process is kind of like the edging of the storytelling world. Now, if you've ever seen those visual hooks where it”
+  - T: “Theviewercan onlyanticipate” 5.2% @0.22,0.85 1.0s #78777e
+  - T: “The viewer can only anticipate your answer if the facts you give them are clear.” 4.8% @0.40,0.84 5.0s #9d999d =said -0.50s
+  - T: “REPRESENT” 4.8% @0.28,0.86 1.4s #191719
+  - T: “REPRESENT” 4.4% @0.27,0.84 0.8s #191719
+  - T: “Question” 4.1% @0.69,0.47 4.0s #c4b9b7 =said +0.10s
+  - T: “Questiol” 4.1% @0.68,0.47 3.0s #ede4de built
+  - (+23 more/smaller text lines)
+  - S: LOW@520.97(-3dB), ★LOW@541.69(-6dB), BB+LOW@555.55(-3dB)
+- **#57** 9:48.92 +2.08s | hard | flat graphic | eased zoom in x1.021 | 1 motion ev
+  - “looks like someone's about to get hit by a car, the”
+  - T: “Joyride (2001)” 3.2% @0.21,0.20 11.4s #b4bac4
+- **#58** 9:51.01 +1.42s | hard | flat graphic | slow push in x1.013
+  - “car is like slowly approaching,”
+- **#59** 9:52.42 +1.83s | hard | page with a face on it 52%@0.50,0.45 | eased zoom out x0.882 | 1 motion ev
+  - “this is using anticipation to”
+- **#60** 9:54.26 +2.04s | jump x0.946 | page with a face on it 12%@0.44,0.27 | pan/slide x1.003 | 1 motion ev
+  - “get you to hold on. The reason these work so”
+- **#61** 9:56.30 +1.04s | jump x0.762 | page with a face on it 49%@0.70,0.42 | eased zoom out x0.954
+  - “well is because you originally see”
+- **#62** 9:57.35 +0.92s | hard | flat graphic | slow push in x1.043 | 1 motion ev
+  - “the person and”
+- **#63** 9:58.26 +0.92s | hard | page with a face on it 6%@0.26,0.23 | static
+  - “the car coming and”
+- **#64** 9:59.18 +1.21s | jump x0.973 | page with a face on it 33%@0.23,0.43 | slow pull out x0.984 | 2 motion ev
+  - “it pops the question,”
+- **#65** 10:00.39 +0.88s | transition | flat graphic | slow pull out x0.980
+  - “is that person going to get hit”
+  - T: “is that person gonna get hit by a car?” 3.8% @0.24,0.50 4.2s #a69db6 built =said -0.18s
+- **#66** 10:01.27 +0.92s | pop | flat graphic | slow pull out x0.978
+  - “by a car? Is that”
+- **#67** 10:02.18 +0.33s | pop | flat graphic | static
+  - “car really”
+  - T: “Is that car really gonna run them over?” 3.2% @0.75,0.50 2.4s #99999b built =said +0.22s
+- **#68** 10:02.52 +1.33s | pop | flat graphic | static | 1 motion ev
+  - “going to run them over? And then as”
+- **#69** 10:03.85 +0.38s | pop | flat graphic | static
+  - “the”
+- **#70** 10:04.23 +0.33s | transition | page with a face on it 55%@0.64,0.52 | static
+  - “car slowly”
+- **#71** 10:04.56 +1.13s | jump x1.001 | page with a face on it 44%@0.32,0.40 | eased zoom in x1.022 | 2 motion ev
+  - “approaches, you”
+  - T: “Joyride (2001)” 3.2% @0.21,0.20 7.2s #bab4b3
+- **#72** 10:05.69 +1.50s | hard | flat graphic | eased zoom in x1.259
+  - “start anticipating, wait,”
+- **#73** 10:07.19 +0.63s | hard | speaker 45%@0.35,0.44 | pan/slide x0.992 | 1 motion ev
+  - “there's no way. Oh,”
+- **#74** 10:07.82 +0.88s | hard | flat graphic | slow push in x1.014 | 1 motion ev
+  - “wait, I think they might, they”
+- **#75** 10:08.69 +1.71s | hard | page with a face on it 30%@0.56,0.39 | pan/slide x1.001 | 1 motion ev
+  - “might be getting hit by the car and he”
+- **#76** 10:10.40 +1.04s | transition | flat graphic | eased zoom out x0.924 | 1 motion ev
+  - “comes really close.”
+- **#77** 10:11.44 +0.38s | jump x0.953 | flat graphic | static | 1 motion ev
+- **#78** 10:11.82 +9.09s | hard | speaker 30%@0.52,0.37 | static | 3 motion ev
+  - “That anticipation building is in real time working to drive that curiosity in you. It releases dopamine as you anticipate what might happen.”
+- **#79** 10:20.91 +6.01s | punch x1.095 | speaker 35%@0.51,0.36 | static | 1 motion ev
+  - “These are the types of hooks that play on the anticipatory instinct in your brain and they work super well at driving dopamine.”
+
+## 10:26.00 Level 4: Validation
+
+- **#80** 10:26.92 +3.79s | hard | flat graphic | pan/slide x1.002
+  - “All right, the next level in dopamine ladder, level four is called validation.”
+  - T: “Anticipation” 6.9% @0.50,0.48 0.9s #ba7bf4
+  - T: “Captivation” 6.8% @0.50,0.79 0.9s #b97af4
+  - T: “Validation” 6.5% @0.50,0.47 1.9s #ac6ceb =said -0.76s
+  - T: “Anticipation” 6.3% @0.50,0.68 1.0s #b678ef
+  - T: “Level” 5.2% @0.49,0.44 1.0s #8c8994 =said +0.31s
+  - T: “Level 3” 5.0% @0.50,0.54 0.9s #c3b7d2
+  - (+5 more/smaller text lines)
+- **#81** 10:30.71 +5.17s | hard | speaker 29%@0.51,0.37 | static | 2 motion ev
+  - “Validation comes when you do end up giving them the answer to the question that you popped in level two.”
+- **#82** 10:35.88 +2.75s | punch x1.048 | speaker 30%@0.51,0.37 | static
+  - “In other words, level four is you closing the loop.”
+- **#83** 10:38.64 +14.68s | hard | flat graphic | eased zoom out x0.902
+  - “Now, the goal with validation is to make sure you reward or answer with something that was not obvious that they wouldn't have expected before. Typically with entertainment content, this is the resolution of the story. You don't end it on a cliffhanger. You actually wrap up the loose ends and close the loop nicely.”
+  - T: “Validation” 4.1% @0.50,0.24 6.8s #fff7ff
+  - T: “andnotobvious” 3.6% @0.42,0.56 1.0s #653fa8
+  - T: “Goal:” 3.5% @0.38,0.42 1.0s #b7abcf
+  - T: “To deliver a payoff that's clear, satisfying.” 3.5% @0.50,0.45 1.0s #8552d2
+  - T: “Entertainment” 3.5% @0.25,0.65 6.8s #fff4ff =said +0.51s
+  - T: “To deliver a payoff that's clear, satisfying,” 3.4% @0.50,0.53 5.0s #8b58d6
+  - (+9 more/smaller text lines)
+  - S: LOW@639.18(-3dB)
+- **#84** 10:53.32 +6.71s | hard | speaker 33%@0.53,0.38 | static | 4 motion ev
+  - “For example, in the case of the incoming truck hook, usually they don't get hit by the truck and they end up being safe and that's how you close the loop.”
+- **#85** 11:00.03 +5.88s | punch x1.046 | speaker 34%@0.52,0.37 | pan/slide x1.005 | 3 motion ev
+  - “Once that loop is closed, you realize the story is complete and more dopamine gets released as that's finished.”
+- **#86** 11:05.91 +11.30s | hard | flat graphic | static
+  - “On the education side, the validation or reward in this case would be you actually sharing the tip or the story or the recommendation that gives them concrete value that they can use to solve a problem.”
+  - T: “tip or insight-the concrete value that solves” 4.1% @0.75,0.74 8.4s #7f4fcb =said -3.09s
+  - T: “Validation” 3.7% @0.50,0.24 11.3s #fffaff =said -1.61s
+  - T: “Education” 3.7% @0.76,0.65 9.4s #fff9ff =said +1.39s
+  - T: “To deliver a payoff that's clear, satisfying,” 3.6% @0.50,0.31 11.3s #9261d9
+  - T: “Entertainment” 3.5% @0.25,0.65 11.3s #fffbff
+  - T: “theirproblem.” 3.0% @0.66,0.76 6.4s #8f67cb
+  - (+6 more/smaller text lines)
+- **#87** 11:17.22 +16.10s | hard | speaker 31%@0.51,0.37 | eased zoom out x0.912 | 4 motion ev
+  - “If the viewer leaves this flow without the loop being closed, they're going to be unsatisfied and they won't release that final dopamine. So it's curiosity question, anticipation, what could the answer be? And then validation, giving the actual answer. All three phases release dopamine at each time.”
+  - T: “Curiosity” 4.3% @0.84,0.76 8.2s #ffeeff =said +1.02s
+  - T: “Possible answer” 3.9% @0.50,0.83 7.2s #c58dff
+  - T: “Question” 3.2% @0.84,0.82 8.2s #ffe6ff =said +0.62s
+  - T: “Actual answer” 3.2% @0.16,0.83 4.2s #fedfff =said -0.80s
+  - T: “Validation” 3.1% @0.16,0.76 4.2s #fae9ff =said +0.62s
+  - S: LOW@683.78(-4dB)
+- **#88** 11:33.32 +12.60s | hard | flat graphic | slow push in x1.067 | 1 motion ev
+  - “Out of the first four levels we just went through of the dopamine ladder, these are kind of like the base levels that you can pull with any script and visual storytelling. And again, those were stimulation, captivation, anticipation, and then ultimately validation. But the last”
+  - T: “Validation” 8.0% @0.45,0.10 3.7s #ac6de2 =said -2.25s
+  - T: “Anticipation” 7.8% @0.45,0.36 9.2s #a16ed3 =said -6.45s
+  - T: “Captivation” 7.4% @0.45,0.63 9.2s #9f68d4 =said -5.85s
+  - T: “stimulation” 7.4% @0.45,0.89 9.2s #a16bd7 =said -5.06s
+  - T: “Validation” 5.2% @0.50,0.10 3.4s #b375ef
+  - T: “Level 4” 4.5% @0.40,0.14 6.5s #9a96a8
+  - (+7 more/smaller text lines)
+  - S: ★LOW@696.66(-5dB)
+- **#89** 11:45.91 +11.97s | jump x0.737 | flat graphic | slow pull out x0.956
+  - “two levels of the dopamine ladder is really where you start building cult fandom. This is where you ascend beyond the individual story and into the storyteller. The first four have to do with the video itself. We'll call that the message. The last two are”
+  - T: “Validation” 4.6% @0.32,0.15 11.8s #9660c9 =said +1.49s
+  - T: “Captivation” 4.4% @0.32,0.53 11.8s #9765c9 =said +3.39s
+  - T: “Stimulation” 4.4% @0.32,0.71 11.8s #9864ca
+  - T: “The” 4.3% @0.61,0.50 0.9s #d3d3d3 =said +0.25s
+  - T: “Anticipation” 4.0% @0.32,0.34 11.8s #9867c6 =said +2.79s
+  - T: “Level 4” 3.7% @0.32,0.19 11.8s #6e677a
+  - (+4 more/smaller text lines)
+  - S: ★LOW@705.87(-6dB)
+- **#90** 11:57.88 +3.84s | jump x1.177 | flat graphic | slow pull out x0.985
+  - “more with the messenger. Level five is called affection.”
+  - T: “Affection” 5.3% @0.31,0.49 0.9s #a269e7 =said -0.05s
+  - T: “Validation” 5.0% @0.31,0.72 3.8s #9861cf
+  - T: “Anticipation” 4.7% @0.31,0.94 3.8s #a06dd6
+  - T: “Level 6” 4.1% @0.31,0.32 3.8s #787878
+  - T: “Level 5” 4.1% @0.31,0.54 3.8s #747475
+  - T: “The” 4.1% @0.66,0.48 2.9s #d7d7d7 =said +0.19s
+  - (+3 more/smaller text lines)
+  - S: ★BB+LOW@717.84(-3dB)
+
+## 12:00.00 Level 5: Affection
+
+- **#91** 12:01.72 +20.77s | hard | speaker 30%@0.52,0.36 | eased zoom in x1.087 | 5 motion ev
+  - “Now, affection is the stage where the viewer starts taking a liking to the creator or personality that was delivering the story. And this is why it's kind of hard for faceless content to fully ascend to that Pavlovian peak. It's easy for faceless to get those first four levels, but it's hard when there's nothing to like, when there's no personality to attribute that taste, trust, and like, too.”
+  - T: “REPRESEN” 3.3% @0.61,0.84 1.0s #1b191a
+  - S: ★LOW@733.57(-4dB)
+- **#92** 12:22.49 +5.80s | punch x0.956 | speaker 31%@0.51,0.36 | static | 1 motion ev
+  - “And this is what happens in the brain. As the viewer begins to realize they like and trust the person that's delivering the message,”
+  - T: “When the audience forms trust and affinity with” 6.5% @0.28,0.85 1.0s #85838b
+  - T: “When the audience forms trust and affinity with the creator, it triggers more dopamine.” 3.7% @0.43,0.84 5.8s #9d9a9e built
+- **#93** 12:28.29 +15.43s | jump x1.0 | speaker 32%@0.52,0.36 | slow pull out x0.942 | 2 motion ev
+  - “more dopamine is released. And think about it, if you already like someone, you're going to give them a lot longer leash when you watch their content. For a stranger, you might churn right away, but if it's someone you like and you already know, there's dopamine that's being released there that buys a lot more time of your attention. Now,”
+- **#94** 12:43.72 +6.17s | jump x1.0 | speaker 29%@0.51,0.38 | static | 1 motion ev
+  - “as long as that viewer recognizes it's you, that likability will carry over from video to video. So of course, the million -dollar question that”
+  - T: “REPRESEND” 4.0% @0.61,0.84 5.5s #1c191a
+- **#95** 12:49.89 +1.04s | transition | page with a face on it 47%@0.52,0.42 | eased zoom in x1.061
+  - “everyone asks is, how”
+  - T: “How dol” 4.3% @0.17,0.50 1.0s #bebabd built
+  - S: LOW@769.94(-4dB)
+- **#96** 12:50.94 +7.80s | transition | flat graphic | slow push in x1.032
+  - “do I improve my likability so that I can speed up that process to get through level five? And here's four ways to improve your likability. The first”
+  - T: “How do limprove my likeability so that” 5.2% @0.29,0.50 2.0s #e4e1e6 built =said +1.01s
+  - T: “How do I improve my likeability so that I can speed up that process to get through level five?” 4.1% @0.50,0.50 3.0s #cdc8dd =said +3.01s
+  - T: “4Ways to improve likeability” 3.7% @0.50,0.24 0.8s #cbc9cc
+- **#97** 12:58.74 +2.79s | punch x1.345 | flat graphic | pan/slide x1.002
+  - “one, attractiveness is a massive factor. Now,”
+  - T: “Attractiveness is a massive factor” 6.0% @0.51,0.47 1.8s #c198e5 =said +0.30s
+  - T: “4Waystoimprovelikeabi” 3.9% @0.82,0.20 2.6s #c3c3c3
+  - S: ★LOW@778.74(-8dB)
+- **#98** 13:01.53 +10.13s | hard | speaker 31%@0.51,0.36 | eased zoom in x1.100 | 5 motion ev
+  - “I hate to say it as someone who has a face for radio and a voice for vaudeville silent films, but the reality is when you're attractive, people just like you more. It's subconscious and it's how humans behave.”
+  - T: “REPRESENIT” 5.0% @0.62,0.86 12.5s #191718
+  - S: LOW@786.63(-5dB)
+- **#99** 13:11.67 +4.80s | punch x0.956 | speaker 33%@0.51,0.36 | static | 2 motion ev
+  - “So if you're good -looking, lean into it, show yourself more, and I guarantee the likability will go up.”
+- **#100** 13:16.46 +0.42s | hard | flat graphic | pan/slide x1.004
+  - “The second”
+- **#101** 13:16.88 +2.63s | jump x1.0 | flat graphic | pan/slide x0.997
+  - “thing that improves likability is your overall vibe.”
+  - T: “sways to improve likeability” 4.8% @0.17,0.22 2.6s #bdbdbe
+  - T: “Your overall vibe” 3.5% @0.51,0.49 1.7s #a09ea8 built =said -0.52s
+  - S: ★LOW@796.84(-7dB)
+- **#102** 13:19.51 +5.42s | hard | speaker 31%@0.51,0.35 | static | 1 motion ev
+  - “The way you look, the way you dress, the way you sit, your posture, the way you carry yourself, all of that signals silently to”
+- **#103** 13:24.93 +0.96s | pop | speaker 30%@0.53,0.33 | static
+  - “someone and”
+- **#104** 13:25.89 +2.75s | jump x1.0 | speaker 32%@0.51,0.35 | static | 2 motion ev
+  - “it goes into them deciding if they like you more or not.”
+  - T: “eways to improve likeability” 4.8% @0.17,0.22 0.7s #cacacb
+  - T: “Your overall vibe” 3.5% @0.51,0.49 0.7s #c0b1e4
+- **#105** 13:28.64 +3.92s | hard | flat graphic | pan/slide x0.996 | 1 motion ev
+  - “The third thing, smiling, is great for subconscious likability.”
+  - T: “Smiling is great for subconscious likeability” 4.1% @0.50,0.50 3.1s #313134 built =said -0.23s
+  - T: “Attractiveness is a massivefactor” 3.1% @0.50,0.07 3.1s #a79dad
+  - S: ★LOW@809.18(-4dB)
+- **#106** 13:32.56 +0.71s | hard | speaker 31%@0.50,0.36 | static | 1 motion ev
+  - “Joy is”
+- **#107** 13:33.27 +6.92s | pop | speaker 31%@0.51,0.35 | static
+  - “an emotion that transfers through the camera lens. So if you look like you're happy or passionate, people will feel that warmth themselves when they watch you.”
+- **#108** 13:40.19 +0.88s | hard | flat graphic | pan/slide x1.002
+  - “And then fourth, and”
+  - T: “Smiling is great for subconscious likeability” 4.1% @0.50,0.50 0.7s #d2cae5
+  - T: “Attractivenessis a massivefactor” 3.1% @0.50,0.07 0.7s #cac5df
+- **#109** 13:41.07 +7.63s | jump x1.238 | flat graphic | pan/slide x0.996
+  - “this is the easiest one, if you're making education content, if you actually solve a problem for them, max trust and likability will be transferred.”
+  - T: “Solve Problems, Win Maximum Likeability” 4.8% @0.51,0.49 5.7s #bbb9c0 built
+  - S: ★LOW@821.05(-4dB)
+- **#110** 13:48.70 +10.01s | hard | speaker 33%@0.50,0.36 | static | 2 motion ev
+  - “The easiest way to get somebody to like you and trust you is to actually help them with something they're struggling with, agnostic of how attractive you are, how smiley you are, et cetera. Number four is the strongest one.”
+- **#111** 13:58.71 +15.06s | punch x1.045 | speaker 33%@0.51,0.34 | static | 1 motion ev
+  - “So likability is one of those things that you want to try to improve over time, but the reality is you don't want to force it. Just be yourself, be authentically passionate in what you're doing, and then try to live that out. The more value you can deliver and the more valuable you can be, the more likable and trustworthy you will seem to the viewer.”
+- **#112** 14:13.77 +6.51s | hard | flat graphic | slow pull out x0.943
+  - “All right, we've approached level six and this is really where the Pavlovian response really starts kicking in. But before we go into that, let's just recap where”
+  - T: “Affection” 6.5% @0.50,0.67 1.0s #af6cf2
+  - T: “Affection” 6.3% @0.50,0.72 4.4s #b26df3
+  - T: “Affection” 6.1% @0.50,0.48 0.9s #b26cf3
+  - T: “Validation” 6.1% @0.50,0.78 0.9s #b675f4
+  - T: “Validation” 5.8% @0.50,0.96 1.0s #b473f5
+  - T: “Level 5” 5.0% @0.50,0.54 0.9s #cdc7da
+  - (+5 more/smaller text lines)
+- **#113** 14:20.28 +54.85s | jump x0.693 | flat graphic | eased zoom out x0.864 | 1 motion ev
+  - “we were. The first level was stimulation. This was subconscious, it's motion, colors, brightness. All you have to do is get somebody to focus a little bit of dopamine released, but that's what locks them in, right? So that's the precursor. Then we talked about the three levels that really have to do with the specific video and the storytelling in it. And that was captivation with initial curiosity, anticipation, getting them to guess what's gonna happen and maybe leading them through a head fake or zigzag on that curiosity. And then ultimately, validation, giving them the answer and closing the loop so that they get that dopamine release on the full cycle. Those were two, three and four. Then level five is likability, right? So you've got the answer from the video, but now we've ascended beyond the message into the messenger and we're going to likability. If the viewer likes you, they'll give you more leash. They'll have dopamine release every time they see you because they'll remember that they like you and that'll be helpful. Level six, the final level, the final frontier is called revelation.”
+  - T: “Affection” 6.7% @0.50,0.78 1.9s #b06ef2
+  - T: “Revelation” 6.5% @0.50,0.47 0.9s #b574f3 =said +0.12s
+  - T: “Captivation” 6.0% @0.15,0.18 10.9s #a876d7
+  - T: “Valildation” 5.9% @0.15,0.07 11.0s #9862ca
+  - T: “Captivation” 5.7% @0.15,0.25 1.0s #b67cec
+  - T: “Anticipation” 5.6% @0.17,0.29 6.0s #b981e9 =said -6.81s
+  - (+58 more/smaller text lines)
+  - S: ★LOW@860.24(-4dB), LOW@911.99(-5dB)
+
+## 15:09.00 Level 6: Revelation
+
+- **#114** 15:15.12 +10.22s | hard | speaker 30%@0.51,0.36 | static | 2 motion ev
+  - “And this is really where the viewer begins to realize that you're going to be a continued source of value for them over time. Now, typically both entertainment and education content can ascend from level one to five, but”
+- **#115** 15:25.34 +20.81s | punch x1.047 | speaker 30%@0.51,0.36 | static | 6 motion ev
+  - “it's much easier for educational content to ascend from five to level six, revelation. Entertainment content can only get to level six if the viewer decides that that creator is going to be a consistent source of maximum entertainment for them, meaning every piece of content they see is going to for sure be above their line when it comes to entertainment. And this is just a really hard bar to achieve. Maybe”
+  - T: “Only reaches level six when viewers see the creator as a reliable source of top-tier entertainment.” 5.3% @0.46,0.85 11.0s #969397 =said +1.71s
+  - T: “Onlyreacheslevelsix” 4.4% @0.18,0.85 1.0s #6f6e74
+  - T: “Entertainment Content” 3.5% @0.21,0.79 13.0s #d4d2d7 =said +0.57s
+- **#116** 15:46.15 +3.13s | hard | small face (inset / wide shot) 11%@0.52,0.30 | eased zoom out x0.468 | 1 motion ev
+  - “Mr. Beast has this level of Pavlovian response. Anytime”
+  - T: “MrBeastYouTube” 3.2% @0.22,0.20 2.6s #bac8d6
+- **#117** 15:49.28 +1.58s | hard | speaker 12%@0.53,0.32 | eased zoom out x0.888 | 1 motion ev
+  - “someone sees his face, they know it's going”
+  - (+1 more/smaller text lines)
+- **#118** 15:50.87 +0.67s | hard | speaker 23%@0.73,0.36 | eased zoom in x1.079
+  - “to be entertaining.”
+- **#119** 15:51.53 +17.35s | hard | speaker 32%@0.52,0.35 | eased zoom out x0.911 | 6 motion ev
+  - “But if you're an entertainment creator and you're not Mr. Beast, you're competing with Netflix, the NFL, Kaisenot, Mr. Beast. It's just hard to beat the best maximum bar in the entertainment category. But on the education side, if you solve specific problems for people that they have in their life, they will tie you with”
+  - T: “If you solve people's real problems, they'll” 5.2% @0.26,0.85 1.0s #747376
+  - T: “NFL” 4.8% @0.17,0.57 6.8s #de9fa7 =said +0.96s
+  - T: “REPRESEINT” 4.3% @0.62,0.85 9.5s #1a1819
+  - T: “EducationContent” 3.9% @0.19,0.79 8.3s #a9a8ac
+  - T: “If yousolvepeople'srealproblems,they'llseeyouas adependablesourceof value inthatarea.” 3.3% @0.46,0.84 5.0s #a09ea1
+  - (+1 more/smaller text lines)
+  - S: ★LOW@962.95(-3dB)
+- **#120** 16:08.88 +11.09s | jump x1.0 | speaker 29%@0.51,0.37 | eased zoom in x1.070 | 3 motion ev
+  - “a consistent source of value for solving in that area. And when they have this revelation that you're going to consistently help them, it releases max dopamine whenever they see you because you've trained that you equal”
+  - T: “You” 4.4% @0.16,0.50 3.0s #96735e =said +0.15s
+  - S: LOW@979.61(-4dB)
+- **#121** 16:19.98 +3.00s | pop | speaker 34%@0.51,0.35 | static | 2 motion ev
+  - “value. That is the Pavlovian response. As a”
+  - T: “Value” 3.6% @0.83,0.50 2.5s #d5cfcf =said +0.18s
+- **#122** 16:22.98 +14.56s | jump x1.0 | speaker 32%@0.52,0.34 | static | 4 motion ev
+  - “corollary, imagine dating someone and then realizing that over time after spending a lot of time with them, you always feel good and you always feel love. That means in the future, whenever you hear their name, you're going to get a huge hit of dopamine because you're going to think positively and feel those feelings again. It's”
+- **#123** 16:37.54 +19.73s | punch x0.956 | speaker 30%@0.52,0.37 | pan/slide x0.997 | 7 motion ev
+  - “the same way here with content. Now, the way to achieve this level six revelation, especially with education content, is to deliver non -obvious differentiated value over and over and over. If they're deeply struggling with a problem that you talk about, it might only take a couple of pieces of content for them to ascend from level one to six and then build that Pavlovian response.”
+  - T: “Deliver non-obvious differentiated value over and over and over.” 5.0% @0.34,0.84 6.1s #98969a =said -1.35s
+  - T: “Howto AchieveRevelation” 3.5% @0.23,0.79 8.0s #d6d6da
+  - (+1 more/smaller text lines)
+- **#124** 16:57.27 +7.01s | punch x0.955 | speaker 29%@0.52,0.37 | static | 1 motion ev
+  - “If they're not really struggling with your topic area that much and it's more of a nice to have, it might take a lot more pieces of content for you to build that Pavlovian bond.”
+- **#125** 17:04.27 +4.92s | hard | flat graphic | eased zoom in x1.552
+  - “But either way, when you can hit this level six state, you have won the attention game because it means”
+- **#126** 17:09.19 +8.26s | hard | speaker 29%@0.52,0.37 | static | 4 motion ev
+  - “if they hear your name, see your face or see your name even without watching the content, they're going to get the dopamine hit that leads them to watch it.”
+  - T: “REPRESEIIT” 3.4% @0.62,0.79 12.7s #1e1a1c
+
+## 17:16.00 Live Example
+
+- **#127** 17:17.45 +5.13s | punch x0.952 | speaker 28%@0.51,0.36 | static
+  - “All right. Now, super quick before we end this video, I just want to show you one live example of an actual short form video and”
+- **#128** 17:22.58 +5.46s | jump x1.0 | speaker 28%@0.52,0.37 | static
+  - “break down as I narrate through the dopamine ladder and the different levels as we ascend through them.”
+- **#129** 17:28.05 +44.34s | punch x1.05 | page with a face on it 10%@0.88,0.71 | eased zoom out x0.645 | 3 motion ev
+  - “And I'm just going to do short form video because it'll be easier to watch. And because I always do education examples, I'm going to do an entertainment example on this one. All right. So this example is from a creator named Citizen. If you don't know him, he's kind of like a musician that uses these viral stitch clips to market his music. So we're going to pull the video up on the side. We're going to watch it and then pause it a lot as I narrate through the different pieces. Okay. So the first step in the dopamine ladder as we know is stimulation. And this happens fast right away. There's a slight zoom in. You see two people hugging. You kind of see this like perspective from a car of a car. It's something you don't normally see on the feed. That alone is all that's needed to give me a slight hit of dopamine and narrow my focus on the video. Next, we go to level two, which is captivation or curiosity.”
+  - (+1 more/smaller text lines)
+  - S: LOW@1055.96(+0dB), BB+LOW@1068.50(-13dB)
+- **#130** 18:12.38 +14.77s | pop | page with a face on it 10%@0.87,0.71 | static | 1 motion ev
+  - “Now as I'm watching this unfold through the first like two, three, four seconds, the questions that are popping in my head is this. First, who are these people? Why are they hugging? Do I care? This almost made me churn because I was like, why do I care about this?”
+  - T: “Do I care?” 4.1% @0.28,0.58 3.9s #c8c8cb =said +0.12s
+  - T: “Who are these people?” 3.5% @0.23,0.43 4.9s #cdcdd0 =said +0.92s
+  - T: “Why are they hugging?” 3.4% @0.23,0.50 4.9s #bab7bd built =said -0.11s
+- **#131** 18:27.15 +24.73s | pop | page with a face on it 10%@0.88,0.71 | eased zoom in x1.048 | 4 motion ev
+  - “Then I look down and I read that little text across. It says, bro, what did I just witness? And that pops the question in my head. What are we about to see? Now I'm curious again. Then as the girl walks away and gets in the car, I noticed the shoelace stuck in the door and I noticed him noticing it. And that pops the question. Oh, no. Is he aware? Is she going to drive away? What's going to happen, right? Three or four rapid questions in succession. So”
+  - T: “What's gonna happen?” 3.9% @0.23,0.58 2.9s #bcbbc0 =said +0.03s
+  - T: “Oh no, is heaware?” 3.7% @0.24,0.43 4.9s #c9c9cb =said +0.39s
+  - T: “Is she gonna drive away?” 3.7% @0.22,0.50 3.9s #b7b5bc built =said -0.09s
+  - T: “What are we about to see?” 3.2% @0.21,0.50 2.0s #c1bec3 built =said +0.18s
+- **#132** 18:51.88 +5.13s | hard | speaker 29%@0.51,0.37 | static | 2 motion ev
+  - “at this point, my curiosity is pretty high. I've got all these open questions and I'm really curious to see what's going to happen.”
+- **#133** 18:57.01 +19.48s | hard | page with a face on it 10%@0.88,0.71 | static | 2 motion ev
+  - “Next level three is anticipation. So because I see the main character and he sees that he's stuck, I'm anticipating. Is he going to get out or is he going to get dragged by the car? I'm trying to figure out what's going to happen. That's me anticipating the solution. Now as the car starts pulling away,”
+  - T: “by the car?” 3.7% @0.28,0.54 5.0s #cacacd =said +0.05s
+  - T: “Is he gonna get dragged” 3.6% @0.22,0.50 6.0s #9f9da4 built =said +0.09s
+  - T: “Is he gonna get out?” 3.5% @0.24,0.43 7.0s #bebec1 built =said +0.33s
+  - (+1 more/smaller text lines)
+  - S: ★BB+LOW@1139.58(-12dB), BB+LOW@1141.32(-12dB), LOW@1153.20(-13dB), ★BB+LOW@1153.94(-10dB)
+- **#134** 19:16.49 +6.71s | hard | speaker 29%@0.52,0.37 | static | 1 motion ev
+  - “I can see he's going down. So I'm trying to anticipate what's going to happen. Is he going to be dragged? Are they actually going to film this, right? I'm still really curious.”
+- **#135** 19:23.20 +3.25s | hard | page with a face on it 10%@0.88,0.71 | static
+  - “Now level four is validation where I find out the answer.”
+  - (+1 more/smaller text lines)
+  - S: BB+LOW@1166.18(-1dB)
+- **#136** 19:26.46 +11.43s | pop | page with a face on it 10%@0.88,0.71 | slow push in x1.030
+  - “And in this case, he falls backwards like I would have expected, but then it hard cut match cuts away to him getting dragged singing a song. The audio comes in and he starts singing. That's not what I was expecting.”
+  - T: “OFF” 5.7% @0.50,0.21 10.5s #f5a90c
+- **#137** 19:37.88 +6.09s | hard | speaker 29%@0.51,0.37 | static | 4 motion ev
+  - “So I get the validation of closing the loop that he's okay, but also this shocking head fake moment where”
+  - T: “REPRESEIT” 4.1% @0.62,0.83 0.9s #1b181b
+- **#138** 19:43.97 +1.88s | jump x1.0 | speaker 28%@0.51,0.36 | static
+  - “the answer is not what I expected.”
+- **#139** 19:45.85 +25.78s | hard | page with a face on it 10%@0.88,0.71 | pan/slide x0.989 | 1 motion ev
+  - “And because now I know he's not hurt, I get that dopamine release of that initial anticipatory loop closing, but also I'm kind of interested in why is he doing this? Does this music video strategy work, etc. All right, level five now is affection. Now here, assuming this is the first video you've seen of this guy, you probably haven't seen enough to determine if you like or trust him or not. And with entertainment content, as I mentioned, it's a lot harder to determine affection and revelation than it would be with education content. But”
+  - T: “00000” 32.5% @0.81,0.29 4.8s #c67dff
+  - T: “OFF” 5.7% @0.50,0.21 13.9s #f6a90b
+  - T: “THE” 5.7% @0.50,0.21 0.6s #f7a90b
+  - T: “IT'S” 5.3% @0.50,0.21 1.0s #f4a911 =said -1.47s
+  - T: “THE” 5.2% @0.50,0.21 1.0s #f5a90c =said +2.05s
+  - T: “FEET” 5.0% @0.50,0.21 1.0s #f5ab0c
+  - (+1 more/smaller text lines)
+- **#140** 20:11.63 +9.47s | hard | speaker 33%@0.52,0.36 | pan/slide x0.990 | 4 motion ev
+  - “I will admit, I found this pretty funny and shocking and I kind of give a hat tip to him. So if I saw another video from him, I'd probably watch it because I wanted to see what crazy stunt is he going to come up with next.”
+- **#141** 20:21.10 +0.46s | hard | page with a face on it 11%@0.88,0.71 | static
+  - T: “ENOUGH” 4.7% @0.50,0.21 0.5s #4f605e
+- **#142** 20:21.55 +9.80s | pop | page with a face on it 10%@0.87,0.71 | static
+  - “Now, level six, the last one is revelation. And it would have taken me probably several other videos, but eventually I would have realized this guy is like a viral marketer meets music, which is kind of an interesting category.”
+  - (+1 more/smaller text lines)
+- **#143** 20:31.36 +11.80s | hard | speaker 29%@0.51,0.38 | static | 3 motion ev
+  - “And if I like marketing or music or his music, I might realize every time I see one of his videos, I get entertained in this unique way and also get to see his song. So I may associate this like entertainment value drip with him.”
+- **#144** 20:43.16 +13.35s | punch x1.048 | speaker 31%@0.52,0.37 | static | 4 motion ev
+  - “Now in this case, I'm not going to have the full Pavlovian effect because this is an entertainment use case, but you can imagine how this ladder would work for educational content. And if he was giving me a tip that I could use in my life, I might have that Pavlovian effect much faster.”
+- **#145** 20:56.51 +9.59s | hard | page with a face on it 10%@0.88,0.71 | slow push in x1.087 | 2 motion ev
+  - “So this is a great example of how the dopamine ladder works in content. And when citizen made this video, he specifically engineered those pieces to trigger you through those loops”
+  - T: “00000” 32.3% @0.81,0.29 1.0s #c97cff
+  - T: “00000” 32.3% @0.81,0.29 11.3s #c97dff
+  - T: “citizenatheartist” 3.5% @0.49,0.12 21.7s #989a89
+  - (+1 more/smaller text lines)
+- **#146** 21:06.10 +12.97s | pop | page with a face on it 11%@0.88,0.71 | slow push in x1.017 | 1 motion ev
+  - “so that you kept watching. And I promise you, if you take any piece of educational content that has worked on you and you analyze it in this way, going through these levels in the dopamine ladder, it'll all be there clearly why you liked it and why you kept watching.”
+  - T: “ELSE” 5.5% @0.50,0.21 1.0s #f6a90b
+  - T: “YOU” 5.1% @0.50,0.21 0.5s #f5a90c =said +0.76s
+  - T: “OUT” 5.1% @0.50,0.21 1.0s #f5a911
+  - T: “BABE” 5.0% @0.50,0.21 1.0s #495d5b
+  - T: “YEAH” 5.0% @0.50,0.21 1.0s #f5a90b
+  - T: “FINE” 5.0% @0.50,0.21 1.0s #f5a90c
+  - (+2 more/smaller text lines)
+- **#147** 21:19.07 +4.63s | hard | speaker 32%@0.52,0.38 | static | 2 motion ev
+  - “All you have to do is figure out how to reverse engineer that when you make your content and you'll be good to go.”
+  - T: “REPRESEINT” 4.0% @0.63,0.85 4.2s #1c181a
+
+## 21:22.00 Summary
+
+- **#148** 21:23.70 +2.46s | punch x0.954 | speaker 30%@0.51,0.37 | static | 2 motion ev
+  - “All right guys, that is all I've got for this video.”
+- **#149** 21:26.16 +1.04s | hard | flat graphic | pan/slide x1.006
+  - “As a recap, we covered”
+  - T: “Affection” 4.0% @0.50,0.23 0.8s #a66ce5
+  - T: “Anticipation” 3.9% @0.50,0.51 0.8s #ac76e6
+  - T: “Revelation” 3.7% @0.50,0.09 0.8s #ad78e5
+  - (+6 more/smaller text lines)
+- **#150** 21:27.20 +8.38s | jump x1.585 | flat graphic | slow push in x1.049 | 1 motion ev
+  - “the full dopamine ladder, all six levels that you need to get the maximum dopamine released in the viewer's brain and get them to keep watching for longer.”
+  - T: “Captivation” 5.1% @0.50,0.48 2.7s #a970e0
+  - T: “Validation” 5.0% @0.50,0.03 1.8s #a26bdd
+  - T: “Stimulation” 4.8% @0.50,0.70 2.7s #ac74e4
+  - T: “Validation” 4.7% @0.50,0.73 5.7s #9b65cb
+  - T: “Level 1” 4.4% @0.50,0.75 2.7s #847c94
+  - T: “Affection” 4.4% @0.50,0.55 5.7s #965ecc
+  - (+11 more/smaller text lines)
+  - S: ★LOW@1287.21(-5dB), ★LOW@1289.83(-3dB)
+- **#151** 21:35.59 +3.54s | hard | speaker 29%@0.51,0.41 | static | 2 motion ev
+  - “This will make them addicted to your content if you can do it consistently.”
+  - T: “Affection” 3.9% @0.50,0.25 13.1s #a468e7
+  - T: “REPRESEN” 3.5% @0.62,0.84 0.8s #1a181a
+  - T: “REPRESEIT” 3.3% @0.62,0.83 0.9s #1a181b
+  - T: “Revelation” 3.3% @0.50,0.11 13.1s #a970e1
+  - T: “Anticipation” 3.3% @0.50,0.53 13.1s #ac78eb
+  - T: “Captivation” 3.3% @0.50,0.67 13.1s #b37eeb
+  - (+6 more/smaller text lines)
+- **#152** 21:39.13 +12.97s | hard | flat graphic | slow pull out x0.943
+  - “Your goal, as I just mentioned, is to use these levels, this framework as a checkpoint, as a checklist that you can ascend the viewer through. Are you driving the right curiosity? Are you driving the right dopamine releases? This is a great framework for that.”
+  - T: “Your goal:” 4.7% @0.73,0.48 6.8s #64546b =said -0.08s
+  - (+5 more/smaller text lines)
+- **#153** 21:52.10 +6.59s | hard | speaker 29%@0.51,0.37 | static | 1 motion ev
+  - “As always guys, I'm trying my absolute best to cover the non -obvious stuff that gives you an edge when you're trying to grow on social media and YouTube.”
+  - T: “REPRESEN” 4.3% @0.61,0.82 2.0s #1a181a
+- **#154** 21:58.69 +2.34s | punch x1.048 | speaker 29%@0.51,0.34 | static | 1 motion ev
+  - “And one last thing, if you're an entrepreneur or a business owner, I built”
+- **#155** 22:01.03 +2.96s | hard | flat graphic | slow pull out x0.976
+  - “a completely free community called Wavyworld that has 65”
+  - T: “Please give your ratings” 3.1% @0.29,0.23 0.9s #414a49
+  - T: “Richard Evans” 3.0% @0.73,0.59 0.9s #7e7e7e
+  - (+83 more/smaller text lines)
+- **#156** 22:03.99 +1.96s | hard | flat graphic | slow pull out x0.976
+  - “other trainings just like this one.”
+  - T: “IDEAS” 5.6% @0.51,0.55 0.9s #d8d6da
+  - T: “PSYCHOLOGY” 4.8% @0.50,0.59 0.7s #f7f5fa
+  - T: “SELECTION” 4.7% @0.70,0.37 0.9s #f7f5fa
+  - T: “NICHE” 4.6% @0.70,0.33 0.9s #1e1b20
+  - T: “STORYTELLING” 4.6% @0.70,0.55 0.9s #f6f4f9
+  - T: “SELECTIOL” 4.4% @0.31,0.73 0.9s #1f1c20
+  - (+51 more/smaller text lines)
+- **#157** 22:05.95 +0.50s | jump x0.998 | flat graphic | static
+  - “So if you want”
+- **#158** 22:06.45 +1.17s | hard | flat graphic | static
+  - “to learn the advanced”
+  - T: “THE PSYCHOLOGY OF CONTENT” 4.5% @0.60,0.43 1.1s #080808
+  - T: “Psychology” 3.2% @0.24,0.30 2.4s #545452
+  - T: “Content Psychology” 3.2% @0.26,0.39 2.4s #4b4b4a
+  - (+13 more/smaller text lines)
+- **#159** 22:07.62 +1.25s | pop | page with a face on it 12%@0.60,0.52 | static
+  - “mode of YouTube and social”
+  - (+1 more/smaller text lines)
+- **#160** 22:08.87 +1.13s | hard | flat graphic | pan/slide x0.996
+  - “media, it's in there for”
+  - T: “YOUTUBE” 4.5% @0.51,0.34 1.2s #f0eef3 =said +0.58s
+  - T: “TRENDS &” 4.2% @0.31,0.69 1.2s #1f1c21
+  - T: “GROWTH” 3.5% @0.31,0.34 1.2s #28262b
+  - (+9 more/smaller text lines)
+- **#161** 22:09.99 +0.08s | hard | flat graphic | untracked (full-frame animation, still, or too short)
+- **#162** 22:10.08 +1.08s | pop | page with a face on it 18%@0.49,0.51 | eased zoom in x1.035
+  - “free. Also, there's”
+  - T: “The $100,000” 5.3% @0.65,0.42 1.1s #030303
+  - T: “Thumbnail” 5.0% @0.63,0.46 1.1s #1f1f1f
+  - (+14 more/smaller text lines)
+- **#163** 22:11.16 +0.54s | jump x1.0 | flat graphic | eased zoom in x1.269
+  - “37”
+  - T: “WavyWorid” 3.3% @0.51,0.26 1.1s #818181
+  - T: “INVITEPEBPUE” 3.1% @0.56,0.67 1.7s #9b9a9b
+  - T: “38.2k” 3.0% @0.50,0.51 1.7s #646464
+  - (+2 more/smaller text lines)
+- **#164** 22:11.70 +1.63s | transition | flat graphic | eased zoom out x0.891
+  - “,000 other people in there that are all teamed”
+  - T: “112” 3.1% @0.56,0.51 1.5s #8b8b8b
+  - (+2 more/smaller text lines)
+- **#165** 22:13.33 +1.50s | hard | page with a face on it 7%@0.41,0.56 | eased zoom out x0.881
+  - “up, partnered up, giving each”
+  - T: “10X” 6.7% @0.47,0.54 1.8s #14110d
+  - T: “VourLife” 3.3% @0.47,0.59 1.8s #51504c
+  - T: “Joseph Burda” 3.0% @0.37,0.25 1.0s #626363
+  - (+29 more/smaller text lines)
+- **#166** 22:14.83 +0.50s | pop | page with a face on it 7%@0.41,0.56 | static
+  - “other feedback.”
+  - (+27 more/smaller text lines)
+- **#167** 22:15.33 +1.54s | jump x0.995 | flat graphic | pan/slide x0.989
+  - “So if you want a peer group”
+  - (+19 more/smaller text lines)
+- **#168** 22:16.88 +1.83s | pop | flat graphic | slow pull out x0.979
+  - “that's in the content trenches as”
+  - T: “skool.com/wavyworld” 3.6% @0.50,0.86 3.5s #f3d7ff built
+  - T: “Mira Stoyanova -1d” 3.2% @0.41,0.55 0.7s #5d5d5a
+  - T: “Seeking Accountability” 3.0% @0.39,0.18 1.8s #515252
+  - T: “Ecom Merge ·15d” 3.0% @0.41,0.41 0.7s #61615f
+  - (+16 more/smaller text lines)
+- **#169** 22:18.71 +6.01s | hard | speaker 29%@0.51,0.37 | static | 3 motion ev
+  - “a business owner, they're in there as well. I've got a free invite link for you below in the description. All right, we will see you guys on the next video. Peace.”
+  - T: “Kallaway” 4.3% @0.53,0.83 1.9s #f5fbff
+  - (+3 more/smaller text lines)
+  - S: LOW@1342.43(-12dB), LOW@1343.35(-13dB), LOW@1344.06(-10dB)
+- **#170** 22:24.72 +0.33s | transition | speaker 28%@0.50,0.39 | static

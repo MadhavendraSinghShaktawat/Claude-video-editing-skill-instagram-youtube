@@ -1,0 +1,5771 @@
+{
+ "video": "nafay-faceless-shorts.mp4",
+ "fps": 60.0,
+ "duration": 672.633,
+ "rows": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 0.433,
+   "dur": 0.433,
+   "cut_in": "start",
+   "move": "eased zoom out",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 0.8543,
+    "zoom_pct_per_s": -33.66,
+    "pan_x": 0.1233,
+    "pan_y": -0.0016,
+    "jitter": 0.0012,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 0.2,
+     "end": 0.433,
+     "factor": 0.854,
+     "peak_at": 0.93,
+     "peak_pct_per_s": 412.3
+    }
+   ],
+   "face": {
+    "h": 0.411,
+    "cx": 0.527,
+    "cy": 0.392,
+    "count": 1
+   },
+   "face_share": 1.0,
+   "flat_share": 0.4,
+   "palette": [
+    {
+     "hex": "#2c2d31",
+     "share": 0.16
+    },
+    {
+     "hex": "#141214",
+     "share": 0.15
+    },
+    {
+     "hex": "#125ab0",
+     "share": 0.09
+    },
+    {
+     "hex": "#2b0f18",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.004,
+   "said": "If you want",
+   "words": 3,
+   "text_lines_new": 0,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 1,
+   "start": 0.433,
+   "end": 2.333,
+   "dur": 1.9,
+   "cut_in": "transition",
+   "move": "eased zoom out",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 0.8933,
+    "zoom_pct_per_s": -5.62,
+    "pan_x": 0.0842,
+    "pan_y": -0.1033,
+    "jitter": 0.00176,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 0.45,
+     "end": 0.55,
+     "factor": 0.853,
+     "peak_at": 0.33,
+     "peak_pct_per_s": 1200.0
+    },
+    {
+     "start": 0.617,
+     "end": 0.75,
+     "factor": 1.052,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 117.2
+    }
+   ],
+   "face": {
+    "h": 0.214,
+    "cx": 0.891,
+    "cy": 0.453,
+    "count": 1,
+    "h_end_over_start": 0.858
+   },
+   "face_share": 1.0,
+   "flat_share": 0.43,
+   "palette": [
+    {
+     "hex": "#f3f2f2",
+     "share": 0.45
+    },
+    {
+     "hex": "#e8e3de",
+     "share": 0.08
+    }
+   ],
+   "activity": 0.0164,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.21,
+    "gap_after": 0.21,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 0.333,
+    "end": 0.817
+   },
+   "said": "to make shorts like these, but you don't have a cloud",
+   "words": 11,
+   "text_lines_new": 12,
+   "text": [
+    {
+     "text": "Shorts Like These",
+     "t0": 0.6,
+     "t0_exact": 0.333,
+     "dur": 1.7,
+     "h": 0.05,
+     "box": [
+      0.26,
+      0.178,
+      0.507,
+      0.228
+     ],
+     "text_colour": "#b5b3b2",
+     "bg_colour": "#f4f3f2",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.29
+    },
+    {
+     "text": "intoa..",
+     "t0": 0.6,
+     "t0_exact": 0.333,
+     "dur": 0.8,
+     "h": 0.043,
+     "box": [
+      0.455,
+      0.748,
+      0.506,
+      0.791
+     ],
+     "text_colour": "#b6b6b9",
+     "bg_colour": "#908f90",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "2.2Mviews",
+     "t0": 1.4,
+     "t0_exact": null,
+     "dur": 0.9,
+     "h": 0.032,
+     "box": [
+      0.101,
+      0.735,
+      0.182,
+      0.767
+     ],
+     "text_colour": "#eee4de",
+     "bg_colour": "#2e231e",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "3.1Mviews",
+     "t0": 1.4,
+     "t0_exact": null,
+     "dur": 1.1,
+     "h": 0.032,
+     "box": [
+      0.378,
+      0.731,
+      0.454,
+      0.763
+     ],
+     "text_colour": "#dfe8e3",
+     "bg_colour": "#263833",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "1.7Mviews",
+     "t0": 1.4,
+     "t0_exact": null,
+     "dur": 1.1,
+     "h": 0.031,
+     "box": [
+      0.193,
+      0.726,
+      0.277,
+      0.757
+     ],
+     "text_colour": "#e6e8f6",
+     "bg_colour": "#10142f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "0.8Mviews",
+     "t0": 1.4,
+     "t0_exact": null,
+     "dur": 0.9,
+     "h": 0.03,
+     "box": [
+      0.621,
+      0.731,
+      0.716,
+      0.761
+     ],
+     "text_colour": "#ebe8e9",
+     "bg_colour": "#151319",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 1
+  },
+  {
+   "i": 2,
+   "start": 2.333,
+   "end": 7.217,
+   "dur": 4.883,
+   "cut_in": "transition",
+   "move": "eased zoom in",
+   "picture": "page with a face on it",
+   "camera": {
+    "zoom_total": 1.4169,
+    "zoom_pct_per_s": 8.54,
+    "pan_x": -0.4966,
+    "pan_y": 0.0221,
+    "jitter": 0.00067,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 2.533,
+     "end": 2.817,
+     "factor": 1.089,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 102.4
+    },
+    {
+     "start": 6.833,
+     "end": 7.217,
+     "factor": 1.305,
+     "peak_at": 0.96,
+     "peak_pct_per_s": 1423.5
+    }
+   ],
+   "face": {
+    "h": 0.216,
+    "cx": 0.892,
+    "cy": 0.449,
+    "count": 1,
+    "h_end_over_start": 1.027
+   },
+   "face_share": 1.0,
+   "flat_share": 0.71,
+   "palette": [
+    {
+     "hex": "#f5f4f3",
+     "share": 0.7
+    },
+    {
+     "hex": "#e8e3de",
+     "share": 0.15
+    }
+   ],
+   "activity": 0.0005,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -2.33,
+    "gap_after": 2.33,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 2.25,
+    "end": 2.567
+   },
+   "said": "subscription or if you use the free version of Claude where you hit your limit super fast, then today's video is going",
+   "words": 22,
+   "text_lines_new": 7,
+   "text": [
+    {
+     "text": "Claude Free Plan",
+     "t0": 2.5,
+     "t0_exact": 2.25,
+     "dur": 4.6,
+     "h": 0.045,
+     "box": [
+      0.269,
+      0.181,
+      0.5,
+      0.226
+     ],
+     "text_colour": "#8d8b8b",
+     "bg_colour": "#f0f3f4",
+     "grew": false,
+     "spoken_share": 0.67,
+     "appears_vs_word_s": -2.13
+    },
+    {
+     "text": "Free version",
+     "t0": 4.3,
+     "t0_exact": null,
+     "dur": 2.8,
+     "h": 0.045,
+     "box": [
+      0.209,
+      0.483,
+      0.355,
+      0.528
+     ],
+     "text_colour": "#121212",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.38
+    },
+    {
+     "text": "Limit reached",
+     "t0": 6.3,
+     "t0_exact": null,
+     "dur": 0.8,
+     "h": 0.039,
+     "box": [
+      0.294,
+      0.781,
+      0.469,
+      0.82
+     ],
+     "text_colour": "#e48588",
+     "bg_colour": "#fee2de",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Usage",
+     "t0": 4.3,
+     "t0_exact": null,
+     "dur": 2.8,
+     "h": 0.035,
+     "box": [
+      0.144,
+      0.561,
+      0.191,
+      0.596
+     ],
+     "text_colour": "#3d3d3d",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "100%",
+     "t0": 6.3,
+     "t0_exact": null,
+     "dur": 0.8,
+     "h": 0.034,
+     "box": [
+      0.582,
+      0.557,
+      0.624,
+      0.591
+     ],
+     "text_colour": "#c3767d",
+     "bg_colour": "#fdfdfb",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Subseription",
+     "t0": 6.3,
+     "t0_exact": null,
+     "dur": 0.8,
+     "h": 0.031,
+     "box": [
+      0.209,
+      0.367,
+      0.364,
+      0.398
+     ],
+     "text_colour": "#b38281",
+     "bg_colour": "#fdfbfc",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 1
+  },
+  {
+   "i": 3,
+   "start": 7.217,
+   "end": 12.767,
+   "dur": 5.55,
+   "cut_in": "transition",
+   "move": "eased zoom out",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.0222,
+    "zoom_pct_per_s": 0.4,
+    "pan_x": 0.0117,
+    "pan_y": 0.0179,
+    "jitter": 0.00064,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 7.233,
+     "end": 7.45,
+     "factor": 1.222,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 670.4
+    },
+    {
+     "start": 11.017,
+     "end": 11.317,
+     "factor": 1.027,
+     "peak_at": 0.39,
+     "peak_pct_per_s": 17.3
+    },
+    {
+     "start": 12.517,
+     "end": 12.767,
+     "factor": 0.788,
+     "peak_at": 0.93,
+     "peak_pct_per_s": 969.1
+    }
+   ],
+   "face": {
+    "h": 0.414,
+    "cx": 0.532,
+    "cy": 0.402,
+    "count": 1,
+    "h_end_over_start": 1.028
+   },
+   "face_share": 1.0,
+   "flat_share": 0.4,
+   "palette": [
+    {
+     "hex": "#2c2e31",
+     "share": 0.17
+    },
+    {
+     "hex": "#131215",
+     "share": 0.15
+    },
+    {
+     "hex": "#125ab0",
+     "share": 0.08
+    },
+    {
+     "hex": "#2c0f18",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0004,
+   "cut": {
+    "in_word": true,
+    "in_pause": true,
+    "gap_before": -4.1,
+    "gap_after": 4.1,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 7.05,
+    "end": 7.4
+   },
+   "said": "to be perfect for you because in this video, I'll teach you how to make shorts like this without using Claude. We're going to use open code",
+   "words": 27,
+   "text_lines_new": 2,
+   "text": [
+    {
+     "text": "without Claude",
+     "t0": 11.4,
+     "t0_exact": 11.133,
+     "dur": 1.1,
+     "h": 0.131,
+     "box": [
+      0.207,
+      0.791,
+      0.796,
+      0.922
+     ],
+     "text_colour": "#e2e5e8",
+     "bg_colour": "#3a3e43",
+     "grew": true,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.45
+    },
+    {
+     "text": "Make Shorts",
+     "t0": 10.2,
+     "t0_exact": null,
+     "dur": 2.3,
+     "h": 0.124,
+     "box": [
+      0.261,
+      0.635,
+      0.743,
+      0.759
+     ],
+     "text_colour": "#c9c8cf",
+     "bg_colour": "#373b43",
+     "grew": true,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.29
+    }
+   ],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 4,
+   "start": 12.767,
+   "end": 21.083,
+   "dur": 8.317,
+   "cut_in": "transition",
+   "move": "eased zoom out",
+   "picture": "page with a face on it",
+   "camera": {
+    "zoom_total": 0.8971,
+    "zoom_pct_per_s": -1.24,
+    "pan_x": -0.0339,
+    "pan_y": 0.0117,
+    "jitter": 0.0006,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 12.783,
+     "end": 13.05,
+     "factor": 0.644,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 2064.5
+    },
+    {
+     "start": 13.067,
+     "end": 13.267,
+     "factor": 0.962,
+     "peak_at": 0.08,
+     "peak_pct_per_s": 35.6
+    },
+    {
+     "start": 15.883,
+     "end": 16.0,
+     "factor": 1.112,
+     "peak_at": 0.86,
+     "peak_pct_per_s": 674.4
+    },
+    {
+     "start": 16.117,
+     "end": 16.467,
+     "factor": 1.145,
+     "peak_at": 0.1,
+     "peak_pct_per_s": 175.7
+    },
+    {
+     "start": 20.717,
+     "end": 21.083,
+     "factor": 1.126,
+     "peak_at": 0.95,
+     "peak_pct_per_s": 1275.3
+    }
+   ],
+   "face": {
+    "h": 0.22,
+    "cx": 0.895,
+    "cy": 0.448,
+    "count": 1,
+    "h_end_over_start": 0.975
+   },
+   "face_share": 1.0,
+   "flat_share": 0.66,
+   "palette": [
+    {
+     "hex": "#f6f5f4",
+     "share": 0.74
+    },
+    {
+     "hex": "#e8e3de",
+     "share": 0.11
+    }
+   ],
+   "activity": 0.003,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -5.91,
+    "gap_after": 5.91,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 12.5,
+    "end": 13.017
+   },
+   "said": "for this, which is a free alternative to Claude code. Plus, I'm going to give you an open code skill that lets you generate and automatically post videos like this every single day. So drop a like",
+   "words": 37,
+   "text_lines_new": 19,
+   "text": [
+    {
+     "text": "OpenCode",
+     "t0": 13.8,
+     "t0_exact": null,
+     "dur": 2.3,
+     "h": 0.058,
+     "box": [
+      0.111,
+      0.52,
+      0.26,
+      0.578
+     ],
+     "text_colour": "#12100f",
+     "bg_colour": "#fdfbfb",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Use OpenCode",
+     "t0": 12.9,
+     "t0_exact": null,
+     "dur": 3.2,
+     "h": 0.057,
+     "box": [
+      0.282,
+      0.176,
+      0.485,
+      0.233
+     ],
+     "text_colour": "#3c3a38",
+     "bg_colour": "#f7f9fa",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "One OpenCode Skill",
+     "t0": 16.8,
+     "t0_exact": null,
+     "dur": 4.2,
+     "h": 0.057,
+     "box": [
+      0.216,
+      0.176,
+      0.496,
+      0.233
+     ],
+     "text_colour": "#100d0c",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "One OpenCode Skill",
+     "t0": 16.1,
+     "t0_exact": 15.917,
+     "dur": 0.7,
+     "h": 0.054,
+     "box": [
+      0.325,
+      0.174,
+      0.604,
+      0.228
+     ],
+     "text_colour": "#c9c6c5",
+     "bg_colour": "#f4f2f0",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Claude Code",
+     "t0": 15.6,
+     "t0_exact": 15.533,
+     "dur": 0.5,
+     "h": 0.048,
+     "box": [
+      0.496,
+      0.522,
+      0.67,
+      0.57
+     ],
+     "text_colour": "#8f8b89",
+     "bg_colour": "#fdfcfb",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 0.85
+    },
+    {
+     "text": "X Automatically",
+     "t0": 19.8,
+     "t0_exact": null,
+     "dur": 1.2,
+     "h": 0.044,
+     "box": [
+      0.287,
+      0.78,
+      0.473,
+      0.824
+     ],
+     "text_colour": "#111721",
+     "bg_colour": "#e4edf9",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 5,
+   "sfx": [
+    {
+     "t": 14.27,
+     "dur": 0.04,
+     "kinds": [
+      "LOW"
+     ],
+     "rel_voice_dB": -7.8,
+     "strong": true,
+     "on_picture_event": false,
+     "cut_offset_s": null,
+     "motion_offset_s": null
+    },
+    {
+     "t": 18.17,
+     "dur": 0.3,
+     "kinds": [
+      "LOW"
+     ],
+     "rel_voice_dB": -12.1,
+     "strong": true,
+     "on_picture_event": true,
+     "cut_offset_s": null,
+     "motion_offset_s": 0.08
+    }
+   ],
+   "sfx_weak": 2
+  },
+  {
+   "i": 5,
+   "start": 21.083,
+   "end": 22.533,
+   "dur": 1.45,
+   "cut_in": "transition",
+   "move": "eased zoom in",
+   "picture": "speaker",
+   "camera": {
+    "zoom_total": 1.2374,
+    "zoom_pct_per_s": 16.37,
+    "pan_x": -0.1692,
+    "pan_y": -0.0032,
+    "jitter": 0.00071,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 21.1,
+     "end": 21.35,
+     "factor": 1.236,
+     "peak_at": 0.0,
+     "peak_pct_per_s": 751.6
+    }
+   ],
+   "face": {
+    "h": 0.409,
+    "cx": 0.525,
+    "cy": 0.387,
+    "count": 1,
+    "h_end_over_start": 0.991
+   },
+   "face_share": 1.0,
+   "flat_share": 0.41,
+   "palette": [
+    {
+     "hex": "#2b2d30",
+     "share": 0.17
+    },
+    {
+     "hex": "#131215",
+     "share": 0.15
+    },
+    {
+     "hex": "#115ab0",
+     "share": 0.08
+    },
+    {
+     "hex": "#2c0f18",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.76,
+    "gap_after": 0.76,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 20.883,
+    "end": 21.267
+   },
+   "said": "on this video and let's get started.",
+   "words": 7,
+   "text_lines_new": 24,
+   "text": [
+    {
+     "text": "opencode",
+     "t0": 22.5,
+     "t0_exact": 22.533,
+     "dur": 2.0,
+     "h": 0.054,
+     "box": [
+      0.41,
+      0.557,
+      0.582,
+      0.611
+     ],
+     "text_colour": "#ececec",
+     "bg_colour": "#080808",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "The open source AI coding agent",
+     "t0": 22.5,
+     "t0_exact": 22.533,
+     "dur": 12.3,
+     "h": 0.031,
+     "box": [
+      0.317,
+      0.189,
+      0.595,
+      0.22
+     ],
+     "text_colour": "#dbd9da",
+     "bg_colour": "#100d0f",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "opencode",
+     "t0": 22.5,
+     "t0_exact": 22.533,
+     "dur": 27.8,
+     "h": 0.03,
+     "box": [
+      0.316,
+      0.074,
+      0.394,
+      0.104
+     ],
+     "text_colour": "#bab7b9",
+     "bg_colour": "#100d0f",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -8.11
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 6,
+   "start": 22.533,
+   "end": 34.733,
+   "dur": 12.2,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9908,
+    "zoom_pct_per_s": -0.08,
+    "pan_x": 0.0036,
+    "pan_y": 0.0046,
+    "jitter": 6e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.69,
+   "palette": [
+    {
+     "hex": "#100e0f",
+     "share": 0.85
+    },
+    {
+     "hex": "#282b2c",
+     "share": 0.06
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.63,
+    "gap_after": 0.63,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "All right, our very first step will be downloading an AI agent. For that, we're going to use open code, which is a free alternative to Claude code. So you just head over to this website, opencode .ai, and you can simply download it from here. Let's click this download button",
+   "words": 51,
+   "text_lines_new": 30,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 7,
+   "start": 34.733,
+   "end": 50.217,
+   "dur": 15.483,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0004,
+    "zoom_pct_per_s": 0.0,
+    "pan_x": 0.0,
+    "pan_y": 0.0004,
+    "jitter": 2e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.8,
+   "palette": [
+    {
+     "hex": "#100d0f",
+     "share": 0.88
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.25,
+    "gap_after": 0.25,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "right here. And then depending on whatever operating system you're running, go ahead and download the right one for you. I'm on Windows, so I'll go with the Windows version. After that, you just simply install open code. I already have it installed, so I can't reinstall it, but it's a super simple process. You just keep clicking next next and get it installed. Next,",
+   "words": 65,
+   "text_lines_new": 29,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 8,
+   "start": 50.217,
+   "end": 55.05,
+   "dur": 4.833,
+   "cut_in": "hard",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9992,
+    "zoom_pct_per_s": -0.02,
+    "pan_x": 0.0,
+    "pan_y": -0.0377,
+    "jitter": 0.00733,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.65,
+   "palette": [
+    {
+     "hex": "#f3f4f7",
+     "share": 0.76
+    },
+    {
+     "hex": "#0e2727",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.026,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 14.6,
+    "gap_after": 117.86,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "you want to head over to naf3d .com, which is my own website. And this is where you can grab the free skill to",
+   "words": 24,
+   "text_lines_new": 23,
+   "text": [
+    {
+     "text": "Hey, I'm Nafay",
+     "t0": 50.3,
+     "t0_exact": 50.217,
+     "dur": 4.9,
+     "h": 0.07,
+     "box": [
+      0.483,
+      0.191,
+      0.722,
+      0.261
+     ],
+     "text_colour": "#1a1f43",
+     "bg_colour": "#f0f3f6",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "more reps.",
+     "t0": 50.3,
+     "t0_exact": 50.217,
+     "dur": 4.9,
+     "h": 0.049,
+     "box": [
+      0.58,
+      0.77,
+      0.698,
+      0.819
+     ],
+     "text_colour": "#c3b246",
+     "bg_colour": "#21170f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "The Style Library",
+     "t0": 50.3,
+     "t0_exact": 50.217,
+     "dur": 4.9,
+     "h": 0.048,
+     "box": [
+      0.253,
+      0.613,
+      0.445,
+      0.661
+     ],
+     "text_colour": "#1c1f3f",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "YOU DON'T NEED",
+     "t0": 50.3,
+     "t0_exact": 50.217,
+     "dur": 4.9,
+     "h": 0.037,
+     "box": [
+      0.548,
+      0.63,
+      0.689,
+      0.667
+     ],
+     "text_colour": "#13100c",
+     "bg_colour": "#625b58",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 9,
+   "start": 55.05,
+   "end": 65.25,
+   "dur": 10.2,
+   "cut_in": "jump",
+   "move": "pan/slide",
+   "picture": "page with a face on it",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.9933,
+    "zoom_pct_per_s": -0.07,
+    "pan_x": -0.001,
+    "pan_y": -0.0633,
+    "jitter": 0.00169,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.048,
+    "cx": 0.468,
+    "cy": 0.633,
+    "count": 2,
+    "h_end_over_start": 0.982
+   },
+   "face_share": 1.0,
+   "flat_share": 0.59,
+   "palette": [
+    {
+     "hex": "#f4f5f7",
+     "share": 0.77
+    },
+    {
+     "hex": "#0e2727",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0207,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 19.43,
+    "gap_after": 113.03,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "make these shorts and stuff. To do that, just scroll down a bit and right here, you'll see the faceless short skill. You just simply download this, downloaded it right here, just like that. It's about a 10 megabyte download, so",
+   "words": 41,
+   "text_lines_new": 56,
+   "text": [
+    {
+     "text": "more reps.",
+     "t0": 55.4,
+     "t0_exact": 55.25,
+     "dur": 0.6,
+     "h": 0.05,
+     "box": [
+      0.58,
+      0.322,
+      0.698,
+      0.372
+     ],
+     "text_colour": "#c0ae46",
+     "bg_colour": "#20160f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "The Style Library",
+     "t0": 57.4,
+     "t0_exact": 57.2,
+     "dur": 8.0,
+     "h": 0.05,
+     "box": [
+      0.254,
+      0.167,
+      0.445,
+      0.217
+     ],
+     "text_colour": "#222343",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "more reps.",
+     "t0": 57.4,
+     "t0_exact": 57.2,
+     "dur": 8.0,
+     "h": 0.05,
+     "box": [
+      0.58,
+      0.322,
+      0.698,
+      0.372
+     ],
+     "text_colour": "#c2b049",
+     "bg_colour": "#21170f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "more reps.",
+     "t0": 55.2,
+     "t0_exact": 55.05,
+     "dur": 2.2,
+     "h": 0.048,
+     "box": [
+      0.58,
+      0.393,
+      0.698,
+      0.441
+     ],
+     "text_colour": "#c0af46",
+     "bg_colour": "#21170d",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "The Style Library",
+     "t0": 55.4,
+     "t0_exact": 55.25,
+     "dur": 0.6,
+     "h": 0.048,
+     "box": [
+      0.254,
+      0.167,
+      0.445,
+      0.215
+     ],
+     "text_colour": "#222541",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "The Style Library",
+     "t0": 55.2,
+     "t0_exact": 55.05,
+     "dur": 2.2,
+     "h": 0.046,
+     "box": [
+      0.254,
+      0.237,
+      0.445,
+      0.283
+     ],
+     "text_colour": "#202341",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 4,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 10,
+   "start": 65.25,
+   "end": 70.35,
+   "dur": 5.1,
+   "cut_in": "hard",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "flat graphic",
+   "face_share": 0.0,
+   "flat_share": 0.83,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.9
+    },
+    {
+     "hex": "#232323",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 29.63,
+    "gap_after": 102.83,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "it shouldn't take that long. After that, open up open code. And basically the first thing we need to do here is select our model. Now inside open",
+   "words": 28,
+   "text_lines_new": 7,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 11,
+   "start": 70.35,
+   "end": 83.717,
+   "dur": 13.367,
+   "cut_in": "hard",
+   "move": "slow push in",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0444,
+    "zoom_pct_per_s": 0.33,
+    "pan_x": 0.0052,
+    "pan_y": -0.1106,
+    "jitter": 0.00393,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.8,
+   "palette": [
+    {
+     "hex": "#090909",
+     "share": 0.93
+    },
+    {
+     "hex": "#262526",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0108,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 34.73,
+    "gap_after": 97.73,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "code, you'll see quite a few model options, and most of them are paid options. But today I'm going to show you a free option, and that's GLM 5 .3 Flash. This model is provided completely free right by open code itself. All you",
+   "words": 44,
+   "text_lines_new": 67,
+   "text": [],
+   "motion_events": 4,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 12,
+   "start": 83.717,
+   "end": 85.5,
+   "dur": 1.783,
+   "cut_in": "hard",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "flat graphic",
+   "face_share": 0.0,
+   "flat_share": 0.82,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.9
+    },
+    {
+     "hex": "#232323",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 48.1,
+    "gap_after": 84.36,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "have to do for this is select the",
+   "words": 8,
+   "text_lines_new": 1,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 13,
+   "start": 85.5,
+   "end": 97.85,
+   "dur": 12.35,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9988,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": 0.0005,
+    "pan_y": -0.002,
+    "jitter": 0.00033,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.82,
+   "palette": [
+    {
+     "hex": "#090909",
+     "share": 0.93
+    }
+   ],
+   "activity": 0.0007,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 49.88,
+    "gap_after": 82.58,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "model right here, click on it, search for GLM, and then select GLM 5 .3 Flash, the free one. Now this won't work right out of the box. You'll need to do one more step. Click the",
+   "words": 37,
+   "text_lines_new": 33,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 14,
+   "start": 97.85,
+   "end": 121.95,
+   "dur": 24.1,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9998,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": 0.0,
+    "pan_y": -0.0001,
+    "jitter": 9e-05,
+    "tracked_share": 0.93
+   },
+   "face_share": 0.0,
+   "flat_share": 0.84,
+   "palette": [
+    {
+     "hex": "#080808",
+     "share": 0.96
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 62.23,
+    "gap_after": 70.23,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "settings icon right here, click on connect and integrations, and then we want to click on the open code console option. And after that, simply select personal. Now I already have this connected, but when you click it, it'll take you to the open code website, where you just need to create an account. No need to enter any payment details or anything. You just enter your email, password, and stuff. Your account will be created, and after that you'll get access to it completely for free.",
+   "words": 87,
+   "text_lines_new": 34,
+   "text": [
+    {
+     "text": "Google",
+     "t0": 100.5,
+     "t0_exact": 100.417,
+     "dur": 3.3,
+     "h": 0.03,
+     "box": [
+      0.332,
+      0.633,
+      0.364,
+      0.663
+     ],
+     "text_colour": "#979797",
+     "bg_colour": "#141414",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 15,
+   "start": 121.95,
+   "end": 128.183,
+   "dur": 6.233,
+   "cut_in": "hard",
+   "move": "slow push in",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0165,
+    "zoom_pct_per_s": 0.26,
+    "pan_x": -0.0021,
+    "pan_y": 0.0019,
+    "jitter": 0.0001,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.82,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.9
+    },
+    {
+     "hex": "#232323",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0005,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 86.33,
+    "gap_after": 46.13,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "Once that's done, your model is connected. Now what you need to do is take that zip file you got, the one you downloaded",
+   "words": 24,
+   "text_lines_new": 13,
+   "text": [],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 16,
+   "start": 128.183,
+   "end": 131.2,
+   "dur": 3.017,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "page with a face on it",
+   "camera": {
+    "zoom_total": 1.0411,
+    "zoom_pct_per_s": 1.36,
+    "pan_x": 0.407,
+    "pan_y": 0.1687,
+    "jitter": 0.00327,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 130.067,
+     "end": 130.233,
+     "factor": 1.035,
+     "peak_at": 0.1,
+     "peak_pct_per_s": 75.4
+    }
+   ],
+   "face": {
+    "h": 0.028,
+    "cx": 0.406,
+    "cy": 0.621,
+    "count": 2,
+    "h_end_over_start": 1.07
+   },
+   "face_share": 0.83,
+   "flat_share": 0.56,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.8
+    },
+    {
+     "hex": "#2c292a",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0087,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 92.56,
+    "gap_after": 39.9,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "from my website. You can see my downloaded file right here.",
+   "words": 11,
+   "text_lines_new": 7,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 17,
+   "start": 131.2,
+   "end": 170.25,
+   "dur": 39.05,
+   "cut_in": "jump",
+   "move": "static",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.002,
+   "camera": {
+    "zoom_total": 1.0023,
+    "zoom_pct_per_s": 0.01,
+    "pan_x": -0.0011,
+    "pan_y": -0.0008,
+    "jitter": 6e-05,
+    "tracked_share": 0.97
+   },
+   "face": {
+    "h": 0.03,
+    "cx": 0.827,
+    "cy": 0.806,
+    "count": 2
+   },
+   "face_share": 0.02,
+   "flat_share": 0.82,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.87
+    },
+    {
+     "hex": "#232323",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 95.58,
+    "gap_after": 36.88,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "We just drag it right into open code like this. And also by the way, before doing that, make sure the effort level is set to high. If you want, you can set it to max too. You'll get better results that way. But at the same time, your usage limit will run out faster. So personally, I'm going to keep it on high. I think it should be good enough. But anyway, you just add the zip file here, like this, and tell it, install this skill. And it'll automatically install your skill. Now along with that, I'm going to tell it, and make a 20 -second short. Choose any topic that you like. That way it'll install the skill, and we can also test it out to see if it's actually working. And we told it to pick any topic on its own. So now I'm going to hit send, and it's",
+   "words": 154,
+   "text_lines_new": 6,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 18,
+   "start": 170.25,
+   "end": 186.25,
+   "dur": 16.0,
+   "cut_in": "jump",
+   "move": "slow pull out",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.9385,
+    "zoom_pct_per_s": -0.38,
+    "pan_x": -0.0035,
+    "pan_y": -2.1151,
+    "jitter": 0.00502,
+    "tracked_share": 0.98
+   },
+   "face_share": 0.0,
+   "flat_share": 0.72,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.87
+    },
+    {
+     "hex": "#262627",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0187,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.31,
+    "gap_after": 0.31,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "already started working. Right here, you can see it installed the skill, and then it came up with an idea. But then I scrolled down and told it again, make the short in the tall -tail style. Now, this is the exact style you saw in the intro of this video. So I want to make the video in that style. But again, you can pick any style you want from the entire library.",
+   "words": 74,
+   "text_lines_new": 122,
+   "text": [],
+   "motion_events": 3,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 19,
+   "start": 186.25,
+   "end": 195.45,
+   "dur": 9.2,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.1873,
+    "zoom_pct_per_s": 2.04,
+    "pan_x": -0.001,
+    "pan_y": -0.0016,
+    "jitter": 6e-05,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 189.483,
+     "end": 189.85,
+     "factor": 1.119,
+     "peak_at": 0.23,
+     "peak_pct_per_s": 105.2
+    },
+    {
+     "start": 190.017,
+     "end": 190.283,
+     "factor": 1.06,
+     "peak_at": 0.12,
+     "peak_pct_per_s": 36.9
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.52,
+   "palette": [
+    {
+     "hex": "#1c1816",
+     "share": 0.3
+    },
+    {
+     "hex": "#221b1b",
+     "share": 0.23
+    },
+    {
+     "hex": "#182123",
+     "share": 0.12
+    },
+    {
+     "hex": "#1d1e20",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0145,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 3.01,
+    "gap_after": 29.43,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "By the way, I thought I'd quickly show you what styles you actually get with this skill. So this is our first style, right? It's kind of an old -school style. If you want to make history videos, you can make them with this.",
+   "words": 44,
+   "text_lines_new": 53,
+   "text": [
+    {
+     "text": "London burned.",
+     "t0": 186.4,
+     "t0_exact": 186.25,
+     "dur": 9.2,
+     "h": 0.032,
+     "box": [
+      0.476,
+      0.67,
+      0.583,
+      0.702
+     ],
+     "text_colour": "#764a3b",
+     "bg_colour": "#f0e5cf",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "The king fled.",
+     "t0": 186.4,
+     "t0_exact": 186.25,
+     "dur": 9.2,
+     "h": 0.032,
+     "box": [
+      0.484,
+      0.735,
+      0.578,
+      0.767
+     ],
+     "text_colour": "#71483b",
+     "bg_colour": "#f0e7d0",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "1666",
+     "t0": 189.6,
+     "t0_exact": 189.483,
+     "dur": 6.0,
+     "h": 0.032,
+     "box": [
+      0.63,
+      0.296,
+      0.678,
+      0.328
+     ],
+     "text_colour": "#744f08",
+     "bg_colour": "#c39436",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 20,
+   "start": 195.45,
+   "end": 199.05,
+   "dur": 3.6,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "page with a face on it",
+   "camera": {
+    "zoom_total": 1.299,
+    "zoom_pct_per_s": 8.31,
+    "pan_x": -0.0006,
+    "pan_y": -0.0004,
+    "jitter": 0.00014,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 196.567,
+     "end": 197.05,
+     "factor": 1.299,
+     "peak_at": 0.17,
+     "peak_pct_per_s": 262.0
+    }
+   ],
+   "face": {
+    "h": 0.047,
+    "cx": 0.28,
+    "cy": 0.328,
+    "count": 3,
+    "h_end_over_start": 1.341
+   },
+   "face_share": 1.0,
+   "flat_share": 0.62,
+   "palette": [
+    {
+     "hex": "#1a1a1d",
+     "share": 0.37
+    },
+    {
+     "hex": "#211b1c",
+     "share": 0.21
+    },
+    {
+     "hex": "#182124",
+     "share": 0.14
+    },
+    {
+     "hex": "#1c1d20",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0263,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 12.21,
+    "gap_after": 20.23,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "Besides that, this one is a 2D sort of explainer style. Okay.",
+   "words": 12,
+   "text_lines_new": 37,
+   "text": [
+    {
+     "text": "HURTS",
+     "t0": 195.6,
+     "t0_exact": 195.45,
+     "dur": 3.6,
+     "h": 0.037,
+     "box": [
+      0.542,
+      0.591,
+      0.606,
+      0.628
+     ],
+     "text_colour": "#f2f2f2",
+     "bg_colour": "#110d0f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "INSIDEOUTSHORTS:STYLESHEET",
+     "t0": 195.6,
+     "t0_exact": 195.45,
+     "dur": 3.6,
+     "h": 0.036,
+     "box": [
+      0.314,
+      0.181,
+      0.686,
+      0.217
+     ],
+     "text_colour": "#eeeff3",
+     "bg_colour": "#18191c",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "PROBLEM",
+     "t0": 195.6,
+     "t0_exact": 195.45,
+     "dur": 3.6,
+     "h": 0.036,
+     "box": [
+      0.535,
+      0.72,
+      0.613,
+      0.756
+     ],
+     "text_colour": "#e7d457",
+     "bg_colour": "#171708",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "STAYS",
+     "t0": 195.6,
+     "t0_exact": 195.45,
+     "dur": 3.6,
+     "h": 0.034,
+     "box": [
+      0.446,
+      0.622,
+      0.503,
+      0.656
+     ],
+     "text_colour": "#ecdd5a",
+     "bg_colour": "#18160f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "LATER",
+     "t0": 195.6,
+     "t0_exact": 195.45,
+     "dur": 3.6,
+     "h": 0.033,
+     "box": [
+      0.547,
+      0.624,
+      0.601,
+      0.657
+     ],
+     "text_colour": "#e6d759",
+     "bg_colour": "#171305",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "IN YOUR",
+     "t0": 195.6,
+     "t0_exact": 195.45,
+     "dur": 3.6,
+     "h": 0.033,
+     "box": [
+      0.441,
+      0.693,
+      0.507,
+      0.726
+     ],
+     "text_colour": "#edeff2",
+     "bg_colour": "#131618",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 21,
+   "start": 199.05,
+   "end": 203.9,
+   "dur": 4.85,
+   "cut_in": "jump",
+   "move": "eased zoom in",
+   "picture": "no face (b-roll / screen / graphic)",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 1.2313,
+    "zoom_pct_per_s": 4.77,
+    "pan_x": -0.0008,
+    "pan_y": -0.0017,
+    "jitter": 7e-05,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 199.85,
+     "end": 200.317,
+     "factor": 1.231,
+     "peak_at": 0.43,
+     "peak_pct_per_s": 131.1
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.51,
+   "palette": [
+    {
+     "hex": "#1c1a1e",
+     "share": 0.25
+    },
+    {
+     "hex": "#211b1c",
+     "share": 0.18
+    },
+    {
+     "hex": "#182123",
+     "share": 0.13
+    },
+    {
+     "hex": "#1c1c20",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0175,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 15.81,
+    "gap_after": 16.63,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "Then there's the one we saw in the intro. This is that style. It's inspired by Rick's Clips.",
+   "words": 18,
+   "text_lines_new": 36,
+   "text": [
+    {
+     "text": "everything",
+     "t0": 200.0,
+     "t0_exact": 199.85,
+     "dur": 4.0,
+     "h": 0.032,
+     "box": [
+      0.487,
+      0.661,
+      0.575,
+      0.693
+     ],
+     "text_colour": "#3d3c3d",
+     "bg_colour": "#ecebed",
+     "grew": true,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "asingle",
+     "t0": 199.2,
+     "t0_exact": 199.05,
+     "dur": 4.8,
+     "h": 0.03,
+     "box": [
+      0.499,
+      0.722,
+      0.564,
+      0.752
+     ],
+     "text_colour": "#5d4225",
+     "bg_colour": "#c8854f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 22,
+   "start": 203.9,
+   "end": 209.317,
+   "dur": 5.417,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.2313,
+    "zoom_pct_per_s": 4.27,
+    "pan_x": 0.0005,
+    "pan_y": -0.0018,
+    "jitter": 9e-05,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 204.65,
+     "end": 205.033,
+     "factor": 1.231,
+     "peak_at": 0.26,
+     "peak_pct_per_s": 222.6
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.52,
+   "palette": [
+    {
+     "hex": "#111113",
+     "share": 0.46
+    },
+    {
+     "hex": "#221b1b",
+     "share": 0.19
+    },
+    {
+     "hex": "#182123",
+     "share": 0.13
+    },
+    {
+     "hex": "#1d1e20",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0169,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 20.66,
+    "gap_after": 11.78,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "And besides that, there's this kind of style where you can make, you know, mystery videos or investigation videos and things like",
+   "words": 22,
+   "text_lines_new": 50,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 23,
+   "start": 209.317,
+   "end": 214.2,
+   "dur": 4.883,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "small face (inset / wide shot)",
+   "camera": {
+    "zoom_total": 1.2704,
+    "zoom_pct_per_s": 5.54,
+    "pan_x": -0.0014,
+    "pan_y": 0.0007,
+    "jitter": 0.0001,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 210.1,
+     "end": 210.467,
+     "factor": 1.27,
+     "peak_at": 0.23,
+     "peak_pct_per_s": 258.0
+    }
+   ],
+   "face": {
+    "h": 0.043,
+    "cx": 0.221,
+    "cy": 0.302,
+    "count": 3,
+    "h_end_over_start": 1.213
+   },
+   "face_share": 1.0,
+   "flat_share": 0.5,
+   "palette": [
+    {
+     "hex": "#18181b",
+     "share": 0.32
+    },
+    {
+     "hex": "#221b1c",
+     "share": 0.19
+    },
+    {
+     "hex": "#182123",
+     "share": 0.13
+    },
+    {
+     "hex": "#1c1d21",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0143,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 26.08,
+    "gap_after": 6.36,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "that. Then we have this style, which is sort of inspired by Zack D films. So that's available to",
+   "words": 19,
+   "text_lines_new": 33,
+   "text": [
+    {
+     "text": "Your stomach",
+     "t0": 209.4,
+     "t0_exact": 209.317,
+     "dur": 4.9,
+     "h": 0.037,
+     "box": [
+      0.477,
+      0.583,
+      0.578,
+      0.62
+     ],
+     "text_colour": "#513e26",
+     "bg_colour": "#bab4a0",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "can't digest it",
+     "t0": 209.4,
+     "t0_exact": 209.317,
+     "dur": 4.9,
+     "h": 0.031,
+     "box": [
+      0.473,
+      0.665,
+      0.591,
+      0.696
+     ],
+     "text_colour": "#3a4141",
+     "bg_colour": "#b9ab9b",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "In 3 days...",
+     "t0": 209.4,
+     "t0_exact": 209.317,
+     "dur": 4.9,
+     "h": 0.03,
+     "box": [
+      0.484,
+      0.694,
+      0.568,
+      0.724
+     ],
+     "text_colour": "#e1ddcc",
+     "bg_colour": "#425742",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 24,
+   "start": 214.2,
+   "end": 221.383,
+   "dur": 7.183,
+   "cut_in": "hard",
+   "move": "eased zoom in",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.259,
+    "zoom_pct_per_s": 3.61,
+    "pan_x": 0.0007,
+    "pan_y": -0.0008,
+    "jitter": 0.00013,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 215.017,
+     "end": 215.383,
+     "factor": 1.259,
+     "peak_at": 0.23,
+     "peak_pct_per_s": 255.8
+    }
+   ],
+   "face_share": 0.0,
+   "flat_share": 0.53,
+   "palette": [
+    {
+     "hex": "#1a1a1c",
+     "share": 0.3
+    },
+    {
+     "hex": "#211b1c",
+     "share": 0.18
+    },
+    {
+     "hex": "#182123",
+     "share": 0.13
+    },
+    {
+     "hex": "#27282b",
+     "share": 0.08
+    }
+   ],
+   "activity": 0.0234,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 30.96,
+    "gap_after": 1.48,
+    "after_sentence_end": true,
+    "sfx_within_0.12s": false
+   },
+   "said": "you too. And finally, we have the Stickman style as well. So you have all these styles available. All you have to do is tell Claude the name, like make this video in Stick Story",
+   "words": 35,
+   "text_lines_new": 53,
+   "text": [
+    {
+     "text": "Opencode*",
+     "t0": 219.0,
+     "t0_exact": null,
+     "dur": 0.7,
+     "h": 0.076,
+     "box": [
+      0.384,
+      0.439,
+      0.619,
+      0.515
+     ],
+     "text_colour": "#fefdfd",
+     "bg_colour": "#000000",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 25,
+   "start": 221.383,
+   "end": 223.467,
+   "dur": 2.083,
+   "cut_in": "jump",
+   "move": "eased zoom in",
+   "picture": "page with a face on it",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 1.2783,
+    "zoom_pct_per_s": 13.36,
+    "pan_x": -0.001,
+    "pan_y": 0.0017,
+    "jitter": 9e-05,
+    "tracked_share": 1.0
+   },
+   "zoom_moves": [
+    {
+     "start": 222.417,
+     "end": 222.75,
+     "factor": 1.278,
+     "peak_at": 0.15,
+     "peak_pct_per_s": 340.0
+    }
+   ],
+   "face": {
+    "h": 0.039,
+    "cx": 0.279,
+    "cy": 0.34,
+    "count": 3,
+    "h_end_over_start": 0.152
+   },
+   "face_share": 1.0,
+   "flat_share": 0.68,
+   "palette": [
+    {
+     "hex": "#221b1c",
+     "share": 0.3
+    },
+    {
+     "hex": "#1a191c",
+     "share": 0.27
+    },
+    {
+     "hex": "#182123",
+     "share": 0.16
+    },
+    {
+     "hex": "#1c1d20",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0143,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.02,
+    "gap_after": 0.02,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "style, or in Deep Dive 3D. And",
+   "words": 7,
+   "text_lines_new": 38,
+   "text": [
+    {
+     "text": "Yourstomach",
+     "t0": 221.5,
+     "t0_exact": 221.383,
+     "dur": 2.1,
+     "h": 0.035,
+     "box": [
+      0.476,
+      0.6,
+      0.591,
+      0.635
+     ],
+     "text_colour": "#514126",
+     "bg_colour": "#bab59f",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "In 3 days...",
+     "t0": 221.5,
+     "t0_exact": 221.383,
+     "dur": 2.1,
+     "h": 0.035,
+     "box": [
+      0.483,
+      0.713,
+      0.574,
+      0.748
+     ],
+     "text_colour": "#e6dbcd",
+     "bg_colour": "#415641",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "can't digest it",
+     "t0": 221.5,
+     "t0_exact": 221.383,
+     "dur": 2.1,
+     "h": 0.033,
+     "box": [
+      0.474,
+      0.656,
+      0.586,
+      0.689
+     ],
+     "text_colour": "#3c3f3f",
+     "bg_colour": "#b7ab9a",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 26,
+   "start": 223.467,
+   "end": 224.0,
+   "dur": 0.533,
+   "cut_in": "hard",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "flat graphic",
+   "face_share": 0.0,
+   "flat_share": 0.68,
+   "palette": [
+    {
+     "hex": "#151416",
+     "share": 0.35
+    },
+    {
+     "hex": "#221b1c",
+     "share": 0.3
+    },
+    {
+     "hex": "#182123",
+     "share": 0.16
+    },
+    {
+     "hex": "#1d1e20",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": true,
+    "in_pause": true,
+    "gap_before": -0.29,
+    "gap_after": 0.29,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "it'll make your video",
+   "words": 4,
+   "text_lines_new": 16,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 27,
+   "start": 224.0,
+   "end": 224.583,
+   "dur": 0.583,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": 0.0,
+    "pan_y": 0.0,
+    "jitter": 0.0,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.68,
+   "palette": [
+    {
+     "hex": "#221b1c",
+     "share": 0.29
+    },
+    {
+     "hex": "#1d1b1e",
+     "share": 0.24
+    },
+    {
+     "hex": "#182123",
+     "share": 0.16
+    },
+    {
+     "hex": "#1d1d20",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 0.0,
+    "gap_after": 0.0,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "in that exact",
+   "words": 3,
+   "text_lines_new": 4,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 28,
+   "start": 224.583,
+   "end": 225.55,
+   "dur": 0.967,
+   "cut_in": "pop",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "page with a face on it",
+   "face": {
+    "h": 0.035,
+    "cx": 0.351,
+    "cy": 0.379,
+    "count": 1
+   },
+   "face_share": 1.0,
+   "flat_share": 0.76,
+   "palette": [
+    {
+     "hex": "#221b1c",
+     "share": 0.34
+    },
+    {
+     "hex": "#1c1b1d",
+     "share": 0.28
+    },
+    {
+     "hex": "#182123",
+     "share": 0.16
+    },
+    {
+     "hex": "#1d1e20",
+     "share": 0.08
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.02,
+    "gap_after": 0.02,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "style. And then",
+   "words": 3,
+   "text_lines_new": 18,
+   "text": [
+    {
+     "text": "STAYS",
+     "t0": 224.7,
+     "t0_exact": 224.583,
+     "dur": 1.0,
+     "h": 0.033,
+     "box": [
+      0.46,
+      0.574,
+      0.503,
+      0.607
+     ],
+     "text_colour": "#efdf5e",
+     "bg_colour": "#171816",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 29,
+   "start": 225.55,
+   "end": 256.483,
+   "dur": 30.933,
+   "cut_in": "hard",
+   "move": "slow pull out",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9614,
+    "zoom_pct_per_s": -0.12,
+    "pan_x": -0.0028,
+    "pan_y": -1.1884,
+    "jitter": 0.0041,
+    "tracked_share": 0.98
+   },
+   "face_share": 0.0,
+   "flat_share": 0.75,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.89
+    },
+    {
+     "hex": "#262626",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0165,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -2.59,
+    "gap_after": 2.59,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "after that, it picked a topic and laid out the whole plan for me, showing what kind of video we're going to get. And after that, it asked me if everything looks good, let me know, and we'll build it. So I said build it. And right now our video is being generated. Also, by the way, speaking of voice, that reminds me, let me tell you how it's generating the voice. Basically, it's downloading a local model onto your computer, which will then handle the voice generation for you. So keep that in mind as well. You won't need an 11 Labs API or any kind of API or subscription for this. The entire process is completely free. So let's wait for it to finish, and I'll catch up with you then.",
+   "words": 133,
+   "text_lines_new": 166,
+   "text": [],
+   "motion_events": 4,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 30,
+   "start": 256.483,
+   "end": 260.367,
+   "dur": 3.883,
+   "cut_in": "hard",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0093,
+    "zoom_pct_per_s": 0.24,
+    "pan_x": 0.0034,
+    "pan_y": 0.4835,
+    "jitter": 0.00565,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.59,
+   "palette": [
+    {
+     "hex": "#0c0c0d",
+     "share": 0.56
+    },
+    {
+     "hex": "#232323",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.0317,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 8.46,
+    "gap_after": 26.22,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "And just like that, after a little bit, our video is ready. You can see it even gave us",
+   "words": 19,
+   "text_lines_new": 88,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 31,
+   "start": 260.367,
+   "end": 266.95,
+   "dur": 6.583,
+   "cut_in": "pop",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "no face (b-roll / screen / graphic)",
+   "face_share": 0.0,
+   "flat_share": 0.53,
+   "palette": [
+    {
+     "hex": "#232323",
+     "share": 0.41
+    },
+    {
+     "hex": "#121212",
+     "share": 0.37
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 12.35,
+    "gap_after": 22.33,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "a cover frame, which will basically be our thumbnail. The text seems to have a tiny issue, I think. You can just tell it to make the text a little smaller.",
+   "words": 31,
+   "text_lines_new": 3,
+   "text": [
+    {
+     "text": "EMUWAR",
+     "t0": 260.5,
+     "t0_exact": 260.367,
+     "dur": 6.6,
+     "h": 0.061,
+     "box": [
+      0.603,
+      0.348,
+      0.748,
+      0.409
+     ],
+     "text_colour": "#1f192f",
+     "bg_colour": "#f0ecdf",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "WESTERNFARMRECORD",
+     "t0": 260.5,
+     "t0_exact": 260.367,
+     "dur": 6.6,
+     "h": 0.043,
+     "box": [
+      0.601,
+      0.283,
+      0.746,
+      0.326
+     ],
+     "text_colour": "#f3d7ca",
+     "bg_colour": "#ad352e",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "GERM?NO-EMUSEATTHECROPS",
+     "t0": 260.5,
+     "t0_exact": 260.367,
+     "dur": 6.6,
+     "h": 0.038,
+     "box": [
+      0.586,
+      0.406,
+      0.769,
+      0.444
+     ],
+     "text_colour": "#23434f",
+     "bg_colour": "#efebdf",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 32,
+   "start": 266.95,
+   "end": 269.433,
+   "dur": 2.483,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": -0.0,
+    "pan_y": -0.0,
+    "jitter": 4e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.59,
+   "palette": [
+    {
+     "hex": "#0d0d0d",
+     "share": 0.56
+    },
+    {
+     "hex": "#232323",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.0004,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 18.93,
+    "gap_after": 15.75,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "But if I show you the video, overall, it turned out really good.",
+   "words": 13,
+   "text_lines_new": 6,
+   "text": [
+    {
+     "text": "NEWSPAPER",
+     "t0": 269.4,
+     "t0_exact": 269.433,
+     "dur": 3.0,
+     "h": 0.187,
+     "box": [
+      0.626,
+      0.313,
+      0.768,
+      0.5
+     ],
+     "text_colour": "#bda551",
+     "bg_colour": "#08280c",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "In 1932,",
+     "t0": 269.4,
+     "t0_exact": 269.433,
+     "dur": 2.0,
+     "h": 0.059,
+     "box": [
+      0.636,
+      0.687,
+      0.72,
+      0.746
+     ],
+     "text_colour": "#4f3405",
+     "bg_colour": "#d98f7c",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 33,
+   "start": 269.433,
+   "end": 273.65,
+   "dur": 4.217,
+   "cut_in": "pop",
+   "move": "slow push in",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.0209,
+    "zoom_pct_per_s": 0.5,
+    "pan_x": 0.0025,
+    "pan_y": 0.021,
+    "jitter": 7e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.47,
+   "palette": [
+    {
+     "hex": "#121111",
+     "share": 0.41
+    },
+    {
+     "hex": "#242324",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.0025,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 21.41,
+    "gap_after": 13.27,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "",
+   "words": 0,
+   "text_lines_new": 7,
+   "text": [
+    {
+     "text": "EMUWAR",
+     "t0": 272.4,
+     "t0_exact": 272.217,
+     "dur": 0.9,
+     "h": 0.063,
+     "box": [
+      0.604,
+      0.346,
+      0.75,
+      0.409
+     ],
+     "text_colour": "#110d25",
+     "bg_colour": "#fcfdef",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "GERM?NO-EMUSEATTHECROPS",
+     "t0": 272.4,
+     "t0_exact": 272.217,
+     "dur": 0.9,
+     "h": 0.044,
+     "box": [
+      0.585,
+      0.404,
+      0.77,
+      0.448
+     ],
+     "text_colour": "#11384b",
+     "bg_colour": "#fcfcef",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "WESTERNFARMRECORD",
+     "t0": 272.4,
+     "t0_exact": 272.217,
+     "dur": 0.9,
+     "h": 0.039,
+     "box": [
+      0.601,
+      0.285,
+      0.746,
+      0.324
+     ],
+     "text_colour": "#fddac8",
+     "bg_colour": "#c23a21",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "on birds.",
+     "t0": 273.3,
+     "t0_exact": null,
+     "dur": 1.3,
+     "h": 0.037,
+     "box": [
+      0.635,
+      0.696,
+      0.721,
+      0.733
+     ],
+     "text_colour": "#f5f3f3",
+     "bg_colour": "#260f09",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 34,
+   "start": 273.65,
+   "end": 276.95,
+   "dur": 3.3,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.0031,
+    "zoom_pct_per_s": 0.09,
+    "pan_x": 0.0013,
+    "pan_y": 0.0038,
+    "jitter": 2e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.46,
+   "palette": [
+    {
+     "hex": "#121212",
+     "share": 0.4
+    },
+    {
+     "hex": "#232324",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.0003,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 25.63,
+    "gap_after": 9.05,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "So",
+   "words": 1,
+   "text_lines_new": 4,
+   "text": [
+    {
+     "text": "eating",
+     "t0": 275.6,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.048,
+     "box": [
+      0.645,
+      0.693,
+      0.711,
+      0.741
+     ],
+     "text_colour": "#20160a",
+     "bg_colour": "#fae182",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "thecrops,",
+     "t0": 276.6,
+     "t0_exact": null,
+     "dur": 0.5,
+     "h": 0.045,
+     "box": [
+      0.627,
+      0.696,
+      0.727,
+      0.741
+     ],
+     "text_colour": "#261e12",
+     "bg_colour": "#f9df7e",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "thousand",
+     "t0": 274.6,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.031,
+     "box": [
+      0.632,
+      0.7,
+      0.724,
+      0.731
+     ],
+     "text_colour": "#261e14",
+     "bg_colour": "#fbe8c9",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [
+    {
+     "t": 276.46,
+     "dur": 0.03,
+     "kinds": [
+      "LOW"
+     ],
+     "rel_voice_dB": -12.5,
+     "strong": true,
+     "on_picture_event": false,
+     "cut_offset_s": 0.49,
+     "motion_offset_s": null
+    }
+   ],
+   "sfx_weak": 0
+  },
+  {
+   "i": 35,
+   "start": 276.95,
+   "end": 279.917,
+   "dur": 2.967,
+   "cut_in": "pop",
+   "move": "slow pull out",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 0.9659,
+    "zoom_pct_per_s": -1.15,
+    "pan_x": -0.0166,
+    "pan_y": -0.0021,
+    "jitter": 6e-05,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.161,
+    "cx": 0.628,
+    "cy": 0.4,
+    "count": 1
+   },
+   "face_share": 0.17,
+   "flat_share": 0.45,
+   "palette": [
+    {
+     "hex": "#111111",
+     "share": 0.4
+    },
+    {
+     "hex": "#232323",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.003,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 28.93,
+    "gap_after": 5.75,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "as you",
+   "words": 2,
+   "text_lines_new": 4,
+   "text": [
+    {
+     "text": "thearmy",
+     "t0": 278.0,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.043,
+     "box": [
+      0.633,
+      0.696,
+      0.722,
+      0.739
+     ],
+     "text_colour": "#223713",
+     "bg_colour": "#7dc84d",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "guns.",
+     "t0": 279.3,
+     "t0_exact": 279.15,
+     "dur": 0.7,
+     "h": 0.041,
+     "box": [
+      0.648,
+      0.698,
+      0.705,
+      0.739
+     ],
+     "text_colour": "#252419",
+     "bg_colour": "#fae582",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "sothe",
+     "t0": 277.1,
+     "t0_exact": 276.95,
+     "dur": 0.9,
+     "h": 0.031,
+     "box": [
+      0.648,
+      0.702,
+      0.709,
+      0.733
+     ],
+     "text_colour": "#1b3010",
+     "bg_colour": "#d1d3d3",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 36,
+   "start": 279.917,
+   "end": 282.383,
+   "dur": 2.467,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 0.9887,
+    "zoom_pct_per_s": -0.46,
+    "pan_x": -0.0061,
+    "pan_y": 0.0039,
+    "jitter": 4e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.46,
+   "palette": [
+    {
+     "hex": "#111111",
+     "share": 0.4
+    },
+    {
+     "hex": "#232323",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.0006,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 31.9,
+    "gap_after": 2.78,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "",
+   "words": 0,
+   "text_lines_new": 3,
+   "text": [
+    {
+     "text": "and ran,",
+     "t0": 281.9,
+     "t0_exact": null,
+     "dur": 0.6,
+     "h": 0.045,
+     "box": [
+      0.636,
+      0.694,
+      0.717,
+      0.739
+     ],
+     "text_colour": "#272912",
+     "bg_colour": "#eeca75",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Butthe",
+     "t0": 280.0,
+     "t0_exact": 279.917,
+     "dur": 0.9,
+     "h": 0.041,
+     "box": [
+      0.643,
+      0.694,
+      0.716,
+      0.735
+     ],
+     "text_colour": "#222f12",
+     "bg_colour": "#e8cd82",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "scattered",
+     "t0": 280.9,
+     "t0_exact": null,
+     "dur": 1.0,
+     "h": 0.035,
+     "box": [
+      0.632,
+      0.698,
+      0.724,
+      0.733
+     ],
+     "text_colour": "#20230b",
+     "bg_colour": "#eee0ac",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 37,
+   "start": 282.383,
+   "end": 283.65,
+   "dur": 1.267,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 0.9999,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": -0.0,
+    "pan_y": 0.0001,
+    "jitter": 5e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.45,
+   "palette": [
+    {
+     "hex": "#111211",
+     "share": 0.41
+    },
+    {
+     "hex": "#232324",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.0003,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 34.36,
+    "gap_after": 0.32,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "can see,",
+   "words": 2,
+   "text_lines_new": 1,
+   "text": [
+    {
+     "text": "and they",
+     "t0": 282.5,
+     "t0_exact": 282.383,
+     "dur": 1.3,
+     "h": 0.048,
+     "box": [
+      0.633,
+      0.693,
+      0.722,
+      0.741
+     ],
+     "text_colour": "#2a2318",
+     "bg_colour": "#f3d47d",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 38,
+   "start": 283.65,
+   "end": 284.55,
+   "dur": 0.9,
+   "cut_in": "pop",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "no face (b-roll / screen / graphic)",
+   "face_share": 0.0,
+   "flat_share": 0.45,
+   "palette": [
+    {
+     "hex": "#111211",
+     "share": 0.41
+    },
+    {
+     "hex": "#242424",
+     "share": 0.38
+    }
+   ],
+   "activity": 0.001,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.39,
+    "gap_after": 0.39,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "it made a really interesting video.",
+   "words": 6,
+   "text_lines_new": 3,
+   "text": [
+    {
+     "text": "called",
+     "t0": 283.8,
+     "t0_exact": 283.65,
+     "dur": 0.9,
+     "h": 0.035,
+     "box": [
+      0.648,
+      0.698,
+      0.709,
+      0.733
+     ],
+     "text_colour": "#2c3f16",
+     "bg_colour": "#dfdfdd",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 39,
+   "start": 284.55,
+   "end": 319.933,
+   "dur": 35.383,
+   "cut_in": "pop",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9969,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": 0.0002,
+    "pan_y": -0.2547,
+    "jitter": 0.00204,
+    "tracked_share": 0.99
+   },
+   "face_share": 0.0,
+   "flat_share": 0.72,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.87
+    },
+    {
+     "hex": "#272727",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0201,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.03,
+    "gap_after": 0.03,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "And I don't think that's the way that it added the whole voiceover and everything. And we did it all on a free model, by the way. So I think it's pretty insane that not too long ago, you couldn't even do this on Labs. They used to have models, and now you can do it on a free model. Personally, I think it's awesome seeing how fast AI is progressing. But yeah, so it gave us the caption and everything, and now you'd basically post it on YouTube. Now I want to show you something really interesting. How you can automate this entire process from brainstorming the idea to making the video, generating the title, description, thumbnail, voiceover, everything. And finally, we'll look at automating posting the video to YouTube.",
+   "words": 131,
+   "text_lines_new": 162,
+   "text": [
+    {
+     "text": "NEWSPAPER",
+     "t0": 284.7,
+     "t0_exact": 284.55,
+     "dur": 12.6,
+     "h": 0.069,
+     "box": [
+      0.643,
+      0.37,
+      0.732,
+      0.439
+     ],
+     "text_colour": "#be9d66",
+     "bg_colour": "#11290c",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "EMUWAR",
+     "t0": 297.3,
+     "t0_exact": 297.167,
+     "dur": 1.1,
+     "h": 0.059,
+     "box": [
+      0.603,
+      0.348,
+      0.748,
+      0.407
+     ],
+     "text_colour": "#1f192e",
+     "bg_colour": "#f0ecdf",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "-zapier",
+     "t0": 319.9,
+     "t0_exact": 319.933,
+     "dur": 16.0,
+     "h": 0.045,
+     "box": [
+      0.026,
+      0.072,
+      0.11,
+      0.117
+     ],
+     "text_colour": "#181211",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -1.1
+    },
+    {
+     "text": "GERM?NO-EMUSEATTHECROPS",
+     "t0": 297.3,
+     "t0_exact": 297.167,
+     "dur": 1.1,
+     "h": 0.044,
+     "box": [
+      0.586,
+      0.404,
+      0.77,
+      0.448
+     ],
+     "text_colour": "#224452",
+     "bg_colour": "#f0ecdf",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "WESTERNFARMRECORD",
+     "t0": 297.3,
+     "t0_exact": 297.167,
+     "dur": 1.1,
+     "h": 0.043,
+     "box": [
+      0.601,
+      0.283,
+      0.746,
+      0.326
+     ],
+     "text_colour": "#f2d8cb",
+     "bg_colour": "#ae352e",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "In 1932,",
+     "t0": 285.4,
+     "t0_exact": 285.317,
+     "dur": 11.9,
+     "h": 0.039,
+     "box": [
+      0.641,
+      0.698,
+      0.717,
+      0.737
+     ],
+     "text_colour": "#faf6f5",
+     "bg_colour": "#312a25",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 7,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 40,
+   "start": 319.933,
+   "end": 336.033,
+   "dur": 16.1,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 1.0002,
+    "zoom_pct_per_s": 0.0,
+    "pan_x": -0.0,
+    "pan_y": 0.0,
+    "jitter": 1e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.47,
+   "palette": [
+    {
+     "hex": "#f8f7f5",
+     "share": 0.84
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 30.63,
+    "gap_after": 0.41,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "Okay, first you need to go to Zapier. Link's in the description. And by the way, you don't have to pay for this either. You can just start out using their free plan. So head over to zapier .com. And first off, you'll need to create an account. You only need to put in your email and password. Nothing like no payment details are required. After that,",
+   "words": 67,
+   "text_lines_new": 5,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 41,
+   "start": 336.033,
+   "end": 340.133,
+   "dur": 4.1,
+   "cut_in": "jump",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.9999,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": -0.0,
+    "pan_y": -0.0001,
+    "jitter": 1e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.42,
+   "palette": [
+    {
+     "hex": "#f9f8f6",
+     "share": 0.82
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 1.16,
+    "gap_after": 58.86,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "click the sidebar right here. Scroll down to MCP servers. And this is basically",
+   "words": 14,
+   "text_lines_new": 26,
+   "text": [
+    {
+     "text": "BuildautomationswithyourAltool",
+     "t0": 336.2,
+     "t0_exact": 336.033,
+     "dur": 4.1,
+     "h": 0.035,
+     "box": [
+      0.192,
+      0.228,
+      0.544,
+      0.263
+     ],
+     "text_colour": "#3f3a36",
+     "bg_colour": "#f6f4f0",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "-zapier",
+     "t0": 336.2,
+     "t0_exact": 336.033,
+     "dur": 50.7,
+     "h": 0.032,
+     "box": [
+      0.022,
+      0.074,
+      0.094,
+      0.106
+     ],
+     "text_colour": "#191411",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -18.04
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 42,
+   "start": 340.133,
+   "end": 356.783,
+   "dur": 16.65,
+   "cut_in": "jump",
+   "move": "static",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.001,
+   "camera": {
+    "zoom_total": 1.0042,
+    "zoom_pct_per_s": 0.03,
+    "pan_x": 0.0018,
+    "pan_y": 0.0013,
+    "jitter": 0.00015,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.71,
+   "palette": [
+    {
+     "hex": "#fcfbfa",
+     "share": 0.87
+    },
+    {
+     "hex": "#0d2726",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0003,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 5.26,
+    "gap_after": 54.76,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "the MCP server we'll need to get access to. Upload our video to YouTube. Because by default, OpenCode doesn't have a YouTube connection available. And neither does Claude Code or any other AI agent, you know, to let us upload directly to YouTube. But Zapier has connections to over 10 ,000 apps.",
+   "words": 52,
+   "text_lines_new": 36,
+   "text": [
+    {
+     "text": "品 App connections",
+     "t0": 340.3,
+     "t0_exact": 340.133,
+     "dur": 1.8,
+     "h": 0.034,
+     "box": [
+      0.007,
+      0.294,
+      0.098,
+      0.328
+     ],
+     "text_colour": "#817e7d",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Agentie",
+     "t0": 340.6,
+     "t0_exact": 340.533,
+     "dur": 16.3,
+     "h": 0.034,
+     "box": [
+      0.81,
+      0.459,
+      0.846,
+      0.493
+     ],
+     "text_colour": "#fefcfb",
+     "bg_colour": "#1a1414",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Agentic",
+     "t0": 340.6,
+     "t0_exact": 340.533,
+     "dur": 16.3,
+     "h": 0.033,
+     "box": [
+      0.81,
+      0.352,
+      0.846,
+      0.385
+     ],
+     "text_colour": "#f6f0ef",
+     "bg_colour": "#1b1614",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "[Managed]",
+     "t0": 340.6,
+     "t0_exact": 340.533,
+     "dur": 16.3,
+     "h": 0.033,
+     "box": [
+      0.81,
+      0.511,
+      0.852,
+      0.544
+     ],
+     "text_colour": "#aaa7a6",
+     "bg_colour": "#f6f4f3",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Zap history",
+     "t0": 342.1,
+     "t0_exact": null,
+     "dur": 14.8,
+     "h": 0.033,
+     "box": [
+      0.023,
+      0.502,
+      0.075,
+      0.535
+     ],
+     "text_colour": "#868483",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "MCP Server",
+     "t0": 340.3,
+     "t0_exact": 340.133,
+     "dur": 16.6,
+     "h": 0.031,
+     "box": [
+      0.192,
+      0.404,
+      0.246,
+      0.435
+     ],
+     "text_colour": "#898685",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": -0.36
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 43,
+   "start": 356.783,
+   "end": 360.317,
+   "dur": 3.533,
+   "cut_in": "jump",
+   "move": "slow pull out",
+   "picture": "no face (b-roll / screen / graphic)",
+   "cut_in_scale": 0.999,
+   "camera": {
+    "zoom_total": 0.9859,
+    "zoom_pct_per_s": -0.4,
+    "pan_x": -0.0027,
+    "pan_y": -1.1501,
+    "jitter": 0.00642,
+    "tracked_share": 0.92
+   },
+   "face_share": 0.0,
+   "flat_share": 0.52,
+   "palette": [
+    {
+     "hex": "#faf8f6",
+     "share": 0.8
+    },
+    {
+     "hex": "#0e2726",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0267,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 21.91,
+    "gap_after": 38.11,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "So if I show you right here, they have tons of apps available. And pretty",
+   "words": 15,
+   "text_lines_new": 99,
+   "text": [
+    {
+     "text": "The world's most connected Al platform",
+     "t0": 356.9,
+     "t0_exact": 356.783,
+     "dur": 0.7,
+     "h": 0.056,
+     "box": [
+      0.155,
+      0.209,
+      0.84,
+      0.265
+     ],
+     "text_colour": "#181110",
+     "bg_colour": "#fcfaf6",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "AppsandSoftwareIntegrations",
+     "t0": 356.9,
+     "t0_exact": 356.783,
+     "dur": 0.7,
+     "h": 0.037,
+     "box": [
+      0.294,
+      0.876,
+      0.549,
+      0.913
+     ],
+     "text_colour": "#0c0a08",
+     "bg_colour": "#fcfaf6",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Pricing",
+     "t0": 356.9,
+     "t0_exact": 356.783,
+     "dur": 7.8,
+     "h": 0.035,
+     "box": [
+      0.391,
+      0.078,
+      0.43,
+      0.113
+     ],
+     "text_colour": "#737070",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Custom",
+     "t0": 356.9,
+     "t0_exact": 356.783,
+     "dur": 0.7,
+     "h": 0.034,
+     "box": [
+      0.472,
+      0.746,
+      0.523,
+      0.78
+     ],
+     "text_colour": "#3c3a39",
+     "bg_colour": "#f6f4f0",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "O search connections...",
+     "t0": 356.9,
+     "t0_exact": 356.783,
+     "dur": 0.7,
+     "h": 0.033,
+     "box": [
+      0.217,
+      0.528,
+      0.338,
+      0.561
+     ],
+     "text_colour": "#918f8d",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.33,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "1-22 of 9,000+ by most popular",
+     "t0": 357.6,
+     "t0_exact": 357.45,
+     "dur": 0.8,
+     "h": 0.032,
+     "box": [
+      0.294,
+      0.496,
+      0.461,
+      0.528
+     ],
+     "text_colour": "#6d6867",
+     "bg_colour": "#fcfaf6",
+     "grew": false,
+     "spoken_share": 0.17,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 5,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 44,
+   "start": 360.317,
+   "end": 364.583,
+   "dur": 4.267,
+   "cut_in": "transition",
+   "move": "pan/slide",
+   "picture": "no face (b-roll / screen / graphic)",
+   "camera": {
+    "zoom_total": 0.9944,
+    "zoom_pct_per_s": -0.13,
+    "pan_x": -0.0104,
+    "pan_y": 0.4293,
+    "jitter": 0.00169,
+    "tracked_share": 0.96
+   },
+   "face_share": 0.0,
+   "flat_share": 0.54,
+   "palette": [
+    {
+     "hex": "#faf9f6",
+     "share": 0.81
+    },
+    {
+     "hex": "#0d2726",
+     "share": 0.05
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 25.45,
+    "gap_after": 34.57,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 359.583,
+    "end": 361.017
+   },
+   "said": "much any app you'd want to connect, you can connect to your AI using Zapier. So once",
+   "words": 17,
+   "text_lines_new": 65,
+   "text": [
+    {
+     "text": "The world's most connected Al platform",
+     "t0": 361.2,
+     "t0_exact": null,
+     "dur": 3.5,
+     "h": 0.058,
+     "box": [
+      0.155,
+      0.207,
+      0.84,
+      0.265
+     ],
+     "text_colour": "#161212",
+     "bg_colour": "#fcfaf9",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Appsand Software Integrations",
+     "t0": 361.2,
+     "t0_exact": null,
+     "dur": 3.5,
+     "h": 0.037,
+     "box": [
+      0.294,
+      0.876,
+      0.549,
+      0.913
+     ],
+     "text_colour": "#120e0c",
+     "bg_colour": "#fcfaf6",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Typeform",
+     "t0": 360.3,
+     "t0_exact": 360.15,
+     "dur": 0.5,
+     "h": 0.035,
+     "box": [
+      0.335,
+      0.587,
+      0.392,
+      0.622
+     ],
+     "text_colour": "#494643",
+     "bg_colour": "#fcfaf6",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Custom",
+     "t0": 361.2,
+     "t0_exact": null,
+     "dur": 3.5,
+     "h": 0.034,
+     "box": [
+      0.472,
+      0.746,
+      0.523,
+      0.78
+     ],
+     "text_colour": "#423f3d",
+     "bg_colour": "#f5f3f2",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Calendly",
+     "t0": 360.3,
+     "t0_exact": 360.15,
+     "dur": 0.5,
+     "h": 0.033,
+     "box": [
+      0.657,
+      0.456,
+      0.709,
+      0.489
+     ],
+     "text_colour": "#56524d",
+     "bg_colour": "#fcfaf6",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "O search connections...",
+     "t0": 361.2,
+     "t0_exact": null,
+     "dur": 3.5,
+     "h": 0.033,
+     "box": [
+      0.217,
+      0.528,
+      0.339,
+      0.561
+     ],
+     "text_colour": "#8f8c8b",
+     "bg_colour": "#fcfaf9",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 45,
+   "start": 364.583,
+   "end": 367.333,
+   "dur": 2.75,
+   "cut_in": "jump",
+   "move": "static",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.011,
+   "camera": {
+    "zoom_total": 1.0,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": -0.0,
+    "pan_y": 0.0,
+    "jitter": 3e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.71,
+   "palette": [
+    {
+     "hex": "#fcfbfa",
+     "share": 0.87
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0003,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 29.71,
+    "gap_after": 30.31,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "you're on this site, just simply click create server right here.",
+   "words": 11,
+   "text_lines_new": 31,
+   "text": [
+    {
+     "text": "Agentie",
+     "t0": 364.7,
+     "t0_exact": 364.583,
+     "dur": 2.7,
+     "h": 0.034,
+     "box": [
+      0.81,
+      0.459,
+      0.846,
+      0.493
+     ],
+     "text_colour": "#1b1618",
+     "bg_colour": "#f5f5fa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Agentic",
+     "t0": 364.7,
+     "t0_exact": 364.583,
+     "dur": 2.7,
+     "h": 0.033,
+     "box": [
+      0.81,
+      0.352,
+      0.846,
+      0.385
+     ],
+     "text_colour": "#1a1614",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "品App connections",
+     "t0": 364.7,
+     "t0_exact": 364.583,
+     "dur": 22.2,
+     "h": 0.032,
+     "box": [
+      0.007,
+      0.42,
+      0.098,
+      0.452
+     ],
+     "text_colour": "#8b8988",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Automations",
+     "t0": 364.7,
+     "t0_exact": 364.583,
+     "dur": 22.2,
+     "h": 0.03,
+     "box": [
+      0.007,
+      0.231,
+      0.079,
+      0.261
+     ],
+     "text_colour": "#8b8988",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 46,
+   "start": 367.333,
+   "end": 374.433,
+   "dur": 7.1,
+   "cut_in": "jump",
+   "move": "slow pull out",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.9607,
+    "zoom_pct_per_s": -0.55,
+    "pan_x": -0.0061,
+    "pan_y": -0.3397,
+    "jitter": 0.00139,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.68,
+   "palette": [
+    {
+     "hex": "#fcfbfb",
+     "share": 0.87
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0269,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 32.46,
+    "gap_after": 27.56,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "Then scroll down and select your AI agent. Now again, like I said, you can use this inside any AI agent, but we're going to use",
+   "words": 26,
+   "text_lines_new": 123,
+   "text": [
+    {
+     "text": "ChatGPT",
+     "t0": 370.0,
+     "t0_exact": 369.933,
+     "dur": 1.3,
+     "h": 0.033,
+     "box": [
+      0.579,
+      0.165,
+      0.626,
+      0.198
+     ],
+     "text_colour": "#595959",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Antigravity",
+     "t0": 371.5,
+     "t0_exact": 371.35,
+     "dur": 0.9,
+     "h": 0.032,
+     "box": [
+      0.771,
+      0.27,
+      0.826,
+      0.302
+     ],
+     "text_colour": "#575757",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "MCPServer4",
+     "t0": 367.4,
+     "t0_exact": 367.333,
+     "dur": 1.2,
+     "h": 0.031,
+     "box": [
+      0.186,
+      0.217,
+      0.308,
+      0.248
+     ],
+     "text_colour": "#1a1817",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 5,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 47,
+   "start": 374.433,
+   "end": 376.967,
+   "dur": 2.533,
+   "cut_in": "transition",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9984,
+    "zoom_pct_per_s": -0.06,
+    "pan_x": 0.0005,
+    "pan_y": -0.0004,
+    "jitter": 6e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.63,
+   "palette": [
+    {
+     "hex": "#fcfbfa",
+     "share": 0.86
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 39.56,
+    "gap_after": 20.46,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false,
+    "start": 376.733,
+    "end": 376.867
+   },
+   "said": "it inside OpenCode. So we'll click that.",
+   "words": 7,
+   "text_lines_new": 26,
+   "text": [
+    {
+     "text": "Superhuman Go",
+     "t0": 376.3,
+     "t0_exact": 376.333,
+     "dur": 0.5,
+     "h": 0.03,
+     "box": [
+      0.58,
+      0.572,
+      0.658,
+      0.602
+     ],
+     "text_colour": "#565656",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Warp",
+     "t0": 376.3,
+     "t0_exact": 376.333,
+     "dur": 0.8,
+     "h": 0.03,
+     "box": [
+      0.386,
+      0.694,
+      0.418,
+      0.724
+     ],
+     "text_colour": "#5b5b5b",
+     "bg_colour": "#fefefe",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Kiro",
+     "t0": 376.3,
+     "t0_exact": 376.333,
+     "dur": 1.0,
+     "h": 0.03,
+     "box": [
+      0.195,
+      0.45,
+      0.219,
+      0.48
+     ],
+     "text_colour": "#545454",
+     "bg_colour": "#fdfdfd",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 48,
+   "start": 376.967,
+   "end": 386.933,
+   "dur": 9.967,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9988,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": -0.0001,
+    "pan_y": -0.0011,
+    "jitter": 4e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.66,
+   "palette": [
+    {
+     "hex": "#7e7979",
+     "share": 0.66
+    },
+    {
+     "hex": "#fbfaf9",
+     "share": 0.18
+    },
+    {
+     "hex": "#0d2726",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0009,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 42.1,
+    "gap_after": 17.92,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "And then it'll basically show us the instructions on how to install OpenCode. So first you want to copy this config, head back over to OpenCode, and open up a new chat.",
+   "words": 32,
+   "text_lines_new": 31,
+   "text": [
+    {
+     "text": "MCPServer3",
+     "t0": 377.3,
+     "t0_exact": 377.2,
+     "dur": 9.6,
+     "h": 0.035,
+     "box": [
+      0.185,
+      0.217,
+      0.307,
+      0.252
+     ],
+     "text_colour": "#1b1614",
+     "bg_colour": "#7f7a78",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Copy coenfig",
+     "t0": 377.1,
+     "t0_exact": 376.967,
+     "dur": 9.8,
+     "h": 0.033,
+     "box": [
+      0.353,
+      0.654,
+      0.419,
+      0.687
+     ],
+     "text_colour": "#fefcff",
+     "bg_colour": "#6657e1",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Clients",
+     "t0": 377.3,
+     "t0_exact": 377.2,
+     "dur": 9.6,
+     "h": 0.032,
+     "box": [
+      0.185,
+      0.37,
+      0.232,
+      0.402
+     ],
+     "text_colour": "#342e2d",
+     "bg_colour": "#7f7a78",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "g clents O",
+     "t0": 377.3,
+     "t0_exact": 377.2,
+     "dur": 9.6,
+     "h": 0.031,
+     "box": [
+      0.194,
+      0.304,
+      0.257,
+      0.335
+     ],
+     "text_colour": "#484241",
+     "bg_colour": "#7f7a78",
+     "grew": true,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "openCode",
+     "t0": 377.3,
+     "t0_exact": 377.2,
+     "dur": 9.6,
+     "h": 0.03,
+     "box": [
+      0.196,
+      0.513,
+      0.259,
+      0.543
+     ],
+     "text_colour": "#3b3534",
+     "bg_colour": "#7f7a78",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 2.33
+    }
+   ],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 49,
+   "start": 386.933,
+   "end": 408.383,
+   "dur": 21.45,
+   "cut_in": "hard",
+   "move": "slow pull out",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9776,
+    "zoom_pct_per_s": -0.1,
+    "pan_x": -0.0011,
+    "pan_y": -0.0489,
+    "jitter": 0.00063,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.73,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.83
+    },
+    {
+     "hex": "#282828",
+     "share": 0.11
+    }
+   ],
+   "activity": 0.0009,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 52.06,
+    "gap_after": 7.96,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "Basically start a new session and tell it add this to OpenCode config. And then on the line below, paste that in, then hit send. After that, as you can see, it says it has added Zapier MCP. Now, there's one more thing we need to do here. We'll tell it add it to the global user config.",
+   "words": 58,
+   "text_lines_new": 50,
+   "text": [],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 1
+  },
+  {
+   "i": 50,
+   "start": 408.383,
+   "end": 409.883,
+   "dur": 1.5,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": 0.0,
+    "pan_y": -0.0,
+    "jitter": 0.0,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.74,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.85
+    },
+    {
+     "hex": "#272727",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0004,
+   "cut": {
+    "in_word": false,
+    "in_pause": true,
+    "gap_before": 0.36,
+    "gap_after": 0.14,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "What that'll do is add",
+   "words": 5,
+   "text_lines_new": 16,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 51,
+   "start": 409.883,
+   "end": 414.85,
+   "dur": 4.967,
+   "cut_in": "jump",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.9993,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": 0.0,
+    "pan_y": -0.0639,
+    "jitter": 0.00608,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.74,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.86
+    },
+    {
+     "hex": "#272727",
+     "share": 0.09
+    }
+   ],
+   "activity": 0.0005,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.28,
+    "gap_after": 0.28,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "Zapier MCP across all your OpenCode sessions, not just this one. That way, even if you hop",
+   "words": 17,
+   "text_lines_new": 5,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 52,
+   "start": 414.85,
+   "end": 415.217,
+   "dur": 0.367,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": 0.0,
+    "pan_y": 0.0,
+    "jitter": 0.0,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.74,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.87
+    },
+    {
+     "hex": "#262626",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0003,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.07,
+    "gap_after": 0.07,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "into a fresh",
+   "words": 3,
+   "text_lines_new": 16,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 53,
+   "start": 415.217,
+   "end": 415.467,
+   "dur": 0.25,
+   "cut_in": "pop",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "flat graphic",
+   "face_share": 0.0,
+   "flat_share": 0.75,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.88
+    },
+    {
+     "hex": "#262626",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0004,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.06,
+    "gap_after": 0.06,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "",
+   "words": 0,
+   "text_lines_new": 0,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 54,
+   "start": 415.467,
+   "end": 433.833,
+   "dur": 18.367,
+   "cut_in": "pop",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0025,
+    "zoom_pct_per_s": 0.01,
+    "pan_x": 0.0,
+    "pan_y": -0.0891,
+    "jitter": 0.00328,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.73,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.87
+    },
+    {
+     "hex": "#262626",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.05,
+    "gap_after": 0.05,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "chat and tell it, hey, make my video and upload it, it'll automatically do it because every chat will have access to the Zapier MCP. And boom, done. Next, we'll go up here. You'll see this icon. Click that. Go into MCP. And you can see Zapier is connected. Now, if it doesn't show up here initially, just click manage",
+   "words": 60,
+   "text_lines_new": 51,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 55,
+   "start": 433.833,
+   "end": 449.583,
+   "dur": 15.75,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9997,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": 0.0001,
+    "pan_y": 0.0001,
+    "jitter": 5e-05,
+    "tracked_share": 0.94
+   },
+   "face_share": 0.0,
+   "flat_share": 0.75,
+   "palette": [
+    {
+     "hex": "#080808",
+     "share": 0.94
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 8.97,
+    "gap_after": 21.03,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "MCP server. And then all your MCPs will pop up. Early on, you might see a sign in or login button here. Just click that and authorize Zapier. A window will open in Chrome where you just have to click authorize. Super simple. And after that, your Zapier will be enabled. All right. Our OpenCode",
+   "words": 55,
+   "text_lines_new": 0,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 56,
+   "start": 449.583,
+   "end": 483.517,
+   "dur": 33.933,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9995,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": -0.0002,
+    "pan_y": -0.0033,
+    "jitter": 0.00015,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.56,
+   "palette": [
+    {
+     "hex": "#7e7979",
+     "share": 0.53
+    },
+    {
+     "hex": "#f8f7f5",
+     "share": 0.32
+    },
+    {
+     "hex": "#0d2727",
+     "share": 0.04
+    }
+   ],
+   "activity": 0.0005,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 24.72,
+    "gap_after": 5.28,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "setup is done. Now, we need to connect the YouTube app to it. And for that, we'll go into our MCP server. And you'll see an apps button right here. Let's click that. Hit add apps here and search for YouTube. Okay. Search for YouTube. Let's click it. And then give it access to all tools. Because these are all the things, you know, our AI agent will be able to perform on our channel. Let's connect it. And you'll see a connect account option where you sign into your Google account and select your channel. I've already done that. So you can see my YouTube is connected. Then we'll click add six tools.",
+   "words": 114,
+   "text_lines_new": 114,
+   "text": [
+    {
+     "text": "s apps",
+     "t0": 449.7,
+     "t0_exact": 449.583,
+     "dur": 8.9,
+     "h": 0.035,
+     "box": [
+      0.27,
+      0.302,
+      0.309,
+      0.337
+     ],
+     "text_colour": "#8a8886",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "MCPServer3",
+     "t0": 449.7,
+     "t0_exact": 449.583,
+     "dur": 8.9,
+     "h": 0.033,
+     "box": [
+      0.186,
+      0.217,
+      0.307,
+      0.25
+     ],
+     "text_colour": "#1e1918",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "MCPServer3",
+     "t0": 458.6,
+     "t0_exact": 458.533,
+     "dur": 25.0,
+     "h": 0.033,
+     "box": [
+      0.186,
+      0.217,
+      0.307,
+      0.25
+     ],
+     "text_colour": "#1b1612",
+     "bg_colour": "#898381",
+     "grew": true,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "Clients",
+     "t0": 449.7,
+     "t0_exact": 449.583,
+     "dur": 6.9,
+     "h": 0.032,
+     "box": [
+      0.185,
+      0.37,
+      0.232,
+      0.402
+     ],
+     "text_colour": "#484544",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "_zapier",
+     "t0": 449.7,
+     "t0_exact": 449.583,
+     "dur": 33.9,
+     "h": 0.032,
+     "box": [
+      0.027,
+      0.074,
+      0.093,
+      0.106
+     ],
+     "text_colour": "#1c1916",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 1.0,
+     "appears_vs_word_s": 2.56
+    },
+    {
+     "text": "品 App connections",
+     "t0": 449.7,
+     "t0_exact": 449.583,
+     "dur": 33.9,
+     "h": 0.032,
+     "box": [
+      0.007,
+      0.42,
+      0.098,
+      0.452
+     ],
+     "text_colour": "#8a8886",
+     "bg_colour": "#fdfbfa",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 8,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 57,
+   "start": 483.517,
+   "end": 491.517,
+   "dur": 8.0,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 0.9998,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": -0.0,
+    "pan_y": -0.0,
+    "jitter": 2e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.73,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.89
+    },
+    {
+     "hex": "#282828",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0003,
+   "cut": {
+    "in_word": true,
+    "in_pause": true,
+    "gap_before": -0.26,
+    "gap_after": 0.26,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "And our entire setup is complete. Now, simply head back to OpenCode and tell it using the faceless short skill, upload the video to YouTube. Now, anytime you tell",
+   "words": 29,
+   "text_lines_new": 31,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 58,
+   "start": 491.517,
+   "end": 506.25,
+   "dur": 14.733,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": 0.0,
+    "pan_y": -0.0,
+    "jitter": 0.0,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.74,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.88
+    },
+    {
+     "hex": "#282828",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.0,
+    "gap_after": 0.0,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "it to upload a video to YouTube, it already has all the instructions baked into the skill on how to use Zapier MCP and how to upload the video to YouTube. All the instructions are already in the skill. So you don't have to explain anything. You just tell it, you know, assuming Zapier is installed, you just tell it, hey, upload the",
+   "words": 63,
+   "text_lines_new": 18,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 59,
+   "start": 506.25,
+   "end": 588.117,
+   "dur": 81.867,
+   "cut_in": "jump",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.993,
+    "zoom_pct_per_s": -0.01,
+    "pan_x": -0.0004,
+    "pan_y": -0.3219,
+    "jitter": 0.01092,
+    "tracked_share": 0.97
+   },
+   "face_share": 0.0,
+   "flat_share": 0.74,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.89
+    },
+    {
+     "hex": "#282828",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0005,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": 14.47,
+    "gap_after": 79.17,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "video to YouTube and your video will get uploaded. Now, the automation works like this. Unfortunately, OpenCode doesn't have a scheduled task feature. Like I told you with Claude code, you could set up a scheduled task. So every morning at 8am or 9am, whenever you want, a video is automatically generated and automatically uploaded. Unfortunately, you can't do that inside OpenCode. By default, I think there are some plugins and stuff, but that gets a bit too advanced. So here's the workflow I'm going to show you. Every morning, you know, whenever you want at whatever time, you just open up OpenCode and you tell OpenCode, hey, using the faceless short skill, first come up with an idea for the video. Okay, make a video on that idea and then upload the video to YouTube. And it'll handle that entire process all by itself. You won't have to do anything manually. I would recommend generating the video once and giving it a look to make sure there are no issues and that the idea is actually interesting because your own creativity is that one crucial thing that'll actually get your channel monetized. Because if you don't inject any creativity and just upload generic content, monetization chances on YouTube, you know, TikTok and all are a bit lower. Make videos with this daily. The daily limit is enough to get you one short made for free. Obviously, if you want to make more shorts per day, you might have to buy their paid plan because when I was generating that first short, one short went through fine. But right after that, I hit my limit. So keep that in mind. You might not be able to generate more than one video in a single session.",
+   "words": 295,
+   "text_lines_new": 79,
+   "text": [],
+   "motion_events": 4,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 60,
+   "start": 588.117,
+   "end": 596.9,
+   "dur": 8.783,
+   "cut_in": "pop",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0005,
+    "zoom_pct_per_s": 0.01,
+    "pan_x": -0.0004,
+    "pan_y": 0.0002,
+    "jitter": 2e-05,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.72,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.85
+    },
+    {
+     "hex": "#262626",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.0,
+    "gap_after": 0.08,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "And right here, you can see it's asking what the shorts visibility should be, public, unlisted or private. Let's tell it to set it to unlisted for now because I don't want to make the video public yet.",
+   "words": 38,
+   "text_lines_new": 22,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 61,
+   "start": 596.9,
+   "end": 605.1,
+   "dur": 8.2,
+   "cut_in": "jump",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "cut_in_scale": 1.0,
+   "camera": {
+    "zoom_total": 0.9998,
+    "zoom_pct_per_s": -0.0,
+    "pan_x": -0.0001,
+    "pan_y": -0.0314,
+    "jitter": 0.00089,
+    "tracked_share": 0.97
+   },
+   "face_share": 0.0,
+   "flat_share": 0.71,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.84
+    },
+    {
+     "hex": "#252526",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0001,
+   "cut": {
+    "in_word": true,
+    "in_pause": true,
+    "gap_before": -0.26,
+    "gap_after": 0.26,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "Next, which category should we set? Let's go with comedy and then hit submit. And now our video should actually get uploaded.",
+   "words": 22,
+   "text_lines_new": 41,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 62,
+   "start": 605.1,
+   "end": 611.183,
+   "dur": 6.083,
+   "cut_in": "hard",
+   "move": "pan/slide",
+   "picture": "small face (inset / wide shot)",
+   "camera": {
+    "zoom_total": 1.0008,
+    "zoom_pct_per_s": 0.01,
+    "pan_x": 0.0005,
+    "pan_y": -0.0217,
+    "jitter": 0.00199,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.035,
+    "cx": 0.911,
+    "cy": 0.312,
+    "count": 1,
+    "h_end_over_start": 1.001
+   },
+   "face_share": 1.0,
+   "flat_share": 0.44,
+   "palette": [
+    {
+     "hex": "#101010",
+     "share": 0.49
+    },
+    {
+     "hex": "#262626",
+     "share": 0.35
+    }
+   ],
+   "activity": 0.0531,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.16,
+    "gap_after": 0.16,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "And look, it uploaded the video and at the same time, it opened its internal browser to preview the video for us. I don't know",
+   "words": 25,
+   "text_lines_new": 106,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 63,
+   "start": 611.183,
+   "end": 611.35,
+   "dur": 0.167,
+   "cut_in": "hard",
+   "move": "untracked (full-frame animation, still, or too short)",
+   "picture": "flat graphic",
+   "face_share": 0.0,
+   "flat_share": 0.57,
+   "palette": [
+    {
+     "hex": "#0f0f0f",
+     "share": 0.58
+    },
+    {
+     "hex": "#cccccc",
+     "share": 0.2
+    },
+    {
+     "hex": "#282728",
+     "share": 0.08
+    },
+    {
+     "hex": "#858585",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.16,
+    "gap_after": 0.16,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "why",
+   "words": 1,
+   "text_lines_new": 3,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 64,
+   "start": 611.35,
+   "end": 612.317,
+   "dur": 0.967,
+   "cut_in": "hard",
+   "move": "static",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0032,
+    "zoom_pct_per_s": 0.33,
+    "pan_x": 0.0,
+    "pan_y": -0.0001,
+    "jitter": 0.00022,
+    "tracked_share": 1.0
+   },
+   "face_share": 0.0,
+   "flat_share": 0.61,
+   "palette": [
+    {
+     "hex": "#080808",
+     "share": 0.86
+    },
+    {
+     "hex": "#282728",
+     "share": 0.07
+    }
+   ],
+   "activity": 0.0083,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.05,
+    "gap_after": 0.05,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "the video isn't playing",
+   "words": 4,
+   "text_lines_new": 4,
+   "text": [
+    {
+     "text": "NEWSPAPER",
+     "t0": 612.2,
+     "t0_exact": null,
+     "dur": 2.8,
+     "h": 0.13,
+     "box": [
+      0.512,
+      0.287,
+      0.639,
+      0.417
+     ],
+     "text_colour": "#9d965b",
+     "bg_colour": "#223819",
+     "grew": false,
+     "spoken_share": 0.0,
+     "appears_vs_word_s": null
+    },
+    {
+     "text": "In 1932,",
+     "t0": 612.2,
+     "t0_exact": null,
+     "dur": 2.8,
+     "h": 0.049,
+     "box": [
+      0.519,
+      0.67,
+      0.602,
+      0.719
+     ],
+     "text_colour": "#743d20",
+     "bg_colour": "#c68b7e",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 65,
+   "start": 612.317,
+   "end": 612.383,
+   "dur": 0.067,
+   "cut_in": "jump",
+   "move": "static",
+   "picture": "no face (b-roll / screen / graphic)",
+   "cut_in_scale": 0.992,
+   "camera": {
+    "zoom_total": 1.0005,
+    "zoom_pct_per_s": 0.68,
+    "pan_x": 0.0001,
+    "pan_y": -0.0003,
+    "jitter": 0.0,
+    "tracked_share": 1.0
+   },
+   "flat_share": 0.42,
+   "palette": [
+    {
+     "hex": "#0f0f0f",
+     "share": 0.67
+    },
+    {
+     "hex": "#282828",
+     "share": 0.08
+    }
+   ],
+   "activity": 0.0053,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.02,
+    "gap_after": 0.02,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "in",
+   "words": 1,
+   "text_lines_new": 0,
+   "text": [],
+   "motion_events": 0,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 66,
+   "start": 612.383,
+   "end": 627.183,
+   "dur": 14.8,
+   "cut_in": "pop",
+   "move": "slow push in",
+   "picture": "small face (inset / wide shot)",
+   "camera": {
+    "zoom_total": 1.0174,
+    "zoom_pct_per_s": 0.12,
+    "pan_x": 0.0255,
+    "pan_y": -0.3232,
+    "jitter": 0.00184,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.046,
+    "cx": 0.844,
+    "cy": 0.616,
+    "count": 2,
+    "h_end_over_start": 1.074
+   },
+   "face_share": 0.95,
+   "flat_share": 0.38,
+   "palette": [
+    {
+     "hex": "#0f0f0f",
+     "share": 0.63
+    },
+    {
+     "hex": "#282828",
+     "share": 0.11
+    }
+   ],
+   "activity": 0.0061,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.2,
+    "gap_after": 0.2,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "this browser. Oh, now it is, I think. Okay, perfect. So our video has been uploaded to our channel and yeah, everything looks great. We got the video link right here. And that was pretty much the entire automation. I hope you guys learned something from this video. If you have any questions, suggestions or",
+   "words": 55,
+   "text_lines_new": 54,
+   "text": [
+    {
+     "text": "In 1932,",
+     "t0": 615.0,
+     "t0_exact": 614.85,
+     "dur": 14.6,
+     "h": 0.05,
+     "box": [
+      0.519,
+      0.322,
+      0.602,
+      0.372
+     ],
+     "text_colour": "#cccacf",
+     "bg_colour": "#41333d",
+     "grew": false,
+     "spoken_share": 0.5,
+     "appears_vs_word_s": null
+    }
+   ],
+   "motion_events": 2,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 67,
+   "start": 627.183,
+   "end": 629.467,
+   "dur": 2.283,
+   "cut_in": "punch",
+   "move": "pan/slide",
+   "picture": "small face (inset / wide shot)",
+   "cut_in_scale": 0.977,
+   "camera": {
+    "zoom_total": 0.9895,
+    "zoom_pct_per_s": -0.46,
+    "pan_x": 0.0544,
+    "pan_y": -0.0081,
+    "jitter": 0.00161,
+    "tracked_share": 1.0
+   },
+   "face": {
+    "h": 0.045,
+    "cx": 0.836,
+    "cy": 0.663,
+    "count": 3,
+    "h_end_over_start": 0.859
+   },
+   "face_share": 1.0,
+   "flat_share": 0.4,
+   "palette": [
+    {
+     "hex": "#111111",
+     "share": 0.63
+    },
+    {
+     "hex": "#282828",
+     "share": 0.1
+    }
+   ],
+   "activity": 0.0101,
+   "cut": {
+    "in_word": true,
+    "in_pause": false,
+    "gap_before": -0.14,
+    "gap_after": 0.14,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "run into any issues, definitely let me know down",
+   "words": 9,
+   "text_lines_new": 32,
+   "text": [],
+   "motion_events": 1,
+   "sfx": [],
+   "sfx_weak": 0
+  },
+  {
+   "i": 68,
+   "start": 629.467,
+   "end": 672.633,
+   "dur": 43.167,
+   "cut_in": "hard",
+   "move": "pan/slide",
+   "picture": "flat graphic",
+   "camera": {
+    "zoom_total": 1.0091,
+    "zoom_pct_per_s": 0.02,
+    "pan_x": -0.0013,
+    "pan_y": -0.1204,
+    "jitter": 0.00605,
+    "tracked_share": 0.97
+   },
+   "face_share": 0.0,
+   "flat_share": 0.73,
+   "palette": [
+    {
+     "hex": "#131313",
+     "share": 0.88
+    },
+    {
+     "hex": "#282828",
+     "share": 0.06
+    }
+   ],
+   "activity": 0.0186,
+   "cut": {
+    "in_word": false,
+    "in_pause": false,
+    "gap_before": -0.03,
+    "gap_after": 0.03,
+    "after_sentence_end": false,
+    "sfx_within_0.12s": false
+   },
+   "said": "in the comments. Also, one more thing. Using this exact same setup, you can have it make long form videos too. You just tell the skill, when you tell it to make shorts and stuff, instead of shorts, tell it to make long videos and set it to a 16 by 9 aspect ratio, meaning horizontal videos. And it'll do that using the exact same skill. Obviously, it'll take longer. And if you're on the free plan, you might hit your limit sooner. So you might have to wait across multiple days to finish a video. But the method, the process is exactly the same. Go download that skill. That's the most important part. Aside from that, whatever you want it to do, you just tell your AI agent and it'll handle it automatically for you. So yeah, that's pretty much it. Thank you so much for watching. I hope you guys learned something. I hope you go check out Zapier too. And I will see you guys in the next one. Goodbye.",
+   "words": 173,
+   "text_lines_new": 180,
+   "text": [],
+   "motion_events": 3,
+   "sfx": [],
+   "sfx_weak": 0
+  }
+ ]
+}

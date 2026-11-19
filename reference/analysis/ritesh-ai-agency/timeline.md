@@ -1,0 +1,674 @@
+# Timeline: ritesh-ai-agency.mp4
+
+One row per shot. `cut` = how the shot starts (hard = new picture, punch = same picture instant zoom with its scale, jump = same picture instant shift, pop = a graphic appears instantly in part of the frame, transition = multi-frame).
+`move` = camera movement measured inside the shot. `T:` on-screen text that first appears in this shot (height as % of frame; `=said` when it repeats spoken words, with seconds text leads(-)/lags(+) the word). `S:` sound-event candidates (★ = lands within 0.12 s of a cut or motion event).
+
+
+## 0:00.00 Introduction
+
+- **#0** 0:00.00 +4.30s | start | page with a face on it 34%@0.48,0.36 | pan/slide x0.997 | 1 motion ev
+  - “Building a one person business with Claude AI is the biggest opportunity heading to 2027,”
+  - T: “heading into 2027” 6.1% @0.80,0.52 2.2s #ede9e7 =said -0.15s
+  - T: “with Claude Al” 6.0% @0.21,0.52 4.1s #2e231e =said -0.15s
+  - T: “is the biggest opportunity” 4.8% @0.79,0.46 3.2s #c3bab4 built =said +0.10s
+  - T: “Building a 1-person business” 4.1% @0.21,0.47 5.0s #b3a49d built
+- **#1** 0:04.30 +0.38s | punch x0.958 | speaker 32%@0.49,0.41 | eased zoom out x0.867
+  - “but the problem”
+  - S: ★BB@4.24(-12dB)
+- **#2** 0:04.69 +5.37s | transition | page with a face on it 26%@0.81,0.42 | eased zoom in x1.053 | 2 motion ev
+  - “is 99 % sold per newers are selling AI automations which businesses are no longer buying.”
+  - T: “99% selling Al which business” 6.1% @0.36,0.28 1.5s #2d2d2d =said +3.32s
+  - T: “are no longer buying” 6.1% @0.35,0.34 1.5s #666666 built =said -0.35s
+- **#3** 0:10.06 +1.87s | hard | flat graphic | static
+  - “And that's probably why you can't get clients anymore.”
+  - T: “and that's probably” 7.2% @0.50,0.47 1.8s #888888 built =said -0.08s
+  - T: “why you can't get clients anymore” 6.9% @0.50,0.53 0.9s #2e2e2e =said +0.33s
+  - S: BB@11.75(-13dB)
+- **#4** 0:11.93 +6.06s | hard | page with a face on it 26%@0.81,0.41 | static | 8 motion ev
+  - “But there is an AI business that's so simple to start and sell that will be impossible for you to not land clients.”
+  - T: “AlBusiness” 3.2% @0.34,0.41 4.2s #2d2d2d
+- **#5** 0:17.98 +7.51s | hard | page with a face on it 32%@0.45,0.38 | pan/slide x0.998 | 6 motion ev
+  - “In fact, it's how I've been able to land clients bi -weekly each paying minimum $1400 a month in retainers for something that I only spend five hours a week doing.”
+  - S: LOW@19.54(-12dB), LOW@20.08(-11dB), LOW@20.63(-12dB), LOW@21.17(-12dB), LOW@21.72(-12dB), LOW@22.81(-12dB), LOW@23.36(-13dB), ★LOW@23.90(-12dB), LOW@24.44(-12dB), LOW@24.98(-12dB)
+- **#6** 0:25.49 +9.93s | hard | page with a face on it 26%@0.81,0.41 | static | 9 motion ev
+  - “So in this video, I'm going to show you exactly what this AI business model is, how to run it end to end with Claude and the exact 30 -day plan to sign high -ticket clients. Recovering strategy, delivery, outreach, sales, all of it.”
+  - T: “By the end of this video” 8.3% @0.35,0.35 9.9s #656565 built =said -4.57s
+  - T: “6. Outreach” 6.7% @0.16,0.69 1.8s #656565
+  - T: “2. How to run it end to end with Claude” 5.8% @0.29,0.49 7.0s #454545 built =said +0.09s
+  - T: “4.Strategy” 5.2% @0.15,0.59 2.0s #333333
+  - T: “3. The exact 30-day plan to sign high-ticket clients” 4.8% @0.35,0.54 5.4s #8a8a8a built =said -0.10s
+  - T: “5.Delivery” 4.8% @0.15,0.63 2.0s #545454
+  - (+2 more/smaller text lines)
+  - S: ★BB+LOW@25.52(-12dB), LOW@26.09(-12dB), LOW@26.63(-12dB), LOW@27.17(-11dB), LOW@27.72(-13dB), LOW@28.26(-12dB), ★LOW@28.81(-11dB), LOW@29.36(-12dB), ★LOW@29.90(-12dB), LOW@30.44(-12dB), ★LOW@31.00(-12dB), LOW@31.54(-11dB), LOW@32.10(-11dB), ★BB@33.58(-7dB), BB+LOW@34.06(+2dB), BB+LOW@34.50(+4dB)
+- **#7** 0:35.42 +2.60s | hard | page with a face on it 34%@0.48,0.37 | eased zoom out x0.771 | 3 motion ev
+  - “Now to prove that this AI business model doesn't just work for me,”
+- **#8** 0:38.02 +4.49s | hard | page with a face on it 26%@0.81,0.43 | static
+  - “it's helped my client, Uman, make $25 ,000 a month running this business model.”
+  - T: “$25,000/mo” 8.8% @0.25,0.54 2.6s #333333
+  - T: “Aman” 7.3% @0.33,0.46 3.0s #2f2f2f
+- **#9** 0:42.51 +2.13s | hard | speaker 27%@0.80,0.45 | eased zoom in x1.216 | 3 motion ev
+  - “I have landed a $2 ,000 upfront and 1”
+  - T: “1k/mo>$20k/mo in 90 days” 6.1% @0.36,0.81 3.0s #343434 built
+- **#10** 0:44.65 +1.72s | transition | page with a face on it 26%@0.79,0.45 | slow push in x1.016 | 1 motion ev
+  - “.5K retainer deal.”
+  - T: “4.5k usd deal” 3.7% @0.28,0.32 1.6s #b7b7ba
+  - T: “like i keep saying learning from thebest” 3.7% @0.36,0.63 1.6s #bbbbbd
+  - T: “@Ritesh sorry just hadapotential clientget” 3.6% @0.38,0.25 1.6s #b9b7bd
+  - T: “off a meeting with mehe wanted one rn” 3.5% @0.36,0.29 1.6s #c5c1bd
+  - T: “crazy work man” 3.5% @0.28,0.59 1.6s #b9b9bb
+  - T: “tayyib 7/20/26, 12:37PM” 3.2% @0.30,0.21 1.6s #e3e0da
+  - (+4 more/smaller text lines)
+- **#11** 0:46.36 +2.84s | hard | speaker 15%@0.40,0.29 | static
+  - “My client can wall land a $61 ,000 client.”
+  - T: “The Ultimate Grokbot Tutorial” 3.0% @0.07,0.79 2.8s #76899d
+  - (+2 more/smaller text lines)
+
+## 0:49.00 What is an ai marketing agency
+
+- **#12** 0:49.20 +5.87s | hard | flat graphic | eased zoom in x1.109
+  - “So what is this new AI business model that's taking beginner -level founders and helping them close multi -five -figure, even six -figure deals?”
+  - T: “1/10” 10.2% @0.50,0.39 5.0s #090909
+  - T: “What is an Al marketing agency” 8.0% @0.50,0.50 4.0s #f9f9f9 =said +1.66s
+- **#13** 0:55.07 +6.09s | hard | speaker 34%@0.47,0.37 | static | 7 motion ev
+  - “It's an AI marketing agency that does exactly what a normal marketing agency does, but has Claude run the entire show end to end.”
+- **#14** 1:01.16 +14.01s | hard | flat graphic | pan/slide x0.993
+  - “So you do three things with clients. One is content. You help business owners and creators come up with ideas, script them, edit them, and track what's working, which is way faster than any human can do. Step two is ads. For the longest time, business owners stay away from ads because it's just really hard to do and figure out.”
+  - T: “Three things you do with clients” 6.1% @0.50,0.27 13.1s #484848 =said +0.48s
+  - T: “Content” 5.0% @0.37,0.44 12.1s #8c8c8c =said -0.16s
+  - T: “Ads” 5.0% @0.34,0.58 4.1s #333333 =said +0.39s
+  - T: “really hard tofigureout” 4.5% @0.50,0.58 1.1s #737374 =said +0.30s
+  - T: “ideas,scripts,editing,tracking” 4.0% @0.58,0.44 9.1s #6f6f6f built
+- **#15** 1:15.17 +6.92s | pop | flat graphic | static
+  - “But now Claude can connect directly with Facebook ads and run your entire ad campaigns, targeting, location, budgeting, all for you.”
+  - T: “Claude” 6.3% @0.24,0.42 6.9s #fdfdfd =said -0.23s
+  - T: “Facebook Ads” 5.2% @0.70,0.42 5.0s #000000 =said +0.03s
+  - T: “Targeting” 4.8% @0.34,0.62 2.0s #363335 =said +0.39s
+  - T: “Budgeting” 4.8% @0.65,0.62 1.0s #383a3b =said +0.31s
+  - T: “Location” 4.2% @0.50,0.61 2.0s #414141 =said -0.11s
+- **#16** 1:22.10 +2.37s | pop | flat graphic | static
+  - “And finally, answer engine optimization.”
+  - T: “Three things you do with clients” 6.3% @0.50,0.27 2.4s #464646
+  - T: “Ads” 5.0% @0.35,0.58 2.4s #343435
+  - T: “Answer Engine Optimization” 4.8% @0.49,0.72 1.5s #3b3b3b =said +0.02s
+  - T: “Content” 4.6% @0.37,0.44 2.4s #a4a4a4
+  - T: “really hard to figureout” 4.1% @0.50,0.58 2.4s #6f6f6f
+  - T: “ideas,scripts,editing,tracking” 3.7% @0.58,0.44 2.4s #bebebe
+- **#17** 1:24.47 +7.39s | hard | flat graphic | static | 1 motion ev
+  - “It means when someone asks ChatGPT or Claude, who's the best barber in town, your barbershop is the one that's recommended as a top three from Claude or ChatGPT.”
+  - T: “Yourbarbershop” 3.9% @0.40,0.52 3.5s #060606
+  - T: “Top 3” 3.9% @0.63,0.62 1.5s #e4e4e4
+  - T: “Who'sthebestbarberintown?” 3.5% @0.63,0.38 4.5s #e8e8e8
+  - T: “ChatGPT/Claude” 3.2% @0.28,0.26 6.5s #454545 built
+- **#18** 1:31.86 +9.81s | hard | page with a face on it 34%@0.47,0.35 | eased zoom out x1.051 | 6 motion ev
+  - “These services are helping a business get seen on the internet and currently limiting attention to the economy, where whichever business gets the most eyeballs on them, they're the ones making the most money.”
+- **#19** 1:41.67 +1.12s | punch x1.168 | speaker 44%@0.47,0.39 | slow push in x1.048 | 1 motion ev
+  - “So here's a reframe.”
+- **#20** 1:42.79 +4.00s | hard | page with a face on it 27%@0.81,0.42 | static | 5 motion ev
+  - “You're not an AI agency. You're a marketing agency with an unfair AI engine.”
+  - T: “Marloting” 20.4% @0.32,0.46 1.5s #000000
+  - T: “Morothg” 19.5% @0.32,0.47 0.7s #1e1c1c
+  - T: “Al Agency” 4.6% @0.32,0.32 1.0s #2c2c2c
+
+## 1:46.00 Why this opportunity is so lucrative
+
+- **#21** 1:46.79 +1.75s | hard | flat graphic | eased zoom in x1.131
+  - “So why is opportunity so lucrative?”
+  - T: “Why this opportunity is so lucrative” 10.3% @0.50,0.51 1.3s #ececec built =said +0.03s
+  - T: “2/10” 10.2% @0.50,0.39 1.3s #222222
+- **#22** 1:48.54 +3.75s | hard | page with a face on it 34%@0.68,0.39 | eased zoom in x1.102 | 1 motion ev
+  - “Right now, there's an explosion of creators, moms, dads, brothers, sisters, uncles, aunts,”
+  - T: “·Family” 6.1% @0.10,0.56 2.1s #1b1b1b
+  - T: “Everyone can be creators:” 5.6% @0.24,0.41 3.7s #3f3f3e built
+  - T: “Yourself” 5.6% @0.12,0.49 3.1s #646464
+  - T: “Friends” 5.3% @0.11,0.62 2.1s #616161
+- **#23** 1:52.30 +6.47s | hard | speaker 27%@0.82,0.42 | static | 4 motion ev
+  - “everybody's trying to create content because they've been promised this deal that by creating content, they'll get so many brand deals, make so much money, which”
+  - T: “--Brand/money” 4.7% @0.53,0.23 1.6s #4a4a4a
+  - T: “Make content ---” 4.1% @0.19,0.23 3.3s #464646 built =said -2.38s
+  - (+5 more/smaller text lines)
+- **#24** 1:58.77 +2.25s | hard | speaker 44%@0.47,0.41 | static | 1 motion ev
+  - “I mean, that is kind of true. You do make a lot of brand deals.”
+- **#25** 2:01.02 +2.20s | punch x0.813 | speaker 35%@0.49,0.36 | pan/slide x1.004 | 2 motion ev
+  - “But because of this dream that's being sold online,”
+- **#26** 2:03.22 +3.39s | jump x0.996 | page with a face on it 34%@0.47,0.36 | static | 3 motion ev
+  - “so many more people are now creating content. The beginners who have no business,”
+- **#27** 2:06.61 +6.01s | jump x1.0 | speaker 35%@0.47,0.37 | static | 5 motion ev
+  - “no personal experience creating content are going almost full time into creating Instagram reels and YouTube shorts.”
+- **#28** 2:12.62 +3.52s | hard | speaker 40%@0.59,0.33 | static | 3 motion ev
+  - “But most of them, because they're beginners and they're just trying out for the first time,”
+- **#29** 2:16.14 +1.60s | hard | speaker 24%@0.38,0.42 | static
+  - “they don't really know how to run the show well.”
+- **#30** 2:17.74 +1.13s | hard | page with a face on it 37%@0.47,0.36 | static | 1 motion ev
+  - “So here's what you build for”
+- **#31** 2:18.87 +20.05s | hard | flat graphic | eased zoom out x0.990 | 2 motion ev
+  - “them with Claude, two databases, one with the best performing content and the one with the competitor's best content, then a research agent that finds the winning formats in their niche, a scripting agent that writes winning hooks and videos in their voice with their story. And of course, Claude could not at the views as well. So you have your own Claude video editing AI employee, and people literally pay five, a 10k 15k for you set this shit up for them.”
+  - T: “What you build with Claude” 5.4% @0.50,0.25 19.1s #484848 =said +1.36s
+  - T: “Research agent” 4.6% @0.38,0.50 14.1s #4a4a4b =said +0.40s
+  - T: “Video editing” 4.6% @0.83,0.50 7.1s #48494b =said -1.48s
+  - T: “2 databases” 4.4% @0.17,0.50 19.1s #6d6d6c
+  - T: “Scripting agent” 4.4% @0.61,0.50 11.4s #565658 =said +0.28s
+  - T: “Clients pay $5K $10K $15K” 4.0% @0.50,0.76 3.4s #525251 built =said +0.01s
+  - (+8 more/smaller text lines)
+- **#32** 2:38.93 +2.72s | hard | speaker 25%@0.66,0.40 | static
+  - “And you can even upcharge them a monthly return to coach them”
+- **#33** 2:41.65 +1.53s | hard | speaker 21%@0.53,0.34 | static
+  - “on how to create better content.”
+- **#34** 2:43.18 +2.04s | hard | page with a face on it 33%@0.48,0.38 | slow push in x1.034 | 1 motion ev
+  - “And this service doesn't just apply for creators.”
+- **#35** 2:45.22 +8.64s | transition | page with a face on it 34%@0.72,0.38 | eased zoom out x0.859 | 6 motion ev
+  - “I mean, you can sell this to local business owners, every single AI startup founder from YC, a 16 Z, any coach, basically any business owner that's creating content or wants to get into it.”
+  - T: “applytheseservices” 6.1% @0.13,0.43 0.7s #676767
+  - T: “·Creators” 5.5% @0.12,0.49 7.9s #1e1e1e =said +1.29s
+  - T: “Coach” 5.4% @0.10,0.68 3.7s #606060 =said +0.06s
+  - T: “You can apply these services to:” 5.3% @0.25,0.42 7.9s #1b1b1b =said +0.67s
+  - T: “·Local business owners” 4.8% @0.21,0.56 7.9s #616161 built =said +0.09s
+  - T: “·Al founders” 4.7% @0.14,0.62 5.5s #3b3b3b
+
+## 2:53.00 Pick your target customer
+
+- **#36** 2:53.86 +2.64s | hard | flat graphic | eased zoom in x1.122
+  - “So here's how we're going to set this business up for you using Claude.”
+  - T: “3/10” 10.2% @0.50,0.39 1.7s #090909
+  - T: “Pick your target customer” 8.0% @0.50,0.50 1.7s #e6e6e6 =said -2.22s
+- **#37** 2:56.49 +8.31s | hard | page with a face on it 27%@0.81,0.46 | slow push in x1.013 | 8 motion ev
+  - “First, we're going to pick your target customer because you don't want to sell to everyone. You spawn pick one of these three local businesses, creators, or AI startup founders. Now I will say”
+  - T: “Creators” 3.0% @0.36,0.80 2.4s #a8a8a8 =said +0.19s
+  - (+2 more/smaller text lines)
+- **#38** 3:04.80 +5.67s | hard | page with a face on it 33%@0.70,0.38 | eased zoom out x0.949 | 5 motion ev
+  - “AI startup founders are my favorite, because they're really something cool. They have money. And almost all of them are terrible”
+  - T: “My pick: Al founders” 7.4% @0.24,0.39 5.0s #313131
+  - T: “. Terrible at marketing” 6.4% @0.20,0.60 2.9s #616161 built =said -2.66s
+  - T: “•They have money” 5.9% @0.18,0.54 2.9s #262626 =said -0.38s
+  - T: “• Building something cool” 5.8% @0.22,0.47 3.6s #2f2f2f =said -0.46s
+- **#39** 3:10.47 +0.87s | transition | page with a face on it 35%@0.51,0.37 | eased zoom in x1.046
+  - “at marketing.”
+- **#40** 3:11.34 +4.37s | jump x1.001 | page with a face on it 33%@0.50,0.35 | static | 4 motion ev
+  - “It's like cash cows who suck at marketing, so to make the best clients, they pay well,”
+- **#41** 3:15.71 +3.25s | jump x0.993 | speaker 35%@0.49,0.35 | eased zoom out x0.992 | 2 motion ev
+  - “and they're very far behind us to help them get to that next level.”
+
+## 3:19.00 Pick your offer
+
+- **#42** 3:18.97 +4.17s | hard | flat graphic | eased zoom in x1.214
+  - “Now once you've figured out your customer, the next part is actually picking up your offer for that customer.”
+  - T: “4/10” 10.2% @0.50,0.39 3.3s #090909
+  - T: “Pick your offer” 7.8% @0.50,0.50 3.3s #ececec =said -0.00s
+- **#43** 3:23.14 +3.30s | hard | page with a face on it 33%@0.47,0.40 | static | 1 motion ev
+  - “So you can do a couple of different offers. So let's target each of them”
+  - T: “Content Production” 4.5% @0.20,0.32 28.3s #a5a5a5 =said -0.19s
+  - T: “Offer 2” 3.9% @0.42,0.25 28.3s #cccccc
+  - T: “Offer 3” 3.9% @0.71,0.25 28.3s #cccccc
+  - T: “Offer 1” 3.7% @0.12,0.25 28.3s #393a44
+- **#44** 3:26.44 +9.09s | hard | flat graphic | slow push in x1.014
+  - “content production. This is where ideas, scripts, editing, posting, tracking, everything is done by Claude. The only thing that the client has to do is click record and actually record the video.”
+  - T: “Editing” 5.1% @0.12,0.53 25.3s #5e6063 =said +0.59s
+  - T: “Posting” 4.8% @0.12,0.59 25.3s #616364 =said +0.25s
+  - T: “Scripts” 4.6% @0.12,0.47 26.3s #5d5e5e =said -0.19s
+  - T: “Ideas” 4.1% @0.11,0.42 26.3s #6d6d6d =said +0.52s
+  - T: “Tracking” 4.0% @0.13,0.65 25.3s #818182 =said -0.12s
+  - T: “Client just hit record” 3.5% @0.19,0.74 20.3s #131313 =said +1.52s
+- **#45** 3:35.53 +14.01s | punch x0.971 | flat graphic | static
+  - “The other offer you can do is ads where you run their paid campaigns for them. But behind the scenes, you're using Claude to run the entire show, completely automated. So you can charge a client two k a month to run their ads, and you're only working like an hour a week because Claude is doing everything. You're just checking to make sure Claude is doing it right.”
+  - T: “Ads” 5.6% @0.41,0.32 17.3s #464646 =said +0.36s
+  - T: “$2K /month” 4.0% @0.45,0.74 10.3s #090909
+  - T: “Completelyautomated” 3.5% @0.48,0.53 12.3s #5a5a5a
+  - T: “Run their paid campaigns” 3.3% @0.49,0.42 16.3s #5e5e5e =said +0.40s
+  - T: “Claude runs the show” 3.2% @0.47,0.47 13.3s #5d5d5d =said +0.64s
+- **#46** 3:49.55 +5.00s | punch x0.971 | flat graphic | slow push in x1.021
+  - “And the next offer is a EO where you get businesses showing up when customers ask AI for recommendation. So”
+  - T: “AEO” 5.0% @0.71,0.32 4.3s #505050
+  - T: “Showsupwhencustomers” 3.9% @0.79,0.42 2.3s #5e5e5e
+  - T: “askAlforrecommendations” 3.0% @0.79,0.47 1.3s #5f5f5f
+- **#47** 3:54.55 +3.67s | hard | speaker 39%@0.48,0.37 | eased zoom out x0.994 | 2 motion ev
+  - “again, the barbershop example, if someone asked chat to who's the best barber in town,”
+- **#48** 3:58.22 +13.80s | jump x0.997 | speaker 35%@0.48,0.36 | slow pull out x0.962 | 15 motion ev
+  - “you would hope that if your client is a barber, you know, if they're not recommended top three, they're missing out on a ton of leads are coming from chat to Dean Claude. So you want to get your local business client to be ranked as top three like barbershop top three dentists in the vicinity.”
+
+## 4:12.00 Build a content strategy with claude
+
+- **#49** 4:12.02 +5.72s | hard | flat graphic | eased zoom in x1.044 | 1 motion ev
+  - “Now, once you have your ICP, once you have an offer, we're going to have Claude build us a content strategy. This is where things become real.”
+  - T: “RaisedHand” 14.0% @0.59,0.46 2.5s #0f1013
+  - T: “5/10” 10.6% @0.50,0.39 5.3s #292929
+  - T: “Build a content strategy with claude” 7.2% @0.50,0.50 5.3s #b6b6b6 built =said -2.86s
+  - T: “We find clients that already want you” 6.9% @0.50,0.76 2.5s #414a58
+- **#50** 4:17.74 +2.50s | hard | flat graphic | slow push in x1.033
+  - “I'm going to use an actual company for this example.”
+- **#51** 4:20.24 +2.34s | hard | page with a face on it 35%@0.48,0.39 | slow push in x1.013 | 1 motion ev
+  - “So raised hand. This is one of my clients”
+- **#52** 4:22.58 +3.17s | hard | speaker 45%@0.79,0.48 | static | 2 motion ev
+  - “is ran by Tai Chen and a shadow founder who also creates YouTube videos.”
+- **#53** 4:25.75 +3.37s | hard | page with a face on it 27%@0.80,0.44 | eased zoom in x1.134 | 1 motion ev
+  - “Tyler is a creator. You know, I've helped him personally go a big YouTube channel, but”
+  - T: “subscribers” 6.1% @0.35,0.33 1.0s #838383
+  - T: “Ty Chen” 5.8% @0.26,0.41 2.7s #e4e2e5
+  - T: “17,000 subscribers” 5.7% @0.28,0.31 2.7s #414141 built
+  - (+4 more/smaller text lines)
+- **#54** 4:29.12 +4.40s | hard | speaker 13%@0.67,0.93 | slow push in x1.021
+  - “he has a very small Instagram presence. I mean, he's barely creating Instagram videos.”
+  - T: “Claude cannow” 5.0% @0.66,0.78 4.4s #acbaae
+  - T: “process videos” 4.3% @0.66,0.85 4.4s #acbcb0
+  - (+23 more/smaller text lines)
+- **#55** 4:33.52 +3.07s | hard | speaker 36%@0.49,0.37 | static | 3 motion ev
+  - “He always says that's too much work, too much editing, et cetera.”
+- **#56** 4:36.59 +1.22s | pop | page with a face on it 35%@0.49,0.36 | pan/slide x1.012
+  - “So we're going to help build”
+- **#57** 4:37.81 +3.12s | transition | page with a face on it 35%@0.72,0.37 | eased zoom out x0.872 | 3 motion ev
+  - “a content strategy that will help him create more Instagram content,”
+  - T: “ocused on...” 13.8% @0.14,0.40 0.8s #3f3e3e
+  - T: “We focused on...” 9.1% @0.24,0.38 8.5s #1b1b1b
+  - T: “•More content” 5.2% @0.15,0.47 7.6s #363636 =said -0.19s
+- **#58** 4:40.93 +6.36s | jump x0.998 | page with a face on it 33%@0.71,0.38 | eased zoom in x1.081 | 5 motion ev
+  - “get him more views, help his AI business grow, raised hand and get more clients to raise hand. And of course, just make sure he's actually posting”
+  - T: “• Posting content consistently” 5.5% @0.25,0.67 1.4s #545454 built =said -1.27s
+  - T: “• More clients in his business” 5.4% @0.24,0.60 2.9s #343434 built =said +0.19s
+  - T: “·More views” 4.8% @0.14,0.54 5.8s #3a3a3a =said -0.02s
+- **#59** 4:47.29 +1.28s | transition | speaker 34%@0.50,0.37 | eased zoom in x1.036 | 1 motion ev
+  - “content very consistently.”
+- **#60** 4:48.57 +8.01s | punch x0.98 | speaker 35%@0.47,0.37 | pan/slide x1.003 | 3 motion ev
+  - “So the first offer we're going to sell him is content production. And then if that does good, then we can sell him on ads and AEO because we built that trust with them.”
+- **#61** 4:56.58 +15.60s | hard | page with a face on it 15%@0.86,0.80 | pan/slide x1.000 | 2 motion ev
+  - “This is a problem you enter. And what you can do now is replace these placeholders with your actual clients. So I can say founded by Tai Chen. Here's her website. This kind of repeated. You just put the company name right here. It doesn't really matter. And then you also put the founders YouTube channel in”
+  - T: “yousell” 3.9% @0.19,0.58 0.5s #7d839e
+  - T: “*CoffeeandClaudetime?” 3.2% @0.49,0.35 15.1s #aca6a6
+  - T: “CoffeeandClaudetime?” 3.2% @0.77,0.35 0.5s #a7a1a1
+  - (+42 more/smaller text lines)
+- **#62** 5:12.18 +2.39s | transition | speaker 15%@0.86,0.79 | static | 1 motion ev
+  - “if they do have one. Now in my case, my client”
+  - T: “that already” 6.6% @0.24,0.45 2.4s #a9b9ec
+  - T: “We find clients” 5.9% @0.26,0.39 2.4s #f5f7fe
+  - T: “want you.” 5.3% @0.22,0.52 2.4s #a4b2e2
+  - T: “vou sell” 3.7% @0.72,0.58 0.9s #b0bcdf
+  - T: “exactly1” 3.3% @0.51,0.58 0.9s #dee0e4
+  - (+32 more/smaller text lines)
+- **#63** 5:14.56 +2.00s | hard | page with a face on it 15%@0.86,0.80 | static | 1 motion ev
+  - “does his channel is”
+- **#64** 5:16.57 +0.25s | hard | page with a face on it 15%@0.86,0.80 | static
+  - “right”
+- **#65** 5:16.82 +0.20s | jump x1.0 | speaker 15%@0.86,0.80 | static
+  - T: “Ty Chen” 4.6% @0.41,0.43 1.0s #e4e4e4
+  - T: “Onlywayto getwhatyou want,” 3.7% @0.56,0.29 0.8s #e0e0e0
+  - T: “just do stuff, don't talk.” 3.5% @0.56,0.33 0.8s #e2e2e2
+  - (+32 more/smaller text lines)
+- **#66** 5:17.02 +0.33s | jump x1.0 | speaker 15%@0.86,0.80 | static | 1 motion ev
+  - “here.”
+  - T: “2:34am” 7.0% @0.56,0.75 0.8s #71665f
+  - T: “Hour5” 3.2% @0.75,0.73 0.8s #c0c3c0
+  - T: “SPEED” 3.0% @0.36,0.85 0.8s #9f9ea1
+  - (+11 more/smaller text lines)
+- **#67** 5:17.35 +0.42s | pop | speaker 15%@0.86,0.79 | static
+- **#68** 5:17.77 +5.22s | hard | page with a face on it 15%@0.86,0.80 | eased zoom in x1.028 | 1 motion ev
+  - “So I can just copy that and put that right there. And now we have 30 days short form content strategy and click enter.”
+  - T: “米CoffeeandClaudetime?” 3.2% @0.49,0.35 4.9s #a8a0a1
+  - (+19 more/smaller text lines)
+- **#69** 5:22.99 +2.95s | pop | page with a face on it 15%@0.86,0.79 | static | 1 motion ev
+  - “And we can see what Claw comes up with.”
+  - (+18 more/smaller text lines)
+- **#70** 5:25.94 +13.88s | jump x1.0 | page with a face on it 15%@0.86,0.80 | static
+  - “You can see Claw is doing a full analysis of the company's buyers, competitors, the founders channel. So it builds a Taylor 30 day strategy plan in terms of content for that founder for that company. So it's extremely personalized, which will come in very handy later.”
+  - (+64 more/smaller text lines)
+- **#71** 5:39.82 +14.18s | jump x1.002 | speaker 14%@0.85,0.80 | slow pull out x0.960 | 1 motion ev
+  - “So here is our 30 day short form content strategy. You can see it's extremely involved. And you're going to save this for later, because again, we're going to use this when we're doing outreach to the client. Let me just look at this. This is absolutely insane. This is how you get someone to want to work with you.”
+  - T: “Raised Hand: 30-Day Short-Form Content Strategy” 3.2% @0.66,0.15 1.7s #b7b7b7
+  - T: “Raised Hand: 30-Day Short-Form Content Strategy” 3.2% @0.66,0.15 2.1s #b3b3b3
+  - (+224 more/smaller text lines)
+- **#72** 5:54.00 +7.01s | hard | flat graphic | pan/slide x0.998
+  - “You're going to send this document, this content strategy document to your ideal cluster and to your leader, in my case, Ty, in step five.”
+  - T: “Content strategy” 4.8% @0.24,0.71 5.1s #525252 =said +0.04s
+  - T: “Yourideal customer” 3.5% @0.73,0.71 3.1s #525252
+- **#73** 6:01.01 +4.29s | hard | page with a face on it 34%@0.49,0.39 | static | 2 motion ev
+  - “So we're going to get there, but just keep this document for yourself, save it somewhere, we'll revisit it in a bit.”
+
+## 6:05.00 Learn to edit videos with claude
+
+- **#74** 6:05.30 +4.45s | hard | flat graphic | eased zoom in x1.120 | 1 motion ev
+  - “So before saying the document, it's a very important step. You have to learn how to edit videos with Claude.”
+  - T: “6/10” 10.6% @0.50,0.39 4.2s #222222
+  - T: “Learn to edit videos with claude” 6.5% @0.50,0.50 4.2s #c4c4c4 built =said -2.44s
+- **#75** 6:09.75 +5.72s | hard | page with a face on it 33%@0.49,0.39 | static | 1 motion ev
+  - “If you can't edit videos with Claude, you don't have proof. And without any proof, nobody's going to buy whatever you're selling.”
+- **#76** 6:15.48 +1.19s | pop | page with a face on it 34%@0.48,0.37 | static | 1 motion ev
+  - “So here's how you can do it.”
+- **#77** 6:16.66 +1.45s | hard | page with a face on it 18%@0.45,0.45 | eased zoom out x0.780
+  - “First record a few videos,”
+- **#78** 6:18.11 +2.57s | hard | no face (b-roll / screen / graphic) | slow push in x1.023
+  - “use three of the hooks from the content strategy doc,”
+  - T: “agentat7am.Here'showmalbypeopleaskedbeforeIfinishedbreakfast."” 4.8% @0.38,0.34 2.6s #8b8b8b
+  - T: “yourpost'Here'swhatIopen withinstead.24,"Facebookgroupsarefull ofbusinessowners” 4.6% @0.48,0.23 2.6s #868686
+  - T: “asking for help, and nobodyin your nicheis answering.Watch."27."iran(niche)'throughmy” 4.6% @0.48,0.29 2.6s #868686
+  - T: “I'm17andIcantell youexactlywhy.5."Coldoutreach isn'tdead.Coldoutreachtopeople” 4.6% @0.46,0.48 2.6s #838383
+  - T: “someonecommented(niche)'Iran it.Bro,look atthis."21."Don'topenaDMwithHey,Isaw” 4.4% @0.48,0.18 2.6s #868686
+  - T: “figure business.Helooked at my funnei and said oneword."22."Someone postedthatthe” 4.4% @0.46,0.76 2.6s #858585
+  - (+12 more/smaller text lines)
+- **#79** 6:20.68 +2.39s | hard | speaker 22%@0.56,0.42 | static
+  - “fill them on your phone, and they don't need to be perfect.”
+- **#80** 6:23.07 +1.53s | hard | speaker 38%@0.46,0.39 | static | 1 motion ev
+  - “And of course, done is better than perfect.”
+- **#81** 6:24.60 +3.15s | punch x0.885 | page with a face on it 33%@0.48,0.38 | static | 2 motion ev
+  - “And let Claude code edit them. So let me show you how I do this live.”
+- **#82** 6:27.75 +11.86s | hard | page with a face on it 14%@0.86,0.80 | static | 1 motion ev
+  - “Now this is a cloud product that I call a editor. It literally is my entire editing team in one project. It can edit all my videos in my style. I'm going to show you live walkthrough right now. So you can use this for yourself. Simply, you upload any raw”
+  - (+49 more/smaller text lines)
+- **#83** 6:39.62 +0.70s | jump x1.0 | page with a face on it 14%@0.85,0.80 | static | 1 motion ev
+  - “video.”
+  - (+22 more/smaller text lines)
+- **#84** 6:40.32 +7.21s | hard | speaker 17%@0.49,0.39 | eased zoom in x1.770 | 4 motion ev
+  - “So this is a video right here. If do a quick look, you can see it's completely unedited. I mean, there's mistakes”
+  - (+71 more/smaller text lines)
+- **#85** 6:47.52 +6.06s | pop | speaker 17%@0.48,0.38 | eased zoom out x0.624 | 3 motion ev
+  - “in here, like right here, I'm touching the screen touching my phone. So keep this in mind. And now watch,”
+  - (+61 more/smaller text lines)
+- **#86** 6:53.58 +0.17s | jump x1.0 | page with a face on it 14%@0.85,0.80 | static
+  - (+30 more/smaller text lines)
+- **#87** 6:53.75 +14.30s | hard | page with a face on it 15%@0.85,0.80 | static | 1 motion ev
+  - “we're going to open this or use what's called a neuro video skill. It's in my free school community down below as well as a bunch of other video editing skills to remove dead space, apply the neuro edits and make this a very captivating video. Now watch the magic”
+  - (+9 more/smaller text lines)
+- **#88** 7:08.04 +0.55s | jump x1.0 | page with a face on it 14%@0.85,0.80 | static
+  - “happening.”
+  - (+3 more/smaller text lines)
+- **#89** 7:08.60 +4.79s | hard | speaker 17%@0.48,0.36 | static | 4 motion ev
+  - “So Claude just finished and here is a final output. The smartest entrepreneurs making 67 figures online”
+  - T: “6 TO 7 FIGURES” 3.2% @0.44,0.81 1.1s #dbd7d3
+  - (+1 more/smaller text lines)
+- **#90** 7:13.38 +8.31s | hard | page with a face on it 14%@0.85,0.81 | static
+  - “are no longer just using Claude to build a profitable one person business. They're using a mix of different AI builders, agents and tools together to”
+  - T: “JUSTCLAUOE” 5.0% @0.50,0.27 3.0s #e2e2e2 built
+  - T: “CLAUOE” 4.4% @0.57,0.27 2.0s #e2e2e2
+  - T: “BUILOERS” 3.5% @0.32,0.24 2.4s #e0e0e0
+  - (+5 more/smaller text lines)
+- **#91** 7:21.69 +2.04s | hard | speaker 18%@0.48,0.36 | static | 1 motion ev
+  - “not only build a profitable one person business,”
+- **#92** 7:23.73 +4.64s | hard | page with a face on it 14%@0.85,0.80 | static
+  - “but also to run it while they're away traveling, having fun and just living life.”
+  - (+15 more/smaller text lines)
+- **#93** 7:28.37 +4.12s | jump x1.0 | speaker 13%@0.85,0.80 | eased zoom out x0.454 | 1 motion ev
+  - “On the other hand, you spend hours watching how to make money with AI videos on YouTube,”
+  - T: “米Claude” 10.5% @0.80,0.27 0.8s #753c18
+  - T: “米Claude” 9.0% @0.72,0.21 1.0s #774220
+  - T: “CLAUDE” 5.5% @0.24,0.31 0.6s #000000
+  - T: “米ClaudeMAKE” 5.2% @0.50,0.61 2.9s #6f422c built
+  - T: “$32347” 5.2% @0.19,0.16 2.1s #535253 built
+  - T: “$IM/month” 5.0% @0.19,0.36 0.6s #0f0f0f
+  - (+99 more/smaller text lines)
+- **#94** 7:32.49 +6.56s | hard | page with a face on it 14%@0.85,0.80 | static | 3 motion ev
+  - “spend hundreds on AI subscriptions, but still zero dollars. That is”
+  - T: “$30/mo” 3.7% @0.48,0.55 1.3s #999999
+  - T: “Claude” 3.4% @0.26,0.32 2.0s #a7a7a7
+  - T: “$100/mo” 3.3% @0.47,0.44 1.7s #626262
+  - T: “$100/mo” 3.1% @0.47,0.33 2.0s #a2a2a2
+  - T: “Max plan” 3.0% @0.26,0.35 2.0s #353535
+  - (+7 more/smaller text lines)
+
+## 7:39.00 Editing reels in instagram edits
+
+- **#95** 7:39.04 +0.75s | pop | page with a face on it 14%@0.82,0.80 | static
+  - “amazing.”
+- **#96** 7:39.79 +4.99s | hard | flat graphic | eased zoom in x1.179
+  - “Now once you've mastered how to edit videos with Claude, the next step is getting Claude to connect”
+  - T: “7/10” 10.6% @0.50,0.39 4.1s #090909
+  - T: “Editing reels in instagram edits” 6.8% @0.50,0.50 4.1s #e7e7e7
+- **#97** 7:44.78 +2.47s | hard | speaker 38%@0.48,0.37 | static | 1 motion ev
+  - “with Instagram edits app on the desktop. So”
+- **#98** 7:47.25 +6.81s | pop | speaker 35%@0.48,0.36 | pan/slide x1.010 | 4 motion ev
+  - “that way the editing is done automatically. The posting is done automatically. Claude is handling absolutely everything when it comes to content production end to end.”
+- **#99** 7:54.06 +2.13s | jump x0.999 | speaker 35%@0.50,0.36 | static
+  - “And it's crazy because most people don't know you can do this.”
+- **#100** 7:56.19 +3.22s | hard | page with a face on it 6%@0.75,0.52 | slow pull out x0.956
+  - “In fact, Instagram and it's just recently dropped a desktop app that”
+  - T: “editing” 6.6% @0.23,0.49 3.2s #bec8b6
+  - T: “for” 6.6% @0.19,0.55 3.2s #b2bdaf
+  - T: “Video” 6.1% @0.21,0.42 3.2s #b2c3a8
+  - T: “Edits” 5.8% @0.24,0.30 3.2s #c3c9b7
+  - T: “app” 5.3% @0.35,0.50 3.2s #c3d2ba =said -2.69s
+  - T: “creators” 3.7% @0.32,0.55 3.2s #c4cdbc
+  - (+18 more/smaller text lines)
+- **#101** 7:59.41 +3.44s | hard | page with a face on it 35%@0.49,0.37 | static | 2 motion ev
+  - “now has MCP, which is why Claude can interact directly with it.”
+- **#102** 8:02.85 +17.68s | hard | page with a face on it 14%@0.85,0.80 | static
+  - “Now we're going to connect our Claude terminal with our Instagram edits desktop app. And this is a new app that Instagram just released. You can now edit videos directly with Claude on your edits desktop app and upload them to Instagram. This is a full content automation pipeline, which can help market your business very easily. So the way you do”
+  - T: “Projects” 3.1% @0.18,0.17 56.2s #cbcbcd
+  - (+52 more/smaller text lines)
+- **#103** 8:20.53 +11.98s | pop | page with a face on it 14%@0.85,0.80 | static
+  - “this, and you click the profile right here, you see versus automation, enable audition server, do not show us to anybody, please click copy for the Claude code. If using codex, you can use codex, but Claude code and you paste in here and you run it”
+  - (+20 more/smaller text lines)
+- **#104** 8:32.51 +26.56s | pop | page with a face on it 14%@0.85,0.80 | static | 2 motion ev
+  - “and you'll see Claude directly synced with your Instagram edits app. Now once it's synced, you can have Claude terminal find video files on your desktop, you can have it create products in your edits desktop app, you can do whatever I mean, see these reels right here. These are all versions of this original real that I had my Claude terminal mix with edits app edit directly like Claude did all this I knock any of this now I'm going to show you this example why so if you do a new project, and what we can do”
+  - (+37 more/smaller text lines)
+- **#105** 8:59.07 +0.80s | hard | page with a face on it 15%@0.85,0.81 | static
+  - “is we can upload”
+  - (+4 more/smaller text lines)
+- **#106** 8:59.87 +0.58s | jump x1.0 | page with a face on it 14%@0.85,0.80 | static
+  - “our”
+  - (+5 more/smaller text lines)
+- **#107** 9:00.46 +2.29s | pop | speaker 15%@0.85,0.80 | static | 1 motion ev
+  - “edited Claude file.”
+  - (+26 more/smaller text lines)
+- **#108** 9:02.74 +1.97s | jump x0.997 | page with a face on it 13%@0.85,0.80 | static
+  - “So for a live demo, if you go to your edits”
+- **#109** 9:04.71 +1.17s | pop | speaker 14%@0.86,0.80 | static
+  - “app, and you import,”
+  - (+52 more/smaller text lines)
+- **#110** 9:05.88 +5.76s | pop | speaker 14%@0.86,0.80 | static | 2 motion ev
+  - “let's say that unedited, you know, file that we had the same exact one, right, and you add it to right there,”
+  - (+12 more/smaller text lines)
+- **#111** 9:11.63 +22.56s | hard | page with a face on it 15%@0.85,0.81 | static | 1 motion ev
+  - “and you tell Claude terminal, check the new project to that I just uploaded I want you to add captions cut that space and edit the entire video make four different variations with different styles, and make the extremely captivating do not miss any cuts and make it the best video possible try different angles for each so that way we can have enough variation for our trial reels. And”
+  - (+18 more/smaller text lines)
+- **#112** 9:34.19 +1.89s | hard | speaker 15%@0.86,0.80 | static | 1 motion ev
+  - “I want us to be side by side so”
+  - (+1 more/smaller text lines)
+- **#113** 9:36.08 +5.87s | transition | speaker 14%@0.85,0.80 | static
+  - “you guys see the magic. So now it's going to go ahead and look for the new product to this exact name right here.”
+  - (+30 more/smaller text lines)
+- **#114** 9:41.95 +1.99s | jump x1.0 | page with a face on it 14%@0.85,0.80 | static
+  - “So I recently changed my access token. So that”
+  - (+16 more/smaller text lines)
+- **#115** 9:43.93 +33.38s | pop | page with a face on it 14%@0.86,0.21 | static | 4 motion ev
+  - “one that I had was outdated. So I have to now upload it back into the server to the terminal. Yeah, upload it into the terminal. And now so the new token works. So now go ahead and edit for us now just watch it literally edit for us we can see it edit now we're going to see Claude literally edit this video and funner eyes like this is bad blow your mind. Okay, so it's starting it's found a new project to it found the duration of the clip. Now it's going to transcribe and find the dead space so it can plan the cuts. So at this point, I'll literally leave this on and let it do its magic. And I'll show you exactly how it looks like right now.”
+  - (+107 more/smaller text lines)
+- **#116** 10:17.32 +19.90s | jump x1.0 | speaker 14%@0.85,0.80 | static | 8 motion ev
+  - “All right, Claude has edited our reel then right now it looks kind of crazy but see how exactly how it looks like from the jump is more on who knows me six to seven figures online are no longer just using Claude to build a profit one person visit using and mix it. So it's mainly caption I will say the edits right here weren't the best but this is the beautiful part”
+  - (+68 more/smaller text lines)
+- **#117** 10:37.22 +11.01s | transition | speaker 14%@0.85,0.80 | eased zoom in x0.996 | 1 motion ev
+  - “about all this if I click at look at all these variations see I don't have to go with the variation it gave me I can just go with one the other ones and or post them all and let Instagram figure out which one is the best. So”
+  - (+53 more/smaller text lines)
+- **#118** 10:48.23 +0.33s | hard | speaker 15%@0.85,0.80 | static
+  - “if”
+  - (+1 more/smaller text lines)
+- **#119** 10:48.57 +2.50s | pop | speaker 15%@0.85,0.80 | static | 2 motion ev
+  - “I go to let's say this one what seven figure founders use beside”
+  - (+4 more/smaller text lines)
+- **#120** 10:51.07 +8.59s | transition | speaker 14%@0.85,0.80 | static | 6 motion ev
+  - “Claude take this one. Okay, so this is way better. This is a classic gap style has zoom ins as well I zoomed in right there zoomed out cut off all the dead space.”
+  - (+16 more/smaller text lines)
+- **#121** 10:59.66 +2.05s | hard | page with a face on it 14%@0.85,0.80 | eased zoom out x0.808 | 2 motion ev
+  - “So now if I click like export, I can really”
+  - (+9 more/smaller text lines)
+- **#122** 11:01.71 +0.08s | pop | flat graphic | untracked (full-frame animation, still, or too short)
+  - “click”
+- **#123** 11:01.79 +16.77s | pop | page with a face on it 14%@0.85,0.80 | static | 3 motion ev
+  - “share to Instagram and then write a caption saying become a seven figure founder hashtag entrepreneur hashtag online business hashtag Claude is a great right and then click share or you can click as a trial reel it'll automatically upload to Instagram directly from your”
+  - (+39 more/smaller text lines)
+- **#124** 11:18.56 +0.20s | hard | speaker 14%@0.85,0.80 | static
+  - “computer.”
+- **#125** 11:18.76 +24.37s | hard | speaker 13%@0.85,0.80 | static
+  - “Now what you can do is you can send these edited videos to your lead so I can send videos of raise hand to tie directly and they look these videos that were edited with my system I can have the same edits for you the same time these videos were of me right I could find a video of my client on YouTube download it and create many clips and use this system to go ahead and create variations of that clip and send directly to my client because”
+  - (+32 more/smaller text lines)
+- **#126** 11:43.14 +11.14s | hard | page with a face on it 35%@0.49,0.38 | slow push in x1.026 | 7 motion ev
+  - “Claude can now interact directly with the Instagram edits app you can have videos posted again automatically but you can also have different variations of those posts on trial reels the Instagram”
+- **#127** 11:54.28 +10.51s | hard | flat graphic | pan/slide x0.998
+  - “trial reel is a great way for creators to test new angles of content test new hooks and Instagram itself will test these trial reels against audiences that aren't already following the creator this”
+  - T: “Instagram trial reels” 6.5% @0.50,0.27 10.5s #484848 =said +0.06s
+  - T: “New angle” 4.8% @0.22,0.74 7.6s #585859
+  - T: “Not following yet” 4.4% @0.75,0.74 0.6s #535657
+  - T: “Newhook” 4.0% @0.35,0.74 5.6s #525253
+  - T: “Instagramtests” 3.7% @0.53,0.48 5.6s #7c7d7d
+- **#128** 12:04.79 +3.84s | hard | page with a face on it 33%@0.48,0.38 | static | 3 motion ev
+  - “will allow the creator to get exposed to new audiences who never seen their content and”
+- **#129** 12:08.63 +8.03s | hard | page with a face on it 26%@0.83,0.42 | static | 4 motion ev
+  - “once that's figured out that helps the creator double down on that content format double down on that hook draw up their own unique style and then just blow up on social media you”
+  - T: “& Hook” 4.6% @0.35,0.39 5.2s #cdcdcd =said -1.47s
+  - T: “@Uniquestyle” 4.4% @0.35,0.61 4.2s #b6b6b6
+  - T: “You” 4.1% @0.09,0.43 7.4s #161616 =said -7.25s
+  - T: “yourcontent” 3.5% @0.63,0.57 1.4s #c9c9c9 built
+  - T: “Blow up” 3.4% @0.63,0.55 1.4s #424242 =said -0.31s
+- **#130** 12:16.65 +12.80s | hard | page with a face on it 35%@0.48,0.37 | slow pull out x0.934 | 8 motion ev
+  - “see this happen a lot with creators who have their own unique style and you see the end result which don't see behind the scenes that they've tested multiple times on trial reels to finally figure out what is the best you know version of their content format that they should be creating online at”
+
+## 12:29.00 Send the strategy and sample videos
+
+- **#131** 12:29.45 +3.32s | hard | flat graphic | eased zoom in x1.194
+  - “this point you've got two things agencies never send before a call you”
+  - T: “8/10” 10.2% @0.50,0.39 3.1s #2c2c2c
+  - T: “Send the strategy and sample videos” 7.8% @0.50,0.50 3.1s #afafaf built =said -1.99s
+- **#132** 12:32.77 +7.89s | hard | page with a face on it 27%@0.81,0.43 | static | 7 motion ev
+  - “got a custom content strategy and you've even have two edited sample videos and two different styles of that target creator so in my case we tie”
+  - T: “You” 8.0% @0.46,0.82 7.1s #2d2d2d =said +0.97s
+  - T: “Sample 1” 4.1% @0.46,0.20 4.2s #363636
+  - T: “Sample 2” 4.1% @0.27,0.20 3.8s #434343
+- **#133** 12:40.66 +3.25s | hard | page with a face on it 34%@0.47,0.38 | slow push in x1.021 | 2 motion ev
+  - “now this does is the strategy doc that you will send to your lead will”
+- **#134** 12:43.91 +1.55s | jump x0.995 | page with a face on it 35%@0.45,0.37 | eased zoom in x1.033 | 2 motion ev
+  - “show that you understand their business and”
+- **#135** 12:45.47 +5.17s | jump x0.994 | page with a face on it 35%@0.48,0.38 | slow push in x1.022 | 4 motion ev
+  - “the two videos you edited for them will show them like your skill and like your actual credibility now”
+- **#136** 12:50.64 +2.95s | jump x1.0 | speaker 37%@0.48,0.37 | slow push in x1.024 | 2 motion ev
+  - “this is the part where you might fumble so i got to make sure you don't you”
+- **#137** 12:53.59 +0.22s | hard | speaker 20%@0.49,0.34 | static
+  - “want”
+  - T: “MARKET” 5.9% @0.38,0.22 2.4s #6f83a8
+- **#138** 12:53.81 +0.75s | jump x1.0 | speaker 20%@0.49,0.38 | pan/slide x1.000 | 1 motion ev
+  - “to send a personalized”
+- **#139** 12:54.56 +1.03s | jump x1.0 | speaker 20%@0.48,0.36 | pan/slide x1.000
+  - “outreach to the”
+- **#140** 12:55.59 +0.38s | jump x1.0 | speaker 19%@0.48,0.35 | static
+  - “client so”
+- **#141** 12:55.98 +7.62s | hard | page with a face on it 25%@0.82,0.42 | static | 3 motion ev
+  - “use this prompt and put into claud and claud will have a personal message drafted for your client so for example raised hand the”
+  - T: “米Let'snoodle” 3.1% @0.47,0.38 7.6s #bdb4b4
+  - (+12 more/smaller text lines)
+- **#142** 13:03.60 +6.84s | hard | page with a face on it 34%@0.46,0.39 | slow push in x1.012 | 6 motion ev
+  - “first line might be sorry youtube is crushing but instagram really has any reels i turned three of your ideas into reels here they are free”
+- **#143** 13:10.44 +9.59s | pop | page with a face on it 35%@0.49,0.38 | static | 3 motion ev
+  - “you send the link to each of the videos put on google drive even so you actually download it they'll like it and they'll bring you on for more work most likely if the reels are good and if the reels are good you”
+- **#144** 13:20.03 +9.18s | hard | speaker 24%@0.57,0.25 | static | 3 motion ev
+  - “know and they replied and you tell them book a call with you this is the last part of the entire sales process the actual sales call this is where again this is probably the part that most people fumble so”
+
+## 13:29.00 Run the sales call
+
+- **#145** 13:29.21 +2.00s | hard | flat graphic | eased zoom in x1.196
+  - “here's how to properly conduct the sales call first”
+  - T: “9/10” 10.2% @0.50,0.39 1.1s #090909
+  - T: “Run the sales call” 6.7% @0.50,0.50 1.1s #ebebeb =said -0.44s
+- **#146** 13:31.21 +0.88s | hard | speaker 33%@0.44,0.41 | slow pull out x0.984
+  - “find the paint”
+- **#147** 13:32.10 +3.50s | pop | speaker 35%@0.45,0.39 | static | 2 motion ev
+  - “ask questions to the customer and then shut up let them talk let”
+- **#148** 13:35.60 +10.18s | hard | speaker 21%@0.53,0.28 | static
+  - “them talk about whether they're struggling to create content let them talk about where if they're not getting much leads from chat deeply and claud because they're not popping up on the recommendations by ai you know”
+- **#149** 13:45.77 +3.04s | hard | page with a face on it 34%@0.49,0.36 | static | 2 motion ev
+  - “let them talk about they don't know how to run ads effectively and”
+- **#150** 13:48.81 +8.16s | jump x1.013 | page with a face on it 36%@0.48,0.37 | static | 8 motion ev
+  - “once you figure out what their biggest pain is whether it be ads content aeo you want to match the offer to their biggest pain point okay so their biggest pain point is ads”
+- **#151** 13:56.97 +0.23s | punch x0.953 | speaker 33%@0.51,0.39 | eased zoom out x0.928
+  - “don't”
+- **#152** 13:57.20 +2.10s | transition | page with a face on it 27%@0.82,0.42 | eased zoom in x1.154 | 1 motion ev
+  - “try to sell them on aeo sell them on ads you”
+  - T: “AEO” 9.4% @0.22,0.25 2.0s #1c1b1b =said -0.72s
+  - T: “Ads” 8.9% @0.49,0.25 0.8s #464646 =said -0.32s
+- **#153** 13:59.30 +8.28s | hard | page with a face on it 35%@0.48,0.37 | slow pull out x0.964 | 6 motion ev
+  - “can always cross so and upsell these other offers later usually if you build trust with the client you run aeo for them and they're getting a lot of leads you can introduce hey”
+- **#154** 14:07.58 +2.34s | hard | speaker 27%@0.58,0.35 | static
+  - “guess what i can run ads for you get you even more leads”
+- **#155** 14:09.92 +3.30s | hard | speaker 25%@0.45,0.35 | static
+  - “and then you say i can create content for you and get you even more leads and”
+- **#156** 14:13.22 +5.81s | hard | page with a face on it 34%@0.48,0.37 | static | 4 motion ev
+  - “because you've done well on the aeo side hopefully the client is inclined to pay you more because they have that trust with you”
+- **#157** 14:19.02 +16.47s | hard | page with a face on it 26%@0.81,0.43 | static | 7 motion ev
+  - “so now that one k a month retainer you're charging for let's say aeo you can now charge two k a month for ads and charge another two k a month for content so that one k a month client is now a five thousand dollar a month client just because you found their exact pain point found the offer that best fits that pain point and”
+  - T: “Retainer------- $1,000” 10.3% @0.34,0.32 14.6s #272727 built
+  - T: “$5,000” 9.8% @0.51,0.71 5.6s #1b1b1b
+  - T: “Content.------ $2,000” 9.4% @0.34,0.58 9.6s #282828 built
+  - T: “$2,000” 9.3% @0.51,0.58 1.1s #343434
+  - T: “---$2,000” 9.1% @0.48,0.45 10.6s #282828
+  - T: “Ads ---.” 8.9% @0.16,0.46 11.6s #272727 =said -0.12s
+  - (+1 more/smaller text lines)
+- **#158** 14:35.49 +5.71s | hard | page with a face on it 33%@0.48,0.38 | static | 2 motion ev
+  - “then after you did some work and you develop that trust you introduce two other offers that just makes sense and”
+- **#159** 14:41.20 +6.17s | hard | flat graphic | eased zoom in x1.045
+  - “this is why ai market agency is so powerful because aeo ads content they all complement each other so if”
+  - T: “Al marketing” 4.9% @0.50,0.62 5.3s #3e3e41
+  - T: “Content” 4.1% @0.32,0.78 2.3s #8b8b8b =said +0.32s
+  - T: “Ads” 4.1% @0.68,0.78 2.3s #4c4c4c =said +0.63s
+  - T: “agency” 3.9% @0.50,0.67 5.3s #3d3f3f =said -0.06s
+  - T: “AEO” 3.9% @0.50,0.22 2.3s #4e4d4f =said +1.30s
+- **#160** 14:47.37 +1.97s | hard | page with a face on it 34%@0.47,0.38 | static | 1 motion ev
+  - “you can sell one of them you can sell all of them”
+
+## 14:49.00 Pricing your offers
+
+- **#161** 14:49.34 +3.54s | hard | flat graphic | eased zoom in x1.181
+  - “now here's the price points that you can start running for each of these offers content”
+  - T: “10/10” 9.4% @0.50,0.39 2.7s #090909
+  - T: “Pricing your offers” 8.2% @0.50,0.50 2.7s #f2f2f2
+- **#162** 14:52.88 +5.97s | hard | page with a face on it 26%@0.79,0.46 | pan/slide x1.000 | 3 motion ev
+  - “reduction you can do a five k setup this includes strategy content database scripting agent their voice and the editing system for”
+  - T: “$5,000” 8.5% @0.15,0.53 17.4s #d8d8d8
+  - T: “Production” 4.8% @0.13,0.45 18.2s #d9d9d9
+  - T: “Content” 4.3% @0.11,0.42 18.2s #efefef =said +0.74s
+  - T: “Content” 4.1% @0.11,0.47 0.5s #7e7e7e =said +0.36s
+  - T: “strategy” 3.5% @0.12,0.67 1.0s #494949 =said -0.38s
+  - T: “agent in their voice, and” 3.3% @0.14,0.68 15.8s #cbcbcb =said -1.21s
+  - (+3 more/smaller text lines)
+- **#163** 14:58.85 +4.04s | jump x1.001 | page with a face on it 26%@0.80,0.46 | static | 3 motion ev
+  - “ads you can do a three k setup plus a thousand dollars a month to manage it for aeo”
+  - T: “+$1,000 a month to” 6.3% @0.34,0.63 10.4s #c5c5c5
+  - T: “Ads” 4.1% @0.30,0.42 11.8s #e8e8e8 =said +0.75s
+  - (+1 more/smaller text lines)
+- **#164** 15:02.88 +8.72s | pop | page with a face on it 27%@0.81,0.44 | static | 8 motion ev
+  - “you can do a 2 .5 k to 3 .5 k a month retainer average retainer for aeo 6 .5 k but if you go below the market average it's way easier to close the client right now”
+  - T: “$3,000” 8.7% @0.36,0.53 2.3s #fefefd
+  - T: “$2.,500” 8.3% @0.57,0.53 6.8s #fdfdfd
+  - T: “AEO” 4.3% @0.51,0.42 8.1s #f6f6f6 =said +0.85s
+  - (+3 more/smaller text lines)
+- **#165** 15:11.61 +8.09s | hard | speaker 36%@0.48,0.38 | slow push in x1.034 | 7 motion ev
+  - “and of course as you have more case studies you can go ahead and increase your prices always start cheap and then move on to higher values once you have enough case studies you”
+- **#166** 15:19.70 +2.79s | jump x1.001 | speaker 36%@0.48,0.36 | slow push in x1.013 | 2 motion ev
+  - “see nobody's buying ai anymore they're buying results it's”
+- **#167** 15:22.49 +11.53s | pop | page with a face on it 37%@0.48,0.37 | slow push in x1.054 | 10 motion ev
+  - “funny because people forget to realize the biggest expense for business is their marketing budget so if you're able to help them decrease their marketing budget and get my results they'll be so happy to pay you tens of thousands of dollars as long as the results are coming marketing”
+- **#168** 15:34.02 +12.60s | pop | speaker 39%@0.47,0.39 | slow push in x1.041 | 10 motion ev
+  - “offers have always been very easy to sell and now that claw can run the entire show for you you can literally have a full -on marketing business with claw doing everything the client won't even know and you're working under 10 hours a week and making tens of thousands of dollars a month i”
+- **#169** 15:46.61 +2.25s | pop | speaker 42%@0.47,0.39 | slow push in x1.032 | 2 motion ev
+  - “mean one client could literally be worth 10k a month”
+- **#170** 15:48.87 +4.04s | jump x1.004 | speaker 41%@0.47,0.38 | static | 3 motion ev
+  - “now if you want to build a profitable ai marketing business without spending months making mistakes i”
+- **#171** 15:52.90 +2.20s | hard | small face (inset / wide shot) 6%@0.79,0.51 | static
+  - “invite you to work with me one on one where”
+  - T: “98.6” 3.2% @0.55,0.26 2.2s #228862
+  - T: “128/82” 3.0% @0.24,0.26 2.2s #9f6d25
+  - T: “27.4” 3.0% @0.86,0.27 2.2s #926623
+  - T: “Q Diagnosis &Differential” 3.0% @0.68,0.88 2.2s #778283
+  - (+41 more/smaller text lines)
+- **#172** 15:55.10 +1.67s | hard | speaker 34%@0.62,0.69 | static
+  - “i will personally guide you on”
+  - (+2 more/smaller text lines)
+- **#173** 15:56.77 +0.80s | hard | page with a face on it 47%@0.60,0.58 | static
+  - “building launching”
+  - (+4 more/smaller text lines)
+- **#174** 15:57.57 +1.07s | hard | speaker 24%@0.46,0.74 | static | 1 motion ev
+  - “and scaling successful”
+  - (+9 more/smaller text lines)
+- **#175** 15:58.64 +1.60s | hard | small face (inset / wide shot) 11%@0.90,0.48 | static
+  - “ai marketing business end”
+  - T: “gt Add people” 3.1% @0.82,0.17 0.8s #568096
+  - T: “Search for people” 3.1% @0.85,0.24 0.8s #545a56
+  - (+8 more/smaller text lines)
+- **#176** 16:00.24 +0.68s | hard | speaker 34%@0.36,0.50 | static
+  - “to end and”
+- **#177** 16:00.93 +1.78s | hard | flat graphic | slow pull out x0.963
+  - “if you don't get clients i don't get paid if”
+  - T: “I don't get paid” 11.7% @0.50,0.53 0.9s #2d2d2d =said -0.28s
+  - T: “and if you don't get clients” 5.2% @0.50,0.45 1.8s #6c6c6c built =said +0.07s
+- **#178** 16:02.71 +8.84s | hard | page with a face on it 35%@0.47,0.35 | slow push in x1.049 | 5 motion ev
+  - “you're not yet committed i recommend watching this video where i work one on one with this ai digital product manager and help her take a 40 000 business to a hundred thousand dollars”
